@@ -115,6 +115,12 @@
     - [序列化与反序列化](#%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96)
     - [编程规范与代码风格](#%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83%E4%B8%8E%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC)
     - [Algorithms](#algorithms)
+  - [Network:网络访问与调用](#network%E7%BD%91%E7%BB%9C%E8%AE%BF%E9%97%AE%E4%B8%8E%E8%B0%83%E7%94%A8)
+    - [NetworkManagement(网络管理)](#networkmanagement%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86)
+      - [Reachability(网络可达性判断)](#reachability%E7%BD%91%E7%BB%9C%E5%8F%AF%E8%BE%BE%E6%80%A7%E5%88%A4%E6%96%AD)
+    - [Socket](#socket)
+    - [HttpClient(网络客户端)](#httpclient%E7%BD%91%E7%BB%9C%E5%AE%A2%E6%88%B7%E7%AB%AF)
+    - [RPC/RMI(远程调用)](#rpcrmi%E8%BF%9C%E7%A8%8B%E8%B0%83%E7%94%A8)
   - [Storage:存放文件系统、数据库等存储相关内容](#storage%E5%AD%98%E6%94%BE%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E3%80%81%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AD%89%E5%AD%98%E5%82%A8%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9)
     - [Cache](#cache)
     - [DataBase](#database)
@@ -659,7 +665,14 @@ mapDB([10, 20, 30, 40, 50]);
 
 常见的算法与高级数据结构实现
 
+## Network:网络访问与调用
 
+### NetworkManagement(网络管理)
+#### Reachability(网络可达性判断)
+
+### Socket
+### HttpClient(网络客户端)
+### RPC/RMI(远程调用)
 
 ## Storage:存放文件系统、数据库等存储相关内容
 

@@ -25,6 +25,7 @@
     - [Request Manage(请求管理)](#request-manage%E8%AF%B7%E6%B1%82%E7%AE%A1%E7%90%86)
     - [Parallel Request(并发请求)](#parallel-request%E5%B9%B6%E5%8F%91%E8%AF%B7%E6%B1%82)
     - [HTTPStubs/MockServer(本地伪装网络请求)](#httpstubsmockserver%E6%9C%AC%E5%9C%B0%E4%BC%AA%E8%A3%85%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82)
+  - [Push(推送与长连接)](#push%E6%8E%A8%E9%80%81%E4%B8%8E%E9%95%BF%E8%BF%9E%E6%8E%A5)
   - [FileTransfer(文件传输)](#filetransfer%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
     - [Uploads(上传)](#uploads%E4%B8%8A%E4%BC%A0)
       - [Widgets](#widgets)
@@ -166,6 +167,7 @@
     - [Gallery(画廊)](#gallery%E7%94%BB%E5%BB%8A)
       - [ImageView(图片加载、呈现以及处理)](#imageview%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E3%80%81%E5%91%88%E7%8E%B0%E4%BB%A5%E5%8F%8A%E5%A4%84%E7%90%86)
         - [Load(图片加载,包括网络加载，懒加载与缓存)](#load%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E5%8C%85%E6%8B%AC%E7%BD%91%E7%BB%9C%E5%8A%A0%E8%BD%BD%EF%BC%8C%E6%87%92%E5%8A%A0%E8%BD%BD%E4%B8%8E%E7%BC%93%E5%AD%98)
+        - [Responsive(响应式图片)](#responsive%E5%93%8D%E5%BA%94%E5%BC%8F%E5%9B%BE%E7%89%87)
         - [Gifs(动图或者多图播放与控制)](#gifs%E5%8A%A8%E5%9B%BE%E6%88%96%E8%80%85%E5%A4%9A%E5%9B%BE%E6%92%AD%E6%94%BE%E4%B8%8E%E6%8E%A7%E5%88%B6)
         - [Filter(图片滤镜)](#filter%E5%9B%BE%E7%89%87%E6%BB%A4%E9%95%9C)
         - [Label(图片标签)](#label%E5%9B%BE%E7%89%87%E6%A0%87%E7%AD%BE)
@@ -294,6 +296,7 @@ Reactive本身是异步数据流的一种实现方式，这里也即是所谓的
 
 
 ### HTTPStubs/MockServer(本地伪装网络请求)
+## Push(推送与长连接)
 
 ## FileTransfer(文件传输)
 
@@ -627,7 +630,7 @@ UICollectionView(iOS)、RecycleView(Android)
 
 ##### Load(图片加载,包括网络加载，懒加载与缓存)
 
-
+##### Responsive(响应式图片)
 
 ##### Gifs(动图或者多图播放与控制)
 
