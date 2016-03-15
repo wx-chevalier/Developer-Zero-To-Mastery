@@ -1,5 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [入门概述(Introduction)](#%E5%85%A5%E9%97%A8%E6%A6%82%E8%BF%B0introduction)
   - [版本迭代(Version)](#%E7%89%88%E6%9C%AC%E8%BF%AD%E4%BB%A3version)
@@ -52,6 +53,7 @@
     - [索引遍历](#%E7%B4%A2%E5%BC%95%E9%81%8D%E5%8E%86-2)
     - [类型转换](#%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2-2)
     - [其他操作](#%E5%85%B6%E4%BB%96%E6%93%8D%E4%BD%9C-2)
+  - [Immutable:不可变对象](#immutable%E4%B8%8D%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1)
 - [流程控制与异常处理（Control Flow & Error Handling）](#%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E4%B8%8E%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%88control-flow-&-error-handling%EF%BC%89)
   - [运算符](#%E8%BF%90%E7%AE%97%E7%AC%A6)
     - [基本运算符](#%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97%E7%AC%A6)
@@ -106,7 +108,6 @@
     - [局部内部类(定义在代码块中)](#%E5%B1%80%E9%83%A8%E5%86%85%E9%83%A8%E7%B1%BB%E5%AE%9A%E4%B9%89%E5%9C%A8%E4%BB%A3%E7%A0%81%E5%9D%97%E4%B8%AD)
     - [匿名内部类](#%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB)
   - [反射（Reflect）与类装载](#%E5%8F%8D%E5%B0%84%EF%BC%88reflect%EF%BC%89%E4%B8%8E%E7%B1%BB%E8%A3%85%E8%BD%BD)
-    - [Immutable:不可变对象](#immutable%E4%B8%8D%E5%8F%AF%E5%8F%98%E5%AF%B9%E8%B1%A1)
 - [IO](#io)
 - [其他知识点目录规范（Directory For Programming Language）](#%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86%E7%82%B9%E7%9B%AE%E5%BD%95%E8%A7%84%E8%8C%83%EF%BC%88directory-for-programming-language%EF%BC%89)
   - [Advanced](#advanced)
@@ -434,6 +435,8 @@
 
 ### 其他操作
 
+## Immutable:不可变对象
+
 # 流程控制与异常处理（Control Flow & Error Handling）
 
 ## 运算符
@@ -621,7 +624,6 @@ mapDB([10, 20, 30, 40, 50]);
 
 ## 反射（Reflect）与类装载
 
-### Immutable:不可变对象
 
 # IO
 
