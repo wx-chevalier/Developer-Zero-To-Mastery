@@ -99,7 +99,6 @@
     - [this](#this)
     - [类型判断](#%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD)
   - [继承](#%E7%BB%A7%E6%89%BF)
-    - [运算符重载](#%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD-1)
   - [抽象类、接口/协议与委托（Delegate）](#%E6%8A%BD%E8%B1%A1%E7%B1%BB%E3%80%81%E6%8E%A5%E5%8F%A3%E5%8D%8F%E8%AE%AE%E4%B8%8E%E5%A7%94%E6%89%98%EF%BC%88delegate%EF%BC%89)
     - [注解(Annotation)](#%E6%B3%A8%E8%A7%A3annotation)
   - [内部类](#%E5%86%85%E9%83%A8%E7%B1%BB)
@@ -142,7 +141,6 @@
       - [Built-in ThreadSafe DataStructure](#built-in-threadsafe-datastructure)
         - [Atomic Variables(原子变量)](#atomic-variables%E5%8E%9F%E5%AD%90%E5%8F%98%E9%87%8F)
         - [Collections(集合类型)](#collections%E9%9B%86%E5%90%88%E7%B1%BB%E5%9E%8B)
-      - [Built-In ThreadSafe DataStructure(内置的线程安全的数据结构)](#built-in-threadsafe-datastructure%E5%86%85%E7%BD%AE%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -605,7 +603,6 @@ mapDB([10, 20, 30, 40, 50]);
 
 ## 继承
 
-### 运算符重载
 
 ## 抽象类、接口/协议与委托（Delegate）
 ### 注解(Annotation)
@@ -721,5 +718,3 @@ mapDB([10, 20, 30, 40, 50]);
 ##### Atomic Variables(原子变量)
 
 ##### Collections(集合类型)
-
-#### Built-In ThreadSafe DataStructure(内置的线程安全的数据结构)
