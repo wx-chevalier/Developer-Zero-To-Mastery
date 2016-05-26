@@ -1,3 +1,7 @@
+
+如果你觉得本系列文章有所帮助，欢迎打赏~
+![](https://mobilecodec.alipay.com/show.htm?code=aex08464dkeickeb1d1fucb&picSize=430)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
