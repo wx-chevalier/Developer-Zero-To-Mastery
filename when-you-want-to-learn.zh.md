@@ -1,3 +1,7 @@
+
+如果你觉得本系列文章有所帮助，欢迎打赏~
+![](http://7xlgth.com1.z0.glb.clouddn.com/show.htm.png?imageView2/1/w/150/h/150)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
