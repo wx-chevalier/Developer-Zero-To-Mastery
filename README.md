@@ -14,11 +14,24 @@
 
 # Coder Knowledge Graph
 
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/10/3/1-mDR0iBVCa_z7PeZhdYZxYQ.jpeg)
+
+
+
+
+
 本Repo主要存放笔者对于IT领域的知识图谱、知识学习路线图的积累。
 
 
 - [当你打算学习某个技能，你需要了解。。。:笔者的知识图谱总结](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/when-you-want-to-learn.zh.md)
 - [如何成为一名优秀的软件工程师](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/how-to-be-a-successful-software-engineer.md)
+
+
+
+[一图详解我的软件世界观与方法论](https://www.processon.com/view/link/58288e3be4b00c4fc88dcadf):
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/11/3/Coder.png)
 
 # Programming Language:编程语言
 
