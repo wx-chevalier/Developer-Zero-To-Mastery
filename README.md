@@ -1,4 +1,20 @@
-> [2016:我的技术体系结构图:Web/ServerSideApplication/MachineLearning](https://zhuanlan.zhihu.com/p/24476917)从属于笔者的[Coder Knowledge Graph](https://github.com/wxyyxc1992/Coder-Knowledge-Graph)。
+# 程序员的知识管理：技术视野与职业规划
+
+
+
+本仓库包含了笔者自身对于知识管理、拓展技术视野、拟定职业规划过程中的感悟与心得的整理与记录，其包含以下几个部分：
+
+- Knowledge Graph：知识图谱
+- I-AM-Coder：程序熊的自我修养，用不严谨的方式聊聊我对于技术的看法
+- Weekly：每周阅读清单与前端开发周报
+- Awesome-Reference：那些优秀的学习资料集锦
+- Career：我的职业生涯，包括面试、零花钱等等
+
+
+
+# 技术图谱
+
+
 
 ![](https://camo.githubusercontent.com/1a7ddd081e0fcc80e7acf9ed04c5705f2028862c/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31302f332f312d6d44523069425643615f7a3750655a6864595a7859512e6a706567)
 
