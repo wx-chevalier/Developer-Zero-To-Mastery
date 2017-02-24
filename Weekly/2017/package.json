@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.3.1",
+    "hexo-cli": "^1.0.2"
+  }
+}
