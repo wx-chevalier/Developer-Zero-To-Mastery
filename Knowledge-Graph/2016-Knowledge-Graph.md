@@ -1,0 +1,117 @@
+> [2016:我的技术体系结构图](https://zhuanlan.zhihu.com/p/24476917)  从属于笔者的[Coder Knowledge Graph](https://github.com/wxyyxc1992/Coder-Knowledge-Graph)。
+
+![](https://camo.githubusercontent.com/1a7ddd081e0fcc80e7acf9ed04c5705f2028862c/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31302f332f312d6d44523069425643615f7a3750655a6864595a7859512e6a706567)
+
+去年年底，笔者发表了一篇[我的编程之路——知识管理与知识体系](https://segmentfault.com/a/1190000004612590)，是我那时对于技术体系的认知。在即将过去的2016年中我参与到了更多的实践当中，特别是在Web前端开发领域更深入了几分。触类旁通，举一反三，在整个软件编程体系内的各个知识都可以相互印证。技术分为术与道两者，术即是具体的做事的方法，而道则是做事的逻辑抽象的原则与原理。一味地追求术的人往往都是希望走捷径，不求甚解的。而道之所求也是符合一万小时原理，需要大量的付出与总结。不过平心而论，很多初学者是务必从道学起，笔者今年也带了很多的新人，发现绝大部分人还是学过的知识忘了，写过的代码没了，前行的速度抵不上时间的流逝。本文的立意还是希望以一家之言勾勒出灿烂星空，辅你打造知识海洋里的一叶扁舟。
+> 知识应该放在它应该在的地方 —— 王下邀月熊
+
+# 技术纵览
+
+欲穷千里目，更上一层楼，首先我们需要高屋建瓴，先看下软件世界的版图是何样的，更多信息参阅[技术体系概览思维脑图](https://www.processon.com/view/link/58593ea3e4b0db9f2e1407bb)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/Coder.png)
+
+## 延伸阅读
+- [如何成为一名优秀的软件工程师](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/how-to-be-a-successful-software-engineer.md)
+- [王下邀月熊的2016上半年博客精选](https://segmentfault.com/a/1190000006017467)
+
+# ProgrammingLanguage：编程语言
+
+学习一门语言最痛苦的反而是大量的细节语法，譬如字符串截取、数组或者字典类型的索引之类的。下面要进行讨论的一些语法特性是目前流行的一些语言的总结，可能有些语言尚不支持部分特性，但是要么有些第三方库进行辅助，要么会在未来的版本中添加如下特性。更多信息参阅[编程语言知识要点思维脑涂](https://www.processon.com/view/link/5858d52ce4b0f767285df0b0)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/%25E7%25BC%2596%25E7%25A8%258B%25E8%25AF%25AD%25E8%25A8%2580.png)
+
+## 延伸阅读
+- [我应该从哪一门编程语言上车?](https://segmentfault.com/a/1190000007398287)
+
+# CoderEssentials：编程基础
+
+在学习完编程语言之后，我们需要了解编程基础知识。更多信息参阅[编程基础思维脑图](https://www.processon.com/view/link/5858f45be4b0db9f2e0e7ee4)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/CoderEssentials.png)
+
+## 延伸阅读
+
+- [程序员必备编程基础](https://github.com/wxyyxc1992/Coder-Essentials)
+
+# Client：泛客户端开发要点
+
+本部分是泛客户端开发要点，笔者对于之前iOS/Android/Web/ReactNative/Weex中通用知识点进行了归纳。更多信息参阅[泛客户端开发要点思维脑图](https://www.processon.com/view/link/5858fa8fe4b0db9f2e0f548e) 。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/Client.png)
+
+## 延伸阅读
+
+- [GUI应用程序架构的十年变迁:MVC,MVP,MVVM,Unidirectional,Clean](https://segmentfault.com/a/1190000006016817)
+- [iOS入门与工程实践](https://github.com/wxyyxc1992/iOS-Introduction-And-Best-Practices)
+- [Java入门与工程实践](https://github.com/wxyyxc1992/Java-Introduction-And-Best-Practices)
+
+# Web Frontend：Web前端
+
+本部分是笔者的Web前端开发知识纲要总结，更多信息参阅[Web前端思维脑图](https://www.processon.com/view/link/5858cab0e4b04ce387a7cb53)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/Web.png)
+
+## 延伸阅读
+
+- [Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188)
+- [Web 前端入门与最佳实践](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices)
+- [2015-我的前端之路：数据流驱动的界面](https://segmentfault.com/a/1190000004292245)
+
+
+# ServerSideApplication：服务端应用程序架构
+
+本部分是笔者的服务端应用程序架构知识纲要总结，更多信息参阅[服务端应用程序架构思维脑图](https://www.processon.com/view/link/5858fa40e4b0f767286314f3)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/ServerSideApplication.png)
+
+## 延伸阅读
+
+- [服务端应用程序入门与实践](https://github.com/wxyyxc1992/ServerSideApplication-Introduction-And-Practices)
+- [SpringMVC入门与工程实践](https://github.com/wxyyxc1992/SpringMVC-Introduction-And-Best-Practices)
+- [基于对资源配置动态生成API并进行权限审查的平台](https://github.com/wxyyxc1992/ConfigurableAPIServer)
+
+# DataScience：数据科学与机器学习
+
+笔者只是菜鸟一枚，本部分只是笔者暂时的总结，更多信息参阅[数据科学与机器学习思维脑图](https://www.processon.com/view/link/5858d6a1e4b0c1fa6c6ebdf8)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/DataScience.png)
+
+## 延伸阅读
+- [程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)
+- [面向程序猿的数据科学与机器学习知识体系及资料合集](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/DataScience-Reference)
+
+- [数据科学与机器学习导论](https://segmentfault.com/a/1190000005801260)
+- [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
+- [基础深度学习概念备忘录](https://zhuanlan.zhihu.com/p/24436419)
+- [有趣的机器学习概念纵览：从多元拟合，神经网络到深度学习，给每个感兴趣的人](https://segmentfault.com/a/1190000005746236)
+
+# Infrastructure：基础架构
+
+本部分关注服务端中的基础架构部分，更多信息参阅[基础架构思维脑图](https://www.processon.com/view/link/5858fb18e4b0f76728632fd4)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/Infrastructure.png)
+
+## 延伸阅读
+
+- [Apache流计算框架详细对比](https://segmentfault.com/a/1190000004593949)
+
+# InformationSecurity：信息安全
+
+本部分关注信息安全相关知识体系，更多信息参阅[信息安全思维脑图](https://www.processon.com/view/link/5858f77fe4b0f7672862b84f)。
+
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/InfoSecurity.png)
+
+## 延伸阅读
+
+- [信息安全实战](https://github.com/wxyyxc1992/InfoSecurity-In-Action)
+- [Web应用安全基础](https://github.com/wxyyxc1992/InfoSecurity-In-Action/blob/master/Reinforce/WebSecurity/basics-of-web-application-security.md)
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#awesome-fuzzing):一系列对于Hack安全资料的搜集
+- [国外最佳互联网安全博客TOP 30](https://jaq.alibaba.com/community/art/show?articleid=601&f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [The Social-Engineer Toolkit ](https://github.com/trustedsec/social-engineer-toolkit):一系列仅用于测试用途的社会工程工具
+
+
+
+
+
+
