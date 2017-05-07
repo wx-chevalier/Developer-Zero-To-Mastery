@@ -36,3 +36,9 @@
 
 ## 4
 - [前端每周清单第 7 期：Next 2.0 发布，Safari 10.1 新增系列重要特性，Vue.js 2.2 完整API 手册](https://zhuanlan.zhihu.com/p/26191902)
+- [前端每周清单第 8 期：React 16 即将发布，微软发布跨平台开发框架 ReactXP，Twitter Lite 的构建之道](https://zhuanlan.zhihu.com/p/26282614)
+- [前端每周清单第 9 期：React Studio 1.0.2、ECharts GL 1.0 alpha发布；向jQuery用户介绍Vue](https://zhuanlan.zhihu.com/p/26448725)
+- [前端每周清单第 10 期：Firefox53、React VR发布、JS测试技术概述、Microsoft Edge现代DOM树构建及性能之道](https://zhuanlan.zhihu.com/p/26550513)
+
+## 5
+- [前端每周清单第 11 期：Angular 4.1支持TypeScript 2.3，Vue 2.3优化服务端渲染，优秀React界面框架合集](https://zhuanlan.zhihu.com/p/26682332)
