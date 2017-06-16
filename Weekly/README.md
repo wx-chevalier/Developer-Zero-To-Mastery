@@ -41,7 +41,7 @@
 
 ## 5
 - [前端每周清单第 11 期：Angular 4.1支持TypeScript 2.3，Vue 2.3优化服务端渲染，优秀React界面框架合集](https://zhuanlan.zhihu.com/p/26682332)
-- [前端每周清单第 12 期](https://zhuanlan.zhihu.com/p/26780461)
+- [前端每周清单第 12 期：支付宝前端构建工具发展、LinkedIn用Brotli加快网页响应速度、饿了么PWA 升级实践](https://zhuanlan.zhihu.com/p/26780461)
 - [前端每周清单第 13 期：Webpack CLI 发布、Angular 5 可期待的新特性、解密现代浏览器引擎构建之道](https://zhuanlan.zhihu.com/p/26920959)
 - [前端每周清单第 14 期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](https://zhuanlan.zhihu.com/p/27052544) 
 
