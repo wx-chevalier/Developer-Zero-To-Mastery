@@ -42,3 +42,11 @@
 
 ## 5
 - [前端每周清单第 11 期：Angular 4.1支持TypeScript 2.3，Vue 2.3优化服务端渲染，优秀React界面框架合集](https://zhuanlan.zhihu.com/p/26682332)
+- [前端每周清单第 12 期](https://zhuanlan.zhihu.com/p/26780461)
+- [前端每周清单第 13 期：Webpack CLI 发布、Angular 5 可期待的新特性、解密现代浏览器引擎构建之道](https://zhuanlan.zhihu.com/p/26920959)
+- [前端每周清单第 14 期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](https://zhuanlan.zhihu.com/p/27052544) 
+
+## 6
+- [前端每周清单第 15 期：Node.js v8.0发布，从React迁移到 Vue，前端开发的未来](https://parg.co/bJ9)
+- [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](https://zhuanlan.zhihu.com/p/27260442)
+- [前端每周清单第 17 期：大前端技术生命周期模型；WWDC 发布 Safari 11；面向生产环境的前端性能优化](https://zhuanlan.zhihu.com/p/27372944)
