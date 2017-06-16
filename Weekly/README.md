@@ -1,5 +1,4 @@
 # 每周阅读清单
-> 鉴于一周推荐外文技术资料阅读较少，暂时停止更新。
 
 ![](https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg)
 
