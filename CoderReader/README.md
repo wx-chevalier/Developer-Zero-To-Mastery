@@ -19,7 +19,7 @@ CoderReader 是笔者闲暇时编写的专门的技术人员阅读应用，其�
 
 也可以直接下载 Android APK：
 
-![](https://www.pgyer.com/app/qrcode/coder-reader)
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/6/1/coder-reader.png)
 
 本文余下部分是笔者在进行 React Native 开发过程中的笔记与实践总结，有兴趣者不妨一看。
 
