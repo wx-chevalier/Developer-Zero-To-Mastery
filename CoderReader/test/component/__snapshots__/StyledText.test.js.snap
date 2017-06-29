@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  disabled={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      undefined,
+      Object {
+        "fontFamily": "space-mono",
+      },
+    ]
+  }
+>
+  Snapshot test!
+</Text>
+`;
