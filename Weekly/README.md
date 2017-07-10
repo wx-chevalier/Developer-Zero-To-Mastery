@@ -49,3 +49,8 @@
 - [前端每周清单第 15 期：Node.js v8.0发布，从React迁移到 Vue，前端开发的未来](https://parg.co/bJ9)
 - [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](https://zhuanlan.zhihu.com/p/27260442)
 - [前端每周清单第 17 期：大前端技术生命周期模型；WWDC 发布 Safari 11；面向生产环境的前端性能优化](https://zhuanlan.zhihu.com/p/27372944)
+- [前端每周清单第 18 期：Firefox、Chrome、React、Angular发布新版本；提升RN应用性能的方法](https://zhuanlan.zhihu.com/p/27468442) 
+- [前端每周清单第 19 期： Vue的优势与劣势；Node.js有望超越Java；JS在嵌入式及物联网的应用现状](https://zhuanlan.zhihu.com/p/27577316)
+
+## 7
+- [前端每周清单第 20 期：React组件解耦之道；基于Headless Chrome的自动化测试；Angular 2/4是否为时已晚？](https://zhuanlan.zhihu.com/p/27684971)
