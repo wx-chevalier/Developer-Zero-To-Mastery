@@ -56,3 +56,4 @@
 
 ## 7
 - [前端每周清单第 20 期：React组件解耦之道；基于Headless Chrome的自动化测试；Angular 2/4是否为时已晚？](https://zhuanlan.zhihu.com/p/27684971)
+- [前端每周清单第 21 期：JS 项目开发样式指南；基于 Vue 的分角色权限验证；深入 React.js 内部原理](https://zhuanlan.zhihu.com/p/27815800)
