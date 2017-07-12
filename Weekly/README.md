@@ -1,3 +1,5 @@
+> 前端每周清单首发地址为[前端之巅公众号](https://parg.co/bhI)与[某熊的全栈之路](https://zhuanlan.zhihu.com/p/27815800)专栏，欢迎关注。
+
 # 每周阅读清单
 
 ![](https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg)
