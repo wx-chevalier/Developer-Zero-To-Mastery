@@ -2,21 +2,16 @@
 
 import React, { Component } from "react";
 import {
-  StyleSheet,
   ActivityIndicator,
+  ScrollView,
+  StyleSheet,
   Text,
-  View,
-  ScrollView
+  View
 } from "react-native";
-import { AppLoading } from "expo";
+import { RkTextInput } from "react-native-ui-kitten";
 
 import { hackerNewsApi } from "../../../api/news/hacker_news/HackerNewsApi";
-import {
-  centerInRowStyleMixin,
-  containerStyleMixin
-} from "../../../application/theme/style_mixins";
-import RefreshableListView
-  from "../../../../fractal-reactnative-components/list/RefreshableListView";
+import { containerStyleMixin } from "../../../application/theme/style_mixins";
 export default class HackerNewsStories extends Component {
   async componentDidMount() {
     let stories = await hackerNewsApi.getTopStories();
@@ -31,6 +26,7 @@ export default class HackerNewsStories extends Component {
       >
 
         <ActivityIndicator size={"large"} />
+        <RkTextInput rkType="rounded" placeholder="Username" />
       </ScrollView>
     );
   }

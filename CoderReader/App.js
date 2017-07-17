@@ -4,7 +4,7 @@ import { AppLoading } from "expo";
 import { FontAwesome, MaterialIcons } from "@expo/vector-icons";
 import RootNavigation from "./src/screen/RootNavigation";
 
-import cacheAssetsAsync from "./src/util/cacheAssetsAsync";
+import cacheAssetsAsync from "./src/util/cache";
 
 export default class AppContainer extends React.Component {
   state = {

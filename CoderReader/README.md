@@ -23,6 +23,10 @@ CoderReader 是笔者闲暇时编写的专门的技术人员阅读应用，其�
 
 本文余下部分是笔者在进行 React Native 开发过程中的笔记与实践总结，有兴趣者不妨一看。
 
+## Integrated Open Source Code
+
+- [kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
+
 # 配置与调试
 
 ![](https://docs.expo.io/0af875d134c9a8835b71baaa0e1791bc-quality=50&pngCompressionLevel=9&width=1822.png)
