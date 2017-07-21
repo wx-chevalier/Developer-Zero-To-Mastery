@@ -264,7 +264,7 @@
 
 # Pattern Library: 模式库
 - [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
-- [Ant Design](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
+- [Ant Design](https://ant.design/): An enterprise-class UI design language and React-based implementation.
 
 ## List
 
