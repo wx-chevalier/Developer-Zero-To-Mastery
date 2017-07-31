@@ -1,3 +1,5 @@
+ ！重要！为了方便文档编辑，笔者将本文拆分为了以下部分：[React 学习与实践资料索引-基础语法](https://parg.co/bM1) |  [React 学习与实践资料索引-工程实践](https://parg.co/bg3)
+ 
 # StyleGuide & Design Pattern: 样式指南与设计模式
 
 - [2016-来自 AlloyTeam 的 React.js 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
