@@ -1,6 +1,9 @@
 # Java 学习与实践资料索引
 
-作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引。
+当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment（JRE）：
+![](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/images/9781484206423_Fig01-01.jpg)
+
+作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引；鉴于本部分正在不断完善，以下链接可能存在疏漏，请直接查看本目录下其他文件获取信息。
 
 - [Java 数据结构资料索引]()：[Java 集合资料索引]()
 - [Java 功能性语法资料索引](): [Java 并发编程资料索引]()
@@ -28,6 +31,7 @@
 - [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
 # Book: 书籍
+- [2015-Pro Java 8 Programming, Third Edition【Project】](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 - [2017-Think Java【Book】](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 # Blog: 博客
