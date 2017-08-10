@@ -99,3 +99,12 @@ exp bi / exp build:ios
 [Expo Vector Icons](https://expo.github.io/vector-icons/)
 
 # 路由导航
+```shell
+curl -X POST \
+  https://parg.co/api/shorten \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'postman-token: 3470ba5e-e625-da31-8246-3c1df7e059e2' \
+  -d 'api_key=0b7f4c7a35b8636e838e5d1f3658e4c0&email=384924552%40qq.com&url=https%3A%2F%2Ftsts.com'
+
+```
