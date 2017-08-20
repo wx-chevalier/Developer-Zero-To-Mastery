@@ -1,9 +1,12 @@
-> 前端每周清单首发地址为[前端之巅公众号](https://parg.co/bhI)与[某熊的全栈之路](https://zhuanlan.zhihu.com/p/27815800)专栏，欢迎关注。可以查看本目录下 2016、2017 等文件夹中对应的每周清单，或者查看 SemiannualReport 中的半年度总结。
-> 这里需要特别感谢我的夫人帮助我整理归档，以及我的柯基布丁为我们打气加油。
+![](https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg)
 
 # 每周阅读清单
 
-![](https://cdn-images-1.medium.com/max/2000/1*3oNgt5C2JC5FucjUm2SPxg.jpeg)
+前端每周清单首发地址为[前端之巅公众号](https://parg.co/bhI)与[某熊的全栈之路](https://zhuanlan.zhihu.com/p/27815800)专栏，欢迎关注。可以查看本目录下 2016、2017 等文件夹中对应的每周清单，或者查看 SemiannualReport 中的半年度总结。
+
+这里需要特别感谢我的夫人帮助我整理归档，以及我的柯基布丁为我们打气加油；如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮~
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/2/WX20170820-201436.png)
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/2/WechatIMG20.jpeg)
 
 # 2016
 
