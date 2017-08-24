@@ -28,7 +28,7 @@
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/2/Coder.png)
 
 ## 延伸阅读
-- [如何成为一名优秀的软件工程师](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/how-to-be-a-successful-software-engineer.md)
+- [如何成为一名优秀的软件工程师](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/TechnologicalManagement/I-AM-Coder/how-to-be-a-successful-software-engineer.md)
 - [王下邀月熊的2016上半年博客精选](https://segmentfault.com/a/1190000006017467)
 
 # ProgrammingLanguage：编程语言
@@ -95,7 +95,7 @@
 
 ## 延伸阅读
 - [程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)
-- [面向程序猿的数据科学与机器学习知识体系及资料合集](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/DataScience-Reference)
+- [面向程序猿的数据科学与机器学习知识体系及资料合集](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/blob/master/DataScienceAI-Reference.md)
 
 - [数据科学与机器学习导论](https://segmentfault.com/a/1190000005801260)
 - [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
