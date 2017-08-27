@@ -1,4 +1,6 @@
- ！重要！为了方便文档编辑，笔者将本文拆分为了以下部分：[React 学习与实践资料索引-基础语法](https://parg.co/bM1) |  [React 学习与实践资料索引-工程实践](https://parg.co/bM1)
+
+
+ ！重要！为了方便文档编辑，笔者将本文拆分为了以下部分：[React 学习与实践资料索引-基础语法](https://parg.co/bM1) |  [React 学习与实践资料索引-工程实践](https://parg.co/bg3)
 
 # React 学习与实践资料索引
 鉴于 React 技术栈一直也在迅速发展，本文目前以 React v15.5.4 、React Router V4 版本为准，笔者会随时更新本文内容，移除过时的链接并且添加新的链接。另外本文相关的部分友链还包括[ Web 学习与实践资料索引](https://parg.co/b4T)，[ JavaScript 学习与实践资料索引](https://parg.co/bMI)，[ Webpack 学习与实践资料索引](https://parg.co/bVs)，[ Redux 学习与实践资料索引](https://parg.co/bVQ)，[ MobX 学习与实践资料索引](https://parg.co/bVC)，[ PWA 学习与实践资料索引](https://parg.co/bOT)，[ React Native 学习与实践资料索引](https://parg.co/bV4)等。如果想及时了解前端技术发展，掌握一手资讯，建议阅读[前端每周清单系列](https://parg.co/bh1)。
@@ -80,6 +82,8 @@
 
 ## State
 
+- [2017-Atomic SetState Updates in React](https://alligator.io/react/getting-atomic-updates-with-setstate)
+
 ## Context
 
 - [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.pnc15zji9)
@@ -104,6 +108,7 @@
 - [2017-Embracing the power of styled-components](https://parg.co/bID): What we learned in the first week moving away from CSS Modules.
 - [2017-styled-media-query【Project】](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
 - [2017-Jest Styled Components【Project】](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
+- [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
 # Animation
 - [2017-react-move【Project】](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
