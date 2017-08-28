@@ -59,6 +59,14 @@
 - [前端每周清单第 20 期：React组件解耦之道；基于Headless Chrome的自动化测试；Angular 2/4是否为时已晚？](https://zhuanlan.zhihu.com/p/27684971)
 - [前端每周清单第 21 期：JS 项目开发样式指南；基于 Vue 的分角色权限验证；深入 React.js 内部原理](https://zhuanlan.zhihu.com/p/27815800)
 - [前端每周清单第 22 期：ES8 正式发布、React 与 GraphQL 开发指南和性能优化，Vue.js 2.4.0 发布以及使用 TypeScript 开发 Vue.js 应用](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.3-Frontend.md)
+- [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端] (https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.4-Frontend.md)
+- [前端每周清单第 24 期：React 16 中异常处理与 Fiber 实战、Vue 图表与 jQuery 插件、V8 Turbofan 性能优化](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.5-Frontend.md)
+
+## 8
+- [前端每周清单第 25 期：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 React 动画](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.1.md)
+- [前端每周清单第 26 期：Node.js 微服务实践，Vue.js 与 GraphQL，Angular 组件技巧，HeadlessChrome 攻防](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.2.md)
+- [前端每周清单第 27 期：React Patent License 回复，Shopify WebVR 购物，原生 JS MVC 设计，Flow 优化 React 支持](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.3.md)
+- [前端每周清单第 28 期：JS 运行原理与优化，高性能 CSS 引擎，Coursera GraphQL 实践](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.4.md)
 
 # 狗粮
 
