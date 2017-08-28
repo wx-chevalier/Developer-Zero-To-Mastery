@@ -59,7 +59,7 @@
 - [前端每周清单第 20 期：React组件解耦之道；基于Headless Chrome的自动化测试；Angular 2/4是否为时已晚？](https://zhuanlan.zhihu.com/p/27684971)
 - [前端每周清单第 21 期：JS 项目开发样式指南；基于 Vue 的分角色权限验证；深入 React.js 内部原理](https://zhuanlan.zhihu.com/p/27815800)
 - [前端每周清单第 22 期：ES8 正式发布、React 与 GraphQL 开发指南和性能优化，Vue.js 2.4.0 发布以及使用 TypeScript 开发 Vue.js 应用](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.3-Frontend.md)
-- [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端] (https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.4-Frontend.md)
+- [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.4-Frontend.md)
 - [前端每周清单第 24 期：React 16 中异常处理与 Fiber 实战、Vue 图表与 jQuery 插件、V8 Turbofan 性能优化](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/7/7.5-Frontend.md)
 
 ## 8
