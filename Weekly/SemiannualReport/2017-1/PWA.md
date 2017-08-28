@@ -24,7 +24,7 @@
 
 - [构建混合渲染的 PWA](https://parg.co/bzO)：[PWA Directory](https://pwa-directory.appspot.com/) 最初是采用了纯粹服务端渲染的 PWA 应用，它对于搜索引擎地支持比较好。不过这种应用并无法很好地进行客户端路由跳转，反而会带来一些额外的性能损耗；本文则依次介绍了如何使用 JavaScript 来托管路由跳转、如何利用 Service Worker 来进行数据缓存或者后台操作等内容。更多 PWA 相关资料参考[这里](https://parg.co/bVh)。
 
-#开源项目
+# 开源项目
 
 - [PWA Builder](http://6me.us/VW9nG)：随着 PWA 的日渐发展，Manifoldjs 也转型成为 PWA 应用在线构建工具；该工具为用户提供了在线构建 Manifest、自动生成多格式 Icon、创建 Service Worker、发布 PWA 等多种服务。( http://6me.us/VW9nG )
 
