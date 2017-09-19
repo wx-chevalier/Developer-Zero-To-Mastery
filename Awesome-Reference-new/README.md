@@ -1,6 +1,6 @@
 
 
-#  [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
+#  [AwesomeReference: 精而全的技术开发学习与实践资料索引1](https://parg.co/b4z)
 
 ![](https://parg.co/bDY)
 
