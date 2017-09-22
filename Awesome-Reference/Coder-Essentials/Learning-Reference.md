@@ -1,5 +1,3 @@
-[toc]
-
 > [Learning Reference: 程序员的学习进阶之途]()从属于笔者的 [Awesome Reference: 精而全的技术开发学习与实践资料索引]()系列，介绍了笔者自身学习工作中总结的阅读、写作、编程、视野提升与课程学习方面的资料以及经验分享。
 
 # Learning Reference: 程序员的学习进阶之途

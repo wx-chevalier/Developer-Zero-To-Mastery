@@ -1,0 +1,1 @@
+2017-A real world guide to WebRTC: The goal is that once you've read through it you've gained a solid, hands-on understanding of what it takes to build WebRTC apps and enough additional knowledge to know where to go next.
