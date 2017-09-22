@@ -28,6 +28,11 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 > 因为本系列文章还处于不断完善中，目录中链接可能存在错误，请直接前往对应目录浏览相关章节。
 
+## Coder Essentials
+### AlgoDS
+
+- [数据结构与算法资料索引](https://parg.co/bwk)
+
 ## Infrastructure: 基础架构
 
 ### Storage: 数据存储
