@@ -1,9 +1,9 @@
 
-#  [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
+# [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
 
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![](https://parg.co/bDY) 
+![](https://parg.co/bDY)
 
 AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
@@ -70,9 +70,16 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 - [数据结构与算法资料索引](https://parg.co/bwk)
 
-## Web 
+## Web
 
 - [Web 学习与实践资料索引](https://parg.co/b4T)
+
+### Framework
+
+***
+- [Vue.js 学习与实践资料索引](https://parg.co/UHc)
+- [Vue.js 工程实践资料索引](https://parg.co/UH0)
+- [Vue.js 开源组件与库索引](https://parg.co/UHS)
 
 ## FrontendTechnology: 泛前端
 
@@ -111,3 +118,4 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 
 笔者所有文章遵循 [知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。
+
