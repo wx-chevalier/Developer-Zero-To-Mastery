@@ -2,7 +2,7 @@
 #  [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
 
 
-![](https://parg.co/bDm)
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![](https://parg.co/bDY) 
 
 AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
