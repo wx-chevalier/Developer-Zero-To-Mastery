@@ -3,7 +3,7 @@
 
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![](https://parg.co/bDY)
+![](https://parg.co/bDm)
 
 AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
@@ -29,13 +29,26 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 ## 个人笔记
 
-***
+### 编程语言
+
+- [现代 JavaScript 开发：语法基础与工程实践](https://parg.co/bxN) 
+- [JavaScript 设计模式与应用架构](https://parg.co/UHZ)
 
 ***
-- [现代 Web 开发基础](https://parg.co/UHU)
+
+- [现代 Java 开发：语法基础与工程实践](https://parg.co/UH3)
+- [JVM 内部原理与性能调优](https://parg.co/UHp)
+
+### Web 开发
+
 - [我的前端之路系列文章](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices/tree/master/My-Frontend-Road)
+- [现代 Web 开发基础](https://parg.co/UHU)
+- [现代 Web 工程化实践](https://parg.co/UHO)
 
 ***
+
+- [React 与前端工程化实践](https://parg.co/UHs)
+- [Vue.js 与前端工程化实践](https://parg.co/b4n)
 
 ## Programming Language: 编程语言
 
@@ -61,6 +74,12 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 ### JavaScript
 
+- [JavaScript 学习与实践资料索引](https://parg.co/UHE)
+- [JavaScript 语法基础资料索引](https://parg.co/UHr)
+- [JavaScript 函数资料索引](https://parg.co/UH5)
+- [JavaScript 数据结构资料索引](https://parg.co/UHP)
+- [JavaScript 工程实践资料索引](https://parg.co/UHu)
+
 ## Coder Essentials: 编程通识基础
 
 - [Learning Reference: 程序员的学习进阶之途](https://parg.co/bw7)
@@ -74,7 +93,16 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 - [Web 学习与实践资料索引](https://parg.co/b4T)
 
-### Framework
+### EPractices: 工程实践
+
+- [Web 性能优化实践资料索引](https://parg.co/b7P)
+
+### Framework: 框架
+
+***
+- [React 学习与实践资料索引](https://parg.co/UHK)
+- [React 工程实践资料索引](https://parg.co/UHq)
+- [React 开源组件与库索引](https://parg.co/UH6)
 
 ***
 - [Vue.js 学习与实践资料索引](https://parg.co/UHc)
