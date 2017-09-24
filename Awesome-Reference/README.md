@@ -3,7 +3,6 @@
 
 
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
-![](https://parg.co/bDm)
 
 AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
@@ -93,6 +92,18 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 - [Web 学习与实践资料索引](https://parg.co/b4T)
 
+### Syntax: 语法基础
+
+- [CSS 学习与实践资料索引](https://parg.co/baH)
+- [CSS 工程实践资料索引](https://parg.co/UHQ)
+- [CSS 响应式开发资料索引](https://parg.co/UHC)
+
+***
+
+### Builder: 构建工具
+
+- [Webpack 学习与实践资料索引](https://parg.co/bVs)
+
 ### EPractices: 工程实践
 
 - [Web 性能优化实践资料索引](https://parg.co/b7P)
@@ -108,6 +119,9 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [Vue.js 学习与实践资料索引](https://parg.co/UHc)
 - [Vue.js 工程实践资料索引](https://parg.co/UH0)
 - [Vue.js 开源组件与库索引](https://parg.co/UHS)
+
+***
+- [Angular 学习与实践资料索引](https://parg.co/UHh)
 
 ## FrontendTechnology: 泛前端
 
