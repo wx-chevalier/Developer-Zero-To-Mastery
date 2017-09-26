@@ -88,6 +88,10 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 - [数据结构与算法资料索引](https://parg.co/bwk)
 
+### SoftwareDevelopment：软件开发
+
+- [软件开发基础学习与实践资料索引](https://parg.co/UHB)
+
 ## Web
 
 - [Web 学习与实践资料索引](https://parg.co/b4T)
