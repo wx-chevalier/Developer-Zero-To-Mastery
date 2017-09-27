@@ -87,10 +87,27 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 ### AlgoDS: 数据结构与算法
 
 - [数据结构与算法资料索引](https://parg.co/bwk)
+- [图](https://parg.co/UHw)
+- [IndexedCollection-Reference](https://parg.co/Ub6)
+- [KeyedCollection-Reference](https://parg.co/UbE)
+- [NumberTheory-Reference](https://parg.co/Ubr)
+- [Optimization-Reference](https://parg.co/Ub5)
+- [Search-Reference](https://parg.co/UbP)
+- [Sorting-Reference](https://parg.co/Ubu)
+- [Tree Reference](https://parg.co/UbZ)
 
 ### SoftwareDevelopment：软件开发
 
 - [软件开发基础学习与实践资料索引](https://parg.co/UHB)
+- [并发编程学习与实践资料索引] (https://parg.co/UbH)
+- [DesignPattern-Reference](https://parg.co/Ubp)
+- [FunctionalProgramming-Reference](https://parg.co/Ub3)
+- [ObjectOrientedProgramming-Reference](https://parg.co/UbO)
+- [ReactiveProgramming-Reference](https://parg.co/Ubs)
+- [SoftwareTest-Reference](https://parg.co/UbQ)
+- [Refactor-Reference](https://parg.co/Ubh)
+- [编程规范与样式指南资料索引](https://parg.co/Ub4)
+- [Git-Reference](https://parg.co/UbR)
 
 ## Web
 
