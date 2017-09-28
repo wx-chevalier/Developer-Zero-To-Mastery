@@ -187,7 +187,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 ### Widgets
 
--[Web Widgets 学习与实践资料索引](https://parg.co/UUP)
+- [Web Widgets 学习与实践资料索引](https://parg.co/UUP)
 
 ## FrontendTechnology: 泛前端
 
