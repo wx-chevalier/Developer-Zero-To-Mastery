@@ -99,7 +99,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 ### SoftwareDevelopment：软件开发
 
 - [软件开发基础学习与实践资料索引](https://parg.co/UHB)
-- [并发编程学习与实践资料索引] (https://parg.co/UbH)
+- [并发编程学习与实践资料索引](https://parg.co/UbH)
 - [DesignPattern 学习与实践资料索引](https://parg.co/Ubp)
 - [FunctionalProgramming 学习与实践资料索引](https://parg.co/Ub3)
 - [ObjectOrientedProgramming 学习与实践资料索引](https://parg.co/UbO)
