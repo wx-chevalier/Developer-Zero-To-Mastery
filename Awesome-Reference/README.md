@@ -1,6 +1,5 @@
 <!-- TOC -->
 
-- [[AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)](#awesomereference-精而全的技术开发学习与实践资料索引httpspargcob4z)
 - [1. 前言](#1-前言)
 - [2. 目录](#2-目录)
     - [2.1. 个人笔记](#21-个人笔记)
