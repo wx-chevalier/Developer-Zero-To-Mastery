@@ -1,0 +1,4 @@
+[libs]
+
+[ignore]
+.*/node_modules/*
