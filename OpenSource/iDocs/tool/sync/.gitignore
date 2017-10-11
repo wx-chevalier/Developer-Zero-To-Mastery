@@ -1,4 +1,3 @@
-dist/
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
@@ -61,4 +60,6 @@ typings/
 # dotenv environment variables file
 .env
 
-
+dist/
+/src/shared/private.ts
+/toc.md

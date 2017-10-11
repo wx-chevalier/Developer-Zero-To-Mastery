@@ -25,6 +25,7 @@ export interface ReposityConfig {
 }
 
 const repos: { [key: string]: ReposityConfig } = {
+  // Coder-Knowledge-Management
   'Awesome-Reference': {
     description: 'Awesome-Reference',
     wizCatalogue: '/Workbench/Coder-Knowledge-Management/Awesome-Reference',

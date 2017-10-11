@@ -1,7 +1,8 @@
-import { FileTree } from './interface';
+import { FileDescriptor, FileTree } from './interface';
 import { getH1sFromMDString } from '../../util/markdown/md';
 import { ignoreFilesOrDirs } from '../../shared/dict';
 import { GITHUB_PASSWORD, GITHUB_USERNAME } from '../../shared/private';
+
 const debug = require('debug')('generateRepoToc');
 const fs = require('fs-extra');
 
@@ -16,6 +17,8 @@ const gh = new GitHub({
 let currentDepth;
 
 const MAX_DEPTH = 2;
+
+let handledNum = 0;
 
 export async function generateRepoToc(
   userName,
@@ -43,6 +46,16 @@ export async function generateRepoToc(
 
   fs.outputFile('toc.md', toc);
 }
+
+/**
+ * Description 格式化显示文件
+ * @param {FileDescriptor} file
+ * @return {string}
+ */
+const formatToc = (file: FileDescriptor) => {
+  return `- [${file.name.replace('.md', '')}](${file.html_url}):${file
+    .h1s[0]} \n`;
+};
 
 /**
  * 功能：以广度优先方式遍历 Repo，并且生成文件目录树
@@ -77,6 +90,8 @@ async function dfsWalkToGenerateFileTree(repo, dir, path) {
         // 文件内的一级目录
         h1s: getH1sFromMDString(content)
       });
+
+      console.log(`已处理文件数：${handledNum++}`);
     } else {
       // 否则递归获取子层级的目录
       fileTree.dirs[blob.name] = await dfsWalkToGenerateFileTree(
@@ -109,9 +124,7 @@ export function generateTocFromFileTree(
       continue;
     }
 
-    toc += `    - [${file.name}](${file.html_url}):${file.h1s
-      .join(', ')
-      .replace(/\\n/g, '')} \n`;
+    toc += `    ${formatToc(file)}`;
   }
 
   for (let dirName in fileTree.dirs) {
@@ -145,7 +158,7 @@ export function generateTocFromFileTreeWithSubHeader(
       continue;
     }
 
-    toc += `- [${file.name}](${file.html_url}):${file.h1s.join(', ')} \n`;
+    toc += `${formatToc(file)}`;
   }
 
   for (let dirName in fileTree.dirs) {

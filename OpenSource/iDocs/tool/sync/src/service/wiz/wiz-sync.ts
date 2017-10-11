@@ -94,8 +94,10 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
         // 插入统一的文件头
         const header = `[![章节头](${repo.chapterHeader})](${repo.sUrl}) \n ${toc} \n\n`;
 
-        // 将笔记写入到指定目录
-        note.html = header + note.html;
+        if (note.info.title != 'README.md') {
+          // 将笔记写入到指定目录
+          note.html = header + note.html;
+        }
 
         fs.outputFile(file, note.html);
       }
