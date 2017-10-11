@@ -1,24 +1,14 @@
+[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
+ - [Web 通信协议资料索引](#web-%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
+- [HTTPS](#https)
+- [WebSocket- [WebSocket 浅析](https://zhuanlan.zhihu.com/p/25592934) - [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)- [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb) - [微信,QQ这类IM app怎么做——谈谈Websocket](http://www.jianshu.com/p/bcefda55bce4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [ Websocket详细讲解(基础篇一) ](http://blog.csdn.net/woshinannan741/article/details/51470830?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social) - [Socket.io Game Demo](https://github.com/sgoedecke/socket-io-game): Building a multiplayer online game with socket.io.](#websocket--websocket-%E6%B5%85%E6%9E%90httpszhuanlanzhihucomp25592934---websocket-%E5%8E%9F%E7%90%86%E8%AF%B4%E6%98%8Ehttpswwwqcloudcomdocumentproduct2144150--2017-a-million-websockets-and-gohttpsmediumfreecodecamporgmillion-websockets-and-go-cc58418460bb---%E5%BE%AE%E4%BF%A1qq%E8%BF%99%E7%B1%BBim-app%E6%80%8E%E4%B9%88%E5%81%9A%E8%B0%88%E8%B0%88websockethttpwwwjianshucompbcefda55bce4hmsrtoutiaoioutm_mediumtoutiaoioutm_sourcetoutiaoio---websocket%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E5%9F%BA%E7%A1%80%E7%AF%87%E4%B8%80-httpblogcsdnnetwoshinannan741articledetails51470830hmsrtoutiaoioutm_mediumtoutiaoioutm_sourcetoutiaoio--websocket-%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E6%8C%81%E4%B9%85%E8%BF%9E%E6%8E%A5httpswwwzhihucomquestion20215561answer40316953utm_sourceqqutm_mediumsocial---socketio-game-demohttpsgithubcomsgoedeckesocket-io-game-building-a-multiplayer-online-game-with-socketio)
+- [WebRTC](#webrtc) 
+
 # Web 通信协议资料索引
-
 # HTTPS
-
-- [https://en.wikipedia.org/wiki/HTTP](https://en.wikipedia.org/wiki/HTTP)
-- [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-- [https://en.wikipedia.org/wiki/HTTPS](https://en.wikipedia.org/wiki/HTTPS)
-- [https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)
-- [HTTPS中的加密算法相关概念](http://foofish.net/https-symmetric.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
+- [https://en.wikipedia.org/wiki/HTTP](https://en.wikipedia.org/wiki/HTTP)- [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)- [https://en.wikipedia.org/wiki/HTTPS](https://en.wikipedia.org/wiki/HTTPS)- [https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)- [HTTPS中的加密算法相关概念](http://foofish.net/https-symmetric.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
 - [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/?utm_source=tuicool&utm_medium=referral)
-
-
-# WebSocket
-- [WebSocket 浅析](https://zhuanlan.zhihu.com/p/25592934)
-- [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)
-- [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
-- [微信,QQ这类IM app怎么做——谈谈Websocket](http://www.jianshu.com/p/bcefda55bce4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- [ Websocket详细讲解(基础篇一) ](http://blog.csdn.net/woshinannan741/article/details/51470830?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social)
-
-
+- [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
+# WebSocket- [WebSocket 浅析](https://zhuanlan.zhihu.com/p/25592934) - [WebSocket 原理说明](https://www.qcloud.com/document/product/214/4150)- [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb) - [微信,QQ这类IM app怎么做——谈谈Websocket](http://www.jianshu.com/p/bcefda55bce4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [ Websocket详细讲解(基础篇一) ](http://blog.csdn.net/woshinannan741/article/details/51470830?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social) - [Socket.io Game Demo](https://github.com/sgoedecke/socket-io-game): Building a multiplayer online game with socket.io. 
 
 # WebRTC

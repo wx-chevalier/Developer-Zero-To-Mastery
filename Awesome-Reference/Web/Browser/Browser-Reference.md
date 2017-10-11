@@ -1,123 +1,25 @@
+[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
+ - [浏览器相关学习与资料索引](#%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9B%B8%E5%85%B3%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
+- [Chrome](#chrome)
+  * [CSS- [从 Chrome 源码看浏览器如何计算CSS](https://zhuanlan.zhihu.com/p/25380611)](#css--%E4%BB%8E-chrome-%E6%BA%90%E7%A0%81%E7%9C%8B%E6%B5%8F%E8%A7%88%E5%99%A8%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97csshttpszhuanlanzhihucomp25380611)
+  * [Extension- [2015-How to Create a Chrome Extension in 10 Minutes Flat](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)- [Chrome Extension Developer's Guide](https://developer.chrome.com/extensions/devguide)- [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)](#extension--2015-how-to-create-a-chrome-extension-in-10-minutes-flathttpswwwsitepointcomcreate-chrome-extension-10-minutes-flat--chrome-extension-developers-guidehttpsdeveloperchromecomextensionsdevguide--getting-started-building-a-chrome-extensionhttpsdeveloperchromecomextensionsgetstarted)
+- [Firefox- [2017-Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://parg.co/bTa)](#firefox--2017-inside-a-super-fast-css-engine-quantum-css-aka-stylohttpspargcobta)
+- [Edge- [2017-Modernizing the DOM tree in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#gXbKkdM2Yl71P1jX.97): In this post, we’ll walk you through the history of the DOM in Internet Explorer and Microsoft Edge, and the impact of our recent work to modernize the DOM Tree, which is already resulting in substantially improved performance in the Windows 10 Creators Update.- [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/#aXYIbCB04QkDAmeQ.97): In this post, we’ll walk you through some new features coming to Chakra with the Windows 10 Creators Update that improve the day-to-day browsing experience in Microsoft Edge, as well as some new experimental features for developers: WebAssembly, and Shared Memory and Atomics.](#edge--2017-modernizing-the-dom-tree-in-microsoft-edgehttpsblogswindowscommsedgedev20170419modernizing-dom-tree-microsoft-edge%23gxbkkdm2yl71p1jx97-in-this-post-well-walk-you-through-the-history-of-the-dom-in-internet-explorer-and-microsoft-edge-and-the-impact-of-our-recent-work-to-modernize-the-dom-tree-which-is-already-resulting-in-substantially-improved-performance-in-the-windows-10-creators-update--2017-improved-javascript-performance-webassembly-and-shared-memory-in-microsoft-edgehttpsblogswindowscommsedgedev20170420improved-javascript-performance-webassembly-shared-memory%23axyibcb04qkdameq97-in-this-post-well-walk-you-through-some-new-features-coming-to-chakra-with-the-windows-10-creators-update-that-improve-the-day-to-day-browsing-experience-in-microsoft-edge-as-well-as-some-new-experimental-features-for-developers-webassembly-and-shared-memory-and-atomics)
+- [Security](#security)
+- [Browser Detection## [ua-device](https://github.com/fex-team/ua-device)](#browser-detection%23%23-ua-devicehttpsgithubcomfex-teamua-device)
+  * [Browser Feature Detection(浏览器特征检测)``` javascriptvar userAgent = navigator.userAgent, rMsie = /(msie\s|trident.*rv:)([\w.]+)/, rFirefox = /(firefox)\/([\w.]+)/, rOpera = /(opera).+version\/([\w.]+)/, rChrome = /(chrome)\/([\w.]+)/, rSafari = /version\/([\w.]+).*(safari)/;var browser;var version;var ua = userAgent.toLowerCase();function uaMatch(ua) {var match = rMsie.exec(ua);if (match != null) {return { browser : "IE", version : match[2] || "0" };}var match = rFirefox.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rOpera.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rChrome.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rSafari.exec(ua);if (match != null) {return { browser : match[2] || "", version : match[1] || "0" };}if (match != null) {return { browser : "", version : "0" };}}var browserMatch = uaMatch(userAgent.toLowerCase());if (browserMatch.browser) {browser = browserMatch.browser;version = browserMatch.version;}document.write(browser+version); ```### [Modernizr](https://github.com/Modernizr/Modernizr) Modernizr是一个开源的JS库，它使得那些基于访客浏览器的不同（指对新标准支持性的差异）而开发不同级别体验的设计师的工作变得更为简单。它使得设计师可以在支持[HTML5](http://www.mhtml5.com/)和CSS3的浏览器中充分利用[HTML5](http://www.mhtml5.com/)和CSS3的特性进行开发，同时又不会牺牲其他不支持这些新技术的浏览器的控制。 当你在网页中嵌入Modernizr的脚本时，它会检测当前浏览器是否支持CSS3的特性，比如 @font-face、border-radius、 border-image、box-shadow、rgba() 等，同时也会检测是否支持[HTML5](http://www.mhtml5.com/)的 特性——比如audio、video、本地储存、和新的 标签的类型和属性等。在获取到这些信息的基础上，你可以在那些支持这些功能的浏览器上使用它们，来决定是否创建一个基于JS的 fallback，或者对那些不支持的浏览器进行简单的优雅降级。另外，Modernizr还可以令IE支持对[HTML5](http://www.mhtml5.com/)的元素应用CSS样式，这样开发者就可以立即使用这些更富有语义化的标签了。 ``` if (browser === "the-one-they-make-you-use-at-work") { getTheOldLameExperience(); } else { showOffAwesomeNewFeature(); }```改为了：``` if (Modernizr.awesomeNewFeature) { showOffAwesomeNewFeature(); } else { getTheOldLameExperience(); }```### [feature.js](https://github.com/viljamis/feature.js)### [Bowser](https://github.com/ded/bowser)引入方式：``` javascriptbrowser = require('bowser');```# 服务端版本识别> - [天猫双11前端分享系列（七）：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)](#browser-feature-detection%E6%B5%8F%E8%A7%88%E5%99%A8%E7%89%B9%E5%BE%81%E6%A3%80%E6%B5%8B-javascriptvar-useragent--navigatoruseragent-rmsie--msiestridentrvw-rfirefox--firefoxw-ropera--operaversionw-rchrome--chromew-rsafari--versionwsafarivar-browservar-versionvar-ua--useragenttolowercasefunction-uamatchua-var-match--rmsieexecuaif-match--null-return--browser--ie-version--match2--0-var-match--rfirefoxexecuaif-match--null-return--browser--match1---version--match2--0-var-match--roperaexecuaif-match--null-return--browser--match1---version--match2--0-var-match--rchromeexecuaif-match--null-return--browser--match1---version--match2--0-var-match--rsafariexecuaif-match--null-return--browser--match2---version--match1--0-if-match--null-return--browser---version--0-var-browsermatch--uamatchuseragenttolowercaseif-browsermatchbrowser-browser--browsermatchbrowserversion--browsermatchversiondocumentwritebrowserversion----%23%23%23-modernizrhttpsgithubcommodernizrmodernizr-modernizr%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84js%E5%BA%93%E5%AE%83%E4%BD%BF%E5%BE%97%E9%82%A3%E4%BA%9B%E5%9F%BA%E4%BA%8E%E8%AE%BF%E5%AE%A2%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E4%B8%8D%E5%90%8C%E6%8C%87%E5%AF%B9%E6%96%B0%E6%A0%87%E5%87%86%E6%94%AF%E6%8C%81%E6%80%A7%E7%9A%84%E5%B7%AE%E5%BC%82%E8%80%8C%E5%BC%80%E5%8F%91%E4%B8%8D%E5%90%8C%E7%BA%A7%E5%88%AB%E4%BD%93%E9%AA%8C%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8F%98%E5%BE%97%E6%9B%B4%E4%B8%BA%E7%AE%80%E5%8D%95%E5%AE%83%E4%BD%BF%E5%BE%97%E8%AE%BE%E8%AE%A1%E5%B8%88%E5%8F%AF%E4%BB%A5%E5%9C%A8%E6%94%AF%E6%8C%81html5httpwwwmhtml5com%E5%92%8Ccss3%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E5%85%85%E5%88%86%E5%88%A9%E7%94%A8html5httpwwwmhtml5com%E5%92%8Ccss3%E7%9A%84%E7%89%B9%E6%80%A7%E8%BF%9B%E8%A1%8C%E5%BC%80%E5%8F%91%E5%90%8C%E6%97%B6%E5%8F%88%E4%B8%8D%E4%BC%9A%E7%89%BA%E7%89%B2%E5%85%B6%E4%BB%96%E4%B8%8D%E6%94%AF%E6%8C%81%E8%BF%99%E4%BA%9B%E6%96%B0%E6%8A%80%E6%9C%AF%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E6%8E%A7%E5%88%B6-----%E5%BD%93%E4%BD%A0%E5%9C%A8%E7%BD%91%E9%A1%B5%E4%B8%AD%E5%B5%8C%E5%85%A5modernizr%E7%9A%84%E8%84%9A%E6%9C%AC%E6%97%B6%E5%AE%83%E4%BC%9A%E6%A3%80%E6%B5%8B%E5%BD%93%E5%89%8D%E6%B5%8F%E8%A7%88%E5%99%A8%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81css3%E7%9A%84%E7%89%B9%E6%80%A7%E6%AF%94%E5%A6%82-font-faceborder-radius-border-imagebox-shadowrgba-%E7%AD%89%E5%90%8C%E6%97%B6%E4%B9%9F%E4%BC%9A%E6%A3%80%E6%B5%8B%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81html5httpwwwmhtml5com%E7%9A%84-%E7%89%B9%E6%80%A7%E6%AF%94%E5%A6%82audiovideo%E6%9C%AC%E5%9C%B0%E5%82%A8%E5%AD%98%E5%92%8C%E6%96%B0%E7%9A%84-%E6%A0%87%E7%AD%BE%E7%9A%84%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%B1%9E%E6%80%A7%E7%AD%89%E5%9C%A8%E8%8E%B7%E5%8F%96%E5%88%B0%E8%BF%99%E4%BA%9B%E4%BF%A1%E6%81%AF%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%9C%A8%E9%82%A3%E4%BA%9B%E6%94%AF%E6%8C%81%E8%BF%99%E4%BA%9B%E5%8A%9F%E8%83%BD%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8A%E4%BD%BF%E7%94%A8%E5%AE%83%E4%BB%AC%E6%9D%A5%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Ejs%E7%9A%84-fallback%E6%88%96%E8%80%85%E5%AF%B9%E9%82%A3%E4%BA%9B%E4%B8%8D%E6%94%AF%E6%8C%81%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E7%9A%84%E4%BC%98%E9%9B%85%E9%99%8D%E7%BA%A7%E5%8F%A6%E5%A4%96modernizr%E8%BF%98%E5%8F%AF%E4%BB%A5%E4%BB%A4ie%E6%94%AF%E6%8C%81%E5%AF%B9html5httpwwwmhtml5com%E7%9A%84%E5%85%83%E7%B4%A0%E5%BA%94%E7%94%A8css%E6%A0%B7%E5%BC%8F%E8%BF%99%E6%A0%B7%E5%BC%80%E5%8F%91%E8%80%85%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%AB%8B%E5%8D%B3%E4%BD%BF%E7%94%A8%E8%BF%99%E4%BA%9B%E6%9B%B4%E5%AF%8C%E6%9C%89%E8%AF%AD%E4%B9%89%E5%8C%96%E7%9A%84%E6%A0%87%E7%AD%BE%E4%BA%86------if-browser--the-one-they-make-you-use-at-work-----gettheoldlameexperience---else-----showoffawesomenewfeature--%E6%94%B9%E4%B8%BA%E4%BA%86---if-modernizrawesomenewfeature-----showoffawesomenewfeature---else-----gettheoldlameexperience--%23%23%23-featurejshttpsgithubcomviljamisfeaturejs%23%23%23-bowserhttpsgithubcomdedbowser%E5%BC%95%E5%85%A5%E6%96%B9%E5%BC%8F-javascriptbrowser--requirebowser%23-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E7%89%88%E6%9C%AC%E8%AF%86%E5%88%AB---%E5%A4%A9%E7%8C%AB%E5%8F%8C11%E5%89%8D%E7%AB%AF%E5%88%86%E4%BA%AB%E7%B3%BB%E5%88%97%E4%B8%83%E5%A6%82%E4%BD%95%E7%B2%BE%E7%A1%AE%E8%AF%86%E5%88%AB%E7%BB%88%E7%AB%AFhttpsgithubcomtmallfetmallfegithubioissues32) 
 
 # 浏览器相关学习与资料索引
-
 本文承接自[ Web 学习与实践资料索引](https://parg.co/b4T)。
-
-- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-- [浅析渲染引擎与前端优化](http://jdc.jd.com/archives/2806?utm_source=tuicool&utm_medium=referral)
-
-
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [浅析渲染引擎与前端优化](http://jdc.jd.com/archives/2806?utm_source=tuicool&utm_medium=referral)
 # Chrome
-
-## CSS
-- [从 Chrome 源码看浏览器如何计算CSS](https://zhuanlan.zhihu.com/p/25380611)
-
-
-## Extension
-- [2015-How to Create a Chrome Extension in 10 Minutes Flat](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)
-- [Chrome Extension Developer's Guide](https://developer.chrome.com/extensions/devguide)
-- [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
-
-
-# Firefox
-- [2017-Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://parg.co/bTa)
-
-# Edge
-- [2017-Modernizing the DOM tree in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#gXbKkdM2Yl71P1jX.97): In this post, we’ll walk you through the history of the DOM in Internet Explorer and Microsoft Edge, and the impact of our recent work to modernize the DOM Tree, which is already resulting in substantially improved performance in the Windows 10 Creators Update.
-- [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/#aXYIbCB04QkDAmeQ.97): In this post, we’ll walk you through some new features coming to Chakra with the Windows 10 Creators Update that improve the day-to-day browsing experience in Microsoft Edge, as well as some new experimental features for developers: WebAssembly, and Shared Memory and Atomics.
-
+## CSS- [从 Chrome 源码看浏览器如何计算CSS](https://zhuanlan.zhihu.com/p/25380611)
+## Extension- [2015-How to Create a Chrome Extension in 10 Minutes Flat](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)- [Chrome Extension Developer's Guide](https://developer.chrome.com/extensions/devguide)- [Getting Started: Building a Chrome Extension](https://developer.chrome.com/extensions/getstarted)
+# Firefox- [2017-Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://parg.co/bTa)
+# Edge- [2017-Modernizing the DOM tree in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#gXbKkdM2Yl71P1jX.97): In this post, we’ll walk you through the history of the DOM in Internet Explorer and Microsoft Edge, and the impact of our recent work to modernize the DOM Tree, which is already resulting in substantially improved performance in the Windows 10 Creators Update.- [2017-Improved JavaScript performance, WebAssembly, and Shared Memory in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/#aXYIbCB04QkDAmeQ.97): In this post, we’ll walk you through some new features coming to Chakra with the Windows 10 Creators Update that improve the day-to-day browsing experience in Microsoft Edge, as well as some new experimental features for developers: WebAssembly, and Shared Memory and Atomics.
 # Security
-
 - [扒一扒浏览器的安全机制](http://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651061832&idx=2&sn=233869f7e47291aa9d7cde78f0d02599&scene=0#wechat_redirect)
+# Browser Detection## [ua-device](https://github.com/fex-team/ua-device)
+## Browser Feature Detection(浏览器特征检测)``` javascript<script type="text/javascript">var userAgent = navigator.userAgent, rMsie = /(msie\s|trident.*rv:)([\w.]+)/, rFirefox = /(firefox)\/([\w.]+)/, rOpera = /(opera).+version\/([\w.]+)/, rChrome = /(chrome)\/([\w.]+)/, rSafari = /version\/([\w.]+).*(safari)/;var browser;var version;var ua = userAgent.toLowerCase();function uaMatch(ua) {var match = rMsie.exec(ua);if (match != null) {return { browser : "IE", version : match[2] || "0" };}var match = rFirefox.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rOpera.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rChrome.exec(ua);if (match != null) {return { browser : match[1] || "", version : match[2] || "0" };}var match = rSafari.exec(ua);if (match != null) {return { browser : match[2] || "", version : match[1] || "0" };}if (match != null) {return { browser : "", version : "0" };}}var browserMatch = uaMatch(userAgent.toLowerCase());if (browserMatch.browser) {browser = browserMatch.browser;version = browserMatch.version;}document.write(browser+version);	</script>```### [Modernizr](https://github.com/Modernizr/Modernizr)	Modernizr是一个开源的JS库，它使得那些基于访客浏览器的不同（指对新标准支持性的差异）而开发不同级别体验的设计师的工作变得更为简单。它使得设计师可以在支持[HTML5](http://www.mhtml5.com/)和CSS3的浏览器中充分利用[HTML5](http://www.mhtml5.com/)和CSS3的特性进行开发，同时又不会牺牲其他不支持这些新技术的浏览器的控制。		当你在网页中嵌入Modernizr的脚本时，它会检测当前浏览器是否支持CSS3的特性，比如 @font-face、border-radius、 border-image、box-shadow、rgba() 等，同时也会检测是否支持[HTML5](http://www.mhtml5.com/)的 特性——比如audio、video、本地储存、和新的 <input>标签的类型和属性等。在获取到这些信息的基础上，你可以在那些支持这些功能的浏览器上使用它们，来决定是否创建一个基于JS的 fallback，或者对那些不支持的浏览器进行简单的优雅降级。另外，Modernizr还可以令IE支持对[HTML5](http://www.mhtml5.com/)的元素应用CSS样式，这样开发者就可以立即使用这些更富有语义化的标签了。	```   if (browser === "the-one-they-make-you-use-at-work") {    getTheOldLameExperience();  } else {    showOffAwesomeNewFeature();  }```改为了：```   if (Modernizr.awesomeNewFeature) {    showOffAwesomeNewFeature();  } else {    getTheOldLameExperience();  }```### [feature.js](https://github.com/viljamis/feature.js)### [Bowser](https://github.com/ded/bowser)引入方式：``` javascriptbrowser = require('bowser');```# 服务端版本识别> - [天猫双11前端分享系列（七）：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)
 
-
-# Browser Detection
-## [ua-device](https://github.com/fex-team/ua-device)
-
-## Browser Feature Detection(浏览器特征检测)
-
-``` javascript
-<script type="text/javascript">
-var userAgent = navigator.userAgent, 
-rMsie = /(msie\s|trident.*rv:)([\w.]+)/, 
-rFirefox = /(firefox)\/([\w.]+)/, 
-rOpera = /(opera).+version\/([\w.]+)/, 
-rChrome = /(chrome)\/([\w.]+)/, 
-rSafari = /version\/([\w.]+).*(safari)/;
-var browser;
-var version;
-var ua = userAgent.toLowerCase();
-function uaMatch(ua) {
-var match = rMsie.exec(ua);
-if (match != null) {
-return { browser : "IE", version : match[2] || "0" };
-}
-var match = rFirefox.exec(ua);
-if (match != null) {
-return { browser : match[1] || "", version : match[2] || "0" };
-}
-var match = rOpera.exec(ua);
-if (match != null) {
-return { browser : match[1] || "", version : match[2] || "0" };
-}
-var match = rChrome.exec(ua);
-if (match != null) {
-return { browser : match[1] || "", version : match[2] || "0" };
-}
-var match = rSafari.exec(ua);
-if (match != null) {
-return { browser : match[2] || "", version : match[1] || "0" };
-}
-if (match != null) {
-return { browser : "", version : "0" };
-}
-}
-var browserMatch = uaMatch(userAgent.toLowerCase());
-if (browserMatch.browser) {
-browser = browserMatch.browser;
-version = browserMatch.version;
-}
-document.write(browser+version);	
-</script>
-```
-
-### [Modernizr](https://github.com/Modernizr/Modernizr)
-
-Modernizr是一个开源的JS库，它使得那些基于访客浏览器的不同（指对新标准支持性的差异）而开发不同级别体验的设计师的工作变得更为简单。它使得设计师可以在支持[HTML5](http://www.mhtml5.com/)和CSS3的浏览器中充分利用[HTML5](http://www.mhtml5.com/)和CSS3的特性进行开发，同时又不会牺牲其他不支持这些新技术的浏览器的控制。	
-
-当你在网页中嵌入Modernizr的脚本时，它会检测当前浏览器是否支持CSS3的特性，比如 @font-face、border-radius、 border-image、box-shadow、rgba() 等，同时也会检测是否支持[HTML5](http://www.mhtml5.com/)的 特性——比如audio、video、本地储存、和新的 <input>标签的类型和属性等。在获取到这些信息的基础上，你可以在那些支持这些功能的浏览器上使用它们，来决定是否创建一个基于JS的 fallback，或者对那些不支持的浏览器进行简单的优雅降级。另外，Modernizr还可以令IE支持对[HTML5](http://www.mhtml5.com/)的元素应用CSS样式，这样开发者就可以立即使用这些更富有语义化的标签了。	
-
-``` 
-  if (browser === "the-one-they-make-you-use-at-work") {
-    getTheOldLameExperience();
-  } else {
-    showOffAwesomeNewFeature();
-  }
-
-```
-
-改为了：
-
-``` 
-  if (Modernizr.awesomeNewFeature) {
-    showOffAwesomeNewFeature();
-  } else {
-    getTheOldLameExperience();
-  }
-
-```
-
-
-
-### [feature.js](https://github.com/viljamis/feature.js)
-
-### [Bowser](https://github.com/ded/bowser)
-
-引入方式：
-
-``` javascript
-browser = require('bowser');
-```
-# 服务端版本识别
-> - [天猫双11前端分享系列（七）：如何精确识别终端](https://github.com/tmallfe/tmallfe.github.io/issues/32)
 

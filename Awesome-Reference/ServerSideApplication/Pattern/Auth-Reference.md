@@ -1,13 +1,10 @@
-# 权限认证资料索引
+[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
+ - [权限认证资料索引- [HTTP认证的底层技术简析与揭秘](http://www.freebuf.com/articles/web/129527.html)](#%E6%9D%83%E9%99%90%E8%AE%A4%E8%AF%81%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95--http%E8%AE%A4%E8%AF%81%E7%9A%84%E5%BA%95%E5%B1%82%E6%8A%80%E6%9C%AF%E7%AE%80%E6%9E%90%E4%B8%8E%E6%8F%AD%E7%A7%98httpwwwfreebufcomarticlesweb129527html)
+- [Json Web Token- [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)- [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)](#json-web-token--2015-learn-how-to-use-json-web-token-jwt-to-secure-your-next-web-app-example-with-testshttpsgithubcomdwyllearn-json-web-tokens--2016-in-this-article-the-fundamentals-of-what-json-web-tokens-jwt-are-and-why-they-are-used-will-be-explainedhttpsmediumcomvandium-software5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec) 
 
-- [HTTP认证的底层技术简析与揭秘](http://www.freebuf.com/articles/web/129527.html)
-- [Password Rules Are Bullshit](http://6me.us/Kfj0wz): Let this pledge be duly noted on the permanent record of the Internet. I don't know if there's an afterlife, but I'll be finding out soon enough, and I plan to go out mad as hell.
-- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different authentication methodologies on the web.
-- [登录工程：现代 Web 应用的典型身份验证需求](http://insights.thoughtworkers.org/project-of-login/)
-- [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
-- [4种微服务系统认证策略 ](http://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335074&idx=1&sn=3c909e3ff9129e1ec01b5b1b53de2aa5&chksm=f0a426b5c7d3afa3926bf6344b36ee13fb2dff73f859f3788176977568dd9f33d36c2aa4e783#rd)
-- [2017-接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。( https://parg.co/bte )
-
-# Json Web Token
-- [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)
-- [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+# 权限认证资料索引- [HTTP认证的底层技术简析与揭秘](http://www.freebuf.com/articles/web/129527.html)
+- [Password Rules Are Bullshit](http://6me.us/Kfj0wz): Let this pledge be duly noted on the permanent record of the Internet. I don't know if there's an afterlife, but I'll be finding out soon enough, and I plan to go out mad as hell.- [Auth-Boss](https://github.com/teesloane/Auth-Boss): Become an Auth Boss. Learn about different authentication methodologies on the web.
+- [登录工程：现代 Web 应用的典型身份验证需求](http://insights.thoughtworkers.org/project-of-login/)- [How CAPTCHA Works](https://blog.jscrambler.com/how-captcha-works/)
+- [4种微服务系统认证策略 ](http://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335074&idx=1&sn=3c909e3ff9129e1ec01b5b1b53de2aa5&chksm=f0a426b5c7d3afa3926bf6344b36ee13fb2dff73f859f3788176977568dd9f33d36c2aa4e783#rd)- [2017-接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。( https://parg.co/bte )
+ 
+# Json Web Token- [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)- [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)

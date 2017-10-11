@@ -6,7 +6,7 @@
     "moduleResolution": "node",
     "target": "es2017",
     "lib": ["es6", "es7", "dom"],
-    "sourceMap": true,
+    "sourceMap": false,
     "allowJs": true,
     "allowSyntheticDefaultImports": true
   },

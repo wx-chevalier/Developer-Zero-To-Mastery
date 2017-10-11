@@ -1,4 +1,5 @@
-# 日志与聚合实践资料索引
+[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
+ - [日志与聚合实践资料索引](#%E6%97%A5%E5%BF%97%E4%B8%8E%E8%81%9A%E5%90%88%E5%AE%9E%E8%B7%B5%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95) 
 
-- [为什么要进行日志测试以及如何进行日志测试？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598582&idx=1&sn=3c03042ef366f9dba47efd1ee3c8e461&chksm=8be995e4bc9e1cf2b760413e004cdd6d5f76845584bbc7c74985e7fc80fa2cbe3b3ae6f598a2&mpshare=1&scene=23&srcid=1206d7GF76pCixwrrGu1S7Hc#rd)
-- [日志级别动态调整——小工具解决大问题](http://tech.meituan.com/change_log_level.html)
+# 日志与聚合实践资料索引
+- [为什么要进行日志测试以及如何进行日志测试？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598582&idx=1&sn=3c03042ef366f9dba47efd1ee3c8e461&chksm=8be995e4bc9e1cf2b760413e004cdd6d5f76845584bbc7c74985e7fc80fa2cbe3b3ae6f598a2&mpshare=1&scene=23&srcid=1206d7GF76pCixwrrGu1S7Hc#rd) - [日志级别动态调整——小工具解决大问题](http://tech.meituan.com/change_log_level.html)
