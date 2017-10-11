@@ -1,11 +1,17 @@
 [![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [监控与分析资料索引- [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [实践｜如何从0开始 搭建应用监控架构？ ](http://mp.weixin.qq.com/s?__biz=MzAwNzA0NTMzMQ==&mid=2653202747&idx=1&sn=1f7b7425416a83c83accde49faad88bf&chksm=80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691c&mpshare=1&scene=23&srcid=1209HSNqc8p1yXBovoJNoyMp#rd)- [无埋点实现监测的真相——革新还是噱头？ ](http://mp.weixin.qq.com/s/hDu7wTQG7DhdqdhojwX_qw)- [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz)](#%E7%9B%91%E6%8E%A7%E4%B8%8E%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95--%E7%BA%BF%E4%B8%8A%E6%95%85%E9%9A%9C%E5%A4%84%E7%90%86httpblogbrucefenginfopostfix-online-accidenthmsrtoutiaoioutm_mediumtoutiaoioutm_sourcetoutiaoio--%E5%AE%9E%E8%B7%B5%EF%BD%9C%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%BC%80%E5%A7%8B-%E6%90%AD%E5%BB%BA%E5%BA%94%E7%94%A8%E7%9B%91%E6%8E%A7%E6%9E%B6%E6%9E%84-httpmpweixinqqcoms__bizmzawnza0ntmzmqmid2653202747idx1sn1f7b7425416a83c83accde49faad88bfchksm80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691cmpshare1scene23srcid1209hsnqc8p1yxbovojnoymp%23rd--%E6%97%A0%E5%9F%8B%E7%82%B9%E5%AE%9E%E7%8E%B0%E7%9B%91%E6%B5%8B%E7%9A%84%E7%9C%9F%E7%9B%B8%E9%9D%A9%E6%96%B0%E8%BF%98%E6%98%AF%E5%99%B1%E5%A4%B4-httpmpweixinqqcomshdu7wtqg7dhdqdhojwx_qw--%E5%88%86%E5%B8%83%E5%BC%8F%E4%BC%9A%E8%AF%9D%E8%B7%9F%E8%B8%AA%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5httpwwwtuicoolcomarticlesaz6frz)
+ - [监控与分析资料索引](#%E7%9B%91%E6%8E%A7%E4%B8%8E%E5%88%86%E6%9E%90%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
 - [分布式追踪](#%E5%88%86%E5%B8%83%E5%BC%8F%E8%BF%BD%E8%B8%AA)
 - [无埋点监测](#%E6%97%A0%E5%9F%8B%E7%82%B9%E7%9B%91%E6%B5%8B)
 - [Stats Aggregation: 状态聚合](#stats-aggregation-%E7%8A%B6%E6%80%81%E8%81%9A%E5%90%88) 
 
-# 监控与分析资料索引- [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)- [实践｜如何从0开始 搭建应用监控架构？ ](http://mp.weixin.qq.com/s?__biz=MzAwNzA0NTMzMQ==&mid=2653202747&idx=1&sn=1f7b7425416a83c83accde49faad88bf&chksm=80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691c&mpshare=1&scene=23&srcid=1209HSNqc8p1yXBovoJNoyMp#rd)- [无埋点实现监测的真相——革新还是噱头？ ](http://mp.weixin.qq.com/s/hDu7wTQG7DhdqdhojwX_qw)- [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz) 
+# 监控与分析资料索引
+
+- [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [实践｜如何从0开始 搭建应用监控架构？ ](http://mp.weixin.qq.com/s?__biz=MzAwNzA0NTMzMQ==&mid=2653202747&idx=1&sn=1f7b7425416a83c83accde49faad88bf&chksm=80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691c&mpshare=1&scene=23&srcid=1209HSNqc8p1yXBovoJNoyMp#rd)
+- [无埋点实现监测的真相——革新还是噱头？ ](http://mp.weixin.qq.com/s/hDu7wTQG7DhdqdhojwX_qw)
+- [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz) 
 # 分布式追踪
 # 无埋点监测
 # Stats Aggregation: 状态聚合
+
 - [2016-statsd【Project】](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.

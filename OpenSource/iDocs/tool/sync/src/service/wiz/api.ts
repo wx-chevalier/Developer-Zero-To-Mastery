@@ -51,9 +51,12 @@ export const setUp = page => {
     function extractContent(rawHTML: string, br: string) {
       const container = document.createElement('div');
 
+      // 设置该元素隐藏
+      container.style.display = 'none';
+
       container.innerHTML = rawHTML
         .replace(/<div>/g, '<div><br>')
-        .replace(/<br>/g, `<span>${br}</span>`);
+        .replace(/<br\b[^>]*>/g, `<span>${br}</span>`);
 
       document.body.appendChild(container);
 

@@ -1,4 +1,8 @@
 [![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [Hive 资料索引- [TutorialSpoint Hive](http://www.tutorialspoint.com/hive)- [那些年使用Hive踩过的坑](https://yq.aliyun.com/articles/30988)- [Hive原理及查询优化](http://mp.weixin.qq.com/s?__biz=MzI2MjE0MDUzNg==&mid=2652914310&idx=1&sn=4990335f0ec177c5e51af9a659f3aabe&scene=21#wechat_redirect)- [阿里云数据平台——Hive体系结构](http://blog.csdn.net/zhoudaxia/article/details/8855937)](#hive-%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95--tutorialspoint-hivehttpwwwtutorialspointcomhive--%E9%82%A3%E4%BA%9B%E5%B9%B4%E4%BD%BF%E7%94%A8hive%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91httpsyqaliyuncomarticles30988--hive%E5%8E%9F%E7%90%86%E5%8F%8A%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96httpmpweixinqqcoms__bizmzi2mje0mduzngmid2652914310idx1sn4990335f0ec177c5e51af9a659f3aabescene21%23wechat_redirect--%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0hive%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84httpblogcsdnnetzhoudaxiaarticledetails8855937) 
+ - [Hive 资料索引](#hive-%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95) 
 
-# Hive 资料索引- [TutorialSpoint Hive](http://www.tutorialspoint.com/hive)- [那些年使用Hive踩过的坑](https://yq.aliyun.com/articles/30988)- [Hive原理及查询优化](http://mp.weixin.qq.com/s?__biz=MzI2MjE0MDUzNg==&mid=2652914310&idx=1&sn=4990335f0ec177c5e51af9a659f3aabe&scene=21#wechat_redirect)- [阿里云数据平台——Hive体系结构](http://blog.csdn.net/zhoudaxia/article/details/8855937)
+# Hive 资料索引
+- [TutorialSpoint Hive](http://www.tutorialspoint.com/hive)
+- [那些年使用Hive踩过的坑](https://yq.aliyun.com/articles/30988)
+- [Hive原理及查询优化](http://mp.weixin.qq.com/s?__biz=MzI2MjE0MDUzNg==&mid=2652914310&idx=1&sn=4990335f0ec177c5e51af9a659f3aabe&scene=21#wechat_redirect)
+- [阿里云数据平台——Hive体系结构](http://blog.csdn.net/zhoudaxia/article/details/8855937)

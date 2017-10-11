@@ -68,10 +68,9 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
             }
           );
 
-          note.html = window['extractContent'](note.html, 'nsplit').replace(
-            /nsplit/g,
-            '\n'
-          );
+          note.html = window['extractContent'](note.html, 'nsplit')
+            .replace(/nsplit/g, '\n')
+            .replace(/\-\s\[/g, '\n- [');
 
           notes.push(note);
         }

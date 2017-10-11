@@ -1,4 +1,4 @@
 [![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
-  
+ - [面向对象编程资料索引[goodbye-object-oriented-programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.i54vkh92m)](#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95goodbye-object-oriented-programminghttpsmediumcomcscalfanigoodbye-object-oriented-programming-a59cda4c0e53%23i54vkh92m) 
 
-﻿.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; cursor: default; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-user-select: none;} .wiz-todo-label { display: inline-block; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-label-checked { /*text-decoration: line-through;*/ color: #666;} .wiz-todo-label-unchecked {text-decoration: initial;} .wiz-todo-completed-info {padding-left: 44px; display: inline-block; } .wiz-todo-avatar { width:20px; height: 20px; vertical-align: -20%; margin-right:10px; border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }[goodbye-object-oriented-programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.i54vkh92m)
+# 面向对象编程资料索引[goodbye-object-oriented-programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.i54vkh92m)

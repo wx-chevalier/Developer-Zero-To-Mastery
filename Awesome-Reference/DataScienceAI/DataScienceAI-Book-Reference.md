@@ -1,29 +1,56 @@
 [![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [数学基础](#%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80)
-- [机器学习- [2007-Pattern Recognition And Machine Learning【Book】](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.- [2012 - Machine Learning A Probabilistic Perspective 【Book】](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.- [2012-李航:统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0--2007-pattern-recognition-and-machine-learningbookhttpsbookdoubancomsubject2061116-the-book-is-suitable-for-courses-on-machine-learning-statistics-computer-science-signal-processing-computer-vision-data-mining-and-bioinformatics--2012---machine-learning-a-probabilistic-perspective-bookhttpsdrivewpscnviewl8a5acb26d91f4008b425430eae8565fb-this-textbook-offers-a-comprehensive-and-self-contained-introduction-to-the-field-of-machine-learning-a-unified-probabilistic-approach-the-coverage-combines-breadth-and-depth-offering-necessary-background-material-on-such-topics-as-probability-optimization-and-linear-algebra-as-well-as-discussion-of-recent-developments-in-the-field-including-conditional-random-fields-l1-regularization-and-deep-learning--2012-%E6%9D%8E%E8%88%AA%E7%BB%9F%E8%AE%A1%E6%96%B9%E6%B3%95%E5%AD%A6httpsdrivewpscnviewlccfc95e5c9ba42db8cbcbb6507d85d1d%E6%9D%8E%E8%88%AA%E8%80%81%E5%B8%88%E7%9A%84%E8%BF%99%E6%9C%AC%E4%B9%A6%E5%81%8F%E4%BC%98%E5%8C%96%E5%92%8C%E6%8E%A8%E5%80%92%E6%8E%A8%E5%80%92%E7%9B%B8%E5%BA%94%E7%AE%97%E6%B3%95%E7%9A%84%E6%97%B6%E5%80%99%E5%8F%AF%E4%BB%A5%E5%8F%82%E8%80%83%E8%BF%99%E6%9C%AC%E4%B9%A6)
+ - [机器学习、深度学习与自然语言处理领域推荐的书籍列表](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E9%A2%86%E5%9F%9F%E6%8E%A8%E8%8D%90%E7%9A%84%E4%B9%A6%E7%B1%8D%E5%88%97%E8%A1%A8)
+- [数学基础](#%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80)
+- [机器学习](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - [深度学习](#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
 - [自然语言处理](#%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
 - [泛数据科学](#%E6%B3%9B%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6) 
 
-> [机器学习、深度学习与自然语言处理领域推荐的书籍列表](https://zhuanlan.zhihu.com/p/25612011) 是笔者 [Awesome Reference](http://6me.us/qvPQ) 系列的一部分；对于其他的资料、文章、视频教程、工具实践请参考[面向程序猿的数据科学与机器学习知识体系及资料合集](http://6me.us/2qZiOD)。本文算是抛砖引玉，笔者最近有空就会在 Pad 上面随手翻阅这些书籍，希望能够了解其他优秀的书籍。
-![](https://pbs.twimg.com/media/C3xfqztUEAA1pl-.jpg)
+# 机器学习、深度学习与自然语言处理领域推荐的书籍列表
+
+机器学习、深度学习与自然语言处理领域推荐的书籍列表是笔者 [Awesome Reference](http://6me.us/qvPQ) 系列的一部分；对于其他的资料、文章、视频教程、工具实践请参考[面向程序猿的数据科学与机器学习知识体系及资料合集](http://6me.us/2qZiOD)。本文算是抛砖引玉，笔者最近有空就会在 Pad 上面随手翻阅这些书籍，希望能够了解其他优秀的书籍。
+
+
 # 数学基础
-- [2010-All of Statistics: A Concise Course in Statistical Inference【Book】](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.- [2008-统计学完全教程](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了Bootstrap方法（自助法）、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用R软件进行统计数据分析。
-# 机器学习- [2007-Pattern Recognition And Machine Learning【Book】](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.- [2012 - Machine Learning A Probabilistic Perspective 【Book】](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.- [2012-李航:统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。
-- [2014-DataScience From Scratch【Book】](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.- [2016-Python Data Science Handbook【Book】](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+
+- [2010-All of Statistics: A Concise Course in Statistical Inference【Book】](http://read.pudn.com/downloads158/ebook/702714/Larry%20Wasserman_ALL%20OF%20Statistics.pdf): The goal of this book is to provide a broad background in probability and statistics for students in statistics, Computer science (especially data mining and machine learning), mathematics, and related disciplines.
+- [2008-统计学完全教程](https://drive.wps.cn/view/l/ea00dc2e829f41ec8fd7c5995c41bfc9)：由美国当代著名统计学家L·沃塞曼所著的《统计学元全教程》是一本几乎包含了统计学领域全部知识的优秀教材。本书除了介绍传统数理统计学的全部内容以外，还包含了Bootstrap方法（自助法）、独立性推断、因果推断、图模型、非参数回归、正交函数光滑法、分类、统计学理论及数据挖掘等统计学领域的新方法和技术。本书不但注重概率论与数理统计基本理论的阐述，同时还强调数据分析能力的培养。本书中含有大量的实例以帮助广大读者快速掌握使用R软件进行统计数据分析。
+# 机器学习
+- [2007-Pattern Recognition And Machine Learning【Book】](https://book.douban.com/subject/2061116/): The book is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics.
+- [2012 - Machine Learning A Probabilistic Perspective 【Book】](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb): This textbook offers a comprehensive and self-contained introduction to the field of machine learning, a unified, probabilistic approach. The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning.
+- [2012-李航:统计方法学](https://drive.wps.cn/view/l/ccfc95e5c9ba42db8cbcbb6507d85d1d)：李航老师的这本书偏优化和推倒，推倒相应算法的时候可以参考这本书。
+
+- [2014-DataScience From Scratch【Book】](https://drive.wps.cn/view/l/5f44c391b0d74b798122ebb4655cad22): In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
+- [2016-Python Data Science Handbook【Book】](https://github.com/jakevdp/PythonDataScienceHandbook):Jupyter Notebooks for the Python Data Science Handbook
+
 - [2016-周志华 机器学习【Book】](https://drive.wps.cn/view/l/004e86e89e4347fcb1e10569a35295a3)：周志华老师的这本书非常适合作为机器学习入门的书籍，书中的例子十分形象且简单易懂。
-- [University of Illinois at Urbana-Champaign:Text Mining and Analytics【Course】](https://zh.coursera.org/learn/text-mining)- [台大机器学习技法【Course】](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)- [斯坦福 机器学习课程【Course】](https://zh.coursera.org/learn/machine-learning)- [CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html) - [Unsupervised Feature Learning and Deep Learning【Course】](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial):来自斯坦福的无监督特征学习与深度学习系列教程
+
+- [University of Illinois at Urbana-Champaign:Text Mining and Analytics【Course】](https://zh.coursera.org/learn/text-mining)
+- [台大机器学习技法【Course】](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+- [斯坦福 机器学习课程【Course】](https://zh.coursera.org/learn/machine-learning)
+- [CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html) 
+- [Unsupervised Feature Learning and Deep Learning【Course】](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial):来自斯坦福的无监督特征学习与深度学习系列教程
 
 # 深度学习
 
-- [2015-The Deep Learning Textbook【Book】](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.- [Stanford Deep Learning Tutorial【Book】](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.- [Neural Networks and Deep Learning【Book】](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks- [Practical Deep Learning For Coders 【Course】](http://course.fast.ai/index.html):七周的免费深度学习课程，学习如何构建那些优秀的模型。- [Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
+
+- [2015-The Deep Learning Textbook【Book】](http://www.deeplearningbook.org/):中文译本[这里](https://exacity.github.io/deeplearningbook-chinese/Chapter1_introduction/)，The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
+- [Stanford Deep Learning Tutorial【Book】](http://deeplearning.stanford.edu/tutorial/): This tutorial will teach you the main ideas of Unsupervised Feature Learning and Deep Learning. By working through it, you will also get to implement several feature learning/deep learning algorithms, get to see them work for yourself, and learn how to apply/adapt these ideas to new problems.
+- [Neural Networks and Deep Learning【Book】](http://neuralnetworksanddeeplearning.com/): Neural Networks and Deep Learning is a free online book. The book will teach you about: (1) Neural networks, a beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data. (2) Deep learning, a powerful set of techniques for learning in neural networks
+- [Practical Deep Learning For Coders 【Course】](http://course.fast.ai/index.html):七周的免费深度学习课程，学习如何构建那些优秀的模型。
+- [Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures): This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence.
 # 自然语言处理
 
-- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
-- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)- [2015 - Text Data Management and Analysis【Book】](): A Practical Introduction to Information Retrieval and Text Mining
-- [DL4NLP-Deep Learning for NLP resources【Resource】](https://github.com/andrewt3000/DL4NLP)
+
+- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
+
+- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [2015 - Text Data Management and Analysis【Book】](): A Practical Introduction to Information Retrieval and Text Mining
+
+- [DL4NLP-Deep Learning for NLP resources【Resource】](https://github.com/andrewt3000/DL4NLP)
  
 # 泛数据科学
+
 
 
 - [2012 - 深入浅出数据分析 中文版【Book】](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)：深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R工具及ToolPak工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。

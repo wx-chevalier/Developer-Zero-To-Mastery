@@ -1,16 +1,31 @@
 [![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [React 开源组件与库索引- [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components - [2017-react-imgpro【Project】](https://github.com/nitin42/react-imgpro): Image Processing Component for React. # Pattern Library: 模式库- [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.](#react-%E5%BC%80%E6%BA%90%E7%BB%84%E4%BB%B6%E4%B8%8E%E5%BA%93%E7%B4%A2%E5%BC%95--2017-downshifthttpsmediumcomkentcdoddsintroducing-downshift-for-react-b1de3fca0817-primitives-to-build-simple-flexible-wai-aria-compliant-enhanced-input-react-components---2017-react-imgproprojecthttpsgithubcomnitin42react-imgpro-image-processing-component-for-react-%23-pattern-library-%E6%A8%A1%E5%BC%8F%E5%BA%93--material-uihttpwwwmaterial-uicom%23-a-set-of-react-components-that-implement-googles-material-design)
+ - [React 开源组件与库索引](#react-%E5%BC%80%E6%BA%90%E7%BB%84%E4%BB%B6%E4%B8%8E%E5%BA%93%E7%B4%A2%E5%BC%95)
+- [Pattern Library: 模式库](#pattern-library-%E6%A8%A1%E5%BC%8F%E5%BA%93)
   * [List](#list)
   * [Table](#table)
-  * [Form- [2017Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.- [Formik【Project】](https://github.com/jaredpalmer/formik): Forms in React, without tears- [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)](#form--2017some-thoughts-on-forms-in-reacthttpspargcobir-there-are-a-number-of-viable-approaches-to-solve-aforementioned-situations-when-it-comes-forms-in-react-land-without-getting-too-specific-lets-just-think-about-those-approaches-from-a-high-level-perspective--formikprojecthttpsgithubcomjaredpalmerformik-forms-in-react-without-tears--2017-automagically-manage-react-forms-state-and-automatic-validation-with-mobxhttpsmediumcomfoxhound87automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769) 
+  * [Form](#form) 
 
-# React 开源组件与库索引- [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components - [2017-react-imgpro【Project】](https://github.com/nitin42/react-imgpro): Image Processing Component for React. # Pattern Library: 模式库- [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
+# React 开源组件与库索引
+- [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components 
+- [2017-react-imgpro【Project】](https://github.com/nitin42/react-imgpro): Image Processing Component for React. 
+# Pattern Library: 模式库
+- [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
+
 - [Ant Design](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
 ## List
-- [2015-Index as a key is an anti-pattern](https://parg.co/beq)- [React Canvas【Project】](https://github.com/Flipboard/react-canvas)- [React JSX: Iterating through a hash and returning JSX elements for each key](http://stackoverflow.com/questions/29534224/react-jsx-iterating-through-a-hash-and-returning-jsx-elements-for-each-key)- [Understanding unique keys for array children in React.js](http://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js)- [Rendering List of Elements in React With JSX](http://jasonjl.me/blog/2015/04/18/rendering-list-of-elements-in-react-with-jsx/)
+
+- [2015-Index as a key is an anti-pattern](https://parg.co/beq)
+- [React Canvas【Project】](https://github.com/Flipboard/react-canvas)
+- [React JSX: Iterating through a hash and returning JSX elements for each key](http://stackoverflow.com/questions/29534224/react-jsx-iterating-through-a-hash-and-returning-jsx-elements-for-each-key)
+- [Understanding unique keys for array children in React.js](http://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js)
+- [Rendering List of Elements in React With JSX](http://jasonjl.me/blog/2015/04/18/rendering-list-of-elements-in-react-with-jsx/)
 ## Table
 - Table：[react-datasheet](https://nadbm.github.io/react-datasheet/)
 
-## Form- [2017Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.- [Formik【Project】](https://github.com/jaredpalmer/formik): Forms in React, without tears- [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
+## Form
+- [2017Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.
+- [Formik【Project】](https://github.com/jaredpalmer/formik): Forms in React, without tears
+- [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
+
 
 

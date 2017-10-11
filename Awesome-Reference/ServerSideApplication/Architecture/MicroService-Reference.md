@@ -8,20 +8,34 @@
 # 微服务架构学习与实践资料索引
 本部分资料侧重于微服务模式设计与上层应用实践。
 # 基础概念
+
 - [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
+
 - [From Monolith to Microservices](https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d#.iof40icta): How we’re rebuilding our infrastructure from scratch.
+
 - [2017-微服务架构（Microservice Architecture）总结](https://parg.co/b22)
 # 架构实践
+
 - [现代化 Web 的微服务架构最佳实践全景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994851&idx=1&sn=3c197d1dd03b77c2e28d53eea51ceb03&chksm=bdbf00f08ac889e6578cf9c007420083ad6a211aa7d9010469df838ad9970abfe626c7d4277e&mpshare=1&scene=23&srcid=11212awqMjU8OcidSWhGPTbc#rd)
-- [2017-如何快速搭建一个微服务架构？](http://mp.weixin.qq.com/s/aR_gz8Ns6ndegCc9WDT6fQ)：微服务火了很久，但网上很少有文章能做到成熟地将技术传播出来，同时完美地照顾“初入微服务领域人员”，从 0 开始，采用通俗易懂的语言去讲解微服务架构的系列。所以，我们策划了这篇文章。- [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348) - [Refactoring to microservices【Series】](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)- [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
+
+- [2017-如何快速搭建一个微服务架构？](http://mp.weixin.qq.com/s/aR_gz8Ns6ndegCc9WDT6fQ)：微服务火了很久，但网上很少有文章能做到成熟地将技术传播出来，同时完美地照顾“初入微服务领域人员”，从 0 开始，采用通俗易懂的语言去讲解微服务架构的系列。所以，我们策划了这篇文章。
+- [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348) 
+- [Refactoring to microservices【Series】](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+- [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
 # 大厂分享- 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)- 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)- 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
+
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 
 
+
 - [2016-架构师特刊-微服务与 DevOps 技术内参【Book】](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
+
 - [2017-The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices): In this article, we will look at microservices, not as a tool to scale the organization, development and release process (even though it's one of the main reasons for adopting microservices), but from an architecture and design perspective, and put it in its true context: distributed systems.
+
 - [2017-Testing Strategies in Microservices Architecture](https://parg.co/bec): Microservices is a new term introduced which changed the architecture of the software development, moreover, it changes the working culture of the teams the way teams work together.
+
 - [2017-REST ? RPC ? 是时候改变你对微服务的认知了！](https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg): 在本文中，我们将会讨论一种完全不同的架构：不是把service们通过命令链揉到一块，而是通过事件流（stream of events）来做。这是一个不错的方式。这种方式也是我们之后要讨论的一系列的一个基础。
 
 
 # Self-hosted Service
+
 - [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
