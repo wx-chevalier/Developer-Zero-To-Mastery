@@ -1,9 +1,12 @@
+import { appendix } from '../../shared/dict';
+
 const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
 const markdownToc = require('markdown-toc');
 import repos from '../../shared/repo-config';
 import { login } from './automation';
 import { setUp } from './api';
+import { LICENSE } from '../../shared/license';
 
 /**
  * Description 将为知笔记中的内容同步到指定目录
@@ -96,6 +99,9 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
         if (note.info.title != 'README.md') {
           // 将笔记写入到指定目录
           note.html = header + note.html;
+        } else {
+          // 如果是 README.md 需要写入额外内容
+          note.html += appendix;
         }
 
         fs.outputFile(file, note.html);
@@ -103,6 +109,11 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
 
       console.log(`已处理笔记数：${noteNum}`);
     }
+
+    // 写入 LICENSE
+    const file = `${basePath}${wizCatalogue}/LICENSE`;
+
+    fs.outputFile(file, LICENSE);
 
     console.log(`总处理笔记数：${noteNum}`);
 

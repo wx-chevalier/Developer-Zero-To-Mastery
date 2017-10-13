@@ -34,6 +34,44 @@ const repos: { [key: string]: ReposityConfig } = {
     sUrl: 'https://parg.co/b4z',
     chapterHeader: 'https://parg.co/UGo',
     useSubHeader: true
+  },
+
+  // Domain-of-ProgrammingLanguage
+  'Modern-JavaScript-Development-Foundation': {
+    description: '现代 JavaScript 开发：语法基础与工程实践',
+    wizCatalogue:
+      '/Workbench/Domain-of-ProgrammingLanguage/JavaScript/Modern-JavaScript-Development-Foundation',
+    repository: 'Domain-of-ProgrammingLanguage',
+    basePath: 'JavaScript/Modern-JavaScript-Development-Foundation',
+    sUrl: '﻿https://parg.co/bxN',
+    chapterHeader: '"https://parg.co/UG3"',
+    useSubHeader: false
+  },
+
+  // Web-Development-And-Engineering-Practices
+  'Modern-Web-Application-Architecture-And-Performance-Optimization': {
+    description: '现代 Web 应用架构与性能调优',
+    wizCatalogue:
+      '/Workbench/Web-Development-And-Engineering-Practices/Modern-Web-Application-Architecture-And-Performance-Optimization',
+    repository: 'Web-Development-And-Engineering-Practices',
+    basePath:
+      'Modern-Web-Application-Architecture-And-Performance-Optimization',
+    sUrl: 'https://parg.co/UGZ',
+    chapterHeader: 'https://parg.co/UGp',
+    useSubHeader: false
+  },
+
+  // ﻿ServerSideApplication-Development-And-System-Architecture
+  'Head-First-Full-Stack-Node.js': {
+    description: '深入浅出 Node.js 全栈架构',
+    wizCatalogue:
+      '/Workbench/ServerSideApplication-Development-And-System-Architecture/Head-First-Full-Stack-Node.js',
+    repository: 'ServerSideApplication-Development-And-System-Architecture',
+    basePath:
+      'Head-First-Full-Stack-Node.js',
+    sUrl: 'https://parg.co/b2s',
+    chapterHeader: 'https://parg.co/UGX',
+    useSubHeader: false
   }
 };
 

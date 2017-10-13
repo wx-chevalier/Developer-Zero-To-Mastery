@@ -55,7 +55,8 @@ export const setUp = page => {
       container.style.display = 'none';
 
       container.innerHTML = rawHTML
-        .replace(/<div>/g, '<div><br>')
+        .replace(/<div\b[^>]*>/g, '<div><br>')
+        .replace(/<p\b[^>]*>/g, '<p><br>')
         .replace(/<br\b[^>]*>/g, `<span>${br}</span>`);
 
       document.body.appendChild(container);
