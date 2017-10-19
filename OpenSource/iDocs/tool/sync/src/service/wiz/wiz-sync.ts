@@ -12,8 +12,13 @@ import { LICENSE } from '../../shared/license';
  * Description 将为知笔记中的内容同步到指定目录
  * @param {string} basePath
  * @param {string} repoName
+ * @param option
  */
-export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
+export function wizSync(
+  basePath = '/tmp',
+  repoName = 'Awesome-Reference',
+  option:{} = {}
+) {
   // 获得到仓库名
   const repo = repos[repoName];
 
@@ -55,7 +60,7 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
           start: 0,
           count: 200,
           orderBy: 'modified',
-          ascending: 'desc'
+          ascending: 'desc',
         });
 
         let notes = [];
@@ -67,7 +72,7 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
             `/ks/note/download/62f7d6c2-7c7c-4804-aa61-bb561897ba12/${rawNote.docGuid}`,
             {
               downloadInfo: 1,
-              downloadData: 1
+              downloadData: 1,
             }
           );
 
@@ -90,19 +95,19 @@ export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference') {
         // 移除文件首部的 [toc]
         note.html = note.html.replace('[toc]', '');
 
-        // 生成 MarkDown 文件目录
-        const toc = markdownToc(note.html).content;
-
-        // 插入统一的文件头
-        const header = `[![章节头](${repo.chapterHeader})](${repo.sUrl}) \n ${toc} \n\n`;
-
-        if (note.info.title != 'README.md') {
-          // 将笔记写入到指定目录
-          note.html = header + note.html;
-        } else {
-          // 如果是 README.md 需要写入额外内容
-          note.html += appendix;
-        }
+        // // 生成 MarkDown 文件目录
+        // const toc = markdownToc(note.html).content;
+        //
+        // // 插入统一的文件头
+        // const header = `[![章节头](${repo.chapterHeader})](${repo.sUrl}) \n ${toc} \n\n`;
+        //
+        // if (note.info.title != 'README.md') {
+        //   // 将笔记写入到指定目录
+        //   note.html = header + note.html;
+        // } else {
+        //   // 如果是 README.md 需要写入额外内容
+        //   note.html += appendix;
+        // }
 
         fs.outputFile(file, note.html);
       }

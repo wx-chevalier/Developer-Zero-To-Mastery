@@ -6,7 +6,6 @@ export interface ReposityConfig {
   description: string;
 
   // 所属为知笔记目录
-
   wizCatalogue: string;
 
   // 书或系列对应的仓库名
@@ -25,6 +24,16 @@ export interface ReposityConfig {
 }
 
 const repos: { [key: string]: ReposityConfig } = {
+  Workbench: {
+    description: 'Workbench',
+    wizCatalogue: '/Workbench',
+    repository: '',
+    basePath: '',
+    sUrl: '',
+    chapterHeader: '',
+    useSubHeader: false,
+  },
+
   // Coder-Knowledge-Management
   'Awesome-Reference': {
     description: 'Awesome-Reference',
@@ -33,7 +42,7 @@ const repos: { [key: string]: ReposityConfig } = {
     basePath: 'Awesome-Reference',
     sUrl: 'https://parg.co/b4z',
     chapterHeader: 'https://parg.co/UGo',
-    useSubHeader: true
+    useSubHeader: true,
   },
 
   // Domain-of-ProgrammingLanguage
@@ -45,7 +54,7 @@ const repos: { [key: string]: ReposityConfig } = {
     basePath: 'JavaScript/Modern-JavaScript-Development-Foundation',
     sUrl: '﻿https://parg.co/bxN',
     chapterHeader: '"https://parg.co/UG3"',
-    useSubHeader: false
+    useSubHeader: false,
   },
 
   // Web-Development-And-Engineering-Practices
@@ -58,7 +67,7 @@ const repos: { [key: string]: ReposityConfig } = {
       'Modern-Web-Application-Architecture-And-Performance-Optimization',
     sUrl: 'https://parg.co/UGZ',
     chapterHeader: 'https://parg.co/UGp',
-    useSubHeader: false
+    useSubHeader: false,
   },
 
   // ﻿ServerSideApplication-Development-And-System-Architecture
@@ -67,12 +76,11 @@ const repos: { [key: string]: ReposityConfig } = {
     wizCatalogue:
       '/Workbench/ServerSideApplication-Development-And-System-Architecture/Head-First-Full-Stack-Node.js',
     repository: 'ServerSideApplication-Development-And-System-Architecture',
-    basePath:
-      'Head-First-Full-Stack-Node.js',
+    basePath: 'Head-First-Full-Stack-Node.js',
     sUrl: 'https://parg.co/b2s',
     chapterHeader: 'https://parg.co/UGX',
-    useSubHeader: false
-  }
+    useSubHeader: false,
+  },
 };
 
 export default repos;
