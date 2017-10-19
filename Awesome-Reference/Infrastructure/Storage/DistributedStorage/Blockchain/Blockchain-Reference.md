@@ -1,10 +1,3 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [区块链资料索引](#%E5%8C%BA%E5%9D%97%E9%93%BE%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-- [Implementation](#implementation)
-  * [JavaScript](#javascript)
-  * [Python](#python)
-- [Bitcoin](#bitcoin) 
-
 
 
 # 区块链资料索引
@@ -35,8 +28,11 @@
 
 - [2017- 区块链开发技术综述](http://mp.weixin.qq.com/s/LSTYz1LyRdrhOwbg0f4v2A) 
 
+
 - [区块链到底有啥用？ ](http://mp.weixin.qq.com/s?__biz=MzA5Mzk0MDU1Ng==&mid=2650893865&idx=1&sn=a9a5ec4388100528c69a2629725a6dc7&chksm=8ba3f00abcd4791cec625842185a7948d03d1a82afdd2bf550cac2becab1cfa65a27a266e22d&scene=0#wechat_redirect)
+
 - [专访钟馥百：区块链技术如何落地保险互助行业](http://www.infoq.com/cn/news/2016/08/zhongfubai-interview)
+
 - [区块链——2016最耀眼的新兴技术之一 ](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815383&idx=1&sn=dd55f73df9f054b4d1354675f76b2f61)
 
 

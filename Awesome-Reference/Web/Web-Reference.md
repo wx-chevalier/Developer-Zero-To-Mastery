@@ -1,10 +1,4 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [Web 学习与实践资料索引](#web-%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-- [Sight: 视野](#sight-%E8%A7%86%E9%87%8E)
-  * [Front-end Leader: 领袖意见](#front-end-leader-%E9%A2%86%E8%A2%96%E6%84%8F%E8%A7%81)
-  * [Giant Practice: 大厂实践](#giant-practice-%E5%A4%A7%E5%8E%82%E5%AE%9E%E8%B7%B5)
-- [Book: 书籍](#book-%E4%B9%A6%E7%B1%8D)
-- [Framework: 框架设计与对比](#framework-%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AF%B9%E6%AF%94) 
+
 
 
 

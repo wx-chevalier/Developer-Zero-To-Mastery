@@ -1,67 +1,61 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](#web%E5%89%8D%E7%AB%AF%E4%BB%8E%E5%85%A5%E9%97%A8%E8%8F%9C%E9%B8%9F%E5%88%B0%E5%AE%9E%E8%B7%B5%E8%80%81%E5%8F%B8%E6%9C%BA%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E8%B5%84%E6%96%99%E4%B8%8E%E6%8C%87%E5%8D%97%E5%90%88%E9%9B%86)
-- [Introduction & Overview:入门与概览> 欢迎来到，前端世界！](#introduction--overview%E5%85%A5%E9%97%A8%E4%B8%8E%E6%A6%82%E8%A7%88-%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%89%8D%E7%AB%AF%E4%B8%96%E7%95%8C)
-  * [Tutorials](#tutorials)
-  * [Playground / StartKits](#playground--startkits)
-- [Resources:综合](#resources%E7%BB%BC%E5%90%88)
-  * [Collections:资源汇总帖](#collections%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%E5%B8%96)
-  * [Books & Serials:书籍与系列文章](#books--serials%E4%B9%A6%E7%B1%8D%E4%B8%8E%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0)
-  * [Courses:教程](#courses%E6%95%99%E7%A8%8B)
-  * [Blogs & Forums:博客与论坛](#blogs--forums%E5%8D%9A%E5%AE%A2%E4%B8%8E%E8%AE%BA%E5%9D%9B)
-    + [企业- 百度:[百度前端学院](https://github.com/baidu-ife/ife)，[百度FEX技术周刊](http://fex.baidu.com/weekly/)- 阿里:[阿里-AMFE](https://github.com/amfe/article)- 腾讯:[AlloyTeam](http://www.alloyteam.com/)](#%E4%BC%81%E4%B8%9A--%E7%99%BE%E5%BA%A6%E7%99%BE%E5%BA%A6%E5%89%8D%E7%AB%AF%E5%AD%A6%E9%99%A2httpsgithubcombaidu-ifeife%E7%99%BE%E5%BA%A6fex%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8Ahttpfexbaiducomweekly--%E9%98%BF%E9%87%8C%E9%98%BF%E9%87%8C-amfehttpsgithubcomamfearticle--%E8%85%BE%E8%AE%AFalloyteamhttpwwwalloyteamcom)
-    + [英文](#%E8%8B%B1%E6%96%87)
-    + [中文](#%E4%B8%AD%E6%96%87)
-  * [Tools:工具](#tools%E5%B7%A5%E5%85%B7)
-  * [仰望星空](#%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA)
-- [Syntax:基础语法](#syntax%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-  * [HTML](#html)
-  * [CSS](#css)
-    + [BestPractices- CSS Styleguide:[20个编写现代CSS代码的建议](https://segmentfault.com/a/1190000006834519)，[瞅瞅Facebook是怎么保证CSS代码质量的](https://segmentfault.com/a/1190000005719354)，[提升你的CSS姿势](https://segmentfault.com/a/1190000005775934)](#bestpractices--css-styleguide20%E4%B8%AA%E7%BC%96%E5%86%99%E7%8E%B0%E4%BB%A3css%E4%BB%A3%E7%A0%81%E7%9A%84%E5%BB%BA%E8%AE%AEhttpssegmentfaultcoma1190000006834519%E7%9E%85%E7%9E%85facebook%E6%98%AF%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81css%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%84httpssegmentfaultcoma1190000005719354%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84css%E5%A7%BF%E5%8A%BFhttpssegmentfaultcoma1190000005775934)
-  * [JavaScript](#javascript)
-    + [ES6/ES7专区](#es6es7%E4%B8%93%E5%8C%BA)
-    + [Practices & Tips:实战与提高](#practices--tips%E5%AE%9E%E6%88%98%E4%B8%8E%E6%8F%90%E9%AB%98)
-    + [StyleGuides:样式与风格](#styleguides%E6%A0%B7%E5%BC%8F%E4%B8%8E%E9%A3%8E%E6%A0%BC)
-  * [DOM](#dom)
-- [Advanced## StateManagement:状态管理](#advanced%23%23-statemanagement%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86)
-- [Browser:浏览器## Engine### Electron](#browser%E6%B5%8F%E8%A7%88%E5%99%A8%23%23-engine%23%23%23-electron)
-  * [Headless Browser### PhantomJS### Selenium### JSDOM](#headless-browser%23%23%23-phantomjs%23%23%23-selenium%23%23%23-jsdom)
-  * [Render:渲染](#render%E6%B8%B2%E6%9F%93)
-- [Framework:常用框架](#framework%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6)
-  * [View](#view)
-    + [React](#react)
-  * [StateManagement](#statemanagement)
-    + [Redux](#redux)
-  * [Utils:辅助工具![](https://camo.githubusercontent.com/ba50d8e5d95b2846628c2c05f629fc67a913bbed/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31312f332f312d615838774e735f6f5651345a5a44557a6f77696f6c672e6a706567)](#utils%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7httpscamogithubusercontentcomba50d8e5d95b2846628c2c05f629fc67a913bbed68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31312f332f312d615838774e735f6f5651345a5a44557a6f77696f6c672e6a706567)
-    + [jQuery](#jquery)
-  * [NodeJS](#nodejs)
-  * [Builder### Webpack](#builder%23%23%23-webpack)
-- [Career & Interview:工作与面试](#career--interview%E5%B7%A5%E4%BD%9C%E4%B8%8E%E9%9D%A2%E8%AF%95) 
+
+
 
 
 # Web前端从入门菜鸟到实践老司机所需要的资料与指南合集
-# Introduction & Overview:入门与概览> 欢迎来到，前端世界！
+
+
+# Introduction & Overview:入门与概览
+> 欢迎来到，前端世界！
+
+
 
 - [2016 - 对于未来五年内Web发展的7个预测](https://medium.com/@fagnerbrack/7-predictions-for-the-web-in-the-next-5-years-d57322717df3#.vbzvreljr)
+
 - [2015 - 我的前端之路:从命令式到响应式，以及组件化与工程化的变革](https://segmentfault.com/a/1190000004292245) 
+
 - [怎么成为一名优秀的软件工程师](https://segmentfault.com/a/1190000005646670) 
+
 - [GUI应用程序架构的十年变迁:MVC,MVP,MVVM,Unidirectional,Clean](https://segmentfault.com/a/1190000006016817):十年前，Martin Fowler撰写了GUI Architectures一文，至今被奉为经典。本文所谈的所谓架构二字，核心即是对于对于富客户端的代码组织/职责划分。纵览这十年内的架构模式变迁，大概可以分为MV*与Unidirectional两大类，而Clean Architecture则是以严格的层次划分独辟蹊径。从笔者的认知来看，从MVC到MVP的变迁完成了对于View与Model的解耦合，改进了职责分配与可测试性。而从MVP到MVVM，添加了View与ViewModel之间的数据绑定，使得View完全的无状态化。最后，整个从MV*到Unidirectional的变迁即是采用了消息队列式的数据流驱动的架构，并且以Redux为代表的方案将原本MV*中碎片化的状态管理变为了统一的状态管理，保证了状态的有序性与可回溯性。 
 
+
+
+
+
 ## Tutorials
+
 - [MDN](https://developer.mozilla.org/zh-CN/):Mozilla 开发者网络（MDN）提供有关开放网络技术（Open Web）的信息，包括HTML、CSS 和万维网及HTML5 应用的API。非常权威与详细的各种语法细节介绍，必看首推。
+
 - [How-To-Become-A-Great-Front-End-Engineer](http://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/):如何成为一名伟大的前端工程师
+
 - [专治前端焦虑的学习方案](https://segmentfault.com/a/1190000007362890)
+
 - [Frontend-Guidelines-Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire):一个单页的问卷能帮助你的团队建立高效一直的前端指南。
+
 - [四分钟交互式地了解Web设计基本规范:从零开始设计得体的个人网站](https://segmentfault.com/a/1190000006099522)
+
+
 ## Playground / StartKits
-- 在线编译:[CodePen](http://codepen.io/)、[JSFiddle](http://jsfiddle.net/)、[RunJS](http://runjs.cn/square):这些网站为我们提供了可以在线编辑HTML/CSS/JavaScript与即时预览的工作台。同时，在这些网站上也沉淀了大量优秀的代码片与示例，笔者就经常在CodePen上欣赏各种神奇的动画效果。 ![](https://production-assets.codepen.io/assets/marketing/hello/hello-browser-bd23691acba31be3db5b047016aea401492370da573c63da78eb472903dd9bcf.jpg)。
+
+
+- 在线编译:[CodePen](http://codepen.io/)、[JSFiddle](http://jsfiddle.net/)、[RunJS](http://runjs.cn/square):这些网站为我们提供了可以在线编辑HTML/CSS/JavaScript与即时预览的工作台。同时，在这些网站上也沉淀了大量优秀的代码片与示例，笔者就经常在CodePen上欣赏各种神奇的动画效果。 
+![](https://production-assets.codepen.io/assets/marketing/hello/hello-browser-bd23691acba31be3db5b047016aea401492370da573c63da78eb472903dd9bcf.jpg)。
+
+
 # Resources:综合
+
+
 ## Collections:资源汇总帖
+
+
 
 - [MyBridge搜集的一系列面向Web开发者有用的书籍](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.1jl86wnr6)
 
 - [Frontend-Dev-Resources](https://github.com/dmytroyarmak/frontend-dev-resources):一系列关于前端的会议
 
+
 - [关于前端面试相关的资源整理](https://mdluo.github.io/blog/about-front-end-interview/):整理一下最近在网上收集的前端面试相关资料，包括预备知识、书籍、面试考点、面经等。前端方面资料其实太多太多，就光从知乎、前端乱炖、w3cplus 等网站就能找到很多，所以针对细节不发散，仅挑一些内容丰富的合集，更多的资料可以从其中找到。
+
 - [Update-To-Date Frontend Technologies](https://uptodate.frontendrescue.org/):保持更新的前端最新的资料、博客、工具集合。
 
 
@@ -90,18 +84,36 @@
 
 ## Blogs & Forums:博客与论坛
 
-### 企业- 百度:[百度前端学院](https://github.com/baidu-ife/ife)，[百度FEX技术周刊](http://fex.baidu.com/weekly/)- 阿里:[阿里-AMFE](https://github.com/amfe/article)- 腾讯:[AlloyTeam](http://www.alloyteam.com/)
+
+
+### 企业
+- 百度:[百度前端学院](https://github.com/baidu-ife/ife)，[百度FEX技术周刊](http://fex.baidu.com/weekly/)
+- 阿里:[阿里-AMFE](https://github.com/amfe/article)
+- 腾讯:[AlloyTeam](http://www.alloyteam.com/)
+
+
 ### 英文
+
 - [RisingStack Engineering](https://blog.risingstack.com/):一系列关于JavaScript与NodeJS的博客，笔者感觉其在NodeJS方面行文还是很深入的 
+
+
 ### 中文
+
 - [王下邀月熊 - 前端系列博客]():笔者自己的博客，不断完善中，放在这里纯属私心，不能和下面的相提并论。笔者自己觉得行文倒是其次，笔者一直主张要建立属于自己的完善的知识体系。
+
 - [前端外刊评论](https://zhuanlan.zhihu.com/FrontendMagazine):关注前端前沿技术，探寻业界深邃思想 qianduan.guru。
+
 - [奇舞周刊](http://old.75team.com/weekly/):汇聚前端精华，每周五更新的周刊，内容尚可。
+
 - [前端之巅公众号]():定期推送的前端文章，有精品也有套文。
+
 - [Div.io](http://div.io/#/welcome):文章更新不是很快，不过也有不少的好文章。
+
 - [Fouber-系列博客](https://github.com/fouber/blog)
 
+
 - [JSFront](https://github.com/jsfront/month):JS前端开发群月报，由豪情等人维护。
+
 
 ## Tools:工具
 
@@ -125,56 +137,133 @@
 
 - [JS1K](http://js1k.com/):大名鼎鼎的js1K，1K字节以内的Javascript代码，实现一个酷炫的动画、特效、小游戏之类的。官网从2010年开始征集参赛作品，现在已经办了７年了，还在办。
 
+
 # Syntax:基础语法
+
+
 ## HTML
 
+
+
+
 ## CSS
+
+
 - 如果你觉得CSS非常简单那么看看这些啪啪打脸的:[If CSS is so easy why does everyone suck?](https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.lqypo3f7r) 
+
+
 - 语法速查工具:[CSS属性指引](http://www.blooberry.com/indexdot/css/propindex/all.htm)，[免费的可视化CSS各个属性效果展示](http://cssreference.io/)
-### BestPractices- CSS Styleguide:[20个编写现代CSS代码的建议](https://segmentfault.com/a/1190000006834519)，[瞅瞅Facebook是怎么保证CSS代码质量的](https://segmentfault.com/a/1190000005719354)，[提升你的CSS姿势](https://segmentfault.com/a/1190000005775934)
+
+
+### BestPractices
+- CSS Styleguide:[20个编写现代CSS代码的建议](https://segmentfault.com/a/1190000006834519)，[瞅瞅Facebook是怎么保证CSS代码质量的](https://segmentfault.com/a/1190000005719354)，[提升你的CSS姿势](https://segmentfault.com/a/1190000005775934)
+
+
 ## JavaScript
 
+
+
 - [我应该从哪一门编程语言上车? ](https://segmentfault.com/a/1190000007398287):这里有你学习JavaScript的理由。
+
 - [廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000):介绍了基础的语法与API。
+
 - [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/):阮一峰老师出品，相当完善与成体系，也是以基础语法与API为主。
+
 
 - [2015 - Speaking JavaScript【Book】](http://speakingjs.com/es5/index.html#toc_ch01):Dr. Axel出品的详细JavaScript基础语法的书籍。
 
+
 - [2015 - You-Dont-Know-JS【Series】](https://github.com/getify/You-Dont-Know-JS):告诉你关于许多你并不知道的JS知识
+
+
 ### ES6/ES7专区
 
-- 中文教程:[阮一峰 ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)、[30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693) - 语法规范手册:[EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)、[ES2015规范 英文](http://www.ecma-international.org/ecma-262/6.0/)
+
+
+- 中文教程:[阮一峰 ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)、[30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693) 
+- 语法规范手册:[EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)、[ES2015规范 英文](http://www.ecma-international.org/ecma-262/6.0/)
+
 - [2015 - Setting Up ES6【Book】](https://leanpub.com/setting-up-es6/read):Dr. Axel出品的介绍如何搭建ES6开发环境的书籍。
+
 - [2015 - Exploring ES6【Book】](http://exploringjs.com/es6/index.html) & [2015 - ES2016&ES2017【Book】](http://exploringjs.com/es2016-es2017/index.html):Dr. Axel出品的详细的ES6的语法介绍书籍。
+
+
 ### Practices & Tips:实战与提高
+
+
 - JavaScript设计模式：[JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)，[Addy Osmani](http://twitter.com/addyosmani) 编写的 [2015 - Learn JavaScript Design Patterns【Book】](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)学习常见的JavaScript设计模式，本书不仅仅阐述JavaScript语言本身的常见设计模式，还结合了DOM&jQuery介绍了一些常用的界面上的设计模式
+
+
 
 - [Effective JavaScript](http://o8qt8c0nf.bkt.clouddn.com/%5BEffective%20JavaScript%2068%20Specific%20Ways%20to%20Harness%20the%20Power%20of%20JavaScript%20%28Effective%20Software%20Development%20Series%29%20by%20David%20Herman%20-%202013%5D.pdf):68 Specific Ways to Harness the Power of JavaScript，中文译本在[Effective JavaScript](https://github.com/dreamapplehappy/effective-javascript?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
- - 代码性能:[2016:编写高性能的JavaScript](https://segmentfault.com/a/1190000007604645)、[]()
+ 
+- 代码性能:[2016:编写高性能的JavaScript](https://segmentfault.com/a/1190000007604645)、[]()
+
+
 ### StyleGuides:样式与风格
+
+
 ## DOM
 
+
+
 - [JavaScript 30](https://javascript30.com/):基于VanillaJS可以实现的30个小应用
-# Advanced## StateManagement:状态管理
+
+
+# Advanced
+## StateManagement:状态管理
+
 - [Web开发中所谓状态浅析:Domain State&UI State](https://segmentfault.com/a/1190000005947593)
+
 - [思考:我需要怎样的前端状态管理工具?](https://segmentfault.com/a/1190000007103433)
-# Browser:浏览器## Engine### Electron
+
+
+# Browser:浏览器
+## Engine
+### Electron
+
+
 
 - [Electron 概述与初探](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/blob/master/Browser/Engine/Electron/Electron.md) 
+
 - [Hokein编辑的Electron示范项目](https://github.com/hokein/electron-sample-apps/blob/master/README.md)
-- [基于Electron的OSX下桌面OCR应用:Cute OCR Toolkits For OSX, Based On Electron,React&Tesseract](https://github.com/wxyyxc1992/ElectronOCR) 
-## Headless Browser### PhantomJS### Selenium### JSDOM
+
+- [基于Electron的OSX下桌面OCR应用:Cute OCR Toolkits For OSX, Based On Electron,React&Tesseract](https://github.com/wxyyxc1992/ElectronOCR)
+ 
+
+## Headless Browser
+### PhantomJS
+### Selenium
+### JSDOM
+
+
 ## Render:渲染
+
+
 - 浏览器工作原理:[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)、[浏览器工作原理](https://segmentfault.com/a/1190000004934730)、[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+
+
 - 网页渲染:[CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)、[JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/?utm_source=tuicool&utm_medium=referral)
+
 - [高性能JavaScript重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
+
 - [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+
 - [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
-- [渲染性能](https://github.com/sundway/blog/issues/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+
+- [渲染性能](https://github.com/sundway/blog/issues/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+ 
+
 - [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)
+
+
 # Framework:常用框架
+
+
 ![](https://camo.githubusercontent.com/42266e71aa395fc757534be4b1b4d64bbf556e46/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31302f322f312d7261574f3364684d346a4d6a663956592d6b5a7a4e672e706e67)
+
+
 
 
 - [JavaScripting](http://www.javascripting.com/):一个搜集所有的优秀JavaScript前端库以及对其打分评比的网站
@@ -193,7 +282,13 @@
 - React 设计思想与理念:[React 概念模型——脱离React谈谈它的设计思想](https://segmentfault.com/a/1190000005159165)。
 - React RoadMap:[React的未来特性 ](https://segmentfault.com/a/1190000007376242)。
 
+
 - React StyleGuide:[如何写出漂亮的React组件](https://segmentfault.com/a/1190000007553885)。
+
+
+
+
+
 
 
 
@@ -203,21 +298,48 @@
 - 博客与论坛:[Redux 入门与最佳实践系列总纲【Series】](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/tree/master/Framework/StateManagement/Redux)。
 - 最佳实践:[深入理解Redux:10个来自专家的Redux实践建议 ](https://segmentfault.com/a/1190000006769471)。
  
-## Utils:辅助工具![](https://camo.githubusercontent.com/ba50d8e5d95b2846628c2c05f629fc67a913bbed/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31312f332f312d615838774e735f6f5651345a5a44557a6f77696f6c672e6a706567) 
+
+
+## Utils:辅助工具
+![](https://camo.githubusercontent.com/ba50d8e5d95b2846628c2c05f629fc67a913bbed/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31312f332f312d615838774e735f6f5651345a5a44557a6f77696f6c672e6a706567) 
+
+
+
 ### jQuery
 
+
+
 - [你应该知道的jQuery的小技巧](https://segmentfault.com/a/1190000003911481):介绍一系列jQuery使用的小技巧。
+
 - [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md):前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 
 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 
 jQuery API 替代的方法，暂时只支持 IE10+ 以上浏览器。
+
+
 ## NodeJS
+
 - [一起学NodeJS【Series】](https://github.com/nswbmw/N-blog):使用 Express + MongoDB 搭建多人博客 
+
 - [我在阅读NodeJS文档中读出的19个套路 ](https://segmentfault.com/a/1190000007435273)
-## Builder### Webpack
+
+
+## Builder
+### Webpack
+
+
 - 中文教程:[Webpack傻瓜式指南](https://github.com/vikingmute/webpack-for-fools)，[Webpack 中文指南 -赵达](https://www.gitbook.com/book/zhaoda/webpack/details)
+
+
 # Career & Interview:工作与面试
+
+
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/11/3/1-fM15DmX9fOiTyFftaxRbPg.png) 
+
+
 
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions):H5BP出品的一系列的前端问题 
 
+
+
 - [Cracking-The-Front-End-Interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237#.29xddb8ru):解决你的前端面试，中文译本为[解决你的前端面试](https://segmentfault.com/a/1190000005127264)
+

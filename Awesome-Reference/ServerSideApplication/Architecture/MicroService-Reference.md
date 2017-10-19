@@ -1,30 +1,48 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [微服务架构学习与实践资料索引](#%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-- [基础概念](#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5)
-- [架构实践](#%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5)
-- [大厂分享- 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)- 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)- 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)](#%E5%A4%A7%E5%8E%82%E5%88%86%E4%BA%AB--%E9%98%BF%E9%87%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4aliware%E5%8D%81%E5%B9%B4%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B%E5%8E%86%E7%A8%8B%E4%B8%AD%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%8E%E5%AE%9E%E8%B7%B5httpspargcob2j--%E9%98%BF%E9%87%8C%E4%BA%912017-%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A%E5%88%86%E4%BA%AB--%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B8%8A%E4%BA%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5httpjmtaobaoorg2017080720170807--%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-go-%E5%BB%BA%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%AE%9E%E8%B7%B5httpszhuanlanzhihucomp26695984)
-- [Self-hosted Service](#self-hosted-service) 
 
 # 微服务架构学习与实践资料索引
+
+
 本部分资料侧重于微服务模式设计与上层应用实践。
+
+
 # 基础概念
+
+
 
 - [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
 
+
 - [From Monolith to Microservices](https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d#.iof40icta): How we’re rebuilding our infrastructure from scratch.
 
+
 - [2017-微服务架构（Microservice Architecture）总结](https://parg.co/b22)
+
+
 # 架构实践
+
+
 
 - [现代化 Web 的微服务架构最佳实践全景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994851&idx=1&sn=3c197d1dd03b77c2e28d53eea51ceb03&chksm=bdbf00f08ac889e6578cf9c007420083ad6a211aa7d9010469df838ad9970abfe626c7d4277e&mpshare=1&scene=23&srcid=11212awqMjU8OcidSWhGPTbc#rd)
 
+
 - [2017-如何快速搭建一个微服务架构？](http://mp.weixin.qq.com/s/aR_gz8Ns6ndegCc9WDT6fQ)：微服务火了很久，但网上很少有文章能做到成熟地将技术传播出来，同时完美地照顾“初入微服务领域人员”，从 0 开始，采用通俗易懂的语言去讲解微服务架构的系列。所以，我们策划了这篇文章。
+
 - [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348) 
+
 - [Refactoring to microservices【Series】](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+
 - [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
-# 大厂分享- 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)- 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)- 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
+
+
+# 大厂分享
+- 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)
+- 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)
+- 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
+
+
 
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 
+
 
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参【Book】](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 

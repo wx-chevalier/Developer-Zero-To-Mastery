@@ -1,19 +1,23 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [云计算和大数据平台基础架构资料索引](#%E4%BA%91%E8%AE%A1%E7%AE%97%E5%92%8C%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-- [大数据](#%E5%A4%A7%E6%95%B0%E6%8D%AE)
-- [架构演化](#%E6%9E%B6%E6%9E%84%E6%BC%94%E5%8C%96)
-- [大规模基础架构](#%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84)
-- [云计算](#%E4%BA%91%E8%AE%A1%E7%AE%97) 
 
 # 云计算和大数据平台基础架构资料索引
+
+
 [云计算和大数据平台基础架构学习与实践资料索引]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、（分布式）存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序学习与实践资料索引]()
+
+
+
+
+
 
 
 
 
 - [一系列基础架构](http://ginobefunny.com/post/reading_record_201612/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-- [从开发到架构，你需要迈过这些坎](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=208471948&idx=1&sn=4146d8e1103fb655a5d042b2f7779c90&scene=21#wechat_redirect)  
+
+
+- [从开发到架构，你需要迈过这些坎](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=208471948&idx=1&sn=4146d8e1103fb655a5d042b2f7779c90&scene=21#wechat_redirect)
+  
 
 - [务实的技术债务管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400425912&idx=1&sn=937610ebed86020fdc010643728f354e&scene=21#wechat_redirect)
   
@@ -21,7 +25,8 @@
 - [干货 | 张锦懋：千亿市场背后，美团的技术团队和挑战](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209065371&idx=1&sn=81aa9057e74e05bfc233582584224b26&scene=21#wechat_redirect)
   
 
-- [赵磊：从PHP到Node.js，漫谈Uber技术架构的变迁](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209514154&idx=1&sn=1da032d609155dc59150167c8e753a84&scene=21#wechat_redirect) 
+- [赵磊：从PHP到Node.js，漫谈Uber技术架构的变迁](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209514154&idx=1&sn=1da032d609155dc59150167c8e753a84&scene=21#wechat_redirect)
+ 
   
 
 - [访谈 | 当当架构部总监史海峰：架构与管理是相通的](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=209983490&idx=1&sn=66ea1d65c4f3df5c2a137a1ed312cf9f&scene=21#wechat_redirect)
@@ -60,17 +65,32 @@
 
 - [谈谈互联网后端基础设施](http://www.rowkey.me/blog/2016/08/27/server-basic-tech-stack/) 
 
+
 - [单点系统架构的可用性与性能优化 ](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959480&idx=1&sn=337bd74410a6bef616128fd17abd08a8&scene=0#wechat_redirect)
+
 - [设计高并发下的读服务？一个电商老兵的10条经验](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597710&idx=1&sn=e8801d7aba68485489cfcac9ac2fd2ba&scene=0#wechat_redirect)
+
 - [今日头条架构演进之路——高压下的架构演进专题（含PPT）](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547520&idx=1&sn=f303a6250eb68775e9b6dbbdea6b9f06&scene=23&srcid=0715cLKw7d65sunBdZV8Y405#rd)
 
+
+
 - [高性能高并发系统的稳定性保障](http://www.yunweipai.com/archives/10501.html) 
+
+
 # 大数据
+
+
 # 架构演化
 
+
+
 # 大规模基础架构
+
 - [2017-深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东RaaS（零售即服务）的发展策略。今天我们邀请了AI与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
+
 - [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk):  At Airbnb we promote a data informed culture and use data as a key input for making decisions. 
+
+
 
 # 云计算

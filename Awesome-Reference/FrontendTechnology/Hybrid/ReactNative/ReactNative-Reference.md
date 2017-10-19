@@ -1,70 +1,91 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [ReactNative 学习与实践资料索引](#reactnative-%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%AE%9E%E8%B7%B5%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-  * [Overview](#overview)
-- [Tutorial](#tutorial)
-  * [Quick Start: 开发环境搭建与调试](#quick-start-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%B8%8E%E8%B0%83%E8%AF%95)
-  * [Case Study: 案例分析](#case-study-%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90)
-  * [Book](#book)
-- [Component Syntax: 组件基础](#component-syntax-%E7%BB%84%E4%BB%B6%E5%9F%BA%E7%A1%80)
-  * [Style: 组件样式](#style-%E7%BB%84%E4%BB%B6%E6%A0%B7%E5%BC%8F)
-- [EPractices](#epractices)
-  * [Performance](#performance)
-  * [CrossPlatform](#crossplatform)
-  * [Production](#production)
-- [UI](#ui)
-  * [List](#list)
-  * [Pattern Library](#pattern-library)
-- [Core: 核心原理](#core-%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86)
-  * [Node](#node)
-- [EPractices](#epractices-1)
-  * [技术选型](#%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B) 
+
+
 
 
 # ReactNative 学习与实践资料索引
+
+
 ## Overview
 
+
+
 - [2016-Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction)
+
 - [2017-Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2#.azcqq063o)
 
 - [React Native 学习指南【Collection】](https://github.com/reactnativecn/react-native-guide) 
 
 
 
+
+
 # Tutorial
+
+
 
 - [2016-React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
 
+
 - [react-native-socket-io-example](https://github.com/vinnyoodles/react-native-socket-io-example)
 
+
 - [2017-Build an Imgur App with React Native and MobX](http://school.shoutem.com/lectures/build-simple-imgur-client-react-native/)
+
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet#text) 
+
 - [2017-React Native: developing using best practices](https://parg.co/beC): I am one of those who felt in love at first sight with it, so I will try to find out the best practices that should be applied to a React Native project in order to have an understandable, easily maintainable and scalable, and highly performant mobile app.
+
+
 
 ## Quick Start: 开发环境搭建与调试
 
+
+
 - [Create React Native App【Project】](http://6me.us/PIszU): Create a React Native app on any OS with no build config.
+
 - [Expo](https://expo.io/): Expo lets web developers build truly native apps that work across both iOS and Android by writing them once in just JavaScript.
+
 - [Pepperoni](https://github.com/futurice/pepperoni-app-kit): Futurice React Native Starter Kit
+
 - [SnowFlake](https://github.com/bartonhammond/snowflake): A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
+
 - [2017-VSCode for React Native](https://medium.com/@Kelset/vscode-for-react-native-526ec4a368ce): An opinionated list of extensions to get the most out of it.
+
 - [2017-GitPoint](https://github.com/gitpoint/git-point): GitHub for iOS. Built with React Native.
 
+
 ## Case Study: 案例分析
+
 - [GitBook 阅读器](https://github.com/le0zh/gitbook-reader-rn)：使用  ReactNative 开发的 GitBook 阅读器，可以查看在线的书籍信息，在线阅读和下载。
+
 - [BBCNews-React-Native](https://github.com/joeltrew/BBCNews-React-Native)
 
+
 - [f8app](https://github.com/fbsamples/f8app)
+
 - [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed)
 
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
+
+
 ## Book
+
 - [2016-Learning React Native【Book】](https://www.safaribooksonline.com/library/view/learning-react-native/9781491929049/preface01.html#idp116000)：[本书的附带的很多教学代码，还是很不错的](https://github.com/bonniee/learning-react-native)。
+
 - [2017-React and React Native【Book】](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
+
 - [beginning-mobile-app-development-with-react-native](https://leanpub.com/beginning-mobile-app-development-with-react-native?a=0_dCaHBbnEiR_Uy2Ihm_Wk) 
+
+
 # Component Syntax: 组件基础
+
+
 ## Style: 组件样式
 
+
+
 - [2016-Tips for styling your React Native apps](https://parg.co/beN): In this post I’ll go through a series of techniques for “theming” your react native application.
+
 
 # EPractices
 
@@ -131,15 +152,24 @@
 - [2017-How to use the FlatList Component — React Native Basics](https://parg.co/bXQ): Since v0.43 of React Native we’ve had access to two new list views, the FlatList and the SectionList. Today we will take a look at how to use the FlatList component.
 
 
+
 ## Pattern Library
+
 - [9-libraries-to-consider-for-your-next-react-native-project](https://medium.com/@bilalbudhani/9-libraries-to-consider-for-your-next-react-native-project-723f179d4764#.rtqlr8rid)
+
 - [react-native-wechat](https://github.com/weflex/react-native-wechat)
+
 - [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)
+
 - [code-push](https://github.com/microsoft/code-push)
+
 - [2017-react-native-interactable](https://github.com/wix/react-native-interactable): Experimental implementation of high performance interactable views in React Native.
+
 - [react-native-offline-utils](https://github.com/rauliyohmc/react-native-offline-utils): Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration.
 
+
 - [React Navigation](https://github.com/react-community/react-navigation): React Navigation is born from the React Native community's need for an extensible yet easy-to-use navigation solution.
+
 - [2017-kittenTricks](https://github.com/akveo/kittenTricks): A react native mobile starter kit with over 40 screens and theme hot reload support.
 
 

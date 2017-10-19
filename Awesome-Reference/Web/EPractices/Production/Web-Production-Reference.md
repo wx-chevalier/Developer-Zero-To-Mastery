@@ -1,31 +1,52 @@
-[![章节头](https://parg.co/UGo)](https://parg.co/b4z) 
- - [生产环境部署与监控资料索引](#%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%9B%91%E6%8E%A7%E8%B5%84%E6%96%99%E7%B4%A2%E5%BC%95)
-- [Server Side Rendering](#server-side-rendering)
-- [应用部署](#%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2)
-- [错误监控](#%E9%94%99%E8%AF%AF%E7%9B%91%E6%8E%A7)
-- [Quality Assurance: 质量保障](#quality-assurance-%E8%B4%A8%E9%87%8F%E4%BF%9D%E9%9A%9C) 
 
 # 生产环境部署与监控资料索引
+
+
 # Server Side Rendering
 
+
 - [2017-The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8) 
+
 - [2017-Client-side rendering vs. server-side rendering](https://parg.co/beg): Initially, web frameworks had views rendered at the server. Now it’s happening on the client. Let’s explore the advantage and disadvantages of each.  
+
 - [mobileHack](https://github.com/RubyLouvre/mobileHack)：这里收集了许多移动端上遇到的各种坑。
 
 - [实现前端资源增量式更新的一种思路](https://zhuanlan.zhihu.com/p/23218754?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
 # 应用部署
+
 - [2017-Bundle Buddy【Project】](https://github.com/samccone/bundle-buddy)：Bundle Buddy 能够通过分析编译生成的 SourceMap 来寻找 JavaScript 代码块之间的源代码冗余情况。该工具能够帮助开发者寻找合适的代码分割点以降低最终发布应用的不稳定性，同时还能提升页面加载性能。
 
+
+
 - [技术分享：几种常见的JavaScript混淆和反混淆工具分析实战 ](http://www.freebuf.com/articles/web/97945.html)
-- [当我们在谈论前端加密时，我们在谈些什么](http://qianduan.guru/2016/09/02/security-for-web-developer/?from=groupmessage&isappinstalled=0)
+
+
+- [当我们在谈论前端加密时，我们在谈些什么](http://qianduan.guru/2016/09/02/security-for-web-developer/)
+- [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
+
+- [移动时代的前端加密](http://blog.csdn.net/zswang/article/details/47438561?utm_source=tuicool)
+
+
+
 
 # 错误监控
+
+
 - [如何捕获和分析 JavaScript Error](http://www.cnblogs.com/cathsfz/p/how-to-capture-and-analyze-javascript-error.html)
+
 - [JSTracker：前端异常数据采集](http://taobaofed.org/blog/2015/10/28/jstracker-how-to-collect-data/)
+
 - [badjs-report -- 前端异常捕获与上报](https://github.com/BetterJS/badjs-report)
+
 - [《美团点评前端无痕埋点实践》](http://tech.meituan.com/mt-mobile-analytics-practice.html)：构建一个数据平台大体上包括数据采集、数据上报、数据存储、数据计算，以及数据的可视化展示等几个重要的环节。前端数据采集与上报是整个流程中最重要的一环，只有确保前端数据生产的全面、准确、及时，最终产生的数据结果才是可靠的、有价值的。为了解决前端埋点的准确性、及时性、开发效率等问题，业内各家公司从不同角度，提出了多种技术方案，本文则是美团点评前端无痕埋点实践。( http://suo.im/fVPpT )
 - [PhantomJS & NodeJS 在京东网站前端监控平台的最佳实践](https://zhuanlan.zhihu.com/p/22271290?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+
+
+
 # Quality Assurance: 质量保障
+
 - [2017-美团点评收银台前端可用性保障实践](https://parg.co/ba2)：本文主要讨论的是前端可用性相关话题，以在美团点评移动端网页收银台的实践为例，讲解收银台前端是如何保障可用性的。
+
