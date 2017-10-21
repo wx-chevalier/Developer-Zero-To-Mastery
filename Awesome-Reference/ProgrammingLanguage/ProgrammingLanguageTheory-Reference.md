@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+
+
 # 编程语言理论资料索引
 
 - [2017-Where do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/): In short, type theory was developed to be an alternative to set theory as the foundation of mathematical proofs in symbolic logic due to its ability to solve some contradictions stemming from naive set theory.

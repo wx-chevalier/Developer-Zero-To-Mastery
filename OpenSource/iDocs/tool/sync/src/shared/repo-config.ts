@@ -20,20 +20,15 @@ export interface ReposityConfig {
   // 书中每一章节需要插入的章节头
   chapterHeader: string;
 
+  // 是否使用二级目录头
   useSubHeader?: boolean;
+
+  // 本地仓库路径
+  localPath?: string;
 }
 
+// 所有仓库的声明
 const repos: { [key: string]: ReposityConfig } = {
-  Workbench: {
-    description: 'Workbench',
-    wizCatalogue: '/Workbench',
-    repository: '',
-    basePath: '',
-    sUrl: '',
-    chapterHeader: '',
-    useSubHeader: false,
-  },
-
   // Coder-Knowledge-Management
   'Awesome-Reference': {
     description: 'Awesome-Reference',
@@ -43,6 +38,7 @@ const repos: { [key: string]: ReposityConfig } = {
     sUrl: 'https://parg.co/b4z',
     chapterHeader: 'https://parg.co/UGo',
     useSubHeader: true,
+    localPath: '/Users/apple/Workspace/Docs/Coder-Knowledge-Management/Awesome-Reference',
   },
 
   // Domain-of-ProgrammingLanguage

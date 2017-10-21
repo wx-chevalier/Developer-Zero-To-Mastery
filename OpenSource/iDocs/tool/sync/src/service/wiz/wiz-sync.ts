@@ -14,11 +14,7 @@ import { LICENSE } from '../../shared/license';
  * @param {string} repoName
  * @param option
  */
-export function wizSync(
-  basePath = '/tmp',
-  repoName = 'Awesome-Reference',
-  option:{} = {}
-) {
+export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference', option: {} = {}) {
   // 获得到仓库名
   const repo = repos[repoName];
 
@@ -99,7 +95,7 @@ export function wizSync(
         // const toc = markdownToc(note.html).content;
         //
         // // 插入统一的文件头
-        // const header = `[![章节头](${repo.chapterHeader})](${repo.sUrl}) \n ${toc} \n\n`;
+        // const header = `[![返回目录](${repo.chapterHeader})](${repo.sUrl}) \n ${toc} \n\n`;
         //
         // if (note.info.title != 'README.md') {
         //   // 将笔记写入到指定目录
