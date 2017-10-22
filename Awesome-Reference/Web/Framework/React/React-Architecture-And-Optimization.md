@@ -1,9 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
-
-
-
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # React 应用架构与性能优化资料索引
 
@@ -49,7 +44,7 @@
 
 ## CodeStyle: 代码风格
 
-- [eslint-plugin-react【Project】](https://parg.co/b11): React specific linting rules for ESLint.
+- [eslint-plugin-react #Project# ](https://parg.co/b11): React specific linting rules for ESLint.
 
 
 
@@ -61,7 +56,7 @@
 
 - [non-functional-react-js](https://medium.com/@arqex/non-functional-react-js-6e020ce27ee2#.cj3dcxl4j)
 
-- [recompose【Project】](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate): A React utility belt for function components and higher-order components.
+- [recompose #Project# ](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate): A React utility belt for function components and higher-order components.
 
 - [2016-Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198): Building a Utility Library for React
 
@@ -151,7 +146,7 @@
 
 - [High Performance React: 3 New Tools to Speed Up Your Apps](https://parg.co/b1v): In this post I’ll highlight tools and techniques for making React apps fast. Each section also has an interactive, and (hopefully) fun demo!
 
-- [why-did-you-update【Project】](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
+- [why-did-you-update #Project# ](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
 
 
@@ -161,7 +156,7 @@
 
 
 
-- [2017-React Loadable【Project】](https://github.com/thejameskyle/react-loadable):  [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility【Project】](https://github.com/stratiformltd/react-loadable-visibility)
+- [2017-React Loadable #Project# ](https://github.com/thejameskyle/react-loadable):  [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility #Project# ](https://github.com/stratiformltd/react-loadable-visibility)
 
 - [2017-Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html): This chapter is an extra step that can help speed up the initial load time of your React app.
 

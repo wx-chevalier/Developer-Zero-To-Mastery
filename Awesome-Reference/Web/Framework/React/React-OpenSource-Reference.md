@@ -1,13 +1,22 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 # React 开源组件与库索引
 
 - [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
  
-- [2017-react-imgpro【Project】](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
+- [2017-react-imgpro #Project# ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
  
 # Pattern Library: 模式库
 
@@ -23,7 +32,7 @@
 
 - [2015-Index as a key is an anti-pattern](https://parg.co/beq)
 
-- [React Canvas【Project】](https://github.com/Flipboard/react-canvas)
+- [React Canvas #Project# ](https://github.com/Flipboard/react-canvas)
 
 - [React JSX: Iterating through a hash and returning JSX elements for each key](http://stackoverflow.com/questions/29534224/react-jsx-iterating-through-a-hash-and-returning-jsx-elements-for-each-key)
 
@@ -43,7 +52,7 @@
 
 - [2017Some Thoughts On Forms in React](https://parg.co/bIR): There are a number of viable approaches to solve aforementioned situations when it comes forms in React land. Without getting too specific, let’s just think about those approaches from a high level perspective.
 
-- [Formik【Project】](https://github.com/jaredpalmer/formik): Forms in React, without tears
+- [Formik #Project# ](https://github.com/jaredpalmer/formik): Forms in React, without tears
 
 - [2017-Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
 

@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 # Nginx 资料索引
 
@@ -8,7 +17,7 @@
 - [2017-An nginx config for 2017](https://certsimple.com/blog/nginx-http2-load-balancing-config): With HTTP/2 in every browser, load balancing with automatic failover, IPv6, a sorry page, separate blog server, HTML5 SSE and A+ HTTPS.
 
 
-- [2017-gixy【Project】](https://github.com/yandex/gixy): Gixy is a tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
+- [2017-gixy #Project# ](https://github.com/yandex/gixy): Gixy is a tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
 
 - [Nginx 中文官方文档](https://www.gitbook.com/book/wizardforcel/nginx-doc/details)
 

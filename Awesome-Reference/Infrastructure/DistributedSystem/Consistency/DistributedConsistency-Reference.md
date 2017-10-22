@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 # 分布式一致性资料索引
 

@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 
@@ -70,10 +79,9 @@
 
 ## VSCode
 
-
-
-
 - [VS Code Tips and Tricks](https://parg.co/bsk): Collection of helpful tips and tricks for VS Code.
+
+- [Debugging React Like a Champ with VSCode](https://parg.co/Ud5): In this guide I will show you how to supercharge your React workflow with Visual Studio Code’s debugging features.
 
 - [Node.js 性能调优之调试篇(二)——Visual Studio Code](https://zhuanlan.zhihu.com/p/29554833)
 

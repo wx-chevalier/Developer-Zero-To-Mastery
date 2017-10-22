@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 
@@ -34,7 +43,7 @@
 
 
 
-- [collect.js【Project】](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
+- [collect.js #Project# ](https://github.com/ecrmnn/collect.js): Convenient and dependency free wrapper for working with arrays and objects.
 
 - [2017-Faster Collection Iterators](http://benediktmeurer.de/2017/07/14/faster-collection-iterators/)：ECMAScript 2015 中引入了 Map 与 Set 等常用的集合，这些集合同样实现了迭代器的特性，因此也就允许我们使用 `for-of` 或者扩展操作符来迭代操作这些集合。不过在很多的评测中这些新引入的集合的迭代遍历性能并不是很好，本文则详细介绍了引擎中导致 Set 等集合迭代性能较差的原因，并且给出了解决方案与未来的实现规划。
 

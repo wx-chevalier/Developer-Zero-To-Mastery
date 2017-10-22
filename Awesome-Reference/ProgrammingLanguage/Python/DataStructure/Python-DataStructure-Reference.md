@@ -1,10 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Python 数据结构学习与实践资料索引
-
-
 
 
 # 基础数据结构
@@ -12,7 +8,7 @@
 
 ## 时间与日期
 
-- [pendulum【Project】](https://github.com/sdispater/pendulum)
+- [pendulum #Project# ](https://github.com/sdispater/pendulum)
  
 
 # Indexed Collection

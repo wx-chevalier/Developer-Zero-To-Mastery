@@ -1,7 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
-
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Vue.js 学习与实践资料索引
 
@@ -20,8 +17,6 @@
 
 
 ## Comparison: 比较
-
-
 
 - [React or Vue: Which Javascript UI Library Should You Be Using?](https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.cq7hef3um)
 
@@ -74,6 +69,9 @@
 
 - [2017-Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations)
 
+# Animation: 动画
+
+- [2017-Animation and Data Visualization with Vue](https://parg.co/Ud3): Animation can explain whatever the mind can conceive. When animation is functionally applied to a website or app, the event flow can easily map with the user's ability to navigate through the app.
 
 # Component Dataflow: 组件数据流
 

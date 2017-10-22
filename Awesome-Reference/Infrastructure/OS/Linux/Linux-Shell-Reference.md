@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 # Linux Shell 资料索引
 
@@ -20,6 +29,6 @@
 
 
 
-- [2017-Bash-Snippets【Project】](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
+- [2017-Bash-Snippets #Project# ](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
 - [2017-Linux 下容易被忽视的那些命令用法](https://parg.co/b2E)

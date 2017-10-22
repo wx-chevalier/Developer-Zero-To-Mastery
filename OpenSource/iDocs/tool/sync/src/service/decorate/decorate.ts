@@ -18,10 +18,12 @@ export async function decorate(repoName = 'Awesome-Reference') {
     // 读取文件内容
     let content = await readFileAsync(absoluteFile, { encoding: 'utf8' });
 
-    const header = `[![返回目录](${repo.chapterHeader})](${repo.sUrl}) \n\n\n`;
+    const header = `[![返回目录](${repo.chapterHeader})](${repo.sUrl}) \n`;
 
     // 替换已经存在的图片
-    content.replace(/\[!\[返回目录\]\(.*\)\]\(.*\)/, '');
+    content = content.replace(/\[!\[返回目录\]\(.*\)\]\(.*\)/g, '');
+    content = content.replace(/【Project】/g, ' #Project# ');
+
     content = header + content;
 
     fs.outputFile(absoluteFile, content);

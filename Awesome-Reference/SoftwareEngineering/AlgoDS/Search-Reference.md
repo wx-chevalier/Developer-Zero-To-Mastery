@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 # 搜索算法资料索引
 
@@ -8,7 +17,7 @@
 # Language
 ## JavaScript
 
-- [2017-Wade【Project】](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
+- [2017-Wade #Project# ](https://github.com/KingPixil/wade): Blazing fast, 1kb search.
 
 
 

@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 
@@ -49,7 +58,7 @@
 
 ## Server Side Rendering: 服务端渲染
 
-- [2017-Introducing Rapscallion【Project】](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
+- [2017-Introducing Rapscallion #Project# ](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
 
 - [2017-Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/): In this tutorial, we'll take you through a server side rendering example step-by-step. including working around a common roadblock for React apps that talk to APIs. 
@@ -133,7 +142,7 @@
 
 - [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
 
-- [2017-react-reconciler-demo【Project】](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
+- [2017-react-reconciler-demo #Project# ](https://github.com/lukebelliveau/react-reconciler-demo): A simple implementation of React's stack reconciler. This is much different from the real implementation, but demonstrates the concepts.
 
 - [ON THE ASYNC NATURE OF `SETSTATE` IN REACT](http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/)
 

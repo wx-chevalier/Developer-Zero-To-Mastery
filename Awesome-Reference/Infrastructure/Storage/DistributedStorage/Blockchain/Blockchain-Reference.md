@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 # 区块链资料索引
@@ -57,7 +66,7 @@
 
 # Bitcoin
 
-- [2017-Bitsquare【Project】](https://github.com/bitsquare/bitsquare): The decentralized bitcoin exchange.
+- [2017-Bitsquare #Project# ](https://github.com/bitsquare/bitsquare): The decentralized bitcoin exchange.
 
 
 

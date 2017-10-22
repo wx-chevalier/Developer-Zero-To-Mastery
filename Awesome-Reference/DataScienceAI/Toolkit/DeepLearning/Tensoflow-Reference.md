@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 # Tensorflow 学习与实践资料索引
 
@@ -15,14 +24,14 @@
 
 - [2017-CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 
-
+- [2017-TensorFlow 101](https://mubaris.com/2017-10-21/tensorflow-101): TensorFlow is an open source machine learning library developed at Google. TensorFlow uses data flow graphs for numerical computations. 
 
 
 
 
 # Tool
 
-- [Sonnet【Project】](https://github.com/deepmind/sonnet): Sonnet is a library built on top of TensorFlow for building complex neural networks.
+- [Sonnet #Project# ](https://github.com/deepmind/sonnet): Sonnet is a library built on top of TensorFlow for building complex neural networks.
 
 
 # Tutorial

@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 
@@ -16,9 +25,9 @@
 
 
 
-- [2013-Airbnb JavaScript Style Guide【Project】](https://github.com/airbnb/javascript): A mostly reasonable approach to JavaScript.
+- [2013-Airbnb JavaScript Style Guide #Project# ](https://github.com/airbnb/javascript): A mostly reasonable approach to JavaScript.
 
-- [2017-jsinspect【Project】](https://github.com/danielstjules/jsinspect):Detect copy-pasted and structurally similar code.
+- [2017-jsinspect #Project# ](https://github.com/danielstjules/jsinspect):Detect copy-pasted and structurally similar code.
 
 - [2017-Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f): These guidelines have stood the test of time for good reason: They’re usually right. Deviate from them only for good reason — not simply on a whim or a personal style preference.
 
@@ -71,6 +80,6 @@
 
 - [2014-Refactoring your JavaScript code with Grasp](http://www.graspjs.com/blog/2014/01/07/refactoring-javascript-with-grasp):  Grasp 这个小小的 JavaScript 的命令行重构工具让我们所有人印象深刻。它为抽象语法树提供了丰富的选择器和操作，比摆弄 sed 和 grep 要先进多了。这给我们正在进行的将 JavaScript 做为一等编程语言的运动添加了一个有用的新工具。
 
-- [2016-Butternut【Project】](https://github.com/Rich-Harris/butternut): The fast, future-friendly minifier.
+- [2016-Butternut #Project# ](https://github.com/Rich-Harris/butternut): The fast, future-friendly minifier.
 
-- [2017-Prepack【Project】](https://prepack.io/): Prepack is a tool that optimizes JavaScript source code: Computations that can be done at compile-time instead of run-time get eliminated. Prepack replaces the global code of a JavaScript bundle with equivalent code that is a simple sequence of assignments. This gets rid of most intermediate computations and object allocations.
+- [2017-Prepack #Project# ](https://prepack.io/): Prepack is a tool that optimizes JavaScript source code: Computations that can be done at compile-time instead of run-time get eliminated. Prepack replaces the global code of a JavaScript bundle with equivalent code that is a simple sequence of assignments. This gets rid of most intermediate computations and object allocations.

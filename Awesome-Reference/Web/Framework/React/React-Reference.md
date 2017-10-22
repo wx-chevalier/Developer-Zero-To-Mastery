@@ -1,6 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
+ 
+
+
+ 
+
+
+ 
+
+
 
 
 
@@ -226,16 +235,16 @@
 
 - [2017-Embracing the power of styled-components](https://parg.co/bID): What we learned in the first week moving away from CSS Modules.
 
-- [2017-styled-media-query【Project】](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
+- [2017-styled-media-query #Project# ](https://github.com/morajabi/styled-media-query): Beautiful media queries better than CSS @media for styled-components with ability to specify custom breakpoints.
 
-- [2017-Jest Styled Components【Project】](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
+- [2017-Jest Styled Components #Project# ](https://parg.co/b1D): A set of utilities for testing Styled Components with Jest. This package improves the snapshot testing experience and provides a brand new matcher to make expectations on the style rules.
 
 - [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
 
 # Animation
 
-- [2017-react-move【Project】](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
+- [2017-react-move #Project# ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 
 - [2017-React Animations 101【Series】](https://parg.co/bMF): In this post on react animations 101, we will explore a few examples and why CSS transition are a good fit for the navigation bar.
 
@@ -249,7 +258,7 @@
 
 - [How to build animated microinteractions in React](https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8#.4jnphlp3r): Every function in JavaScript has a closure. And this is one of the coolest features of the JavaScript language. Because without closures, it would be hard to implement common structures like callbacks or event handlers.
 
-- [react-flight【Project】](https://github.com/jondot/react-flight): The best way to build animation compositions for React. Design and compose a component to start with, a component to end with, and Flight will take it from there.
+- [react-flight #Project# ](https://github.com/jondot/react-flight): The best way to build animation compositions for React. Design and compose a component to start with, a component to end with, and Flight will take it from there.
 
 
 # React Router
