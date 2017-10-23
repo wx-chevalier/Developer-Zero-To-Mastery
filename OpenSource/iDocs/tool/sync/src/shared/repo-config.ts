@@ -38,7 +38,8 @@ const repos: { [key: string]: ReposityConfig } = {
     sUrl: 'https://parg.co/b4z',
     chapterHeader: 'https://parg.co/UGo',
     useSubHeader: true,
-    localPath: '/Users/apple/Workspace/Docs/Coder-Knowledge-Management/Awesome-Reference',
+    localPath:
+      '/Users/apple/Workspace/Docs/Coder-Knowledge-Management/Awesome-Reference',
   },
 
   // Domain-of-ProgrammingLanguage
@@ -67,6 +68,19 @@ const repos: { [key: string]: ReposityConfig } = {
   },
 
   // ﻿ServerSideApplication-Development-And-System-Architecture
+  'ServerSide-Application-Development-Fundamentals': {
+    description: 'ServerSide-Application-Development-Fundamentals',
+    wizCatalogue:
+      '/Workbench/ServerSideApplication-Development-And-System-Architecture/ServerSide-Application-Development-Fundamentals',
+    repository: 'ServerSideApplication-Development-And-System-Architecture',
+    basePath: 'ServerSide-Application-Development-Fundamentals',
+    sUrl: 'https://parg.co/UdT',
+    chapterHeader: 'https://parg.co/Udx',
+    useSubHeader: false,
+    localPath:
+      '/Users/apple/Workspace/Docs/ServerSideApplication-Development-And-System-Architecture/ServerSide-Application-Development-Fundamentals',
+  },
+
   'Head-First-Full-Stack-Node.js': {
     description: '深入浅出 Node.js 全栈架构',
     wizCatalogue:

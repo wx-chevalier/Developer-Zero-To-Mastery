@@ -2,6 +2,8 @@
 
 # 每周阅读清单
 
+`Copyright © 王下邀月熊`
+
 前端每周清单首发地址为[前端之巅公众号](https://parg.co/bhI)与[某熊的全栈之路](https://zhuanlan.zhihu.com/p/27815800)专栏，欢迎关注。可以查看本目录下 2016、2017 等文件夹中对应的每周清单，或者查看 SemiannualReport 中的半年度总结。
 
 
@@ -67,6 +69,10 @@
 - [前端每周清单第 26 期：Node.js 微服务实践，Vue.js 与 GraphQL，Angular 组件技巧，HeadlessChrome 攻防](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.2.md)
 - [前端每周清单第 27 期：React Patent License 回复，Shopify WebVR 购物，原生 JS MVC 设计，Flow 优化 React 支持](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.3.md)
 - [前端每周清单第 28 期：JS 运行原理与优化，高性能 CSS 引擎，Coursera GraphQL 实践](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.4.md)
+
+## 9
+
+## 10
 
 # 狗粮
 

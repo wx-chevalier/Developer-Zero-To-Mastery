@@ -1,18 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-# 监控与分析资料索引
+# 监控与告警资料索引
 
 
 - [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

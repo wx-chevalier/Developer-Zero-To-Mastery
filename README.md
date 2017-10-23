@@ -1,10 +1,8 @@
-
-
-
 ![](https://2dhnizrxqvv1awj231eodql1-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/How-to-Photograph-The-Milky-Way.jpg) 
 
 
 *让知识在该在的地方@王下邀月熊*
+
 # 程序员的知识管理：技术视野、知识管理与职业规划
 
 
@@ -43,11 +41,12 @@
 - [CoderReader](https://github.com/wxyyxc1992/Coder-Knowledge-Management/tree/master/OpenSource/CoderReader): 基于 ReactNative 的移动端程序员知识阅读应用。
 
 
-# About
+# 关于
 
-## RoadMap
+## 规划
 
 ## 致谢
+
 由于笔者平日忙于工作，几乎所有线上的文档都是我夫人帮忙整理，在此特别致谢；同时也感谢我家的布丁安静的趴在脚边，不再那么粪法涂墙。
 
 

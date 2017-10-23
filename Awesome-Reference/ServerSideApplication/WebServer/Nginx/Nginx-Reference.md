@@ -1,16 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
 # Nginx 资料索引
 
 
@@ -26,3 +15,7 @@
 
 - [The Architecture of Open Source Applications-Nginx 章节](http://aosabook.org/en/nginx.html)
 
+# OpenResty
+- [使用 Nginx+Lua(OpenResty)开发高性能 Web 应用](http://jinnianshilongnian.iteye.com/blog/2280928?utm_source=tuicool&utm_medium=referral)
+- [OpenResty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
+- [VeryNginx #Project#](https://github.com/alexazhou/VeryNginx)
