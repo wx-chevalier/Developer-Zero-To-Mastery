@@ -1,25 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
 # 微服务架构学习与实践资料索引
-
 
 本部分资料侧重于微服务模式设计与上层应用实践。
 
-
 # 基础概念
-
-
 
 - [2017-Evolution of Business Logic from Monoliths through Microservices, to Functions](http://6me.us/bR50k): Underlying technology advancements are creating a shift to event driven functions and radical improvements in time to value.
 
@@ -31,8 +16,6 @@
 
 
 # 架构实践
-
-
 
 - [现代化 Web 的微服务架构最佳实践全景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994851&idx=1&sn=3c197d1dd03b77c2e28d53eea51ceb03&chksm=bdbf00f08ac889e6578cf9c007420083ad6a211aa7d9010469df838ad9970abfe626c7d4277e&mpshare=1&scene=23&srcid=11212awqMjU8OcidSWhGPTbc#rd)
 
@@ -51,11 +34,7 @@
 - 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)
 - 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
 
-
-
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 
-
-
 
 - [2016-架构师特刊-微服务与 DevOps 技术内参【Book】](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
 

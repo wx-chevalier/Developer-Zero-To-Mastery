@@ -1,16 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
 # Node.js 微服务架构学习与实践资料索引
 
 - [2017-Your Node.js authentication tutorial is (probably) wrong](https://parg.co/b2o): This post explores some common authentication pitfalls, how to avoid them, and what to do to help yourself when your tutorials don’t help you anymore.
