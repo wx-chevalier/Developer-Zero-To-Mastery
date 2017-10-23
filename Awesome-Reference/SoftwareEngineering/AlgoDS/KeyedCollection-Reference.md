@@ -1,16 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
- 
-
-
- 
-
-
- 
-
-
-
 # 映射结构资料索引
 
 
@@ -21,6 +11,8 @@
 
 
 # HashTable
+
+- [2017-Hashing Out Hash Functions](https://dev.to/vaidehijoshi/hashing-out-hash-functions): let’s find out more about hash functions, how they work, and their strengths and weakness. Hopefully, this will help us understand when exactly they can help us out!
 
 
 ## Bloom Filter

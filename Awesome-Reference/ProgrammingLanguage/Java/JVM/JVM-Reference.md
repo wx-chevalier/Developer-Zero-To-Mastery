@@ -1,19 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # JVM 资料索引
 [Creating JVM Language Serials](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 
@@ -74,6 +60,7 @@
 
 # JIT: 即时编译
 
+- [Profile-based optimization techniques in the JVM](https://t.co/KYKrcM1ycW)
 
 # Tunning: 性能调优
 

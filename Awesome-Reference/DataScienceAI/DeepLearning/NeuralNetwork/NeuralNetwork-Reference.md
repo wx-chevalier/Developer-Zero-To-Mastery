@@ -1,16 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
 # 神经网络资料索引
 
 
@@ -25,4 +14,6 @@
 
 - [ConvnetJS demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html): toy 2d classification with 2-layer neural network
 
-- [2017-](https://parg.co/b2W): Build a flexible Neural Network with Backpropagation in Python
+- [2017-Build a flexible Neural Network with Backpropagation in Python](https://parg.co/b2W)
+
+- [2017-What is the Role of the Activation Function in a Neural Network?](http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html)

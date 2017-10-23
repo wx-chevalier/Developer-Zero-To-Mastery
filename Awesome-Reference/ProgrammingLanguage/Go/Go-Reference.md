@@ -1,24 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # Go 学习与实践资料索引
 
 
 # Overview
-
 
 
 - [2017-为什么说 2017 年你必须要学习Go了](http://mp.weixin.qq.com/s/hQLUjvttTPgfd9qO1l-i6A)
@@ -59,5 +45,6 @@
 
 # Project
 
-- [HttpRouter](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
+- [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
+- [2017-Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/): One of the strongest sides of Go programming language is a built-in concurrency based on Tony Hoare’s CSP paper. Go is designed with concurrency in mind and allows us to build complex concurrent pipelines. But have you ever wondered - how various concurrency patterns look like?
