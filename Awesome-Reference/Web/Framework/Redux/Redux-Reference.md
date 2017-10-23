@@ -1,19 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # Redux 学习与实践资料索引
 
 
@@ -99,6 +86,14 @@
 - [2017-Redux unit testing with Jest](https://medium.com/@btg5679/redux-unit-testing-with-jest-f3a18f387f75): This introductory tutorial focuses on writing tests for Redux enabled React apps, more specifically writing tests for your Actions and Reducers.
 
 - [2017-10 Redux tips to scale your dev team](https://blog.matters.tech/10-redux-tips-from-the-trenches-55e06ed1c0a8)
+
+## 样式指南
+
+
+[A Better File Structure For React/Redux Applications](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
+[my-journey-toward-a-maintainable-project-structure-for-react-redux](https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5#.uz1c90xd0)
+[conventional-redux](https://github.com/mjaneczek/conventional-redux)
+- [Scaling your Redux App with ducks](https://medium.com/@alexnm/scaling-your-redux-app-with-ducks-6115955638be#.r2wzfzmsv)
 
 
 

@@ -1,18 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
- 
-
-
- 
-
-
- 
-
-
-
 # WebAssembly 学习与实践资料索引
 
+
+![](https://pic1.zhimg.com/a3d0d0e45057489e78b70620b739bb74_r.png)
 
 
 - [2017-WebAssembly: Mozilla Won](http://robert.ocallahan.org/2017/06/webassembly-mozilla-won.html): Mozilla staff are being very diplomatic and restrained by allowing WebAssembly to be portrayed as a compromise between the approaches of asm.js and PNaCl. They have good reasons for being so, but I can be a bit less restrained. asm.js and PNaCl represented quite different visions for how C/C++ code should be supported on the Web, and I think WebAssembly is a big victory for asm.js and Mozilla's vision.
@@ -36,4 +28,10 @@
 - [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
 
 - [How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665#.gle72anx6)
+
+- [WebAssembly：面向Web的通用二进制和文本格式](http://www.infoq.com/cn/news/2015/06/webassembly-wasm)
+
+- [Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
+
+- [V8: Behind the Scenes (December Edition)](http://benediktmeurer.de/2016/12/20/v8-behind-the-scenes-december-edition/)
 
