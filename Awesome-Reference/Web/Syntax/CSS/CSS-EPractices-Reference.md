@@ -46,3 +46,5 @@
 
 - [2017-Styled-Components in Action](https://medium.com/@lvarayut/styled-components-in-action-723852f2a93d): In this article, I will walk you through the main concepts of Styled-Components along with coding examples.
 
+- [Why We Use Styled Components at Decisiv and why you might consider it as well](https://hackernoon.com/why-we-use-styled-components-at-decisiv-a8ac6e1507ac?source=linkShare-fe48c4221a4c-1508836944)
+

@@ -44,8 +44,20 @@
 
 - [2017-Even more about how Flexbox works — explained in big, colorful, animated gifs](https://medium.freecodecamp.com/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053#.sxvzh9wcc)
 
-
 - [2017-11 things I learned reading the flexbox spec](https://parg.co/bJJ): 
+
+- [Flexbox Defense:考验你Flexbox技能熟练度的塔防小游戏](http://www.flexboxdefense.com/)
+
+- [Flex布局新旧混合写法详解（兼容微信）](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/?utm_source=tuicool&utm_medium=referral)
+
+- [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/?utm_source=tuicool&utm_medium=referral)
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- [CSS3: Flexbox](http://book.mixu.net/css/4-flexbox.html)
+
+- [Flexbox Patterns](http://www.flexboxpatterns.com/feature-list)
+
 
 
 # Grid
