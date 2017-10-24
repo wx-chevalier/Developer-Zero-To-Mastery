@@ -7,6 +7,7 @@
 
 - [fake-it-til-you-make-it-css](https://kyusuf.com/post/fake-it-til-you-make-it-css)
 
+- [Thoughtful CSS Architecture](https://seesparkbox.com/foundry/thoughtful_css_architecture)
 
 ## CSS Scoping Module
 

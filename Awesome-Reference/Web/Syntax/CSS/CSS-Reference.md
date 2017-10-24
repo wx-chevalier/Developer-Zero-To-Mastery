@@ -4,7 +4,6 @@
 # CSS
 
 
-
 - [扒一扒 CSS 语言的诞生史](http://qianduan.guru/2016/07/26/The-Languages-Which-Almost-Became-CSS/)
 
 
@@ -13,8 +12,6 @@
 
 - [2017-The State of CSS](https://parg.co/bLZ): In this post I’ll reveal 5 old-fashioned CSS things that you don’t need to do anymore, and what you should do instead.
 
-
-
 ## Overview: 概览
 
 
@@ -22,12 +19,6 @@
 - [2017-8 CSS gotchas to start your morning off right](https://parg.co/bhl).
 
 - [2017-The invisible parts of CSS](https://madebymike.com.au/writing/the-invisible-parts-of-CSS/#cascade): If you use CSS in your daily work, your primary goal is probably focused around making things ‘look right’. How this is achieved is often far less important than the end result. This means we care less about how CSS works than the correct syntax and visual results.
-
-
-
-
-
-
 
 ## Compatibility: 兼容性
 
@@ -43,6 +34,9 @@
 
 - [How calc() Works](https://bitsofco.de/how-calc-works/)
 
+# 选择器
+
+- [How CSS pseudo-classes work, explained with code and lots of diagrams](https://medium.freecodecamp.com/explained-css-pseudo-classes-cef3c3177361#.ax2oehufx)
 
 
 # Graphic: 绘图
@@ -51,7 +45,7 @@
 ## CSS Shape
 
 - [How I started drawing CSS Images](http://6me.us/kpnB)
-
+- [An Intermediate Guide to Pure CSS Images](http://codepen.io/mikemang/post/an-intermediate-guide-to-pure-css-images)
 
 
 

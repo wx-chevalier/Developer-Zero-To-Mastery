@@ -2,12 +2,28 @@
 
 # CSS 布局学习与实践资料索引
 
-
-
-
 - [10 分钟理解 BFC 原理](https://parg.co/bOg)
 
 - [2017-The CSS Box Model Explained by Living in a Boring Suburban Neighborhood](https://parg.co/bhN)
+
+# 盒模型与文档流
+
+- [how-well-do-you-know-display](https://www.chenhuijing.com/blog/how-well-do-you-know-display/#a-responsive-numeric-stepper)
+
+
+## 定位
+
+- [css-positioning-explained-by-building-an-ice-cream-sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.1l7m0fcao)
+
+- [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/?utm_source=tuicool&utm_medium=referral)
+
+- [CSS中position属性( absolute | relative | static | fixed )详解](http://blog.csdn.net/chen_zw/article/details/8741365)
+
+- [使用CSS完成元素居中的七种方法 ](http://www.zcfy.cc/article/439)
+
+- [把简单做好也不简单-css水平垂直居中](http://www.tuicool.com/articles/VrQzya)
+
+- [CSS Vertical Centering – Everything You Need To Know](http://webdesignerwall.com/tutorials/css-vertical-centering-everything-need-know)
 
 
 # Size: 尺寸
@@ -22,7 +38,6 @@
 - [等宽字体在web布局中应用以及CSS3 ch单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/?utm_source=tuicool&utm_medium=referral)
 
 
-# 盒模型与文档流
 
 
 # Flexbox
@@ -43,4 +58,8 @@
 - [2017-Getting started with CSS Grid Layout](https://parg.co/bNW): Helpful resources and tutorials to bring you up to speed.
 
 - [2017-CSS Grid Gotchas And Stumbling Blocks](https://parg.co/Umq)
+
+- [Understanding the CSS Grid “Auto-Placement Algorithm”](http://www.tuicool.com/articles/uqAJFvn)
+
+- [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
 
