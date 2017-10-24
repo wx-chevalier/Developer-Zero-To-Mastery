@@ -4,7 +4,7 @@
 
 `让知识在该在的地方 @ 王下邀月熊`
 
-本仓库包含了笔者自身对于知识管理、拓展技术视野、拟定职业规划过程中的感悟与心得的整理与记录，其包含以下几个部分：
+本仓库包含了笔者自身对于知识管理、拓展技术视野、拟定职业规划过程中的感悟与心得的整理与记录。本仓库包含以下系列文章：
 
 - [Knowledge Graph](https://parg.co/UHY)：IT 技术图谱与知识架构，指引我在技术星海中前行的方向；包括了[泛编程语言学习知识结构](https://parg.co/bt0)、[泛前端知识图谱（Web/iOS/Android/RN）](https://parg.co/UHm)等。
 
@@ -20,6 +20,8 @@
 
 ***
 
+本仓库包含以下开源项目：
+
 - [iDocs #Project#](https://github.com/wxyyxc1992/Coder-Knowledge-Management/tree/master/OpenSource/iDocs): 类似于 [freeCodeCamp](guide.freecodecamp.org/agile) 的在线资料阅读与搜索。
 
 
@@ -27,6 +29,9 @@
 
 - [CoderReader #Project#](https://github.com/wxyyxc1992/Coder-Knowledge-Management/tree/master/OpenSource/CoderReader): 基于 ReactNative 的移动端程序员知识阅读应用。
 
+*** 
+
+其他友情链接包括：
 
 # 关于
 
