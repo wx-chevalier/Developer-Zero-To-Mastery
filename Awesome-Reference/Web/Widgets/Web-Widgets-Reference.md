@@ -16,4 +16,13 @@
 
 # Text Editor: 文本编辑器
 
-- [Pell](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+- [Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+
+# Search
+
+- [Holmes #Project#](https://haroen.me/holmes/)
+
+
+# Menu
+
+- [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)

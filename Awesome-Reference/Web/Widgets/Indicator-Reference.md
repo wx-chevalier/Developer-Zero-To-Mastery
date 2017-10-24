@@ -1,50 +1,14 @@
 # Web 指示器插件索引
 
+# ProgressBar
+
+- [NProgress](http://ricostacruz.com/nprogress/)
+
 # Introduction
 
 ## Guide/Tour
 
 ### [react-user-tour](https://github.com/socialtables/react-user-tour)
-
-``` jsx
-import React, { Component } From "react";
-import Tour from "react-user-tour";
-export default class UserTour extends Component {
-    constructor() {
-        super();
-        this.state = {
-            isTourActive: true,
-            tourStep: 1
-        };
-    }
-    render() {
-        return (
-            <div>
-                <Tour
-                    active={this.state.isTourActive}
-                    step={this.state.tourStep}
-                    onNext={(step) => this.setState({tourStep: step})}
-                    onBack={(step) => this.setState({tourStep: step})}
-                    onCancel={() => this.setState({isTourActive: false})}
-                    steps={[
-                        {
-                            step: 1,
-                            selector: ".my-fun-website",
-                            title: <div style={{color: "blue"}}>My Web</div>,
-                            body: <div style={{color: "green"}}>Site</div>
-                        },
-                        {
-                            step: 2,
-                            selector: ".my-website-is-amazing",
-                            title: <div style={{color: "blue"}}>Wow</div>,
-                            body: <div style={{color: "yellow"}}>so good</div>
-                        }
-                    ]}
-                />
-            </div>
-        );
-   
-
 
 
 # Text
@@ -138,3 +102,20 @@ var force = new labella.Force()
 
 
 [1]: http://codepen.io/machycek/full/eNvyjb/
+
+# Loading
+
+- [css-loaders](https://github.com/lukehaas/css-loaders)
+
+- [SpinKit](https://github.com/tobiasahlin/SpinKit):A collection of loading indicators animated with CSS,IE8 Support
+
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css)
+![](http://7xkt0f.com1.z0.glb.clouddn.com/2016-03-25%2013_59_30.gif)
+
+
+## Code Style(代码样式显示)
+
+- [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)
+
+- [microlight](https://github.com/asvd/microlight)
+

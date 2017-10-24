@@ -1,21 +1,17 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # Web 开发界面调试资料索引
 
+- [Fun with Console object](https://dev.to/duchienvuong/fun-with-console-object)
+
+- [Introducing Vorlon.js: How to Use It to Debug Your Javascript Remotely](https://www.sitepoint.com/introducing-vorlon-js-use-debug-javascript-remotely/)
+
+-  [vConsole](https://github.com/WechatFE/vConsole):一个针对手机网页的前端 console 调试面板。
+
+- [移动web开发调试工具AlloyLever介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html?utm_source=tuicool&utm_medium=referral)
+
+- [Browser console debugging tips for arrays & objects using groups and tables](https://medium.com/@brocco/browser-console-debugging-tips-for-arrays-objects-using-groups-and-tables-60b001316d8a#.5p4bh84px)
 
 # JavaScript
 
@@ -52,5 +48,7 @@
 
 
 - [BrowserSync #Project# ](https://browsersync.io/)
+
+
 
 

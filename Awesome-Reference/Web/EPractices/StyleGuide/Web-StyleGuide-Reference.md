@@ -11,3 +11,19 @@
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Guidelines for Responsive Web Design](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
 - [Web 前端代码规范](https://parg.co/bXM)：此项目用于记录规范的、高可维护性的前端代码，这是通过分析 Github 众多前端代码库，总结出来的前端代码书写规范。
+
+# JavaScript 与 DOM
+
+- [airbnb-JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- [阮一峰-JavaScript编程风格](http://javascript.ruanyifeng.com/grammar/style.html)
+
+- [JavaScript Standard Style](https://github.com/feross/standard)
+
+- [node-jscs:JavaScript Code Style checker](https://github.com/jscs-dev/node-jscs/)
+
+
+# CSS
+
+# HTML
+
