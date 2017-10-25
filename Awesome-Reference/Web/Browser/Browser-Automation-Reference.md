@@ -1,34 +1,13 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
 # 浏览器自动化资料索引
 
-
-
-Browser Automation即所谓的自动化浏览器或者能够以脚本等方式操作网页完成交互，即利用Web Driver或者所谓的Headless Browser等技术，可以进行后台的JS或者CSS脚本渲染，并完成一系列的包括数据分析、模拟操作等步骤。
-
-
-
-
+Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式操作网页完成交互，即利用Web Driver或者所谓的Headless Browser等技术，可以进行后台的JS或者CSS脚本渲染，并完成一系列的包括数据分析、模拟操作等步骤。
 
 - [TagUI #Project# ](https://github.com/tebelorg/TagUI): TagUI 是通用的 Web 自动化交互，提供了开箱即用的声明式流程配置使用特性，支持 Chrome、Firefox、PhantomJS、Headless Chrome 等多个运行环境；同时 TagUI 还提供了 Chrome 插件以记录具体步骤以及对象存储和灵活的数据库存储支持。
 
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers):一个关于目前Headless浏览器的列表
  
-
-
 ## Headless Chrome
 
 
@@ -60,8 +39,6 @@ Browser Automation即所谓的自动化浏览器或者能够以脚本等方式�
 # [PhantomJS](http://phantomjs.org/)
 
 [Horseman](https://github.com/johntitus/node-horseman):Run PhantomJS from Node
-
-
 
 # JSDOM
 

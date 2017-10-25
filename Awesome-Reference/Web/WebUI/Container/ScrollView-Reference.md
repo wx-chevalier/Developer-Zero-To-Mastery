@@ -8,11 +8,24 @@
 
 - [Lucifier129: pull-element](https://github.com/Lucifier129/pull-element): Lightweight, high-performance and smooth pull element effect that support all directions
 
+- [移动Web滚动性能优化: Passive event listeners](https://zhuanlan.zhihu.com/p/24555031)
+
+- [iScroll #Project#](http://iscrolljs.com/#whos):高性能的多平台JS滚动条
+
+- [React-iScroll #Project#](https://github.com/schovi/react-iscroll)
+
+- [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll):基于jQuery的滚动插件
+
+
+
 # ScrollSpy
 
-- [React Visibility Sensor【Project】](https://github.com/joshwnj/react-visibility-sensor): Sensor component for React that notifies you when it goes in or out of the window viewport.
+- [React Visibility Sensor #Project#](https://github.com/joshwnj/react-visibility-sensor): Sensor component for React that notifies you when it goes in or out of the window viewport.
 
 - [Build a Custom JavaScript Scrollspy Navigation](https://scotch.io/tutorials/build-a-custom-javascript-scrollspy-navigation)
+
+
+- [InView](https://github.com/camwiegert/in-view):自动判断某个元素是否在ViewPort内
 
 # Scroll Critical Event 
 
@@ -35,3 +48,15 @@
 - Swiper
 
 - FullPage.js
+
+
+# Sticky
+
+# Parallel Scroll
+- [rellax #Project#](https://github.com/dixonandmoe/rellax)
+
+- [guide-browser-scroll-animations](http://developer.telerik.com/featured/guide-browser-scroll-animations/?ref=mybridge.co)
+
+- [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)
+
+- AOS

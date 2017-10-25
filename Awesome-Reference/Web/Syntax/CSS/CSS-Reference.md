@@ -12,6 +12,10 @@
 
 - [2017-The State of CSS](https://parg.co/bLZ): In this post I’ll reveal 5 old-fashioned CSS things that you don’t need to do anymore, and what you should do instead.
 
+- [Houdini：CSS 领域最令人振奋的革新](http://qianduan.guru/2016/05/20/houdini/?utm_source=tuicool&utm_medium=referral)
+
+- [CSS GuideLines](http://cssguidelin.es/):免费的电子书，教你如何编写高质量可维护的CSS代码
+
 ## Overview: 概览
 
 
@@ -28,6 +32,8 @@
 # Syntax: 语法
 
 - [2017-Locally Scoped CSS Variables: What, How, and Why](https://parg.co/bLS): CSS Custom Properties (also popularly called CSS Variables) are here! This is really exciting because we finally have true variables in CSS!
+
+- [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
 
 
 ## 功能函数

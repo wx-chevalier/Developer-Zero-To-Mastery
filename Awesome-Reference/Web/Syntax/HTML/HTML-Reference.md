@@ -16,3 +16,9 @@
 - [html-5-semantics](http://www.hongkiat.com/blog/html-5-semantics/)
 
 - [清蒸HTML](https://zhuanlan.zhihu.com/p/22909445)
+
+- [generate-favicon](http://www.generate-favicon.com/)
+
+- [use-of-all-http-equiv-meta-tag](http://www.frontendevelopers.com/use-of-all-http-equiv-meta-tag/)
+
+- [移动前端不得不了解的HTML5 head 头标签](http://www.css88.com/archives/6410)

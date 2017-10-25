@@ -1,26 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-		
-		
-		
-		
-	
-	
 # 浏览器扩展资料索引
-
-
-
 
 - [2015-How to Create a Chrome Extension in 10 Minutes Flat](https://www.sitepoint.com/create-chrome-extension-10-minutes-flat/)
 

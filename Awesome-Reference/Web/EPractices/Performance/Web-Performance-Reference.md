@@ -1,33 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # Web 性能优化实践资料索引
-
-
 
 前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。
 
-
-
 # Overview: 性能优化概述
-
-
-
-
-
 
 - [2017-Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChrome/discovery/issues/1)
 
@@ -54,44 +31,9 @@
 - [Web App性能优化之亮剑](http://insights.thoughtworkers.org/web-apps-performance-optimization/)
 - [web-performance-secrets-from-the-bbc](https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752#.hwhq6jcbn)
 
-# 网页运行机制
-
-
-
-
-- [浏览器工作原理](https://segmentfault.com/a/1190000004934730)
-
-- [从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
-
-- [CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)
-
-- [JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/?utm_source=tuicool&utm_medium=referral)
-
-- [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-
-- [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
-- [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)
-
-
 
 
 # Benchmark: 性能评测与监控
-
-- [Leveraging the Performance Metrics that Most Affect User Experience](https://parg.co/b96): But as you try to answer the question: how fast is my app?, you'll realize that fast is a vague term. What exactly do we mean when we say fast? In what context? And fast for whom?
-
-- [2014-FEX-7 天打造前端性能监控系统](http://6me.us/3EO4ch)
-
-- [2015-使用 HMTL5 API 监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring):  用户计时API可以在网页应用中测量两个预定义标记之间的性能。开发者仅仅需要分别定义测量的开始和结束标记。
-
-
-- [前端性能——监控起步](http://www.07net01.com/2016/09/1653517.html)
-
-
-
-
-## Page Metric: 页面性能评测
-
-
 
 - [Lighthouse #Project# ](https://github.com/GoogleChrome/lighthouse): Lighthouse analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
 
@@ -99,16 +41,59 @@
 
 - [SiteSpeed](https://www.sitespeed.io/): itespeed.io is a set of Open Source tools that helps make your web pages faster.
 
+## Page Metric: 页面评测
+
+- [Leveraging the Performance Metrics that Most Affect User Experience](https://parg.co/b96): But as you try to answer the question: how fast is my app?, you'll realize that fast is a vague term. What exactly do we mean when we say fast? In what context? And fast for whom?
+
+- [2014-FEX-7 天打造前端性能监控系统](http://6me.us/3EO4ch)
+
+- [2015-使用 HMTL5 API 监控前端性能](http://www.infoq.com/cn/articles/html5-performance-api-monitoring):  用户计时API可以在网页应用中测量两个预定义标记之间的性能。开发者仅仅需要分别定义测量的开始和结束标记。
+
+- [前端性能——监控起步](http://www.07net01.com/2016/09/1653517.html)
+
 
 ## API Metric: 接口性能评测
-
-
 
 - [Locust](https://locust.io/): Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 
 - [wrk](https://github.com/wg/wrk): wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 
 - [Apache JMeter](https://jmeter.apache.org/): The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+
+
+# 资源请求与缓存
+
+- [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/#abstain)
+
+- [前端渲染加速之 - Big Pipe](http://tech.dianwoda.com/2016/10/26/big-pipe-web-page-rendering-acceleration/)
+
+# Critical Path: 关键渲染路径
+
+## Critical CSS: 关键 CSS
+
+- [critical](https://github.com/addyosmani/critical):Extract & Inline Critical-path CSS in HTML pages
+
+- [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools):Tools to help prioritize above-the-fold CSS
+
+# Scripting: 脚本解析与执行
+
+- [Planning for Performance](https://www.youtube.com/watch?v=RWLzUnESylc)
+- [Solving the Web Performance Crisis by Nolan Lawson](https://twitter.com/MSEdgeDev/status/819985530775404544)
+- [JS Parse and Execution Time](https://timkadlec.com/2014/09/js-parse-and-execution-time/)
+- [Measuring Javascript Parse and Load](http://carlos.bueno.org/2010/02/measuring-javascript-parse-and-load.html)
+- [Unpacking the Black Box: Benchmarking JS Parsing and Execution on Mobile Devices](https://www.safaribooksonline.com/library/view/velocity-conference-new/9781491900406/part78.html) ([slides](https://speakerdeck.com/desp/unpacking-the-black-box-benchmarking-js-parsing-and-execution-on-mobile-devices))
+- [When everything’s important, nothing is!](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
+- [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/)
+- [Do Browsers Parse JavaScript On Every Page Load](http://stackoverflow.com/questions/1096907/do-browsers-parse-javascript-on-every-page-load/)
+
+# Layout & Rendering: 页面布局与渲染策略
+
+- [一篇文章说清浏览器解析和CSS（GPU）动画优化](https://segmentfault.com/a/1190000008015671)
+
+# Interaction & Animation: 交互与动画
+
+
+
 
 
 ## Code Coverage: 代码覆盖率
@@ -227,12 +212,9 @@
 
 # Mobile Optimization: 移动端优化
 
+- [移动端HTML5页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/)
 
-
-
-- [移动端HTML5页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/?utm_source=tuicool&utm_medium=referral)
-
-- [钉钉的H5性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig?utm_source=tuicool&utm_medium=referral) 
+- [钉钉的H5性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig) 
 
 
 - [解耦---Hybrid H5跨平台性思考 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=3&sn=96c9ec407e937132595c29b0584cdd5c&scene=4#wechat_redirect)

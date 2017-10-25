@@ -43,6 +43,19 @@
 - [The pro's guide to responsive web design](http://www.creativebloq.com/rwd/pros-guide-responsive-web-design-71515692):  Advanced techniques from top web designers to build better sites for any device.
 
 
+# Media Query: 媒介查询
+
+- [media-queries-for-standard-devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
+- [CSS Media Queries for  iPads & iPhones](http://stephen.io/mediaqueries/)
+
+- [Respond.js #Project#](https://github.com/scottjehl/Respond):针对IE6-8的媒介查询
+
+- [sass-mediaqueries](https://github.com/paranoida/sass-mediaqueries)
+- [write-media-queries-sass](https://davidwalsh.name/write-media-queries-sass)
+- [approaches-media-queries-sass](https://css-tricks.com/approaches-media-queries-sass/)
+
+
 # 响应式图片
 
 
