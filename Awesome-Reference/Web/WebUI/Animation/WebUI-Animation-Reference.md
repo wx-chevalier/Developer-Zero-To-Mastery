@@ -1,28 +1,28 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
 # Web 动画资料索引
-
-
 
 - [2017-不会做动画的前端不是好开发](https://parg.co/bL0)：在动画方面能紧跟技术趋势的优秀前端实在是比较难找，本文则希望让那些想在动画方面有些提升的朋友有所帮助。
 
+- [Ultimate Guide to CSS3 & HTML5 Animation](http://www.tuicool.com/articles/Nfq6fij)
 
+- [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.gyk8ppgys)
+
+- [CSS Animation性能优化](http://www.tuicool.com/articles/Ij6bMj7)
+
+- [Keyframes: Delivering scalable, high-quality animations to mobile clients](https://code.facebook.com/posts/354469174916519/)
+
+- [Popular Web Animation Techniques](https://uxplanet.org/popular-web-animation-techniques-a6a467309028#.d2oei0zgn)
+
+- [intro-to-the-web-animations-api](https://pawelgrzybek.com/intro-to-the-web-animations-api/)
+
+- [Popmotion](http://popmotion.io/guides/get-started): Popmotion提供了一个与以上两个动画框架的[特性对比](http://popmotion.io/guides/feature-comparison)。
+
+- [DemoHouse](https://github.com/airen/DemoHouse)
+
+- [wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)
 
 # CSS3 Animation
-
-
 
 - [2016-Smooth as Butter: Achieving 60 FPS Animations with CSS3](https://parg.co/bIT): We want to give you a hand in harnessing the power of CSS3 correctly. To do just that we need to understand a few things first.
 
@@ -37,6 +37,7 @@
 
 
 # JavaScript Animation
+
 ## requestAnimationFrame
 
 - [2017-Gain Motion Superpowers with requestAnimationFrame](https://parg.co/bDt)
@@ -49,9 +50,22 @@
 
 - [2017-flubber #Project# ](https://github.com/veltman/flubber): Tools for smoother shape animations.
 
+- [Anime.js #Project#](https://github.com/juliangarnier/anime)
 
 # Collection：动画合集
 
 - [CSS3动画实践 – 2017京东集团开年大会项目有趣的动画实现](http://jdc.jd.com/archives/3337)
 
 - [2017-Rythm.js #Project# ](https://github.com/Okazari/Rythm.js): A javascript library that makes your page dance.
+
+- [turn.js #Project#](https://github.com/blasten/turn.js)
+
+- [animateplus](https://github.com/bendc/animateplus)
+
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css)
+
+- [Hover.css](https://github.com/IanLunn/Hover)
+
+- [mojs](https://github.com/legomushroom/mojs)
+
+- [JavaScript进阶--拉勾网鼠标移入移出效果](https://github.com/15751165579/ThinkInCoding/blob/master/%E6%96%87%E7%AB%A0/JavaScript%E8%BF%9B%E9%98%B6--%E6%8B%89%E5%8B%BE%E7%BD%91%E9%BC%A0%E6%A0%87%E7%A7%BB%E5%85%A5%E7%A7%BB%E5%87%BA%E6%95%88%E6%9E%9C.md?utm_source=tuicool&utm_medium=referral)
