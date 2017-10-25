@@ -87,6 +87,11 @@
 
 - [2017-10 Redux tips to scale your dev team](https://blog.matters.tech/10-redux-tips-from-the-trenches-55e06ed1c0a8)
 
+- Reselect
+- [redux-batched-actions](https://github.com/tshelburne/redux-batched-actions)
+- [redux mapStateToProps optimization](https://medium.com/@cvetanov/redux-mapstatetoprops-optimization-5880078a8a7a)
+
+
 ## 样式指南
 
 
