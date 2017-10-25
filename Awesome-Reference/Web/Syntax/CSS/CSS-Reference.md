@@ -41,6 +41,8 @@
 
 # Graphic: 绘图
 
+- [css 巧用border属性制作各种图形(矩形，梯形，三角形)](http://www.manongjc.com/article/86.html)
+- [CodePen-BorderShapes](http://codepen.io/wxyyxc1992/pen/BzrPrb)
 
 ## CSS Shape
 
