@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 
  
@@ -94,7 +95,7 @@
  
 - [React/Redux Links](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
-
+- [Using forms in React-Redux: Tips And Tricks](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
 
 # Tutorial: 入门教程
 ## Concept: 概念

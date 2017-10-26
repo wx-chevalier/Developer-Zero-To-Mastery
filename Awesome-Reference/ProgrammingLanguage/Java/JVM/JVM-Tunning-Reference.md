@@ -1,18 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
-
  
 
-
- 
-
-
- 
-
-
-
-# JVM 应用调试资料索引
-
+# JVM 性能调优资料索引
 
 
 - [2017-The State of Debugging in Java](https://dzone.com/articles/the-state-of-debugging-in-java): Debugging has come a long way from the jdb days. Here, we cover the variety of Java debuggers out there and some common practices devs use.
@@ -23,3 +12,6 @@
 
 - [2017-Troubleshooting Memory Issues in Java Applications](https://parg.co/bsr): Troubleshooting memory problems can be tricky but the right approach and proper set of tools can simplify the process substantially.
 
+- [如何使用jstack分析线程状态](http://www.jianshu.com/p/6690f7e92f27?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+- [Console based JVM monitoring](https://github.com/ajermakovics/jvm-mon)

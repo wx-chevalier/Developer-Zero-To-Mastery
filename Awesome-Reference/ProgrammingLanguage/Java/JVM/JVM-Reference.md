@@ -1,6 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # JVM 资料索引
+
 [Creating JVM Language Serials](http://jakubdziworski.github.io/categories.html#Enkel-ref)
 
 
@@ -14,17 +16,12 @@
 
 - [【笔记】Java虚拟机(一)-GC](https://darkness463.github.io/2017/03/30/Java-VM-GC/) 
 
-
-
 - [2017-Java 技术之类加载机制](http://wingjay.com/2017/05/08/java_classloader/)：类加载机制是 Java 语言的一大亮点，使得 Java 类可以被动态加载到 Java 虚拟机中。 这次我们抛开术语和概念，从例子入手，由浅入深地讲解 Java 的类加载机制。 本文涉及知识点：双亲委托机制、BootstrapClassLoader、ExtClassLoader、AppClassLoader、自定义网络类加载器等。
 
 
 # Memory Model: 内存模型
 
-
 ## Memory Leak: 内存泄露
-
-
 
 - [The Introduction of Java Memory Leaks](http://www.programcreek.com/2013/10/the-introduction-of-memory-leak-what-why-and-how/): One of the most significant advantages of Java is its memory management. You simply create objects and Java Garbage Collector takes care of allocating and freeing memory. However, the situation is not as simple as that, because memory leaks frequently occur in Java applications.
 
@@ -50,11 +47,6 @@
 
 - [垃圾收集器与内存分配策略——在线文字版](http://book.51cto.com/art/201107/278857.htm)
 
-
-
-
-
-
 # Class: 类文件与加载
 
 
@@ -62,5 +54,6 @@
 
 - [Profile-based optimization techniques in the JVM](https://t.co/KYKrcM1ycW)
 
-# Tunning: 性能调优
+- [java-just-in-time-compilation-more-than-just-a-buzzword](https://www.javacodegeeks.com/2013/07/java-just-in-time-compilation-more-than-just-a-buzzword.html)
 
+- [Java On Steroids 5 Super Useful JIT Optimization Techniques](http://blog.takipi.com/java-on-steroids-5-super-useful-jit-optimization-techniques/)

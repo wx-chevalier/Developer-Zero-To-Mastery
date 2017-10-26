@@ -33,9 +33,8 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 # 目录
 
-
-
 - [Learning-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Learning-Reference.md): 程序员的学习进阶之途 
+
 - [Tool-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Tool-Reference.md): 搭建高效率的开发工作台 
 
 ## 个人笔记
