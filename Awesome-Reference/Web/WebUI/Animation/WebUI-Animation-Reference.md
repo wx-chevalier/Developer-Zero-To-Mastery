@@ -41,7 +41,7 @@
 - [Effeckt.css #Project#](https://github.com/h5bp/Effeckt.css)
 
 - [Hover.css #Project#](https://github.com/IanLunn/Hover)
-- 
+
 # JavaScript Animation
 
 ## requestAnimationFrame
@@ -73,3 +73,5 @@
 - [wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)
 
 ## Loading: 加载案例
+
+- [Secret View preloader animation](https://codepen.io/anon/pen/wrVygR)
