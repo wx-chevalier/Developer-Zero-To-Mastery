@@ -34,46 +34,11 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 # 目录
 
 - [Learning-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Learning-Reference.md): 程序员的学习进阶之途 
-
-- [Tool-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Tool-Reference.md): 搭建高效率的开发工作台 
-
-## 个人笔记
-
-### 编程语言
-
-
-- [现代 JavaScript 开发：语法基础与工程实践](https://parg.co/bxN) 
-
-- [JavaScript 设计模式与应用架构](https://parg.co/UHZ)
-
-***
-
-
-- [现代 Java 开发：语法基础与工程实践](https://parg.co/UH3)
-
-- [JVM 内部原理与性能调优](https://parg.co/UHp)
-
-### Web 开发
-
-
-- [我的前端之路系列文章](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices/tree/master/My-Frontend-Road)
-
-- [现代 Web 开发基础](https://parg.co/UHU)
-
-- [现代 Web 工程化实践](https://parg.co/UHO)
-
-***
-
-
-- [React 与前端工程化实践](https://parg.co/UHs)
-
-- [Vue.js 与前端工程化实践](https://parg.co/b4n)
-
 ## DataScienceAI 
 - [DataScienceAI-Book-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataScienceAI-Book-Reference.md): 数学基础 
 - [DataScienceAI-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataScienceAI-Reference.md): Overview: 概念明晰与指南 
 ### ComputerVision 
-- [ComputerVision-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/ComputerVision/ComputerVision-Reference.md): 计算机视觉资料索引 
+- [ComputerVision-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/ComputerVision/ComputerVision-Reference.md):  
 ### DataProcess 
 - [Crawler-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataProcess/Crawler-Reference.md): 爬虫资料索引 
 - [DataProcess-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataProcess/DataProcess-Reference.md): 数据处理资料索引 
@@ -86,8 +51,13 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [GAN-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DeepLearning/DeepNeuralNetwork/GAN-Reference.md): GAN 资料索引 
 *** 
 - [NeuralNetwork-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DeepLearning/NeuralNetwork/NeuralNetwork-Reference.md): 神经网络资料索引 
+### EApplication 
+- [Assistant-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/EApplication/Assistant-Reference.md): 辅助人工智能资料索引 
 ### MachineLearning 
 - [MachineLearning-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/MachineLearning/MachineLearning-Reference.md): 机器学习资料索引 
+*** 
+*** 
+- [Cluster-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/MachineLearning/Algorithm/Cluster/Cluster-Reference.md): 聚类算法资料索引 
 *** 
 - [Mathematics-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/MachineLearning/Mathematics/Mathematics-Reference.md): 机器学习的数学理论资料索引 
 ### NLP 
@@ -208,11 +178,15 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [Redis-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/NoSQL/Redis/Redis-Reference.md): Redis 资料索引 
 *** 
+- [TimeSeries-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/NoSQL/TimeSeries/TimeSeries-Reference.md): 时间序列数据存储资料索引 
+*** 
 - [RelationalDataBase-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/RDB/RelationalDataBase-Reference.md): 关系型数据库入门与实践资料索引 
 - [SQL-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/RDB/SQL-Reference.md):  
 *** 
+- [MySQL-EPractices-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/RDB/MySQL/MySQL-EPractices-Reference.md): MySQL 工程实践与性能优化资料索引 
 - [MySQL-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/RDB/MySQL/MySQL-Reference.md): MySQL 实践参考资料 
 *** 
+- [SEO-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/SearchEngine/SEO-Reference.md):  
 - [SearchEngine-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/SearchEngine/SearchEngine-Reference.md): 搜索引擎学习与实践资料索引 
 *** 
 - [ElasticSearch-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-Reference.md): ElasticSearch 资料索引 
@@ -247,7 +221,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [ProgrammingLanguage-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/ProgrammingLanguage-Reference.md): 编程语言资料索引 
 - [ProgrammingLanguageTheory-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/ProgrammingLanguageTheory-Reference.md): 编程语言理论资料索引 
 ### C 
-- [CPP-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/C/CPP-Reference.md):  
+- [CPP-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/C/CPP-Reference.md): C++ 学习与实践资料索引 
 ### Go 
 - [Go-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Go/Go-Reference.md): Go 学习与实践资料索引 
 *** 
@@ -268,8 +242,8 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [Java-EPractices-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Java/EPractices/Java-EPractices-Reference.md): Java 工程实践资料索引 
 *** 
-- [JVM-Debug-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Java/JVM/JVM-Debug-Reference.md): JVM 应用调试资料索引 
 - [JVM-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Java/JVM/JVM-Reference.md): Memory Model: 内存模型 
+- [JVM-Tunning-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Java/JVM/JVM-Tunning-Reference.md): JVM 性能调优资料索引 
 *** 
 - [Java-Syntax-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Java/Syntax/Java-Syntax-Reference.md): Java 语法基础资料索引 
 *** 
@@ -287,37 +261,34 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [JavaScript-AST-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Engine/JavaScript-AST-Reference.md): JavaScript 语法解析资料索引 
 - [JavaScript-Engine-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Engine/JavaScript-Engine-Reference.md): JavaScript 引擎资料索引 
 *** 
-- [JavaScript-FunctionalProgramming-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Syntax/JavaScript-FunctionalProgramming-Reference.md):  
+- [JavaScript-Function-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Syntax/JavaScript-Function-Reference.md): JavaScript 函数相关资料索引 
+- [JavaScript-MetaProgramming-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Syntax/JavaScript-MetaProgramming-Reference.md): JavaScript 元编程资料索引 
 - [JavaScript-Syntax-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/Syntax/JavaScript-Syntax-Reference.md): JavaScript 语法基础资料索引 
 *** 
 - [Flow-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/TypeSystem/Flow-Reference.md): Flow 学习与实践资料索引 
 - [JavaScript-TypeSystem-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/TypeSystem/JavaScript-TypeSystem-Reference.md): JavaScript TypeSystem Reference 
 - [TypeScript-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/JavaScript/TypeSystem/TypeScript-Reference.md): TypeScript 学习与实践资料索引 
 ### Python 
+- [Python-OpenSource-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/Python-OpenSource-Reference.md): Python 相关开源库索引 
 - [Python-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/Python-Reference.md): Python 学习与实践资料索引 
 *** 
 - [Python-DataStructure-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/DataStructure/Python-DataStructure-Reference.md): Python 数据结构学习与实践资料索引 
 *** 
-- [Python-Test-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/EPractices/%08Python-Test-Reference.md):  
 - [Python-Debug-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/EPractices/Python-Debug-Reference.md):  
 - [Python-StyleGuide-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/EPractices/Python-StyleGuide-Reference.md):  
-- [Python-Test-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/EPractices/Python-Test-Reference.md):  
 *** 
 - [Python-Functionality-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/Functionality/Python-Functionality-Reference.md): Python 功能性开发学习与实践资料索引 
 *** 
 - [Python-Syntax-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Python/Syntax/Python-Syntax-Reference.md): Python 语法基础学习与实践资料索引 
 ### Rust 
-- [Rust-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Rust/Rust-Reference.md):  
+- [Rust-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ProgrammingLanguage/Rust/Rust-Reference.md): Rust 学习与实践资料索引 
 ## ServerSideApplication 
 - [ServerSideApplication-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/ServerSideApplication-Reference.md): 服务端应用程序开发与架构资料索引 
 ### API 
 - [API-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/API-Reference.md): API 设计与实践资料索引 
 *** 
+- [GraphQL-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/QueryLanguage/GraphQL-Reference.md): GraphQL 资料索引 
 - [QueryLanguage-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/QueryLanguage/QueryLanguage-Reference.md):  
-*** 
-- [GraphQL-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/QueryLanguage/%08GraphQL/GraphQL-Reference.md): GraphQL Reference 
-*** 
-- [GraphQL-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/QueryLanguage/GraphQL/GraphQL-Reference.md): GraphQL 学习与实践资料索引 
 *** 
 - [RESTful-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/API/RESTful/RESTful-Reference.md): RESTful API 学习与实践资料索引 
 *** 
@@ -330,13 +301,13 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [ServerSideApplication-Architecture-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/Architecture/ServerSideApplication-Architecture-Reference.md): 服务端应用程序架构资料索引 
 - [Serverless-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/Architecture/Serverless-Reference.md): Serverless 资料索引 
 ### DevOps 
-- [SRE-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/SRE-Reference.md): SRE 站点质量保障资料索引 
+- [DevOps-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/DevOps-Reference.md): DevOps 资料索引 
 *** 
-- [ContinuousIntegration-Reference.md](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/ContinuousIntegration/ContinuousIntegration-Reference.md.md): CI 持续集成资料索引 
+- [ContinuousIntegration-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/ContinuousIntegration/ContinuousIntegration-Reference.md): CI 持续集成资料索引 
 *** 
 - [LogAggregation-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/LogAggregation/LogAggregation-Reference.md): 日志与聚合实践资料索引 
 *** 
-- [MonitorAnalytic-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/MonitorAnalytic/MonitorAnalytic-Reference.md): 监控与分析资料索引 
+- [MonitorAlert-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/MonitorAlert/MonitorAlert-Reference.md): 监控与告警资料索引 
 *** 
 - [Security-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/DevOps/Security/Security-Reference.md): 服务端安全加固资料索引 
 ### HA 
@@ -348,15 +319,18 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [Go-MicroService-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Go/Go-MicroService-Reference.md): Go 微服务实践资料索引 
 *** 
-- [Java-Container-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Java-Container-Reference.md): Java 应用容器资料索引 
-- [Java-Servlet-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Java-Servlet-Reference.md):  
-- [Spring-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Spring-Reference.md): Spring Boot & Spring Cloud 学习与实践资料总结 
+- [Java-MicroService-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Java-MicroService-Reference.md): Java 微服务相关资料索引 
+- [Java-Servlet-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Java-Servlet-Reference.md): Java Servlet 资料索引 
+*** 
+- [Tomcat-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Container/Tomcat-Reference.md): Tomcat 学习与实践资料索引 
+*** 
+- [Spring-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Java/Spring/Spring-Reference.md): Spring Boot & Spring Cloud 学习与实践资料总结 
 *** 
 - [Node.js-Core-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-Core-Reference.md): Node.js 运行机制与核心原理资料索引 
 - [Node.js-EPractices-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-EPractices-Reference.md): Node.js 工程实践资料索引 
 - [Node.js-Framework-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-Framework-Reference.md): Node.js 框架学习与实践资料索引 
 - [Node.js-MicroService-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-MicroService-Reference.md): Node.js 微服务架构学习与实践资料索引 
-- [Node.js-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-Reference.md): Overview 
+- [Node.js-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/Node.js/Node.js-Reference.md): Node.js 学习与实践资料索引 
 *** 
 - [PHP-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/ServerSideApplication/WebFramework/PHP/PHP-Reference.md): PHP 学习与实践资料索引 
 ### WebServer 
@@ -385,6 +359,8 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [Agile-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/SoftwareEngineering/CollaborativeDevelopment/Agile/Agile-Reference.md): 敏捷开发资料索引 
 *** 
+- [Tool-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/SoftwareEngineering/CollaborativeDevelopment/Tool/Tool-Reference.md): 搭建高效率的开发工作台 
+*** 
 *** 
 - [Git-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/SoftwareEngineering/CollaborativeDevelopment/VersionControl/Git/Git-Reference.md): Git 资料索引 
 ### DesignPattern 
@@ -409,6 +385,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 ### Browser 
 - [Browser-Automation-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Browser/Browser-Automation-Reference.md): 浏览器自动化资料索引 
 - [Browser-Extension-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Browser/Browser-Extension-Reference.md): 浏览器扩展资料索引 
+- [Browser-Inside-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Browser/Browser-Inside-Reference.md): 浏览器运行原理与内部机制资料索引 
 - [Browser-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Browser/Browser-Reference.md): 浏览器相关学习与资料索引 
 ### Builder 
 - [Web-Builder-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Builder/Web-Builder-Reference.md): Web 构建工具资料索引 
@@ -427,10 +404,13 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [Web-Production-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/EPractices/Production/Web-Production-Reference.md): 生产环境部署与监控资料索引 
 *** 
+- [Web-StyleGuide-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/EPractices/StyleGuide/Web-StyleGuide-Reference.md): Web 开发样式指南资料索引 
+*** 
 - [Web-E2ETest-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/EPractices/Test/Web-E2ETest-Reference.md): Web 端到端测试资料索引 
 - [Web-Test-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/EPractices/Test/Web-Test-Reference.md): Web 测试资料索引 
 - [Web-TestRunner-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/EPractices/Test/Web-TestRunner-Reference.md):  
 ### Framework 
+- [Web-Framework-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Web-Framework-Reference.md): Web 框架资料索引 
 *** 
 - [Angular-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Angular/Angular-Reference.md): Angular 学习与实践资料索引 
 *** 
@@ -441,6 +421,8 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 - [React-OpenSource-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/React/React-OpenSource-Reference.md): React 开源组件与库索引 
 - [React-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/React/React-Reference.md): React 学习与实践资料索引 
 *** 
+- [Redux-EPractices-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Redux/Redux-EPractices-Reference.md): Redux 工程实践资料索引 
+- [Redux-OpenSource-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Redux/Redux-OpenSource-Reference.md): Redux 开源资源索引 
 - [Redux-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Redux/Redux-Reference.md): Redux 学习与实践资料索引 
 *** 
 - [Vue-EPractices-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Framework/Vue/Vue-EPractices-Reference.md): Vue.js 工程实践资料索引 
@@ -467,10 +449,19 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 *** 
 - [WebUI-Animation-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/WebUI/Animation/WebUI-Animation-Reference.md): Web 动画资料索引 
 *** 
+- [ScrollView-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/WebUI/Container/ScrollView-Reference.md): Web 开发中滚动相关资料索引 
+*** 
 - [WebUI-DVisual-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/WebUI/DVisual/WebUI-DVisual-Reference.md): Web 数据可视化资料索引 
+- [WebUI-Diagram-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/WebUI/DVisual/WebUI-Diagram-Reference.md): Web 图表插件索引 
 *** 
 - [WebUI-Responsive-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/WebUI/Responsive/WebUI-Responsive-Reference.md): Web 响应式开发资料索引 
 ### Widgets 
+- [Dialog-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Dialog-Reference.md): 对话框与提示资料索引 
+- [Gallery-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Gallery-Reference.md): ImageView 
+- [Indicator-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Indicator-Reference.md): Web 指示器插件索引 
+- [Media-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Media-Reference.md): Web 开发中媒体处理插件索引 
+- [Picker-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Picker-Reference.md): 输入插件索引 
 - [TableGrid-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/TableGrid-Reference.md): 表格与网格控件索引 
 - [Web-Widgets-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/Web/Widgets/Web-Widgets-Reference.md): Web 插件索引 
+
 
