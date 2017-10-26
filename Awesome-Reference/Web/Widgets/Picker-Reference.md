@@ -1,3 +1,4 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
 # 输入插件索引
 
