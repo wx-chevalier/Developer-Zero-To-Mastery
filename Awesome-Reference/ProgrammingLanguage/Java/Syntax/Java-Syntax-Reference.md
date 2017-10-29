@@ -4,17 +4,9 @@
 
 # Java 语法基础资料索引
 
+# ControlFlow: 流程控制
 
-# Function
-
-- [A Comprehensive Walk Through Java Method References](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references?utm_source=mybridge&utm_medium=web&utm_campaign=read_more)
-
-
-
-# Stream: 流
-
-- [2017-Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
-
+- [Java Without If](http://ashtonkemerling.com/blog/2017/01/26/java-without-if/)
 
 # Modularity: 模块化
 
@@ -35,3 +27,7 @@
 
 
 - [2017-Using Java 9 Modularization to Ship Zero-Dependency Native Apps](https://steveperkins.com/using-java-9-modularization-to-ship-zero-dependency-native-apps/)
+
+# 异常处理
+
+- [如何优雅的设计java异常](http://lrwinx.github.io/2016/04/28/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E8%AE%BE%E8%AE%A1java%E5%BC%82%E5%B8%B8/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

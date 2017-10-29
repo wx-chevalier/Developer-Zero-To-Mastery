@@ -4,8 +4,6 @@
 
 # Production: 生产环境
 
-
-
 ## Test: 测试
 
 - [2017-Testing React Applications【Series】](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
@@ -49,7 +47,7 @@
 
 - [React 同构技术](https://zhuanlan.zhihu.com/p/21492780)
 
-- [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app?ref=mybridge.co)
+- [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
 
 - [Redux官方文档 ServerSideRendering](http://redux.js.org/docs/recipes/ServerRendering.html)
 
