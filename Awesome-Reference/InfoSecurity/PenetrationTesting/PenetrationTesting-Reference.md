@@ -1,23 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/1/2/1-1kLfZcbO_baIyNAHfakk2w.jpeg) 
 
-
 # 渗透测试学习与实践资料索引
-
-
 
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#awesome-fuzzing):一系列对于Hack安全资料的搜集 
 
@@ -29,8 +14,6 @@
 
 - [基于机器学习的web异常检测](https://zhuanlan.zhihu.com/p/25139556)
 
-
-
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists): Wordlists sorted by probability originally created for password generation and testing.
  
-
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF

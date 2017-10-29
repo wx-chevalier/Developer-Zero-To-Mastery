@@ -22,3 +22,5 @@
 - [Functional Mixins](https://parg.co/bLu) 
     
 - [2017-JavaScript Monads Made Simple](https://parg.co/bB3)
+
+- [2017-Challenge: Program without variables #javascript](https://parg.co/USF): The challenge is to create a piece of software (something real, tangible and more than a hello world) without any variables.
