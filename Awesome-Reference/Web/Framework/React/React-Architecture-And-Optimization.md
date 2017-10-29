@@ -3,19 +3,15 @@
 
 # React 应用架构与性能优化资料索引
 
-
-
-
 # StyleGuide: 样式指南
 
-
+- [2017-How to structure components in React?](https://parg.co/USj): Structuring system is the hardest thing and it has a big impact on the overall project.
 
 - [2017-Characteristics of an Ideal React Architecture](https://parg.co/bD4): 
 
 - [2016-来自 AlloyTeam 的 React.js 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 
 - [2016-React Patterns](http://reactpatterns.com/):  Patterns for React Developers
-
 
 - [2017-10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.5v2hpgurn): Over the last few years, I’ve worked on a handful of decent-sized React projects, and many, many pint-sized ones. Throughout this magical journey, a number of patterns have come up that I find myself repeating again and again.
 
@@ -42,6 +38,7 @@
 
 - [2017-8 Key React Component Decisions](https://parg.co/Um6): Standardize your React development with these key decisions.
 
+- [How to structure components in React?](https://parg.co/USj)
 
 ## CodeStyle: 代码风格
 
@@ -67,11 +64,7 @@
 
 - [Functional React Series — Part 1: Get your App outta my Component](https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25#.q47pt8fga)
 
-
-
 ## HOCs: 高阶组件
-
-
 
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.uz8irdipq)
 
@@ -94,8 +87,6 @@
 
 - [2016-Building HOCs with Recompose](https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101)
 
-
-
 # Performance: 性能优化
 
 - [React Office Site —— Optimizing Performance](https://facebook.github.io/react/docs/optimizing-performance.html): For many applications, using React will lead to a fast user interface without doing much work to specifically optimize for performance. Nevertheless, there are several ways you can speed up your React application.
@@ -115,9 +106,8 @@
 
 - [Should I use shouldComponentUpdate?](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)
 
-- [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8?f=tt)
 
-- [ProReact中关于性能的章节]()
 
 - [component-rendering-performance-in-react](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.rjjvtwgs8)
 

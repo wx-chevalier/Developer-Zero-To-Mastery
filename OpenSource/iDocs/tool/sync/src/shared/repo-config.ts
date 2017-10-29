@@ -51,9 +51,11 @@ const repos: { [key: string]: ReposityConfig } = {
       '/Workbench/Domain-of-ProgrammingLanguage/JavaScript/Modern-JavaScript-Development-Foundation',
     repository: 'Domain-of-ProgrammingLanguage',
     basePath: 'JavaScript/Modern-JavaScript-Development-Foundation',
-    sUrl: '﻿https://parg.co/bxN',
-    chapterHeader: '"https://parg.co/UG3"',
+    sUrl: 'https://parg.co/bxN',
+    chapterHeader: 'https://parg.co/USw',
     useSubHeader: false,
+    localPath:
+      '/Users/apple/Workspace/Docs/Domain-of-ProgrammingLanguage/JavaScript/Modern-JavaScript-Development-Foundation',
   },
 
   // Web-Development-And-Engineering-Practices

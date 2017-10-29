@@ -5,7 +5,7 @@
 
 参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript 学习与实践资料索引的入口部分，关联子索引还包括[语法基础]()等。
 
-# Overview
+# Overview: 概述
 
 ## JavaScript 编年史
 
