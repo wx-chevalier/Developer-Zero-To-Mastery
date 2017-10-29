@@ -1,25 +1,16 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
-
-
-
-
 # Java 学习与实践资料索引
 
-
 当我们谈起 Java 的时候，往往是将其作为一门编程语言来讨论；然而编程语言的特性只是 Java 架构的某部分，保障其平台独立性的一系列底层架构也是 Java 不可分割的组成。宏观来看，我们认为 Java 主要包含以下四个部分：Java 编程语言、Java 类文件格式、Java API 以及 JVM。当我们在进行 Java 开发时，我们使用 Java 编程语言来编写代码，然后将其编译为 Java 类文件，最终在 JVM 中执行这些类文件；目前我们也可以使用 Gradle、Kotlin 等其他优秀的语言来编写 Java 应用程序。而 JVM 与 Java 平台的核心库就构成了我们所熟知的 Java Runtime Environment（JRE）：
-
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/1/java.png)
 
 
-作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引；鉴于本部分正在不断完善，以下链接可能存在疏漏，请直接查看本目录下其他文件获取信息：[Java 语法基础资料索引，Java 数据结构资料索引，Java 集合资料索引，Java 并发编程资料索引，JVM 资料索引]()
+作为主流的编程语言之一，Java 走过了二十余载的路程；从 Java 8 到 Java 9，其语法特性与开发模式也处于不断地迭代当中。本文即是希望对于不断变化的并且在实际工作中大量应用的 Java 学习与实践的资料进行收集与索引。
 
 
 # Overview: 概述
-
-
 
 - [2017-细思极恐-你真的会写java吗?](http://6me.us/IZ45) 
 
@@ -42,7 +33,7 @@
 
 - [2017-Java 8 Top Tips by Jetbrains](https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/)
 
-
+- [Java 8简明教程](http://www.importnew.com/10360.html)
 
 ## Java 9
 
@@ -60,9 +51,7 @@
 
 - [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
-
-# Resource
-## Book: 书籍
+# Book: 书籍
 
 - [2011-深入理解Java虚拟机：JVM高级特性与最佳实践【Book】](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个Java技术体系的过去、现在和未来；第二部分讲解了JVM的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了Java实现高效并发的原理。
 
@@ -70,7 +59,13 @@
 
 - [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
-- [2017-Think Java【Book】](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+
+
+- [Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+
+
+# Resource
 
 
 
@@ -78,16 +73,19 @@
 
 - [Novixys Software Dev Blog【Blog】](http://www.novixys.com/blog/): [Using Timer Class to Schedule Tasks](http://www.novixys.com/blog/using-timer-schedule-tasks/)
 
+- [java-weekly](http://www.thoughts-on-java.org/java-weekly/)
 
+- [Java, JVM and beyond](http://blog.sanaulla.info/)
 
+- [javacodegeeks](http://www.javacodegeeks.com/category/java/core-java/)
 
+- [Oracle-Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 
+- [ImportNews:专注Java&Android](http://www.importnew.com/)
 
+- [来自GeniusVJR的学习笔记d](https://github.com/GeniusVJR/LearningNotes)
 
-# Online Playground: 在线实践与学习
-
-
-# Collection: 其他资源集锦
+## Collection: 其他资源集锦
 
 - [2017-在Java路上，我看过的一些书、源码和框架【Collection】](http://www.jianshu.com/p/4a41ee88bd82)
 
@@ -95,8 +93,19 @@
 
 - [2017-Best Java Sites](http://www.baeldung.com/java-blogs): There are several “Top Java Blogs” pages out there – but also a lot of noise. Some of these blogs are abandoned with the last postin 2008, some have simply switched focused from Java to something else. Others are gone altogether.
 
+- [Java 学习中的 99 个实践问题](https://github.com/shekhargulati/99-problems/blob/master/java8/README.md)
 
+- [Java 工程师成神之路~](http://www.hollischuang.com/archives/489)
 
+- [Java 资源大全中文版](https://github.com/jobbole/awesome-java-cn)
+
+ 
 ## Interview: 面试
 
 - [2017-Java Collection Interview Questions and Answer](https://parg.co/bak): Here is a list of Java Collections interview Questions. These are some of the famous questions asked in interviews.
+
+- [Java 高级开发工程师面试考点](http://www.sanesee.com/article/java-engineer-interview-of-content-tree)
+
+- [Java 面试问题](https://dongchuan.gitbooks.io/java-interview-question/content/java/index.html)
+
+## Online Playground: 在线实践

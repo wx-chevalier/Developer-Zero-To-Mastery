@@ -92,7 +92,7 @@ const repos: { [key: string]: ReposityConfig } = {
     basePath:
       'Modern-Web-Application-Architecture-And-Performance-Optimization',
     sUrl: 'https://parg.co/UGZ',
-    chapterHeader: 'https://parg.co/UGp',
+    chapterHeader: 'https://parg.co/US3',
     useSubHeader: false,
     localPath:
       '/Users/apple/Workspace/Docs/Web-Development-And-Engineering-Practices/Modern-Web-Application-Architecture-And-Performance-Optimization',

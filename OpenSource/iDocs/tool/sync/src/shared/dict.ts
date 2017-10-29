@@ -1,6 +1,6 @@
 export const term = {
   'Coder Essentials': '编程通识基础',
-  Reference: '资料索引'
+  Reference: '资料索引',
 };
 
 // 待忽略的文件与目录
@@ -9,9 +9,9 @@ export const ignoreFilesOrDirs = [
   '',
   '.stash',
   'README.md',
-  'LICENSE'
+  'Index.md',
+  'LICENSE',
 ];
-
 
 export const appendix = `
 
@@ -32,4 +32,4 @@ export const appendix = `
 
 笔者所有文章遵循 [知识共享 署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。
 
-`
+`;
