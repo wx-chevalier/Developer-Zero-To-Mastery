@@ -7,7 +7,7 @@
 
 ## 断点调试
 
-- [debug #Project# ](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
+- [debug #Project#](https://github.com/visionmedia/debug): tiny node.js & browser debugging utility for your libraries and applications.
 
 ## Chrome Dev Tools
 
@@ -27,7 +27,7 @@
 
 ## Sync Tools: 同步工具
 
-- [BrowserSync #Project# ](https://browsersync.io/)
+- [BrowserSync #Project#](https://browsersync.io/)
 
 ## 远程调试
 
@@ -51,7 +51,7 @@
 
 - [Fun with Console object](https://dev.to/duchienvuong/fun-with-console-object)
 
-- [移动web开发调试工具AlloyLever介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html?utm_source=tuicool&utm_medium=referral)
+- [移动web开发调试工具 AlloyLever 介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html?utm_source=tuicool&utm_medium=referral)
 
 - [Browser console debugging tips for arrays & objects using groups and tables](https://medium.com/@brocco/browser-console-debugging-tips-for-arrays-objects-using-groups-and-tables-60b001316d8a#.5p4bh84px)
 
