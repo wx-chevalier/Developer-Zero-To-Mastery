@@ -64,10 +64,12 @@
 
 # 内存分析
 
-- [Google Developers - 解决你的内存问题系列](https://developers.google.com/web/tools/chrome-devtools/memory-problems/): [内存术语](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
-
-- [2017-Debugging memory leaks in web applications using iframes](https://www.bryntum.com/blog/debugging-memory-leaks-in-web-applications-using-iframes/)
+- [2013-An interesting kind of JavaScript memory leak](https://parg.co/Uc5): Recently, Avi and David tracked down a surprising JavaScript memory leak in Meteor’s live HTML template rendering system. The fix will be in the 0.6.5 release (in its final stages of QA right now).
 
 - [2016-4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/): In this article we will explore common types of memory leaks in client-side JavaScript code. We will also learn how to use the Chrome Development Tools to find them. Read on!
 
+- [2017-Google Developers - 解决你的内存问题系列](https://developers.google.com/web/tools/chrome-devtools/memory-problems/): [内存术语](https://developers.google.com/web/tools/chrome-devtools/memory-problems/memory-101)
 
+- [2017-Debugging memory leaks in web applications using iframes](https://www.bryntum.com/blog/debugging-memory-leaks-in-web-applications-using-iframes/)
+
+- [2017-How JavaScript works: memory management + how to handle 4 common memory leaks](https://parg.co/bnw)
