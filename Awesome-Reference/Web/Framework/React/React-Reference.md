@@ -1,23 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
 
 # React 学习与实践资料索引
 
@@ -160,10 +141,6 @@
 
 ## Props
 
-
-
-
-
 - [function-as-child-components](https://medium.com/@iammerrick/function-as-child-components-5f3920a9ace9#.4dpp6haq9)
 
 
@@ -242,6 +219,8 @@
 
 - [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
+## Styled Components
+- [2017-Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
 
 # Animation
 
