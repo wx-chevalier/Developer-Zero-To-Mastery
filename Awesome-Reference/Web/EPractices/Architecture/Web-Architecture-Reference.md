@@ -1,16 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # Web 架构学习与实践资料索引
 
@@ -82,3 +70,4 @@
 
 - [Web Components as successor to jQuery](https://gist.github.com/warpech/9431953)
 
+- [This Is How To Get The Best Out Of Front-End Components](https://parg.co/UcE)
