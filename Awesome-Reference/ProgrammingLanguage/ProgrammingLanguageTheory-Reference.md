@@ -9,4 +9,4 @@
 
 - [2016-History of Programming Languages, Spring '17 Edition【Course】](https://github.com/nuprl/hopl-s2017):The primary goal is to understand (some of) the discipline as it exists today and how some of its major themes evolved. Initially, the seminar will focus on themes that NUPRL faculty members have developed over the many decades of their careers. The choice of other themes will depend on students’ interests and preferences. The secondary goal is to develop basic skills for understanding and describing research themes. Every student will learn to study a theme via a series of papers, prepare an annotated bibliography, and present the key steps in the evaluation of the theme.
 
-- [2013-The Future of Programming (2013)](http://worrydream.com/dbx/)
+- [2013-The Future of Programming (2013)](http://worrydream.com/dbx/)，[Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
