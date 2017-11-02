@@ -1,16 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 权限认证资料索引
 
@@ -40,3 +28,6 @@
 
 - [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 
+# 2FA 双因素认证
+
+- [双因素认证（2FA）教程](https://parg.co/Ucx)
