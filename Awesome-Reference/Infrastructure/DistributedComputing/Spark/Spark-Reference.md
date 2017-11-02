@@ -1,17 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
-
-
- 
-
-
- 
-
-
- 
-
-
-
 # Spark 学习与实践资料索引
 
 
@@ -40,4 +28,6 @@
 - [ipython-notebook-spark](http://litaotao.github.io/ipython-notebook-spark?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
+- [apache-spark-rdd-partitioning-preservation](https://medium.com/@corentinanjuna/apache-spark-rdd-partitioning-preservation-2187a93bc33e#.r9tg3imuj)
 
+- [Spark的RDD原理以及2.0特性的介绍 ](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547218&idx=1&sn=3ada8b2f72cfc67dce923ab69a4aa7a2&scene=0#wechat_redirect)
