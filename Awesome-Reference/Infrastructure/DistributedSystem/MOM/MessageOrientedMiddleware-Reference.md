@@ -32,6 +32,8 @@
 
 # Kafka
 
+- [2017-Apache Kafka Goes 1.0](https://www.confluent.io/blog/apache-kafka-goes-1-0/): The feature set and the broad deployments all speak of a stable and Enterprise-ready product, which leads to an important step we are taking with this release: as of today, Apache Kafka is going 1.0!
+
 - [2017-View Counting at Reddit](https://parg.co/bJE): Reddit’s data pipeline is primarily oriented around Apache Kafka. When a user views a post, an event gets fired and sent to an event collector server, which batches the events and persists them into Kafka.
 
 - [Kafka 设计解析（六）- Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
