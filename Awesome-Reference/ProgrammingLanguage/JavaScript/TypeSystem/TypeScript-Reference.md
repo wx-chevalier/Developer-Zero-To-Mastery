@@ -1,18 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
 
 # TypeScript 学习与实践资料索引
 
@@ -49,5 +35,7 @@
 - [2017-TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
 
 - [2017-Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/): Frontend engineering is in a very different state than it was when Reddit was first conceived.
+
+- [2017-Common TypeScript Error Messages](https://www.sitepen.com/blog/2017/11/01/common-typescript-error-messages/)
 
 
