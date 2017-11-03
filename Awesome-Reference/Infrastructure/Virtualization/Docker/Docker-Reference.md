@@ -1,20 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # Docker Reference
 
-
+- [2017-Create lean Node.js image with Docker multi-stage build](https://codefresh.io/blog/node_docker_multistage/)
 
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d?source=reading_list---------6-1---------)
 
