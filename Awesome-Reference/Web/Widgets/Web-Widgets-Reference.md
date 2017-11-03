@@ -28,6 +28,8 @@
 
 - [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
 
+- [react-osx-dock #Project#](https://github.com/lukehorvat/react-osx-dock): React component that is magnifiable like the Mac OS X dock.
+
 # Uploader
 
 - [uppy](https://github.com/transloadit/uppy)
