@@ -49,3 +49,5 @@
 - [HttpRouter #Project#](https://github.com/julienschmidt/httprouter): A high performance HTTP request router that scales well.
 
 - [2017-Visualizing Concurrency in Go · divan's blog](http://divan.github.io/posts/go_concurrency_visualize/): One of the strongest sides of Go programming language is a built-in concurrency based on Tony Hoare’s CSP paper. Go is designed with concurrency in mind and allows us to build complex concurrent pipelines. But have you ever wondered - how various concurrency patterns look like?
+
+- [2017-Profiling Go](http://www.integralist.co.uk/posts/profiling-go/):  We dive into the techniques and tools available for profiling Go applications

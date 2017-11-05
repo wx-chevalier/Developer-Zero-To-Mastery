@@ -1,36 +1,15 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
 
 # 面向程序猿的数据科学与机器学习知识体系及资料合集
 
-
 本文是笔者在学习DataScience过程中所有资源的汇总，本文着眼于各个领域的入门介绍以及综述性质资源的汇总，并不会过多 的深挖前沿，若有兴趣了解更多，可以关注笔者的[程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)。本文主线从对数据科学与机器学习入门概览开始，继而提供一系列的资源、书籍与教程，然后介绍各个具体的领域内的参考文章，最后介绍一系列的实用工具。笔者的数据科学与机器学习世界观图解如下，其从属于笔者的[编程世界观与方法论](https://github.com/wxyyxc1992/Coder-Knowledge-Graph/blob/master/when-you-want-to-learn.zh.md)系列:
-
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/DataScience.png)
 
 
 本文会随着笔者自身学习实践中格局与能力的提升而不断完善，笔者并非纯粹的机器学习与数据挖掘研究者，更多的是从工程的角度来寻找能够与工程相结合应用的方面。
 
-
-
-
 # Overview: 概念明晰与指南
-11
 
 - [数据分析，数据挖掘，数据科学，机器学习与大数据之间的异同](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
@@ -57,9 +36,7 @@
 
 - [Distill](http://distill.pub/): The web is a powerful medium to share new ways of thinking.
 
-
 # Case:案例
-
 
 - [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
 
@@ -77,7 +54,6 @@
 
 - [2012 - 深入浅出数据分析 中文版【Book】](https://drive.wps.cn/view/l/215ff72bda3f4054b1b7e50fc9a2ee30)：深入浅出数据分析》以类似“章回小说”的活泼形式，生动地向读者展现优秀的数据分析人员应知应会的技术：数据分析基本步骤、实验方法、最优化方法、假设检验方法、贝叶斯统计方法、主观概率法、启发法、直方图法、回归法、误差处理、相关数据库、数据整理技巧；正文之后，意犹未尽地以三篇附录介绍数据分析十大要务、R工具及ToolPak工具，在充分展现目标知识以外，为读者搭建了走向深入研究的桥梁。
 
-
 - Lean Analytics — by Croll & Yoskovitz: 本书是教会你如何建立基本的以商业思维去使用这些数据，虽然这本书本身定位是面向初学者，不过我觉得你可以从中学到更多。你可以从本书中学到一条基本准则、6个基础的线上商业形态以及隐藏其后的数据策略。
 - Business value in the ocean of data — by Fajszi, Cser & Fehér: 如果说Lean Analytics是关于面向初学者讲解商业逻辑加上数据，那么本书是面向大型公司来讲解这些内容。听上去好像没啥新鲜的，不过往往初创企业与独角兽之间面对的问题是千差万别，本书中会介绍譬如保险公司是如何进行定价预测或者银行从业者们又在面临怎样的数据问题。
 - Naked Statistics — Charles Wheelan: 这本书我一直很是推荐，因为它不仅仅面向数据科学家，而是为任何一个行业的人提供基本的统计思维，这一点恰恰是我认为非常关键的。这本书并没有太多的长篇大论，而是以一个又一个的故事形式来讲解统计思维在公司运营中的重要作用。
@@ -91,16 +67,9 @@
 
 - [Apache Superset](https://github.com/apache/incubator-superset): Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application. [Superset: Airbnb’s data exploration platform](https://parg.co/bIh)
 
-
-
-
 # Others: 其他
 
-
-
 ## Competition:机器学习相关竞赛
-
-
 
 - [阿里天池 新人实战赛](https://tianchi.shuju.aliyun.com/getStart/index.htm?spm=5176.100065.111.3.jgYTrv&id=&_lang=zh_CN)
 
@@ -120,8 +89,6 @@
 
 
 ## Career:职业
-
-
 
 - [Quora 关于机器学习的招聘启事](https://www.quora.com/careers/technical_lead_machine_learning)
 

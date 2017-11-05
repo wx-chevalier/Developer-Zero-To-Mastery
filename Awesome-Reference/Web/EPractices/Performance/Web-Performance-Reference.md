@@ -93,21 +93,11 @@
 
 # Interaction & Animation: 交互与动画
 
-
-
-
-
 ## Code Coverage: 代码覆盖率
-
 
 - [Using the Chrome devtools new code coverage feature](https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf): This is an exciting feature that is useful both when working with JavaScript and CSS, so I thought I’d do a quick demo and explore how it can be helpful.
 
-
-
 # Request: 请求优化
-
-
-
 
 - [Preload, Prefetch And Priorities in Chrome](https://parg.co/bhM): Today we’ll dive into insights from Chrome’s networking stack to provide clarity on how web loading primitives (like <link rel=“preload”> & <link rel=“prefetch”>) work behind the scenes so you can be more effective with them.
 
