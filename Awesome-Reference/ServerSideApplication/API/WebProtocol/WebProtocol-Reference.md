@@ -1,25 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # Web 通信协议资料索引
 
-
-
 # HTTPS
-
-
-
 
 - [https://en.wikipedia.org/wiki/HTTP](https://en.wikipedia.org/wiki/HTTP)
 
@@ -31,9 +14,6 @@
 
 - [HTTPS中的加密算法相关概念](http://foofish.net/https-symmetric.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
-
-
-
 
 - [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/?utm_source=tuicool&utm_medium=referral)
 
@@ -57,7 +37,7 @@
 - [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social) 
 - [Socket.io Game Demo](https://github.com/sgoedecke/socket-io-game): Building a multiplayer online game with socket.io. 
 
-
+- [2017-How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://parg.co/UKu)
 
 
 # WebRTC
