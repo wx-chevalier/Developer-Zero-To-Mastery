@@ -220,7 +220,10 @@
 - [2017-Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
 
 ## Styled Components
+
 - [2017-Styled-components — Mastering the fundamentals through practice](https://parg.co/Ucr)
+
+- [2017-Migrating to styled-components cheatsheet](http://jsramblings.com/2017/10/29/migrating-to-styled-components-cheatsheet.html)
 
 # Animation
 
