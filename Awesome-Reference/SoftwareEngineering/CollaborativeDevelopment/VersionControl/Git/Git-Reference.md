@@ -1,24 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
 
 ![](https://cdn-images-1.medium.com/max/2000/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg)
+
 # Git 资料索引
-
-
-
-
 
 - [2017-Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration/): I recently took some time to really dig in, read through documentation, and review my global Git configuration.
 
@@ -42,6 +26,9 @@
 
 - [2017-A Guide to Single Branch Development with Git](https://parg.co/bBr): This post is aimed at people who have read my last one which you can read here on my website and all those who want to learn more about how to incorporate git into their solo developer workflow.
 
+# CheatSheet: 备忘清单
+
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules): Flight Rules are the hard-earned body of knowledge recorded in manuals that list, step-by-step, what to do if X occurs, and why. Essentially, they are extremely detailed, scenario-specific standard operating procedures. [...]
 
 # Rebase
 
