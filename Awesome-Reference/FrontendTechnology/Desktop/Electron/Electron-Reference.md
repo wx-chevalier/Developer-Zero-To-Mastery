@@ -13,3 +13,5 @@
 - [Quick and painless automatic updates in Electron](https://parg.co/USW): Here, I will guide you through a quick process to setup an auto-updater, using GitHub as a host.
 
 - Slack: [Growing Pains: Migrating Slack’s Desktop App to BrowserView](https://parg.co/UKp)
+
+- [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/)
