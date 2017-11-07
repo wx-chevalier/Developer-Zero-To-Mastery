@@ -24,7 +24,9 @@
 
 - [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348) 
 
-- [Refactoring to microservices【Series】](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+- [Refactoring to microservices #Series#](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+
+- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
 
 - [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
 
