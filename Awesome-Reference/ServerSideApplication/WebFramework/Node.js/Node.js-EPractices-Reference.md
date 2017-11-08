@@ -12,6 +12,10 @@
 
 - [2017-How to create a zero dependency HTTP/2 static file server with Node.js (with examples)](https://parg.co/UKq)
 
+# 权限认证
+
+- [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
+
 # Storage
 
 ## MySQL
