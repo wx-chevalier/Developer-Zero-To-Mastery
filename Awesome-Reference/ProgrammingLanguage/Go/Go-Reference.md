@@ -1,7 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
-
-
 # Go 学习与实践资料索引
 
 
@@ -43,6 +41,7 @@
 
 - [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers
 
+- [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 # Project
 
