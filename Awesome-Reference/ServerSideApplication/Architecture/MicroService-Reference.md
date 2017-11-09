@@ -30,6 +30,7 @@
 
 - [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
 
+- [PiggyMetrics #Project#](https://github.com/sqshq/PiggyMetrics): This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.
 
 # 大厂分享
 - 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)
