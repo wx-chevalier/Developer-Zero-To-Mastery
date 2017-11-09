@@ -39,3 +39,5 @@
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons)
 
 - [A simple pie chart in SVG](https://hackernoon.com/a-simple-pie-chart-in-svg-dbdd653b6936#.lcgrjbwnc)
+
+- [Creating a Star to Heart Animation with SVG and Vanilla JavaScript](https://css-tricks.com/creating-star-heart-animation-svg-vanilla-javascript/)
