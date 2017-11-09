@@ -14,6 +14,9 @@
 
 - [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz) 
 
+- [Zipkin #Project#](http://zipkin.io/): Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. 
+
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html)
 
 # 无埋点监测
 
