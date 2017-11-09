@@ -65,6 +65,7 @@
 
 - [learn-blog](https://github.com/ironman5366/learn-blog): Machine learning for humans Helping you learn Ml the easy way using keras.io
 
+- [Theories of Deep Learning (STATS 385) Stanford University, Fall 2017](https://stats385.github.io/)
 
 # Book: 书籍
 
