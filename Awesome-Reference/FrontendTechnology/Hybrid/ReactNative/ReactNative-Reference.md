@@ -1,19 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
 
 # ReactNative 学习与实践资料索引
 
@@ -28,7 +13,7 @@
 
 - [React Native 学习指南【Collection】](https://github.com/reactnativecn/react-native-guide) 
 
-
+- [2017-React Native vs Real Native Apps](https://parg.co/U6A): This post is targeted to highlight the theoretical as well as practical aspects of using React Native in comparison with the Swift.
 
 
 
