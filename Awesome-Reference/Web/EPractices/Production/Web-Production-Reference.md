@@ -23,9 +23,12 @@
 - [技术分享：几种常见的JavaScript混淆和反混淆工具分析实战 ](http://www.freebuf.com/articles/web/97945.html)
 
 - [当我们在谈论前端加密时，我们在谈些什么](http://qianduan.guru/2016/09/02/security-for-web-developer/)
+
 - [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 - [移动时代的前端加密](http://blog.csdn.net/zswang/article/details/47438561)
+
+- [2017-How we deliver BBC Web Pages to the Internet](https://parg.co/U6c): In this post Neil Craig, Lead Technical Architect in the BBC Online Technology Group gives an overview of the way in which the BBC serves the majority of its web pages to the public.
 
 # 错误监控
 

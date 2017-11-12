@@ -4,6 +4,8 @@
 
 # GraphQL 资料索引
 
+- [2017-The GraphQL stack: How everything fits together](https://parg.co/U6S): A look at caching, tracing, schema stitching, and GraphQL’s future from GraphQL Summit 2017.
+
 ## Resource
 - [Awesome GraphQL【Collection】](https://github.com/chentsulin/awesome-graphql):一系列的关于GraphQL相关的资源的搜集
 
