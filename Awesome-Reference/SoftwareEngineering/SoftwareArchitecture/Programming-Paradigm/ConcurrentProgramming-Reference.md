@@ -27,7 +27,7 @@
 
 - [2017-工作线程数究竟要设置为多少](https://mp.weixin.qq.com/s/BRpngTEFHjzpGv8tkdqmPQ)：Web  Server 通常有个配置，最大工作线程数，后端服务一般也有个配置，工作线程池的线程数量，这个线程数的配置不同的业务架构师有不同的经验值，有些业务设置为 CPU 核数的 2 倍，有些业务设置为 CPU 核数的 8 倍，有些业务设置为 CPU 核数的 32 倍。“工作线程数”的设置依据是什么，到底设置为多少能够最大化CPU性能，是本文要讨论的问题。
 
-- [深入理解计算机系统【Book】]():此书中设计有关并行与并发的部分可以作为借鉴，有助于理解并发编程在系统底层上的实现原理，本文的很多内容与论断也是借鉴了本书。
+- [深入理解计算机系统 #Book#]():此书中设计有关并行与并发的部分可以作为借鉴，有助于理解并发编程在系统底层上的实现原理，本文的很多内容与论断也是借鉴了本书。
 
 
 
@@ -43,7 +43,7 @@
 
 # Book
 
-- [2012-Concurrent Programming for Scalable Web Architectures【Book】](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
+- [2012-Concurrent Programming for Scalable Web Architectures #Book#](http://berb.github.io/diploma-thesis/): We examine the relations between concurrency, scalability and distributed systems and dare an outlook on the near future.
 
 
 - [松本行弘-代码的未来]()

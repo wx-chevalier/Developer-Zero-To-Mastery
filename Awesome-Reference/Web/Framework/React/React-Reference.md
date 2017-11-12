@@ -43,22 +43,22 @@
 
 
 
-- [2016-React In-depth: An exploration of UI development【Book】](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
+- [2016-React In-depth: An exploration of UI development #Book#](https://www.gitbook.com/book/developmentarc/react-indepth/details):Our goal with this GitBook is to document our process, share our research and try to organize our experiences into a single living document. Too be honest, this is a pretty lofty goal. We may not achieve this goal, but hopefully we can get some helpful thoughts down.
 
-- [2016-SurviveJS - React【Book】](https://github.com/survivejs/react-book): This book shows you how to build a little Kanban application using React. During the process you will learn the basics and will be able to take the skills to your own projects.
+- [2016-SurviveJS - React #Book#](https://github.com/survivejs/react-book): This book shows you how to build a little Kanban application using React. During the process you will learn the basics and will be able to take the skills to your own projects.
 
-- [2017-React Bits【Book】](https://github.com/vasanthk/react-bits): A compilation of React Patterns, techniques, tips and tricks.
+- [2017-React Bits #Book#](https://github.com/vasanthk/react-bits): A compilation of React Patterns, techniques, tips and tricks.
 
-- [2017-Learning React, 1st Edition【Book】](https://www.safaribooksonline.com/library/view/learning-react-1st/9781491954614/): If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features.
+- [2017-Learning React, 1st Edition #Book#](https://www.safaribooksonline.com/library/view/learning-react-1st/9781491954614/): If you want to learn how to build efficient user interfaces with React, this is your book. Authors Alex Banks and Eve Porcello show you how to create UIs with this small JavaScript library that can deftly display data changes on large-scale, data-driven websites without page reloads. Along the way, you’ll learn how to work with functional programming and the latest ECMAScript features.
 
 
-- [2017-Mastering Full-Stack React Web Development【Book】](https://www.safaribooksonline.com/library/view/mastering-full-stack-react/9781786461766/): Learn how to create dynamic full-stack applications with ReactJS and other leading JavaScript tools – smarter web development starts here.
+- [2017-Mastering Full-Stack React Web Development #Book#](https://www.safaribooksonline.com/library/view/mastering-full-stack-react/9781786461766/): Learn how to create dynamic full-stack applications with ReactJS and other leading JavaScript tools – smarter web development starts here.
 
-- [2017-React Design Patterns and Best Practices【Book】](https://www.safaribooksonline.com/library/view/react-design-patterns/9781786464538/): Build modular applications that are easy to scale using the most powerful components and design patterns that React can offer you right now About This Book.
+- [2017-React Design Patterns and Best Practices #Book#](https://www.safaribooksonline.com/library/view/react-design-patterns/9781786464538/): Build modular applications that are easy to scale using the most powerful components and design patterns that React can offer you right now About This Book.
 
 - [2017-React Express【Series】](https://github.com/dabbott/react-express): The all-in-one beginner's guide to modern React application development! 
 
-- [2017-React and React Native【Book】](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
+- [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
 
 

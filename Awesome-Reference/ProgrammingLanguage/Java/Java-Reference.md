@@ -54,16 +54,16 @@
 
 # Book: 书籍
 
-- [2011-深入理解Java虚拟机：JVM高级特性与最佳实践【Book】](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个Java技术体系的过去、现在和未来；第二部分讲解了JVM的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了Java实现高效并发的原理。
+- [2011-深入理解Java虚拟机：JVM高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个Java技术体系的过去、现在和未来；第二部分讲解了JVM的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了Java实现高效并发的原理。
 
 - [2015-实战 Java 高并发程序设计]()：
 
 - [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
-- [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
+- [2017-Think Java  #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 
-- [Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+- [Introduction To Programming In Java  #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
 
 
 # Resource

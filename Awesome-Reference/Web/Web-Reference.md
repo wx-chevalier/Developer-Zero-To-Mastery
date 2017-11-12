@@ -33,9 +33,9 @@
 
 - [2017-Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
 
-- [2017-Spellbook of Modern Web Dev #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development 
+- [2017-Spellbook of Modern Web Dev  #Book#](https://parg.co/bv9): A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development 
 
-- [Grab Front End Guide #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack. 
+- [Grab Front End Guide  #Book#](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack. 
 
 # Framework: 框架设计与对比
 

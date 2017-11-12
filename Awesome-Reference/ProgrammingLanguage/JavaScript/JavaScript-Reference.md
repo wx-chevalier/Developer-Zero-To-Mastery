@@ -18,7 +18,7 @@
 
 - [10 Languages That Compile to JavaScript](https://www.sitepoint.com/10-languages-compile-javascript/): This article includes a list of ten interesting languages that can be transpiled to JavaScript to be executed in the browser or on a platform like Node.js.
 
-- [Modern JavaScript Tutorial【Book】](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations. 
+- [Modern JavaScript Tutorial #Book#](https://github.com/iliakan/javascript-tutorial-en): How it's done now. From the basics to advanced topics with simple, but detailed explanations. 
 
  - [Modern JavaScript cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet): This document is a cheatsheet for JavaScript you will frequently encounter in modern projects and in most contemporary sample code.
 
@@ -72,11 +72,11 @@
 
 - [2015-ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)：《ECMAScript 6 入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 
-- [2015-ES6 in Depth【Book】](https://ponyfoo.com/articles/tagged/es6-in-depth)：A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
+- [2015-ES6 in Depth #Book#](https://ponyfoo.com/articles/tagged/es6-in-depth)：A twenty-four article-long series of pragmatic articles describing JavaScript language features in ES6. 中文译本[深入浅出 ES6]()
 
 - [2015-Exploring ES6](http://exploringjs.com/es6/index.html): Upgrade to the next version of JavaScript
 
-- [2017-The Modern JavaScript Tutorial【Book】](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [2017-The Modern JavaScript Tutorial #Book#](https://javascript.info/): How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 
 
 ## Interview: 面试

@@ -30,10 +30,10 @@
 
 
 
-- [2017-MySQL 学习笔记【Book】](http://notes.diguage.com/mysql/)
+- [2017-MySQL 学习笔记 #Book#](http://notes.diguage.com/mysql/)
 
 
-- [2017-The Unofficial MySQL 8.0 Optimizer Guide【Book】](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
+- [2017-The Unofficial MySQL 8.0 Optimizer Guide #Book#](http://www.unofficialmysqlguide.com/introduction.html): Morgan Tocker is the Product Manager for the MySQL Server at Oracle. He has previously worked in a variety of roles including Support, Training and Community. Morgan is based out of Toronto, Canada.
 ## Tool: 辅助工具
 
 

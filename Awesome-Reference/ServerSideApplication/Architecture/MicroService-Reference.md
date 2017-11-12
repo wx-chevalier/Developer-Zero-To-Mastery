@@ -40,7 +40,7 @@
 
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 
 
-- [2016-架构师特刊-微服务与 DevOps 技术内参【Book】](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
+- [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
 
 - [2017-The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices): In this article, we will look at microservices, not as a tool to scale the organization, development and release process (even though it's one of the main reasons for adopting microservices), but from an architecture and design perspective, and put it in its true context: distributed systems.
 

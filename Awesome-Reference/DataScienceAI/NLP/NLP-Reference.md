@@ -35,7 +35,7 @@
 
 
 
-- [2015 - Text Data Management and Analysis【Book】](): A Practical Introduction to Information Retrieval and Text Mining
+- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
 
 
 - [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)

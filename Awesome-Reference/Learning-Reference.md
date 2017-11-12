@@ -49,7 +49,7 @@
 
 
 
-- [2004-SICP - Structure and Interpretation of Computer Programs【Book】](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了30年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
+- [2004-SICP - Structure and Interpretation of Computer Programs #Book#](http://sarabander.github.io/sicp/html/index.xhtml): 中文名为《计算机程序的构造和解释》哪怕过了30年在知识爆炸各种新技术层出不穷的今天，书中的内容不但没有过期而依然保持高价值，因为它讲的不是术而是道，即不是某一项具体的技术，而是通过 Scheme 这门 Lisp 方言和相关的例子，解释了计算机程序的本质和特征。
 
 
 
@@ -65,7 +65,7 @@
 - [2010-计算机程序设计艺术](http://6me.us/zzN)：《计算机程序设计艺术》系列被公认为计算机科学领域的权威之作，《美国科学家》杂志曾将这套书与爱因斯坦的《相对论》等书并列称为20世纪最重要的12本物理学著作。《计算机程序设计艺术》深入阐述了程序设计理论，对计算机领域的发展有着极为深远的影响。
 
 
-- 2011-CSAPP:深入理解计算机系统【Book】: 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[ 2011-深入理解计算机系统2ED-扫描全版](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
+- 2011-CSAPP:深入理解计算机系统 #Book#: 绝对的好书，从程序员的视角深入浅出地介绍了计算机系统底层原理，这里提供笔者搜集的[ 2011-深入理解计算机系统2ED-扫描全版](https://drive.wps.cn/view/l/ded1ba6254884c569ff61d119109ed8c)。
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-- [500 Lines or Less: The Architecture of Open Source Applications【Book】](http://aosabook.org/en/index.html):  神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
+- [500 Lines or Less: The Architecture of Open Source Applications #Book#](http://aosabook.org/en/index.html):  神书一套，介绍了很多开源软件的架构设计，In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development? In answering these questions, the contributors to these books provide unique insights into how they think.
 
 
 
@@ -90,15 +90,15 @@
 
 
 
-- [2015-The-Art-Of-Programming-By-July【Book】](http://6me.us/oEiD): 编程之法：面试和算法心得
+- [2015-The-Art-Of-Programming-By-July #Book#](http://6me.us/oEiD): 编程之法：面试和算法心得
 
 
 
-- [2017-Mathematics for Computer Science【Book】](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
+- [2017-Mathematics for Computer Science #Book#](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf):This text explains how to use mathematical models and methods to analyze problems that arise in computer science
 
 
 
-- [2017-Software Foundations【Book】](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
+- [2017-Software Foundations #Book#](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html): This electronic book is a course on Software Foundations, the mathematical underpinnings of reliable software. Topics include basic concepts of logic, computer-assisted theorem proving, the Coq proof assistant, functional programming, operational semantics, Hoare logic, and static type systems.
 
 
 

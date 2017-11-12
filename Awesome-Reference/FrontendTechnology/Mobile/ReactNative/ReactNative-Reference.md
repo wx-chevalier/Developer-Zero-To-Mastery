@@ -68,9 +68,9 @@
 
 ## Book
 
-- [2016-Learning React Native【Book】](https://www.safaribooksonline.com/library/view/learning-react-native/9781491929049/preface01.html#idp116000)：[本书的附带的很多教学代码，还是很不错的](https://github.com/bonniee/learning-react-native)。
+- [2016-Learning React Native #Book#](https://www.safaribooksonline.com/library/view/learning-react-native/9781491929049/preface01.html#idp116000)：[本书的附带的很多教学代码，还是很不错的](https://github.com/bonniee/learning-react-native)。
 
-- [2017-React and React Native【Book】](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
+- [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
 - [beginning-mobile-app-development-with-react-native](https://leanpub.com/beginning-mobile-app-development-with-react-native?a=0_dCaHBbnEiR_Uy2Ihm_Wk) 
 

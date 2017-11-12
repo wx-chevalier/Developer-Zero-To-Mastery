@@ -12,9 +12,9 @@
 
 # Book
 
-- [ElasticSearch 权威指南中文版【Book】](http://es.xiaoleilu.com/010_Intro/00_README.html)
+- [ElasticSearch 权威指南中文版 #Book#](http://es.xiaoleilu.com/010_Intro/00_README.html)
 
-- [Elasticsearch Definitive Guide【Book】](https://github.com/elastic/elasticsearch-definitive-guide): ElasticSearch 官方提供的 The Definitive Guide to Elasticsearch。
+- [Elasticsearch Definitive Guide #Book#](https://github.com/elastic/elasticsearch-definitive-guide): ElasticSearch 官方提供的 The Definitive Guide to Elasticsearch。
 
 - [2017-Mastering Elastic Stack](https://parg.co/bgs): Get the most out of the Elastic Stack for various complex analytics using this comprehensive and practical guide.
 
