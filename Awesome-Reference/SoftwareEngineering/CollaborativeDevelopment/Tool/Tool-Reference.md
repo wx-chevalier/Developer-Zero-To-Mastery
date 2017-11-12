@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # 搭建高效率的开发工作台
 
@@ -193,6 +194,7 @@
 
 - [Resilio](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
 
+- [Syncthing #Project](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 
 ## 项目管理
 

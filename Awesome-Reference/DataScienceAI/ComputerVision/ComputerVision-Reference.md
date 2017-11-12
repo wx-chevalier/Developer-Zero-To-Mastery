@@ -1,4 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-[object Object]
-11
-11
+ 
+
+# OCR
+
+- [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()

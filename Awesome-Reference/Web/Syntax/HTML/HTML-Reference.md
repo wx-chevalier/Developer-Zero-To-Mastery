@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 # HTML 学习与实践资料索引
 
@@ -23,3 +24,6 @@
 - [use-of-all-http-equiv-meta-tag](http://www.frontendevelopers.com/use-of-all-http-equiv-meta-tag/)
 
 - [移动前端不得不了解的HTML5 head 头标签](http://www.css88.com/archives/6410)
+
+- [2017-Learn HTML: The language for building websites #Series#](https://codetheweb.blog/learn/html/): 
+I’ve written many tutorials on HTML. As I want to make them easy to learn from, I’ve complied a list of which posts to check out in what order if you want to learn HTML. 
