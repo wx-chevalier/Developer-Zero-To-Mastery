@@ -30,8 +30,9 @@
 
 - [2017-Inside a super fast CSS engine: Quantum CSS (aka Stylo)](https://parg.co/bTa)
 
-- [The whole web at maximum FPS: How WebRender gets rid of jank](https://parg.co/UGM):WebRender is known for being extremely fast. But WebRender isn’t really about making rendering faster. It’s about making it smoother.
+- [2017-The whole web at maximum FPS: How WebRender gets rid of jank](https://parg.co/UGM):WebRender is known for being extremely fast. But WebRender isn’t really about making rendering faster. It’s about making it smoother.
 
+- [2017-Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster](https://parg.co/U6v)
 
 # Edge
 
