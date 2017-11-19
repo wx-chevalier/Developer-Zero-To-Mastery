@@ -32,3 +32,9 @@ This is a complete and feature rich Redis client for node.js. It supports all Re
 
 - [Radredis #Project#](https://github.com/bustle/radredis): 
 Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
+
+# Debug: 调试
+
+- [node-bunyan #Project#](https://github.com/trentm/node-bunyan): a simple and fast JSON logging module for node.js services.
+
+- [2017-Debugging Memory Leaks and Memory Bloat in Node.js](https://parg.co/UEi): The goal of this article is to make them no more of a problem than your average bug.

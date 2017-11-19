@@ -20,8 +20,6 @@
 - [2017-What does const stand for in ES6?](https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc)
 
 
-
-
 ## Assignment: 赋值
 
 

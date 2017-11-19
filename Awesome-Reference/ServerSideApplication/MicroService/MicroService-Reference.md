@@ -15,11 +15,13 @@
 
 - [2017-微服务架构（Microservice Architecture）总结](https://parg.co/b22)
 
+- [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
+
+- [2017-Microservices Reference Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
 
 # 架构实践
 
 - [现代化 Web 的微服务架构最佳实践全景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994851&idx=1&sn=3c197d1dd03b77c2e28d53eea51ceb03&chksm=bdbf00f08ac889e6578cf9c007420083ad6a211aa7d9010469df838ad9970abfe626c7d4277e&mpshare=1&scene=23&srcid=11212awqMjU8OcidSWhGPTbc#rd)
-
 
 - [2017-如何快速搭建一个微服务架构？](http://mp.weixin.qq.com/s/aR_gz8Ns6ndegCc9WDT6fQ)：微服务火了很久，但网上很少有文章能做到成熟地将技术传播出来，同时完美地照顾“初入微服务领域人员”，从 0 开始，采用通俗易懂的语言去讲解微服务架构的系列。所以，我们策划了这篇文章。
 
@@ -33,8 +35,11 @@
 
 
 # 大厂分享
+
 - 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)
+
 - 阿里云：[2017-中间件技术峰会分享 | 微服务架构上云最佳实践](http://jm.taobao.org/2017/08/07/20170807/)
+
 - 今日头条：[今日头条 Go 建千亿级微服务的实践](https://zhuanlan.zhihu.com/p/26695984)
 
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 

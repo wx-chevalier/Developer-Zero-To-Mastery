@@ -15,6 +15,8 @@
 
 # Text
 
+- [ellipsed #Project#](https://github.com/nzambello/ellipsed): A JavaScript library for multilined ellipsis
+
 ## Animation
 
 ### Typewriter(打字机)

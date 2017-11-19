@@ -16,3 +16,5 @@
 - [如何使用jstack分析线程状态](http://www.jianshu.com/p/6690f7e92f27?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 - [Console based JVM monitoring](https://github.com/ajermakovics/jvm-mon)
+
+- [Java 性能优化指南，及唯品会的实战](http://www.tuicool.com/articles/r2eeimI)

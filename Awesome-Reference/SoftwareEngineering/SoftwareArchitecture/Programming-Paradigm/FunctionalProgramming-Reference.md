@@ -1,17 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 函数式编程资料索引
 
@@ -31,7 +18,8 @@
 
 - [Jargon from the functional programming world in simple terms!](https://github.com/hemanth/functional-programming-jargon)
  
-
 - [在下函数式编程有何贵干](https://segmentfault.com/a/1190000005898817)
 
 - [2017-What's Functional Programming All About?](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
+
+- [2017-Practical Functional Programming](https://parg.co/UEI): The presentation attempted to explain functional programming without using concepts like “monads” or “immutability” or “side effects”.

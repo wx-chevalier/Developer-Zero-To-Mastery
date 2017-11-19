@@ -14,6 +14,8 @@
 
 - [2017-JavaScript — A First-Class Language At Last](https://hackernoon.com/javascript-a-first-class-language-at-last-209376f69731): As a JavaScript engineer, I wanted to dig deeper into the public perception of the language and how rooted in reality it is. What I found is that some criticisms hold water, but many do not.
 
+- [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/#class): This is the second edition of the JavaScript. The Core overview lecture, devoted to ECMAScript programming language and core components of its runtime system.
+
 ## Modern JavaScript: 现代 JavaScript 明晰
 
 - [10 Languages That Compile to JavaScript](https://www.sitepoint.com/10-languages-compile-javascript/): This article includes a list of ten interesting languages that can be transpiled to JavaScript to be executed in the browser or on a platform like Node.js.

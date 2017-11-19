@@ -1,22 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
-
 
 # Progressive Web Apps 学习与实践资料索引
 
@@ -153,7 +135,7 @@
 - [ServiceWorker Specification](https://github.com/w3c/ServiceWorker)
 
 
-
+- [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
 
 # Installable Web App

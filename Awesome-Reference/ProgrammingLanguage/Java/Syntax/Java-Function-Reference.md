@@ -14,3 +14,7 @@
 # Stream: 流
 
 - [2017-Java Streams cheat sheet](https://zeroturnaround.com/rebellabs/java-8-streams-cheat-sheet/): This blog post discusses the streams API, but if you’re impatient, here’s the 1 page Java 8 streams cheat sheet, click on it, save it, print it out!
+
+# FunctionalProgramming: 函数式编程
+
+- [2017-Functional alternatives to the traditional for loop](https://parg.co/baJ)

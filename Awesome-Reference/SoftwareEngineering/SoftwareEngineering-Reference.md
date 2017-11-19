@@ -15,3 +15,4 @@
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
 
+- [How project managers and developers can both (happily!) give realistic ship dates](https://parg.co/UEe)

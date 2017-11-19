@@ -25,3 +25,5 @@
 - [2017-API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 
 - [2017-OpenAPI and gRPC Side-by-Side](https://parg.co/U6o):  Both are open source efforts, both describe APIs, and both promise better experiences for API producers and consumers. So why do we need both? If we do, what value does each provide? What can each project learn from the other?
+
+- [2017-What are Web APIs](https://hackernoon.com/what-are-web-apis-c74053fa4072): What exactly are Web APIs? Why are Web APIs so popular and widely used? Let’s first explore what APIs are so you can understand how they evolved into Web APIs.

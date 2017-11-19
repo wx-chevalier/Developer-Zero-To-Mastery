@@ -1,8 +1,9 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
 
-
 # React 应用架构与性能优化资料索引
+
+- [Rendering a function with React](https://parg.co/UEv): How I tricked React into rendering a function (not call it… render it)
 
 # StyleGuide: 样式指南
 
@@ -49,8 +50,6 @@
 
 ## Functional React: 函数式 React
 
-
-
 - [2017-Functional setState is the future of React](https://parg.co/bMW): Declare state changes separately from the component classes.
 
 - [non-functional-react-js](https://medium.com/@arqex/non-functional-react-js-6e020ce27ee2#.cj3dcxl4j)
@@ -87,6 +86,8 @@
 
 
 - [2016-Building HOCs with Recompose](https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101)
+
+
 
 # Performance: 性能优化
 
