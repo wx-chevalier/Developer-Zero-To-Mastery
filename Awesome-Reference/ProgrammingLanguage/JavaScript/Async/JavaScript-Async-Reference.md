@@ -40,9 +40,7 @@
 
 - [2017-Bounce #Project#](https://github.com/hapijs/bounce): Selective error catching and rewrite rules.[Learning to Throw Again](https://medium.com/@eranhammer/learning-to-throw-again-79b498504d28), [Catching without Awaiting](https://medium.com/@eranhammer/catching-without-awaiting-b2cb7df45790).
 
-
-
-
+- [2017-JavaScript ES 2017: Learn Async/Await by Example](https://parg.co/U6L): Async/Await explained through a clear example.
 
 
 

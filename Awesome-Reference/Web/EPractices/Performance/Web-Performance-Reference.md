@@ -1,6 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
- 
 
 # Web 性能优化实践资料索引
 
@@ -137,6 +136,8 @@
 - [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools):Tools to help prioritize above-the-fold CSS
 
 # Scripting: 脚本解析与执行
+
+- [2017-The Cost Of JavaScript](https://parg.co/UEm): In this post, I’ll cover why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices.
 
 - [Planning for Performance](https://www.youtube.com/watch?v=RWLzUnESylc)
 - [Solving the Web Performance Crisis by Nolan Lawson](https://twitter.com/MSEdgeDev/status/819985530775404544)
