@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 # React 工程实践资料索引
 
 # Production: 生产环境
@@ -31,10 +32,7 @@
 
 ## StaticType: 静态类型检测
 
-
 - [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu) 
-
-
 
 
 ## Server Side Rendering: 服务端渲染
@@ -57,10 +55,10 @@
 
 - [Client-side vs. server-side rendering: why it’s not all black and white.](https://medium.freecodecamp.com/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d#.n4zils8st): Since the dawn of time, the conventional method for getting your HTML up onto a screen was by using server-side rendering. It was the only way. You loaded up your .html pages on your server, then your server went and turned them into useful documents on your users’ browsers.
 
-
 - [Introducing Rapscallion](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
-
+- [2017-Scaling React Server-Side Rendering](http://arkwright.github.io/scaling-react-server-side-rendering.html): 
+Some of the insights here are React-specific, but many are simply generic scalability challenges, or simple mistakes that were made.
 
 
 

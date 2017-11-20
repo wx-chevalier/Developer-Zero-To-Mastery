@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 
  
@@ -22,7 +23,7 @@
 # 概览
 
 - [2015-Practical Scalability Analysis With The
-Universal Scalability Law【Book】](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
+Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
 
 - [2016-究竟啥才是互联网架构“高可用”](http://6me.us/Fz25N7)
 

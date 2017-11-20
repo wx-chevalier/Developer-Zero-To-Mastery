@@ -1,11 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # 机器学习资料索引
-
-
-
 
 # Overview:概论
 
@@ -27,6 +22,7 @@
 
 - [How To Become A Machine Learning Engineer: Learning Path](https://hackernoon.com/learning-path-for-machine-learning-engineer-a7d5dc9de4a4): We will walk you through all the aspects of machine learning from simple linear regressions to the latest neural networks, and you will learn not only how to use them but also how to build them from scratch.
 
+- [State-of-the-art result for all Machine Learning Problems](https://parg.co/UE8): This repository provides state-of-the-art (SoTA) results for all machine learning problems.
 
 ## Algorithms:算法
 

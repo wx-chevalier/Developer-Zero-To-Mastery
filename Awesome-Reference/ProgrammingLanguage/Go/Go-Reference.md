@@ -1,7 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
-
-
+ 
 # Go 学习与实践资料索引
 
 
@@ -24,9 +23,9 @@
 
 
 
-- [2015-An Introduction to Programming in Go【Book】](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
+- [2015-An Introduction to Programming in Go #Book#](http://www.golang-book.com/): A short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
 
-- [2016-Learning Go Programming【Book】](https://parg.co/b21): An insightful guide to learning the Go programming language
+- [2016-Learning Go Programming #Book#](https://parg.co/b21): An insightful guide to learning the Go programming language
 
 - [Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
 
@@ -43,6 +42,7 @@
 
 - [2014-Go Start](https://github.com/alco/gostart):A getting started guide for Go newcomers
 
+- [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
 # Project
 

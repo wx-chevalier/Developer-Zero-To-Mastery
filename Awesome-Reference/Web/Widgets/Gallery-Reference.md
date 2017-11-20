@@ -1,22 +1,23 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # ImageView
 
-[supersized](https://github.com/buildinternet/supersized)
+- [supersized](https://github.com/buildinternet/supersized)
 
-
-- [lazysizes](https://github.com/aFarkas/lazysizes):High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more
-
-- [jquery_lazyload](https://github.com/tuupola/jquery_lazyload/)
-
-
+- [lazysizes](https://github.com/aFarkas/lazysizes): High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more
 
 - [imagehover.css](https://github.com/ciar4n/imagehover.css)
-- [freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js):控制暂停与播放
 
+- [freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js): 控制暂停与播放
 
+# LazyLoad & PlaceHolder: 懒加载与占位符
 
-# Crop
+- [jquery_lazyload #Project#](https://github.com/tuupola/jquery_lazyload/)
+
+- [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
+
+# Crop: 裁剪
 
 - [Cropper](http://fengyuanchen.github.io/cropper/):基于jQuery的图片裁剪工具
 

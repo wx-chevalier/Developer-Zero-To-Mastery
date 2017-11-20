@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # 微服务架构学习与实践资料索引
 
@@ -24,10 +25,13 @@
 
 - [2017-几种常见的微服务架构方案简述——ZeroC IceGrid、Spring Cloud、基于消息队列](http://www.broadview.com.cn/article/348) 
 
-- [Refactoring to microservices【Series】](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+- [Refactoring to microservices #Series#](https://parg.co/b2z): How to move from traditional middleware architectures to microservices.[Part 1: What to consider when migrating from a monolith](https://parg.co/b2z)
+
+- [2017-Re：从 0 开始的微服务架构 #Series#](http://www.infoq.com/cn/minibooks/microservice--from-zero): 系列文章就是将以上过程给大家做个分享，不深究概念，不深入细节，只希望能够对微服务架构能够有一个相对全面的认识，从而能够帮助大家成功落地微服务架构。
 
 - [2017-如何构建微服务架构](http://www.jianshu.com/p/77ce2dbd1d6e): “微服务”的概念兴起于四五年前，近几年尤其火热，各大厂都在进行微服务化改造和微服务建设。最近一年来我们也参与了微服务化的改造大军，这里写下一些做微服务系统设计和开发时的切身感受。
 
+- [PiggyMetrics #Project#](https://github.com/sqshq/PiggyMetrics): This is a proof-of-concept application, which demonstrates Microservice Architecture Pattern using Spring Boot, Spring Cloud and Docker. With a pretty neat user interface, by the way.
 
 # 大厂分享
 - 阿里：[阿里巴巴Aliware十年微服务架构演进历程中的挑战与实践](https://parg.co/b2j)
@@ -36,7 +40,7 @@
 
 - [微服务部署：蓝绿部署、滚动部署、灰度发布等部署方案对比与总结](http://mp.weixin.qq.com/s/EOsVEvZ95onDXJPsjMoA2g) 
 
-- [2016-架构师特刊-微服务与 DevOps 技术内参【Book】](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
+- [2016-架构师特刊-微服务与 DevOps 技术内参 #Book#](http://q.infoqstatic.com/ppt/Microservice&DevOps.pdf) 
 
 - [2017-The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices): In this article, we will look at microservices, not as a tool to scale the organization, development and release process (even though it's one of the main reasons for adopting microservices), but from an architecture and design perspective, and put it in its true context: distributed systems.
 

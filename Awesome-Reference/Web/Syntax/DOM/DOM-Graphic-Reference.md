@@ -1,24 +1,19 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
+# DOM 绘图相关资料索引
 
 # SVG
 
 - [SVG 动画精髓](https://parg.co/bNB)：本文主要是讲解关于 SVG 的一些高级动画特效，比如 SVG 动画标签，图形渐变，路径动画，线条动画，SVG 裁剪等。。
 
+- [Hero Patterns A collection of repeatable SVG background patterns for you to use on your web projects.](http://www.heropatterns.com/#appearance-settings)
+
+- [bytesize-icons](https://github.com/danklammer/bytesize-icons)
+
+- [A simple pie chart in SVG](https://hackernoon.com/a-simple-pie-chart-in-svg-dbdd653b6936#.lcgrjbwnc)
+
+- [Creating a Star to Heart Animation with SVG and Vanilla JavaScript](https://css-tricks.com/creating-star-heart-animation-svg-vanilla-javascript/)
 
 # Canvas
 
@@ -29,12 +24,19 @@
 
 - [Canvas Nest](http://git.hust.cc/canvas-nest.js/)：基于 Canvas 的可交互动画。
 
-
 - [e2d](https://github.com/jtenner/e2d):An es5 declarative canvas renderer.
 
 - [react-konva](https://github.com/lavrton/react-konva):JavaScript library for drawing complex canvas graphics using React
 
 - [react-canvas](https://github.com/Flipboard/react-canvas)
+
+- [creating-a-3d-font-in-three-js](http://blog.andrewray.me/creating-a-3d-font-in-three-js/)
+
+- [lithophane](http://3dp.rocks/lithophane/)
+
+- [selva3d](http://app.selva3d.com/transform)
+
+- [atrament.js](https://github.com/jakubfiala/atrament.js):Tiny JS library for beautiful drawing and handwriting on the HTML Canvas
 
 
 ## D3

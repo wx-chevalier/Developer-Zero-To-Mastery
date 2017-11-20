@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 # Web 指示器插件索引
 
 # ProgressBar
@@ -13,6 +14,8 @@
 
 
 # Text
+
+- [ellipsed #Project#](https://github.com/nzambello/ellipsed): A JavaScript library for multilined ellipsis
 
 ## Animation
 

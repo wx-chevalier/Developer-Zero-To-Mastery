@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 # Node.js 框架学习与实践资料索引
 
@@ -7,6 +8,8 @@
 # Express
 
 - [Going out to eat and understanding the basics of Express.js](https://parg.co/UKZ)
+
+- [Easy Node Authentication Getting Started and Local, based on Express and Passport](https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
 
 # Koa
 

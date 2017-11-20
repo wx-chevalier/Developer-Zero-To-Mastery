@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/1/2/1-1kLfZcbO_baIyNAHfakk2w.jpeg) 
 
@@ -17,3 +18,5 @@
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists): Wordlists sorted by probability originally created for password generation and testing.
  
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+- [2017-A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)

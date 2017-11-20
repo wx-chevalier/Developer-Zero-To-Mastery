@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 
  
@@ -20,7 +21,7 @@
 
 - [Shell Style Guide](https://google.github.io/styleguide/shell.xml?utm_source=tuicool&utm_medium=referral)
 
-- [Bash-Beginners-Guide【Book】](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
+- [Bash-Beginners-Guide #Book#](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
 
 - [shell中>/dev/null 2>&1是什么鬼？](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 

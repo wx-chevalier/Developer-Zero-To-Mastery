@@ -1,5 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
 
 # 监控与告警资料索引
 
@@ -14,6 +13,9 @@
 
 - [分布式会话跟踪系统架构设计与实践](http://www.tuicool.com/articles/Az6FRz) 
 
+- [Zipkin #Project#](http://zipkin.io/): Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. 
+
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html)
 
 # 无埋点监测
 
@@ -24,3 +26,9 @@
 
 
 - [2016-statsd #Project# ](https://github.com/etsy/statsd): Daemon for easy but powerful stats aggregation.
+
+# 可视化监控
+
+- [Grafana #Project#](https://github.com/grafana/grafana): The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
+
+- [Graphite #Project#](https://graphiteapp.org/): Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure. 

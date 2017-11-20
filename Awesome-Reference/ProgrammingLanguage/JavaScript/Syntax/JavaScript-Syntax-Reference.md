@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # JavaScript 语法基础资料索引
 
@@ -17,8 +18,6 @@
 
 
 - [2017-What does const stand for in ES6?](https://medium.com/the-node-js-collection/what-does-const-stand-for-in-es6-f7ab3d9e06fc)
-
-
 
 
 ## Assignment: 赋值

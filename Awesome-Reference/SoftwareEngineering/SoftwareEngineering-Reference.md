@@ -1,4 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 
 # 软件工程学习与实践资料索引
 
@@ -14,3 +15,4 @@
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
 
+- [How project managers and developers can both (happily!) give realistic ship dates](https://parg.co/UEe)

@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 
  
@@ -79,7 +80,7 @@
 
 - [2016 - JavaScript Stack From Scratch【Series】](https://github.com/verekia/js-stack-from-scratch):从零开始的常用JavaScript前端框架开发栈教程
 
-- [2015 - SurviveJS 【Book】](http://survivejs.com/webpack_react/introduction/):基于React与Webpack构建一个看板应用程序来讲解Webpack/React技术栈的知识要点
+- [2015 - SurviveJS  #Book#](http://survivejs.com/webpack_react/introduction/):基于React与Webpack构建一个看板应用程序来讲解Webpack/React技术栈的知识要点
 
 
 - [2016 - 阮一峰 全栈工程师培训材料【Series】](https://github.com/ruanyf/jstraining):全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发
@@ -183,7 +184,7 @@
 - [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/):阮一峰老师出品，相当完善与成体系，也是以基础语法与API为主。
 
 
-- [2015 - Speaking JavaScript【Book】](http://speakingjs.com/es5/index.html#toc_ch01):Dr. Axel出品的详细JavaScript基础语法的书籍。
+- [2015 - Speaking JavaScript #Book#](http://speakingjs.com/es5/index.html#toc_ch01):Dr. Axel出品的详细JavaScript基础语法的书籍。
 
 
 - [2015 - You-Dont-Know-JS【Series】](https://github.com/getify/You-Dont-Know-JS):告诉你关于许多你并不知道的JS知识
@@ -196,15 +197,15 @@
 - 中文教程:[阮一峰 ECMAScript 6 入门](https://github.com/ruanyf/es6tutorial)、[30分钟掌握ES6/ES2015核心内容（上）](http://segmentfault.com/a/1190000004365693) 
 - 语法规范手册:[EcmaScript6 全规范（含node） -ouvens](https://github.com/ouvens/es6-code-style-guide)、[ES2015规范 英文](http://www.ecma-international.org/ecma-262/6.0/)
 
-- [2015 - Setting Up ES6【Book】](https://leanpub.com/setting-up-es6/read):Dr. Axel出品的介绍如何搭建ES6开发环境的书籍。
+- [2015 - Setting Up ES6 #Book#](https://leanpub.com/setting-up-es6/read):Dr. Axel出品的介绍如何搭建ES6开发环境的书籍。
 
-- [2015 - Exploring ES6【Book】](http://exploringjs.com/es6/index.html) & [2015 - ES2016&ES2017【Book】](http://exploringjs.com/es2016-es2017/index.html):Dr. Axel出品的详细的ES6的语法介绍书籍。
+- [2015 - Exploring ES6 #Book#](http://exploringjs.com/es6/index.html) & [2015 - ES2016&ES2017 #Book#](http://exploringjs.com/es2016-es2017/index.html):Dr. Axel出品的详细的ES6的语法介绍书籍。
 
 
 ### Practices & Tips:实战与提高
 
 
-- JavaScript设计模式：[JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)，[Addy Osmani](http://twitter.com/addyosmani) 编写的 [2015 - Learn JavaScript Design Patterns【Book】](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)学习常见的JavaScript设计模式，本书不仅仅阐述JavaScript语言本身的常见设计模式，还结合了DOM&jQuery介绍了一些常用的界面上的设计模式
+- JavaScript设计模式：[JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)，[Addy Osmani](http://twitter.com/addyosmani) 编写的 [2015 - Learn JavaScript Design Patterns #Book#](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)学习常见的JavaScript设计模式，本书不仅仅阐述JavaScript语言本身的常见设计模式，还结合了DOM&jQuery介绍了一些常用的界面上的设计模式
 
 
 

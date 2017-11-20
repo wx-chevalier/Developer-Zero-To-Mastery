@@ -1,20 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
 
-
- 
-
-
- 
-
-
- 
-
-
-
-
-
-
 # 搭建高效率的开发工作台
 
 
@@ -208,6 +194,7 @@
 
 - [Resilio](https://www.resilio.com/): Synchronize, Distribute & Consolidate Files Using a P2P Protocol
 
+- [Syncthing #Project](https://syncthing.net/): Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 
 ## 项目管理
 
@@ -218,16 +205,15 @@
 
 ## 开发文档
 
-查阅各种API文档是程序猿的必备技能，这里列举出部分整合类型的文档查阅网站，方便特别是被墙的情况下查阅文档。
+### 接口文档
 
+查阅各种API文档是程序猿的必备技能，这里列举出部分整合类型的文档查阅网站，方便特别是被墙的情况下查阅文档。
 
 - [devdocs](http://devdocs.io/)
   
   这里集合了大量的在线的文档，同时DevDocs还支持离线浏览，主要是依靠IndexDB将数据存放在浏览器的本地缓存中。
   
-
 - [beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
-
 
 - [Gitbook](https://github.com/GitbookIO/gitbook)
 
@@ -235,10 +221,22 @@
 
 - [mkdocs](https://github.com/mkdocs/mkdocs/)
 
+### 协同编辑
 
+- [gollum #Project#](https://github.com/gollum/gollum): Gollum is a simple wiki system built on top of Git. A Gollum Wiki is simply a git repository (either bare or regular) of a specific nature.
+
+- [Wiki.js #Project#](https://github.com/Requarks/wiki): A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown.
+
+- [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
 
 ## 图片资源
 
 
 ## 展示汇报
+
+### Screener & Recorder: 截图与录屏
+
+- [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
+
+

@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 
 # Vue.js 工程实践资料索引
 
@@ -8,6 +9,8 @@
 
 
 - [滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/DDFE-blog/issues/13)：滴滴的 webapp 是运行在微信、支付宝、手 Q 以及其它第三方渠道的打车软件。借着产品层面的功能和视觉升级，我们用 Vue 2.0 对它进行了一次技术重构；本文即是本次重构中的经验分享。( https://github.com/DDFE/DDFE-blog/issues/13 )
+
+- [How we do Vue: one year later](https://parg.co/U6b): How we, at GitLab, write VueJS, one year later.
 
 # StyleGuide: 样式指南
 
