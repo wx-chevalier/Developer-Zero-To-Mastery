@@ -9,7 +9,7 @@
 
 - [2017-Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChrome/discovery/issues/1)
 
-- [小胡子哥的性能专栏](https://github.com/barretlee/performance-column/issues)
+- [小胡子哥的性能专栏](https://github.com/barretlee√/performance-column/issues)
 
 - [2016-Front-End Performance Checklist 2017 (PDF, Apple Pages)](http://6me.us/d1xGe): we created an overview of all the things we have to keep in mind when improving performance. 
 
@@ -22,49 +22,7 @@
 - [Web 优化训练营, 网页提速50倍](http://www.tuicool.com/articles/Ub6bMrR):通过一个完整的实例, 一步步的优化加载, 渲染等各方面的体验
 
 - [400%飞跃：Web 页面加载速度优化实战 ](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484307&idx=1&sn=e795ef72f62cec564d263b495efc7a54&chksm=97236151a054e847afa5b35388f7bfdca6b2707e92c2a97b36e86aed7cb8acd50e9307912ee8&mpshare=1&scene=1&srcid=10049m9VtGjECpa1kK5qVIlU#rd)
-# Image Optimization: 图片优化
 
-- [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
-
-- [2017-An Introduction to Progressive Image Rendering](https://parg.co/bLp): In this article, we’ll look at how you can save your users bandwidth and time by loading and rendering well-optimized images lazily and progressively.
-
-- [2017-Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure. 
-
-
-- [Save time by transforming images in the command line](http://6me.us/WYOP1)
-
-
-## JPEG 
-
-
-
-- [Jpegio #Project# ](https://www.jpeg.io/): Convert any major image format into a highly optimized JPEG.
-
-
-- [reducing-jpg-file-size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.jdegycys9)
-
-- [reducing-png-file-size](https://medium.com/@duhroach/reducing-png-file-size-8473480d0476#.pxfmpayr1)
-
-
-### WebP
-
-
-
-- [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
-
-- [探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
-
-- [Front End Optimization – 9 Tips to Improve Web Performance](https://www.keycdn.com/blog/front-end-optimization/?utm_source=tuicool&utm_medium=referral)
-
-- [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572?source=reading_list---------1-1---------)
-
-- [渲染性能](https://github.com/sundway/blog/issues/2)
-
-- [Web App性能优化之亮剑](http://insights.thoughtworkers.org/web-apps-performance-optimization/)
-
-- [web-performance-secrets-from-the-bbc](https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752#.hwhq6jcbn)
-
-- [2017-Developer's Guide to E-Commerce Sites Speed Optimization](https://parg.co/U6q): You need to optimize your e-commerce website for speed at a time when search engines themselves rank faster websites above slower ones. At that same time, audience's attention span is getting shorter by the day.
 
 # Benchmark: 性能评测与监控
 
@@ -100,8 +58,50 @@
 
 - [前端渲染加速之 - Big Pipe](http://tech.dianwoda.com/2016/10/26/big-pipe-web-page-rendering-acceleration/)
 
+- [Preload, Prefetch And Priorities in Chrome](https://parg.co/bhM): Today we’ll dive into insights from Chrome’s networking stack to provide clarity on how web loading primitives (like <link rel=“preload”> & <link rel=“prefetch”>) work behind the scenes so you can be more effective with them.
+
+- [2017-多“维”优化——前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的“术”之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
+
+## Compression: 压缩
+
+## HTTP/2 Push: HTTP/2 推送
+
+# Critical Path: 关键渲染路径
+
+## Code Coverage: 代码覆盖率
+
+- [Using the Chrome devtools new code coverage feature](https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf): This is an exciting feature that is useful both when working with JavaScript and CSS, so I thought I’d do a quick demo and explore how it can be helpful.
+
+## Critical CSS: 关键 CSS
+
+- [critical](https://github.com/addyosmani/critical):Extract & Inline Critical-path CSS in HTML pages
+
+- [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools):Tools to help prioritize above-the-fold CSS
+
+- [2017-Remove Unused CSS Rules](https://parg.co/bDk): Removing unused styles can help make the situation more manageable.
+
+- [UnCSS #Project# ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
+
+
+- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
+
+## Lazy Loading: 懒加载
+
+- [2017-Lozad.js #Project# ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
+
+## Code Spliting: 代码分割
+
 
 # Image Optimization: 图片优化
+
+- [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
+
+- [2017-An Introduction to Progressive Image Rendering](https://parg.co/bLp): In this article, we’ll look at how you can save your users bandwidth and time by loading and rendering well-optimized images lazily and progressively.
+
+- [2017-Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure. 
+
+
+- [Save time by transforming images in the command line](http://6me.us/WYOP1)
 
 - [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
 
@@ -121,19 +121,35 @@
 
 - [reducing-png-file-size](https://medium.com/@duhroach/reducing-png-file-size-8473480d0476#.pxfmpayr1)
 
+
+- [Jpegio #Project# ](https://www.jpeg.io/): Convert any major image format into a highly optimized JPEG.
+
+
+- [reducing-jpg-file-size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.jdegycys9)
+
+- [reducing-png-file-size](https://medium.com/@duhroach/reducing-png-file-size-8473480d0476#.pxfmpayr1)
+
 ## WebP
 
 - [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
 
 - [探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 
-# Critical Path: 关键渲染路径
+- [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
 
-## Critical CSS: 关键 CSS
+- [探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 
-- [critical](https://github.com/addyosmani/critical):Extract & Inline Critical-path CSS in HTML pages
+- [Front End Optimization – 9 Tips to Improve Web Performance](https://www.keycdn.com/blog/front-end-optimization/?utm_source=tuicool&utm_medium=referral)
 
-- [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools):Tools to help prioritize above-the-fold CSS
+- [Optimising the front end for the browser](https://hackernoon.com/optimising-the-front-end-for-the-browser-f2f51a29c572?source=reading_list---------1-1---------)
+
+- [渲染性能](https://github.com/sundway/blog/issues/2)
+
+- [Web App性能优化之亮剑](http://insights.thoughtworkers.org/web-apps-performance-optimization/)
+
+- [web-performance-secrets-from-the-bbc](https://medium.com/net-magazine/web-performance-secrets-from-the-bbc-d4b01f869752#.hwhq6jcbn)
+
+- [2017-Developer's Guide to E-Commerce Sites Speed Optimization](https://parg.co/U6q): You need to optimize your e-commerce website for speed at a time when search engines themselves rank faster websites above slower ones. At that same time, audience's attention span is getting shorter by the day.
 
 # Scripting: 脚本解析与执行
 
@@ -148,68 +164,26 @@
 - [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/)
 - [Do Browsers Parse JavaScript On Every Page Load](http://stackoverflow.com/questions/1096907/do-browsers-parse-javascript-on-every-page-load/)
 
-# Layout & Rendering: 页面布局与渲染策略
-
-- [一篇文章说清浏览器解析和CSS（GPU）动画优化](https://segmentfault.com/a/1190000008015671)
-
-# Interaction & Animation: 交互与动画
-
-## Code Coverage: 代码覆盖率
-
-- [Using the Chrome devtools new code coverage feature](https://blog.logrocket.com/using-the-chrome-devtools-new-code-coverage-feature-ca96c3dddcaf): This is an exciting feature that is useful both when working with JavaScript and CSS, so I thought I’d do a quick demo and explore how it can be helpful.
-
-# Request: 请求优化
-
-- [Preload, Prefetch And Priorities in Chrome](https://parg.co/bhM): Today we’ll dive into insights from Chrome’s networking stack to provide clarity on how web loading primitives (like <link rel=“preload”> & <link rel=“prefetch”>) work behind the scenes so you can be more effective with them.
-
-- [2017-多“维”优化——前端高并发策略的更深层思考](https://parg.co/bIv)：一项指标的变好，总少不了相应优化策略的实施。优化并不是简单的一蹴而就，而是个不断迭代与推翻的过程。更深层的优化方案，往往是在某种思维策略之下，对问题场景和基本策略优缺的深刻理解后做出的当下最优的权衡结果。本文笔者从前端高并发优化这一具体点出发，逐步向大家阐述笔者在优化的“术”之上思维层面的一些思考。希望能给各位带来共鸣和感悟。
-
-
-## HTTP/2 Push: HTTP/2 推送
-
-
-# 关键路径渲染
-
-## Critical CSS: 关键 CSS
-
-- [2017-Remove Unused CSS Rules](https://parg.co/bDk): Removing unused styles can help make the situation more manageable.
-
-- [UnCSS #Project# ](https://github.com/giakki/uncss): UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.
-
-
-- [2017-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://parg.co/bwo)
-
-## Lazy Loading: 懒加载
-
-- [2017-Lozad.js #Project# ](https://github.com/ApoorvSaxena/lozad.js): Highly performant, light ~0.5kb and configurable lazy loader in pure JS with no dependencies for images, iframes and more, using IntersectionObserver API
-
-## Code Spliting: 代码分割
-
-# Execution: 代码解析与执行
 
 # Layout & Rendering: 界面布局与渲染策略
 
-- [高性能JavaScript重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
+- [高性能 JavaScript 重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
 
-
-
-## CSS
-
-- [improving-your-css-with-parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/?utm_source=tuicool&utm_medium=referral)
-
-
+- [improving-your-css-with-parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/)
 
 - [避免大规模、复杂的布局](https://developers.google.com/web/fundamentals/performance/rendering/?hl=zh-cn)
 
 
+- [一篇文章说清浏览器解析和CSS（GPU）动画优化](https://segmentfault.com/a/1190000008015671)
 
+
+# Interaction & Animation: 交互与动画
 
 # Mobile Optimization: 移动端优化
 
 - [移动端HTML5页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/)
 
-- [钉钉的H5性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig) 
-
+- [钉钉的H5性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig)
 
 - [解耦---Hybrid H5跨平台性思考 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=3&sn=96c9ec407e937132595c29b0584cdd5c&scene=4#wechat_redirect)
 
