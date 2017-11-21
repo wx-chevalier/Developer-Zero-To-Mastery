@@ -5,16 +5,15 @@
 # Python 学习与实践资料索引
 
 
-# Overview
-
-
+# Overview: 入门指引
 
 - [2017-Yes, Python is Slow, and I Don’t Care](https://hackernoon.com/yes-python-is-slow-and-i-dont-care-13763980b5a1): A rant on sacrificing performance for productivity.
 
 - [2017-Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/): 
 In this post I'll show how to write a rudimentary, native x86-64 just-in-time compiler (JIT) in CPython, using only the built-in modules.
 
-# Tutorial
+
+## Tutorial: 教程
 
 - [2017-Python for JavaScript Developers](https://dev.to/underdogio/python-for-javascript-developers): To serve as a quick guide for JavaScript developers who want to get up to speed quickly with Python, but without having to learn what declaring a variable means or what a function is.
 
@@ -22,6 +21,13 @@ In this post I'll show how to write a rudimentary, native x86-64 just-in-time co
 
 - [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
 
+## CheatSheet: 速览清单
+
+- [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html): A cheat sheet can be really helpful when you’re trying a set of exercises related to a specific topic, or working on a project.
+
+- [Python Cheat Sheet](https://github.com/juliangaal/python-cheat-sheet): This rep is a growing list of Python cheat sheets, tailored for Data Science.
+
+- [Python cheatsheet #Project#](https://www.pythonsheets.com/): This project tries to provide a lot of piece of Python code that makes life easier.
 
 # Book
 
