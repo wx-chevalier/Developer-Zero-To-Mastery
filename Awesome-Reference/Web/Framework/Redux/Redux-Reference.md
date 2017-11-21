@@ -11,7 +11,7 @@
 
 - [2017-React Redux Cheat Sheet on Workflow & Concept](https://github.com/uanders/react-redux-cheatsheet): This article contains a graphical cheat sheet for the workflow and concept of Redux.
 
-
+- [2017-How Redux Works: A Counter-Example](https://daveceddia.com/how-does-redux-work/): So in this post we’re going to demystify how Redux works with a backwards approach that I think will help your understanding. As in the last post, I’ll try to explain Redux in simple terms before tackling the terminology.
 
 - [2017-Advanced Redux Entity Normalization](https://parg.co/bht): At Grovo we have been using an abstract structure we’ve taken to calling Key Windows.
 
