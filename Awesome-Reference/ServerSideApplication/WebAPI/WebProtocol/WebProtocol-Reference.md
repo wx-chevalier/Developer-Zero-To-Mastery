@@ -20,6 +20,7 @@
 
 - [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 
+- [大型网站HTTPS 实践](https://mp.weixin.qq.com/s/bdLtUPDykAMCb_TR0nOdpw): 百度 HTTPS 性能优化涉及到大量内容，从前端页面、后端架构、协议特性、加密算法、流量调度、架构和运维、安全等方面都做了大量工作。本系列的文章将对此一一进行介绍。
 
 
 # WebSocket
