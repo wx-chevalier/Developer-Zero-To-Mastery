@@ -7,6 +7,7 @@
 
 - [3 tricks for mastering Docker with Python](https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d?source=reading_list---------6-1---------)
 
+- [container-diff #Project#](https://github.com/GoogleCloudPlatform/container-diff): container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria
 
 # Resource
 ## Book
