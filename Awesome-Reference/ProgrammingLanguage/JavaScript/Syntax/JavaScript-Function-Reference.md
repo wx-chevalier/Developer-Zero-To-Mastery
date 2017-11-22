@@ -4,6 +4,11 @@
 
 # JavaScript 函数相关资料索引
 
+
+# Function: 函数定义与使用
+
+- [Understanding Default Parameters in Javascript](https://parg.co/Urp): Javascript landed with native default parameters support with ES2015. Contrary to what one might think, it isn’t just a syntactic replacement for ||(the logical OR operator).
+
 # Closure: 闭包
 
 - [JavaScript的闭包实现细节](https://zhuanlan.zhihu.com/p/25296587)
