@@ -28,11 +28,13 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式
 
 - [2017-A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://parg.co/US1): Learn to Automate and Scrape the web with Headless Chrome.
 
-# Selenium
+# Selenium
 
 - [clean-architecture-of-selenium-tests](http://ovaraksin.blogspot.jp/2016/04/clean-architecture-of-selenium-tests.html?utm_source=tuicool&utm_medium=referral)
 
-# PhantomJS
+- [Using Firefox WebExtensions With Selenium](https://intoli.com/blog/firefox-extensions-with-selenium/)
+
+# PhantomJS
 
 - [Horseman](https://github.com/johntitus/node-horseman):Run PhantomJS from Node
 
