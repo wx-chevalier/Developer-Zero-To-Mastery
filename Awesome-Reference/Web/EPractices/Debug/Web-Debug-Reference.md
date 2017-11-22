@@ -71,3 +71,5 @@
 - [2017-How JavaScript works: memory management + how to handle 4 common memory leaks](https://parg.co/bnw)
 
 - [2017-JavaScript's Promise Leaks Memory](https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html)
+
+- [Understanding and Solving Internet Explorer Leak Patterns](https://msdn.microsoft.com/en-us/library/bb250448(v=vs.85).aspx)
