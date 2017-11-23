@@ -19,6 +19,7 @@
 
 - [2017-The DevOps 2.1 Toolkit: Docker Swarm](https://parg.co/bjC): Viktor Farcic's latest book, The DevOps 2.1 Toolkit: Docker Swarm, shows you how to successfully integrate Docker Swarm into your DevOps toolset.
 
+- [2017-Continuous Delivery with Docker and Jenkins #Book#](https://parg.co/UrV): Unleash the combination of Docker and Jenkins in order to enhance the DevOps workflow.
 
 ## Tool
 
