@@ -1,16 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
 
 
 # Linux Shell 资料索引
@@ -34,3 +22,20 @@
 - [2017-Bash-Snippets #Project# ](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users.
 
 - [2017-Linux 下容易被忽视的那些命令用法](https://parg.co/b2E)
+
+# 后台运行
+
+- [Difference between nohup, disown and &](http://unix.stackexchange.com/questions/3886/difference-between-nohup-disown-and)
+- [10 Screen Command Examples to Manage Linux Terminals](http://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/)
+- [A Quick and Easy Guide to tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
+- [Tmux 速成教程：技巧和调整](http://blog.jobbole.com/87584/)
+
+
+- [Alternatives to nohup?](http://askubuntu.com/questions/600956/alternatives-to-nohup)
+
+# 文本处理
+
+- [文本处理利器sed与awk使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Introduction to text manipulation on UNIX-based systems](https://www.ibm.com/developerworks/aix/library/au-unixtext/#19Useofsortoutline)
+- [Text Processing Commands](http://www.tldp.org/LDP/abs/html/textproc.html) 
+

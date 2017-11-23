@@ -1,0 +1,1 @@
+- [除了LR，FM（FFM）方法，CTR预测还有那些方法，应用较为广泛？](https://www.zhihu.com/question/56204961/answer/263448135)

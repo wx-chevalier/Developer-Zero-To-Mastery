@@ -1,23 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 分布式存储资料索引
 
 - [2016-2016年，分布式数据库的那些事儿都在这里！](https://parg.co/b1g)
 
-- [程序员201609期——腾讯金融级分布式数据库TDSQL的前世今生]()
+- [程序员201609期——腾讯金融级分布式数据库 TDSQL的前世今生]()
 
 
  
@@ -47,3 +34,5 @@
 
 
 # Proxy Sharding
+
+- [使用 Rust 构建分布式 Key-Value Store](https://zhuanlan.zhihu.com/p/31142786)

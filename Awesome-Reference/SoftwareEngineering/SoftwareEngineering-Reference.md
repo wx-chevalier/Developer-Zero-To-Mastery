@@ -11,6 +11,8 @@
 
 - [2017-10 Common Software Architectural Patterns in a nutshell](https://parg.co/bD3): In this article, I will be briefly explaining the following 10 common architectural patterns with their usage, pros and cons.
 
+- [The 5 Problem-Solving Skills of Great Software Developers](https://www.coderhood.com/5-problem-solving-skills-great-software-developers/)
+
 # 工程管理
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager): A list of engineering manager resource links.
