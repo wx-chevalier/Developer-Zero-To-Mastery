@@ -10,3 +10,9 @@ In this blog I will create a 3 node Docker swarm cluster and use GlusterFS to sh
 - [2016-Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
 
 - [2017-Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
+
+- [2015-Flocker #Project#](https://github.com/ClusterHQ/flocker)
+
+- [REX-Ray #Project#](https://github.com/thecodeteam/rexray)
+
+- [GlusterFS #Project#](https://github.com/gluster/glusterfs)
