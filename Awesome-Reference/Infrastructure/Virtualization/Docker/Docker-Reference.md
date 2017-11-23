@@ -21,6 +21,8 @@
 
 - [2017-Continuous Delivery with Docker and Jenkins #Book#](https://parg.co/UrV): Unleash the combination of Docker and Jenkins in order to enhance the DevOps workflow.
 
+- [2017-The New Stack-The Docker and Container Ecosystem #Book#](https://thenewstack.io/ebooks/): The container ecosystem is constantly changing and impacting the developer landscape. Our five ebook series on the container ecosystem covers everything from application development to orchestration, networking, security, data storage, and monitoring.
+
 ## Tool
 
 - [ctop #Project#](https://github.com/bcicen/ctop): Top-like interface for container metrics
