@@ -32,3 +32,11 @@
 - [Grafana #Project#](https://github.com/grafana/grafana): The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 
 - [Graphite #Project#](https://graphiteapp.org/): Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure. 
+
+## Prometheus 
+
+- [Prometheus #Project#](https://prometheus.io/): Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
+
+- [2015-How To Use Prometheus to Monitor Your Ubuntu 14.04 Server](https://parg.co/Ura)
+
+- [2017-Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/): In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application. Monitoring an application can give you insights into how it is being used and when.
