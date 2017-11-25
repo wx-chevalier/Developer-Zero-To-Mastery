@@ -13,7 +13,7 @@
 
 - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
 
-
+- [2017-The Zoo of Go Functions](https://parg.co/U5u): An overview about: anonymous, higher-order, closures, concurrent, deferred, and other kinds of Golang funcs.
 
 # Resource
 
