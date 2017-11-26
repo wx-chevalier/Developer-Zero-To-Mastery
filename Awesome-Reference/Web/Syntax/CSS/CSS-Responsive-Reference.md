@@ -83,7 +83,7 @@
 
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a#.abrk05o7z)
 
-
+- [2017-Common Responsive Layouts with CSS Grid (and some without!)](https://parg.co/U5S): Example code for you to try out, change and make your own.
 
 # 响应式组件
 
