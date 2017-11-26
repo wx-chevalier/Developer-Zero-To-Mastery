@@ -44,7 +44,7 @@
 
 - [数十种TensorFlow实现案例汇集：代码+笔记](http://www.tuicool.com/articles/Y3A73eb) 
 
-- [AI - TensorFlow](http://mp.weixin.qq.com/s/qmm1xyvnHvWhuUvd9lDjfw?utm_source=tuicool&utm_medium=referral) 
+- [AI - TensorFlow](http://mp.weixin.qq.com/s/qmm1xyvnHvWhuUvd9lDjfw) 
 
 - [We Need to Go Deeper: A Practical Guide to Tensorflow and Inception](https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f#.x7c1vxglw) 
 

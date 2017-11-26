@@ -17,7 +17,7 @@
 
 - [「前端」History API与浏览器历史堆栈管理](https://github.com/ShowJoy-com/showjoy-blog/issues/2)
 
-- [前端路由的两种实现原理](http://orangexc.xyz/2016/10/21/The-realization-principle-of-front-end-routin/?utm_source=tuicool&utm_medium=referral)
+- [前端路由的两种实现原理](http://orangexc.xyz/2016/10/21/The-realization-principle-of-front-end-routin/)
 
 - [routing-urls-in-static-apps](https://staticapps.org/articles/routing-urls-in-static-apps/)
 
@@ -66,7 +66,7 @@
 
 
 
-- [前端组件化开发方案及其在React Native中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native?utm_source=tuicool&utm_medium=referral)
+- [前端组件化开发方案及其在React Native中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native)
 
 - [Web Components as successor to jQuery](https://gist.github.com/warpech/9431953)
 

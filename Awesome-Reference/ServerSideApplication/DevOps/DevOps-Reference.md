@@ -11,7 +11,7 @@
 
 - [解读2016，眺望2017：运维的风口在哪？](http://mp.weixin.qq.com/s/X4929d1NtrmWGfT6ZEHxUg)
 
-- [初创公司应该如何做好持续集成和部署？](http://www.simlinux.com/archives/1638.html?utm_source=tuicool&utm_medium=referral)
+- [初创公司应该如何做好持续集成和部署？](http://www.simlinux.com/archives/1638.html)
 
 - [运维知识体系](https://www.unixhot.com/page/ops)
 

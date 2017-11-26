@@ -29,4 +29,4 @@
 # Object Observer: 对象监听
 
 - [writing-a-javascript-framework-data-binding-dirty-checking](https://blog.risingstack.com/writing-a-javascript-framework-data-binding-dirty-checking/)
-- [writing-a-javascript-framework-data-binding-es6-proxy](https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/?utm_source=tuicool&utm_medium=referral)
+- [writing-a-javascript-framework-data-binding-es6-proxy](https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/)

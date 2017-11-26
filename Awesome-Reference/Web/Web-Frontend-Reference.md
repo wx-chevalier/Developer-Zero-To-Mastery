@@ -258,7 +258,7 @@
 - 浏览器工作原理:[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)、[浏览器工作原理](https://segmentfault.com/a/1190000004934730)、[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
 
 
-- 网页渲染:[CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)、[JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/?utm_source=tuicool&utm_medium=referral)
+- 网页渲染:[CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)、[JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
 
 - [高性能JavaScript重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
 

@@ -30,7 +30,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma e
 - [Software Complexity: The Art of Naming](https://hackernoon.com/software-complexity-naming-6e02e7e6c8cb): There are only two hard things in Computer Science: cache invalidation and naming things.
 
 
-- [ 编程时避免使用 if 语句的五种模式](http://www.techug.com/anti-if-the-missing-patterns?utm_source=tuicool&utm_medium=referral)
+- [ 编程时避免使用 if 语句的五种模式](http://www.techug.com/anti-if-the-missing-patterns)
 
 
 - [You might not need if statements: a better approach to branching logic](https://hackernoon.com/you-might-not-need-if-statements-a-better-approach-to-branching-logic-59b4f877697f#.pnmxdconp)

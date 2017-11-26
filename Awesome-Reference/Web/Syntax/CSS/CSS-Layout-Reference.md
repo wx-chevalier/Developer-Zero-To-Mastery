@@ -17,7 +17,7 @@
 
 - [css-positioning-explained-by-building-an-ice-cream-sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.1l7m0fcao)
 
-- [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/?utm_source=tuicool&utm_medium=referral)
+- [position: sticky 在移动端的应用与实践](https://fe.ele.me/position-sticky-zai-yi-dong-duan-de-ying-yong-yu-shi-jian/)
 
 - [CSS中position属性( absolute | relative | static | fixed )详解](http://blog.csdn.net/chen_zw/article/details/8741365)
 
@@ -37,7 +37,7 @@
 
 - [viewport-units-vw-vh-vmin-vmax/](https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/)
 
-- [等宽字体在web布局中应用以及CSS3 ch单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/?utm_source=tuicool&utm_medium=referral)
+- [等宽字体在web布局中应用以及CSS3 ch单位嘿嘿](http://www.zhangxinxu.com/wordpress/2016/07/monospaced-font-css3-ch-unit/)
 
 
 
@@ -50,9 +50,9 @@
 
 - [Flexbox Defense:考验你Flexbox技能熟练度的塔防小游戏](http://www.flexboxdefense.com/)
 
-- [Flex布局新旧混合写法详解（兼容微信）](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/?utm_source=tuicool&utm_medium=referral)
+- [Flex布局新旧混合写法详解（兼容微信）](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/)
 
-- [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/?utm_source=tuicool&utm_medium=referral)
+- [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 

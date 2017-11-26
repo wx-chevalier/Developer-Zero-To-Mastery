@@ -48,7 +48,7 @@
 
 - [解开发者之痛：中国移动MySQL数据库优化最佳实践](http://www.tuicool.com/articles/MFjeIrm)
 
-- [实例解析MySQL性能瓶颈排查定位](http://ourmysql.com/archives/1416?utm_source=tuicool&utm_medium=referral)
+- [实例解析MySQL性能瓶颈排查定位](http://ourmysql.com/archives/1416)
 
 - [高效MySQL的N个习惯 ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929230&idx=1&sn=60dd4c8527af847dd0ef58cc4c2c976e&chksm=bd3b25648a4cac72f0c5d4055b5a743b3847775c97b73c613a4b0b88271f16026d480d1ff2f0&scene=0#rd)
 

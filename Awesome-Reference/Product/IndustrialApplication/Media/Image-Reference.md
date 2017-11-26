@@ -41,7 +41,7 @@
 
 # SVG
 
-- [high-performance-svgs](https://css-tricks.com/high-performance-svgs/?utm_source=tuicool&utm_medium=referral)
+- [high-performance-svgs](https://css-tricks.com/high-performance-svgs/)
  
 
 

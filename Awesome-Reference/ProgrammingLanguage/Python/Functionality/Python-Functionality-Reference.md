@@ -14,7 +14,7 @@
 
 - [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-- [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md?utm_source=tuicool&utm_medium=referral)
+- [Dataflow as Database](https://github.com/frankmcsherry/blog/blob/master/posts/2016-07-17.md)
 
 
 

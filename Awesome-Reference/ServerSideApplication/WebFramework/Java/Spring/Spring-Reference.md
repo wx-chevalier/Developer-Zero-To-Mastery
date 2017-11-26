@@ -22,7 +22,7 @@
 - [2016-Spring Boot系列文章](http://www.ityouknow.com/spring-boot) 
 
 
-- [Unit Test Spring MVC Rest Service: MockMVC, JUnit, Mockito](http://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/?utm_source=tuicool&utm_medium=referral)
+- [Unit Test Spring MVC Rest Service: MockMVC, JUnit, Mockito](http://memorynotfound.com/unit-test-spring-mvc-rest-service-junit-mockito/)
 
 - [Remoting and web services using Spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/remoting.html)
 
@@ -42,7 +42,7 @@
 # AOP
 
 
-- [Spring Boot中使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/?utm_source=tuicool&utm_medium=referral)
+- [Spring Boot中使用AOP统一处理Web请求日志](http://blog.didispace.com/springbootaoplog/)
 
 - [关于spring,IOC和AOP的解析原理和举例](http://blog.sina.com.cn/s/blog_624a352c0101fo9j.html)
 
@@ -65,3 +65,4 @@
 - [Spring Batch在大型企业中的最佳实践](http://insights.thoughtworkers.org/spring-batch-best-practices/)
 
 
+- [Spring-data-jpa](http://www.cnblogs.com/dreamroute/p/5173896.html)

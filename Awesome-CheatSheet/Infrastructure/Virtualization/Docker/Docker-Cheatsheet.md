@@ -1,10 +1,7 @@
 
 
+# Docker
 
-
-
-
-## Docker
 
 
 
@@ -17,7 +14,7 @@
 - 镜像管理
 
 
-```
+```sh
 # 拉取镜像
 docker pull image_name
 
@@ -100,7 +97,8 @@ eval “$(docker-machine env machine_name)”
 
 ```
 - Docker Compose
-```
+
+```yaml
 # 基本语法
 version: “2”
 services:
@@ -119,3 +117,53 @@ mongo: # container name
 
 
 - Docker Swarm
+
+# Volume: 数据卷
+
+For example, the following creates a tmpfs volume called foo with a size of 100 megabyte and uid of 1000.
+
+```sh
+docker volume create --driver local \
+    --opt type=tmpfs \
+    --opt device=tmpfs \
+    --opt o=size=100m,uid=1000 \
+    foo
+```
+
+nother example that uses nfs to mount the /path/to/dir in rw mode from 192.168.1.1:
+
+```sh
+docker volume create --driver local \
+    --opt type=nfs \
+    --opt o=addr=192.168.1.1,rw \
+    --opt device=:/path/to/dir \
+    foo
+```
+
+```sh
+docker run -d \
+  -it \
+  --name devtest \
+  -v myvol2:/app \
+  nginx:latest
+```
+
+```json
+"Mounts": [
+    {
+        "Type": "volume",
+        "Name": "myvol2",
+        "Source": "/var/lib/docker/volumes/myvol2/_data",
+        "Destination": "/app",
+        "Driver": "local",
+        "Mode": "",
+        "RW": true,
+        "Propagation": ""
+    }
+],
+
+```
+
+```sh
+docker system prune -a
+```

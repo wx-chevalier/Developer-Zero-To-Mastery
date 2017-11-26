@@ -23,8 +23,8 @@
 [Android音视频点/直播模块开发](http://toutiao.io/posts/76jep8)
 
 [PLDroidPlayer:适用于 Android 平台的音视频播放器 SDK](https://github.com/pili-engineering/PLDroidPlayer)
-[直播方向的资源收集](http://www.henishuo.com/live-play-resource-collections/?utm_source=tuicool&utm_medium=referral)
-[iOS开发之集成ijkplayer视频直播](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao46?utm_source=tuicool&utm_medium=referral)
+[直播方向的资源收集](http://www.henishuo.com/live-play-resource-collections/)
+[iOS开发之集成ijkplayer视频直播](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao46)
 
 
 [Live](https://github.com/ltebean/Live):Demonstrate how to build a live broadcast app.

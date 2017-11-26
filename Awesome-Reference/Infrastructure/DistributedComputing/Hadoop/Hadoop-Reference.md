@@ -18,7 +18,7 @@
 
 
 
-- [Hadoop十年解读与发展预测](http://www.infoq.com/cn/articles/hadoop-ten-years-interpretation-and-development-forecast?utm_source=tuicool&utm_medium=referral)
+- [Hadoop十年解读与发展预测](http://www.infoq.com/cn/articles/hadoop-ten-years-interpretation-and-development-forecast)
 
 - [脱离JVM？ Hadoop生态圈的挣扎与演化](http://www.36dsj.com/archives/33650?spm=5176.100239.blogcont57815.20.qLfOI2)
 

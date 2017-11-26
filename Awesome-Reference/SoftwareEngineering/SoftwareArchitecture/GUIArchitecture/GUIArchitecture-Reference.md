@@ -48,7 +48,7 @@
 - [Albert Zuurbier:MVC VS. MVP VS. MVVM](http://www.albertzuurbier.com/index.php/programming/84-mvc-vs-mvp-vs-mvvm)
 ## MVC
 
-- [Model-View-Controller (MVC) in iOS: A Modern Approach](https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach?utm_source=tuicool&utm_medium=referral)
+- [Model-View-Controller (MVC) in iOS: A Modern Approach](https://www.raywenderlich.com/132662/mvc-in-ios-a-modern-approach)
 
 
 - [为什么我不再使用MVC框架](http://www.infoq.com/cn/articles/no-more-mvc-frameworks?utm_source=infoq_en&utm_medium=link_on_en_item&utm_campaign=item_in_other_langs)

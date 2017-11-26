@@ -1,7 +1,7 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 # Java NIO 资料索引
 
-- [NIO全解析说明 ](http://zoeminghong.github.io/2016/06/12/nio20160612/?utm_source=tuicool&utm_medium=referral)
+- [NIO全解析说明 ](http://zoeminghong.github.io/2016/06/12/nio20160612/)
 
 
 - [Java I/O模型从BIO到NIO和Reactor模式 ](http://www.jasongj.com/java/nio_reactor/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

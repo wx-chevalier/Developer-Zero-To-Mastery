@@ -7,7 +7,7 @@
 
 - [SHELL编程之执行过程 ](http://mp.weixin.qq.com/s?__biz=MzIxNDMyODgyMA==&mid=2247483666&idx=1&sn=b3df5f3f8d8803fb88719463388db4ed&scene=0#wechat_redirect)
 
-- [Shell Style Guide](https://google.github.io/styleguide/shell.xml?utm_source=tuicool&utm_medium=referral)
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 - [Bash-Beginners-Guide #Book#](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
 

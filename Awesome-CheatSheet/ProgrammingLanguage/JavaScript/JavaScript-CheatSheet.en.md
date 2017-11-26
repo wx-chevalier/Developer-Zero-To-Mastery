@@ -1,5 +1,4 @@
-# Python CheatSheet: Syntax Overview & Practices
-
+# JavaScript CheatSheet
 
 - Symbols
 

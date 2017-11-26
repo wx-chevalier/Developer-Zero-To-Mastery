@@ -31,7 +31,7 @@
 
 - [Consumer-Driven Contracts: A Service Evolution Pattern](http://martinfowler.com/articles/consumerDrivenContracts.html)
 
-- [rest-anti-patterns](http://marcelo-cure.blogspot.jp/2016/09/rest-anti-patterns.html?utm_source=tuicool&utm_medium=referral)
+- [rest-anti-patterns](http://marcelo-cure.blogspot.jp/2016/09/rest-anti-patterns.html)
 - [一些Rest最佳实践](http://colobu.com/2015/08/10/some-REST-best-practices/?utm_source=tuicool)
 
 - [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)

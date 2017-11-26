@@ -15,7 +15,7 @@
 - [李宏毅:Deep Learning Tutorial](https://drive.wps.cn/view/l/a034b6d643e7455fa1b533ded239acd1):300多页的PPT深入浅出地介绍了深度学习的基本概念。
 
 
-- [我如何理解深度学习？](http://www.afenxi.com/post/38176?utm_source=tuicool&utm_medium=referral)
+- [我如何理解深度学习？](http://www.afenxi.com/post/38176)
 
 - [有趣的机器学习概念纵览：从多元拟合，神经网络到深度学习，给每个感兴趣的人](https://segmentfault.com/a/1190000005746236)
 
@@ -115,7 +115,7 @@
 
 - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
 
-- [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429?utm_source=tuicool&utm_medium=referral)
+- [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
 
 - [tensorflow-playground](https://github.com/tensorflow/playground):Play with neural networks! 
 

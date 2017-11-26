@@ -14,7 +14,7 @@
 
 - [CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)
 
-- [JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/?utm_source=tuicool&utm_medium=referral)
+- [JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
 
 - [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 

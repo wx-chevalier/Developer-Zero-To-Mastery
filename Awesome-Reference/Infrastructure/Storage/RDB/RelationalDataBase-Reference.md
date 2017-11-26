@@ -1,21 +1,9 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
 
 # 关系型数据库入门与实践资料索引
 
+
+- [2016-一篇文章，掌握所有开源数据库的现状](http://www.tuicool.com/articles/mYBZFbN)
 
 # Resource: 资源汇总
 
@@ -32,16 +20,7 @@
 - [usql](https://github.com/knq/usql): usql is a universal command-line interface for working with SQL databases.
 
 
-
-
-# SQL
-
-
-
-
 # 数据库设计
-
-
 
 - [Tutorial: Step by Step Database Design in SQL](https://www.linkedin.com/pulse/tutorial-step-database-design-sql-david-mccaldin):  Database Design and Implementation is applicable for whatever industry your in. Here is a step by step approach to designing and implementing a database in your organisation, using specific data from a sweet shop case study I implemented during my M.Sc. in Software & Information Systems.
 
@@ -75,4 +54,4 @@
 
 # 数据库比较
 
-- [Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads](https://www.percona.com/blog/2017/01/06/millions-queries-per-second-postgresql-and-mysql-peaceful-battle-at-modern-demanding-workloads/?utm_source=tuicool&utm_medium=referral)
+- [Millions of Queries per Second: PostgreSQL and MySQL’s Peaceful Battle at Today’s Demanding Workloads](https://www.percona.com/blog/2017/01/06/millions-queries-per-second-postgresql-and-mysql-peaceful-battle-at-modern-demanding-workloads/)

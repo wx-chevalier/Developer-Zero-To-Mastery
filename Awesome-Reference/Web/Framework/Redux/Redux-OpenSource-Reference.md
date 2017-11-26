@@ -19,7 +19,7 @@
 - [全栈Redux实战](http://www.tuicool.com/articles/mqiyiq7)
 - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
 - [Mastering React Redux](https://www.stanleycyang.com/tutorials/mastering-react-redux)
-- [解读redux工作原理](http://zhenhua-lee.github.io/react/redux.html?utm_source=tuicool&utm_medium=referral)
+- [解读redux工作原理](http://zhenhua-lee.github.io/react/redux.html)
 - [Trying to put API calls in the correct place](https://github.com/rackt/redux/issues/291)
 - [react-redux-links](https://github.com/markerikson/react-redux-links)
 

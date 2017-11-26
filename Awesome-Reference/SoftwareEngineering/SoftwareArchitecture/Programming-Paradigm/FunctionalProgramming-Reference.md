@@ -6,7 +6,7 @@
 
 - [2017-The Rise and Fall and Rise of Functional Programming (Composable Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c#.1c7sks72i)
 
-- [2012-Core Functional Programming Concepts](https://thesocietea.org/2016/12/core-functional-programming-concepts/?utm_source=tuicool&utm_medium=referral)
+- [2012-Core Functional Programming Concepts](https://thesocietea.org/2016/12/core-functional-programming-concepts/)
 
 - [函数式编程的早期历史](https://zhuanlan.zhihu.com/p/24648375?utm_source=qq&utm_medium=social)
 

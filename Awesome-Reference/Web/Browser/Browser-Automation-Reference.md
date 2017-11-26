@@ -30,7 +30,7 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式
 
 # Selenium
 
-- [clean-architecture-of-selenium-tests](http://ovaraksin.blogspot.jp/2016/04/clean-architecture-of-selenium-tests.html?utm_source=tuicool&utm_medium=referral)
+- [clean-architecture-of-selenium-tests](http://ovaraksin.blogspot.jp/2016/04/clean-architecture-of-selenium-tests.html)
 
 - [Using Firefox WebExtensions With Selenium](https://intoli.com/blog/firefox-extensions-with-selenium/)
 

@@ -16,7 +16,7 @@
 - [HTTPS中的加密算法相关概念](http://foofish.net/https-symmetric.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
 
-- [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/?utm_source=tuicool&utm_medium=referral)
+- [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/)
 
 - [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
 

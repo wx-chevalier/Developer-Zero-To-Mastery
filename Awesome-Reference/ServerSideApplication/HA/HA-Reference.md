@@ -37,9 +37,9 @@ Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to he
 
 - [2017-去哪儿-超时，重试，熔断，限流](http://mp.weixin.qq.com/s/wIQIv4TAHRIqR_X9iSz3Hw)
 
-- [乐视秒杀：每秒十万笔交易的数据架构解读  ](http://www.uml.org.cn/sjjm/201611184.asp?utm_source=tuicool&utm_medium=referral)
+- [乐视秒杀：每秒十万笔交易的数据架构解读  ](http://www.uml.org.cn/sjjm/201611184.asp)
 
-- [晓明 美团点评技术团队 常见性能优化策略的总结](http://tech.meituan.com/performance_tunning.html?utm_source=tuicool&utm_medium=referral)
+- [晓明 美团点评技术团队 常见性能优化策略的总结](http://tech.meituan.com/performance_tunning.html)
 
 
 # 性能压测
@@ -123,7 +123,7 @@ http://blog.jobbole.com/87509/)
 
 - [缓存系统在游戏业务中的特异性](http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247483707&idx=1&sn=b88330668d0eb6930cd3b1db95b54ed4&chksm=eaab1b6bdddc927dc78ba30581841c75ac0d8082c6d218200e473b5946fff8905acf65fa2c93#rd)
 
-- [深入浅出Cache](http://tech.youzan.com/cache-background/?utm_source=tuicool&utm_medium=referral)
+- [深入浅出Cache](http://tech.youzan.com/cache-background/)
 
 - [Caching Explained](https://cachingexplained.com/#caching-explained)
 
@@ -160,7 +160,7 @@ http://blog.jobbole.com/87509/)
 
 - [阿里价值“千万”的秒杀场景参数优化](http://dbaplus.cn/news-21-457-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-- [四种框架分别实现百万websocket常连接的服务器](http://blog.jobbole.com/103995/?utm_source=tuicool&utm_medium=referral)
+- [四种框架分别实现百万websocket常连接的服务器](http://blog.jobbole.com/103995/)
 
 - [七种WebSocket框架的性能比较](http://blog.jobbole.com/103994/)
 

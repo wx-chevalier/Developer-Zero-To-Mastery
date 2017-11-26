@@ -10,7 +10,7 @@
 
 - [Raft 为什么是更易理解的分布式一致性算法](http://www.cnblogs.com/mindwind/p/5231986.html) 
 
-- [a-brief-overview-of-the-raft-algorithm](http://blog.carlosgaldino.com/a-brief-overview-of-the-raft-algorithm.html?utm_source=tuicool&utm_medium=referral) 
+- [a-brief-overview-of-the-raft-algorithm](http://blog.carlosgaldino.com/a-brief-overview-of-the-raft-algorithm.html) 
 
 - [raft原理（一）：选主与日志复制](http://www.tuicool.com/articles/aeiu2mm)
 

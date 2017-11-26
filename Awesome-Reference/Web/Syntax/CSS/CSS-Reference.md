@@ -11,7 +11,7 @@
 
 - [2017-The State of CSS](https://parg.co/bLZ): In this post I’ll reveal 5 old-fashioned CSS things that you don’t need to do anymore, and what you should do instead.
 
-- [Houdini：CSS 领域最令人振奋的革新](http://qianduan.guru/2016/05/20/houdini/?utm_source=tuicool&utm_medium=referral)
+- [Houdini：CSS 领域最令人振奋的革新](http://qianduan.guru/2016/05/20/houdini/)
 
 - [CSS GuideLines](http://cssguidelin.es/):免费的电子书，教你如何编写高质量可维护的CSS代码
 

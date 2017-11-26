@@ -31,7 +31,7 @@
 - [2016-Element Queries: the Future of Responsive Web Design](http://webdesign.tutsplus.com/tutorials/element-queries-the-future-of-responsive-web-design--cms-26945)
 
 
-- [前端：『REM』手机屏幕高清适配方案](https://github.com/hbxeagle/rem/blob/master/HD_ADAPTER.md?utm_source=tuicool&utm_medium=referral)
+- [前端：『REM』手机屏幕高清适配方案](https://github.com/hbxeagle/rem/blob/master/HD_ADAPTER.md)
 
 - [Scaling Responsive Animations](https://css-tricks.com/scaling-responsive-animations/) 
 
@@ -63,7 +63,7 @@
 
 - [Image Compression for Web Developers](http://www.html5rocks.com/en/tutorials/speed/img-compression/)
 
-- [responsive-images-client-hints](https://davidwalsh.name/responsive-images-client-hints?utm_source=tuicool&utm_medium=referral)
+- [responsive-images-client-hints](https://davidwalsh.name/responsive-images-client-hints)
 
 
 - [quick-guide-responsive-images](http://slicejack.com/quick-guide-responsive-images/)

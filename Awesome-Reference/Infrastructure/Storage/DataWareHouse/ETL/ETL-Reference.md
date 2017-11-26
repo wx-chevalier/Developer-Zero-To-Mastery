@@ -18,7 +18,7 @@
 
 
 
-- [Spark Streaming + Spark SQL 实现配置化ETL流程](http://www.jianshu.com/p/cd26a413cbd4?utm_source=tuicool&utm_medium=referral)
+- [Spark Streaming + Spark SQL 实现配置化ETL流程](http://www.jianshu.com/p/cd26a413cbd4)
 
 - [FlyWay](https://github.com/flyway/flyway)
 

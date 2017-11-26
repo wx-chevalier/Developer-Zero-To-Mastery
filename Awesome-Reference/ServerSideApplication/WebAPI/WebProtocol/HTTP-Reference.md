@@ -77,13 +77,13 @@
 
 - [speed-up-your-sites-with-http-2](https://medium.com/@WebdesignerDepot/speed-up-your-sites-with-http-2-f6ee33cef6bd#.yzdpzial0)
 
-- [The complete guide to HTTP/2 with HAProxy and Nginx](http://m12.io/blog/http-2-with-haproxy-and-nginx-guide?utm_source=tuicool&utm_medium=referral)
+- [The complete guide to HTTP/2 with HAProxy and Nginx](http://m12.io/blog/http-2-with-haproxy-and-nginx-guide)
 
-- [HTTP/2新特性解析](http://io.upyun.com/2015/05/13/http2/?utm_source=tuicool&utm_medium=referral)
+- [HTTP/2新特性解析](http://io.upyun.com/2015/05/13/http2/)
 
 - [The Right Way to Bundle Your Assets for Faster Sites over HTTP/2](https://medium.com/@asyncmax/the-right-way-to-bundle-your-assets-for-faster-sites-over-http-2-437c37efe3ff#.512pz6h3y)
 
-- [What is HTTP/2 All About?](https://auth0.com/blog/what-is-http2-all-about/?utm_source=tuicool&utm_medium=referral)
+- [What is HTTP/2 All About?](https://auth0.com/blog/what-is-http2-all-about/)
 
 - [how-to-set-up-nginx-with-http-2-support-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
 

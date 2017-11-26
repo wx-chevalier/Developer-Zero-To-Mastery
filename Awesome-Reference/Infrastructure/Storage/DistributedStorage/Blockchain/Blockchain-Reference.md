@@ -34,7 +34,7 @@
 
 - [廖雪峰：深入理解比特币交易的脚本](https://zhuanlan.zhihu.com/p/24838810) 
 
-- [区块链：中间件的下一件大事](http://www.infoq.com/cn/articles/blockchain-middleware?utm_source=tuicool&utm_medium=referral) 
+- [区块链：中间件的下一件大事](http://www.infoq.com/cn/articles/blockchain-middleware) 
 
 - [中国区块链技术和应用发展白皮书](http://chainb.com/download/%E5%B7%A5%E4%BF%A1%E9%83%A8-%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E5%92%8C%E5%BA%94%E7%94%A8%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A61014.pdf) 
 

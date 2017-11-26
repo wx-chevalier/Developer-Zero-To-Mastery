@@ -35,7 +35,7 @@
 
 
 
-- [夏俊：深入网站服务端技术（一）——网站并发的问题](http://www.csdn.net/article/2015-03-16/2824221?utm_source=tuicool&utm_medium=referral)
+- [夏俊：深入网站服务端技术（一）——网站并发的问题](http://www.csdn.net/article/2015-03-16/2824221)
 
 
 - [抛开语言和技术栈不谈，我们应该如何选择线程模型？ ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598379&idx=1&sn=39d432e1d2f2c07254157e621bc50f01&chksm=8be99539bc9e1c2f892fcc89089c939d70361d1ba1fb584ce69ab68240eb35e6846f3c14bd6b&mpshare=1&scene=1&srcid=1028Z0atSJuHV9dRSZdjogqo#rd) 

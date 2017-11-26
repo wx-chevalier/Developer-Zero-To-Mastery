@@ -80,7 +80,7 @@
 
 - [同源策略和跨域访问](http://blog.csdn.net/shimiso/article/details/21830313)
 
-- [前端跨域的整理 ](http://qiutc.me/post/cross-domain-collections.html?utm_source=tuicool&utm_medium=referral)
+- [前端跨域的整理 ](http://qiutc.me/post/cross-domain-collections.html)
 
 - [MDN-HTTP访问控制(CORS)](https://parg.co/UGw)
 

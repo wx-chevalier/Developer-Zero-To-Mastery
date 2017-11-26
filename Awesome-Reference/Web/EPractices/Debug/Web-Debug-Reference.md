@@ -44,7 +44,7 @@
 
 - [2017-Learn How To Debug JavaScript with Chrome DevTools](https://parg.co/bDf)
 
-- [九个Console命令，让js调试更简单](http://www.ido321.com/677.html?utm_source=tuicool&utm_medium=referral)
+- [九个Console命令，让js调试更简单](http://www.ido321.com/677.html)
 
 - [beyond-console-debugging-tricks](https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4#.zd88ml8sz)
 
@@ -52,7 +52,7 @@
 
 - [Fun with Console object](https://dev.to/duchienvuong/fun-with-console-object)
 
-- [移动web开发调试工具 AlloyLever 介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html?utm_source=tuicool&utm_medium=referral)
+- [移动web开发调试工具 AlloyLever 介绍](http://www.cnblogs.com/iamzhanglei/p/5477500.html)
 
 - [Browser console debugging tips for arrays & objects using groups and tables](https://medium.com/@brocco/browser-console-debugging-tips-for-arrays-objects-using-groups-and-tables-60b001316d8a#.5p4bh84px)
 
