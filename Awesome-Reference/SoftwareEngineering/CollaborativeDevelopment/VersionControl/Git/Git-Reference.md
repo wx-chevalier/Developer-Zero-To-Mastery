@@ -33,4 +33,6 @@
 
 # Rebase
 
+- [2017-Merging vs. Rebasing](https://dzone.com/articles/merging-vs-rebasing): While merging and rebasing are similar in Git, they serve two different functions. Here's what you should know to keep your histories as clean or as complete as you like.
+
 - [2017-Why you should stop using Git rebase](https://parg.co/bBO): After using Git for several years, I found myself gradually using more and more advanced Git commands as part of my daily workflow.
