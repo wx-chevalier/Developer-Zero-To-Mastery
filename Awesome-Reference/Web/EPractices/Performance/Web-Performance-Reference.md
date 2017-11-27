@@ -122,6 +122,8 @@
 
 ## Code Spliting: 代码分割
 
+- [Bundle Buddy #Project#](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
+
 # Image Optimization: 图片优化
 
 * [2017-Essential Image Optimization](https://images.guide/): In 2017, image
