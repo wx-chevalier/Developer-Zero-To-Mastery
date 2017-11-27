@@ -12,6 +12,8 @@
 
 - [How we do Vue: one year later](https://parg.co/U6b): How we, at GitLab, write VueJS, one year later.
 
+- [2017-A Look at Angular Alongside Vue](https://johnpapa.net/a-look-at-angular-alongside-vue-1/):  wanted to get a sense of how it compared, how it works, and how it feels to develop an app with it. I spent a few days on and off learning parts of Vue to write a small app.
+
 # StyleGuide: 样式指南
 
 - [2017-Writing Vue Components with Flow](https://alligator.io/vuejs/components-flow/): Getting Flow to work with Vue is a bit tricky as it involves several dependencies and minor configuration tweaks to make them all work properly together, so let’s start out by installing those first.
@@ -20,19 +22,21 @@
 
 - [2017-Deep dive into Vue2.5 Typing -- A tour of advanced typing feature](https://parg.co/UdZ): Vue 2.5 improves TypeScript definition! Before that, TS users will have to use class component API to get proper typing, but now canonical API is both precise and concise with few compromises!
 
+
+# Static Type
+
+## TypeScript
+
+- [2017-Vue.js with TypeScript](https://johnpapa.net/vue-typescript/): This post explores how I refactored the Vue app to use TypeScript.
+
 # Performance: 性能优化
 
 - [2017-3 Code Splitting Patterns For VueJS and Webpack](https://parg.co/bDP): In this article I’ll present three patterns for code splitting a Vue.js single page app, By page, By page fold, By condition.
 
 
-
-
 # PWA
 
 - [2017-为 Vue 项目添加骨架屏](https://zhuanlan.zhihu.com/p/28465598): 前段时间阅读了饿了么的 PWA 升级实践一文，受益匪浅。其中构建时使用 Vue 预渲染骨架屏一节，为开发者提供了减少白屏时间，提升用户感知体验的新思路。本文将借鉴这一思路，尝试为 Vue 项目添加骨架屏。
-
-
-
 
 # Under the Hood: 内部原理
 
