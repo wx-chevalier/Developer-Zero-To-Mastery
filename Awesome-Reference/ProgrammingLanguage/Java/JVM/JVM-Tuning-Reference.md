@@ -17,4 +17,6 @@
 
 - [Java 性能优化指南，及唯品会的实战](http://www.tuicool.com/articles/r2eeimI)
 
+- [useful-scripts #Project#](https://github.com/oldratlee/useful-scripts): 把平时有用的手动操作做成脚本，这样可以便捷的使用。 
+
 - [GCViewer #Project#](https://github.com/chewiebug/GCViewer): Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)
