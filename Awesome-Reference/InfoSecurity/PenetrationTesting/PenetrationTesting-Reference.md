@@ -20,3 +20,7 @@
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 - [2017-A penetration tester’s guide to sub-domain enumeration](https://parg.co/U6Y)
+
+
+
+- [Fake Mail Generator #Project#](http://www.fakemailgenerator.com/#/armyspy.com/Nity1962/)
