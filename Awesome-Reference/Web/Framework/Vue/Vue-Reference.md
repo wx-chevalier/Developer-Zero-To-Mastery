@@ -67,9 +67,7 @@
 
 # Syntax: 组件语法
 
-
-
-
+- [2017-Getting Your Head Around Vue.js Scoped Slots](https://parg.co/UPK): In this article, I’ll demonstrate how I used scoped slots to build a reusable list component.
 
 # Style: 组件样式
 
