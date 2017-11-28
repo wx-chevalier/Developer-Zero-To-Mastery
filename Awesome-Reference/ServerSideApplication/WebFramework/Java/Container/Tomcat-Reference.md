@@ -6,4 +6,6 @@
 
 * [Tomcat 学习总结（3 ） ——Tomcat 优化详细教程](http://blog.csdn.net/u012562943/article/details/51441157): Tomcat 是我们经常使用的 servlet 容器之一，甚至很多线上产品都使用 Tomcat 充当服务器。而且优化后的 Tomcat 性能提升显著，本文从以下几方面进行分析优化。
 
-* [2004-How Tomcat Works: A Guide to Developing Your Own Java Servlet Container](https://parg.co/UP0): How Tomcat Works is the only book that explains the internal workings of Tomcat, the open source project used by millions of Java developers.
+* [2004-How Tomcat Works: A Guide to Developing Your Own Java Servlet Container #Book#](https://parg.co/UP0): How Tomcat Works is the only book that explains the internal workings of Tomcat, the open source project used by millions of Java developers.
+
+* [2011-Apache Tomcat 7 #Book#](http://www.gocit.vn/files/Apress.Apache.Tomcat.7-www.gocit.vn.pdf): This book will be useful to the reader who is familiar with Java, but new to servlet development with Tomcat.
