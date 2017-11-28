@@ -21,6 +21,8 @@ In this post I'll show how to write a rudimentary, native x86-64 just-in-time co
 
 - [Interactive Coding Challenges](https://parg.co/bhs): Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki Flashcards.
 
+- [pytudes #Project#](https://github.com/norvig/pytudes): This project contains pytudes—Python programs for perfecting programming skills. Some are in Jupyter (IPython) notebooks, some in *.py files.
+
 ## CheatSheet: 速览清单
 
 - [Python Crash Course - Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html): A cheat sheet can be really helpful when you’re trying a set of exercises related to a specific topic, or working on a project.
