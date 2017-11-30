@@ -6,7 +6,7 @@
 
 # 基础语法
 
-Python 是一门高阶、动态类型的多范式编程语言；定义 Python 文件的时候我们往往会先声明文件编码方式: 
+Python 是一门高阶、动态类型的多范式编程语言；定义 Python 文件的时候我们往往会先声明文件编码方式 :
 
 ```py
 # 指定脚本调用方式
@@ -21,7 +21,7 @@ Python 是一门高阶、动态类型的多范式编程语言；定义 Python �
 # vim:fileencoding=<encoding-name>
 ```
 
-人生苦短，请用 Python，大量功能强大的语法糖的同时让很多时候 Python 代码看上去有点像伪代码。譬如我们用 Python 实现的简易的快排相较于 Java 会显得很短小精悍:
+人生苦短，请用 Python，大量功能强大的语法糖的同时让很多时候 Python 代码看上去有点像伪代码。譬如我们用 Python 实现的简易的快排相较于 Java 会显得很短小精悍 :
 
 ```py
 def quicksort(arr):
@@ -32,7 +32,7 @@ def quicksort(arr):
     middle = [x for x in arr if x == pivot]
     right = [x for x in arr if x > pivot]
     return quicksort(left) + middle + quicksort(right)
-    
+
 print quicksort([3,6,8,10,1,2,1])
 # Prints "[1, 1, 2, 3, 6, 8, 10]"
 ```
@@ -57,7 +57,7 @@ if __name__ == '__main__':
 # python calculator.py double --number=15  # 30
 ```
 
-Python 2 中 print 是表达式，而 Python 3 中 print 是函数；如果希望在 Python 2 中将 print 以函数方式使用，则需要自定义引入:
+Python 2 中 print 是表达式，而 Python 3 中 print 是函数；如果希望在 Python 2 中将 print 以函数方式使用，则需要自定义引入 :
 
 ```py
 from __future__ import print_function
@@ -79,7 +79,7 @@ pp.pprint(tup)
 
 ## 模块
 
-Python 中的模块（Module）即是 Python 源码文件，其可以导出类、函数与全局变量；当我们从某个模块导入变量时，函数名往往就是命名空间（Namespace）。而 Python 中的包（Package）则是模块的文件夹，往往由 `__init__.py` 指明某个文件夹为包: 
+Python 中的模块（Module ）即是 Python 源码文件，其可以导出类、函数与全局变量；当我们从某个模块导入变量时，函数名往往就是命名空间（Namespace ）。而 Python 中的包（Package ）则是模块的文件夹，往往由 `__init__.py` 指明某个文件夹为包 :
 
 ```py
 # 文件目录
@@ -91,7 +91,7 @@ someDir/
 
 def siblingModuleFun():
 	print('Hello from siblingModuleFun')
-	
+
 def siblingModuleFunTwo():
 	print('Hello from siblingModuleFunTwo')
 
@@ -113,7 +113,7 @@ except ImportError:
     except ImportError:
 ```
 
-Package 可以为某个目录下所有的文件设置统一入口: 
+Package 可以为某个目录下所有的文件设置统一入口 :
 
 ```py
 someDir/
@@ -129,7 +129,7 @@ someDir/
 
 def subAFun():
 	print('Hello from subAFun')
-	
+
 def subAFunTwo():
 	print('Hello from subAFunTwo')
 
@@ -137,13 +137,13 @@ def subAFunTwo():
 
 def subSubAFun():
 	print('Hello from subSubAFun')
-	
+
 def subSubAFunTwo():
 	print('Hello from subSubAFunTwo')
 
 # __init__.py from subDir
 
-# Adds 'subAFun()' and 'subAFunTwo()' to the 'subDir' namespace 
+# Adds 'subAFun()' and 'subAFunTwo()' to the 'subDir' namespace
 from .subA import *
 
 # The following two import statement do the same thing, they add 'subSubAFun()' and 'subSubAFunTwo()' to the 'subDir' namespace. The first one assumes '__init__.py' is empty in 'subSubDir', and the second one, assumes '__init__.py' in 'subSubDir' contains 'from .subSubA import *'.
@@ -170,12 +170,11 @@ subDir.subSubAFun() # Hello from subSubAFun
 subDir.subSubAFunTwo() # Hello from subSubAFunTwo
 ```
 
-
 # 表达式与控制流
 
 ## 条件选择
 
-Python 中使用 if、elif、else 来进行基础的条件选择操作：
+Python 中使用 if、elif 、 else 来进行基础的条件选择操作：
 
 ```py
 if x < 0:
@@ -235,13 +234,27 @@ for i in range(len(a)):
 
 # 基本数据类型
 
-可以使用内建函数进行强制类型转换（Casting）:
+可以使用内建函数进行强制类型转换（Casting ） :
 
 ```py
 int(str)
 float(str)
 str(int)
 str(float)
+```
+
+isinstance 方法用于判断某个对象是否源自某个类 :
+
+```py
+ex = 10
+
+# 判断是否为 int 类型
+isinstance(ex,int)
+
+# isinstance 也支持同时判断多个类型
+# 如下代码判断是否为数组
+def is_array(var):
+    return isinstance(var, (list, tuple))
 ```
 
 ## Number: 数值类型
@@ -274,7 +287,7 @@ print type(t) # Prints "<type 'bool'>"
 print t and f # Logical AND; prints "False"
 print t or f  # Logical OR; prints "True"
 print not t   # Logical NOT; prints "False"
-print t != f  # Logical XOR; prints "True" 
+print t != f  # Logical XOR; prints "True"
 ```
 
 ## String: 字符串
@@ -291,7 +304,7 @@ type("Guido") # string type become unicode
 # <type 'unicode'>
 ```
 
-Python 字符串支持分片、模板字符串等常见操作:
+Python 字符串支持分片、模板字符串等常见操作 :
 
 ```py
 var1 = 'Hello World!'
@@ -331,14 +344,14 @@ str.islower()
 
 ```py
 # 移除所有的特殊字符
-re.sub('[^A-Za-z0-9]+', '', mystring) 
+re.sub('[^A-Za-z0-9]+', '', mystring)
 ```
 
-如果需要判断是否包含某个子字符串，或者搜索某个字符串的下标:
+如果需要判断是否包含某个子字符串，或者搜索某个字符串的下标 :
 
 ```py
 # in 操作符可以判断字符串
-if "blah" not in somestring: 
+if "blah" not in somestring:
     continue
 
 # find 可以搜索下标
@@ -348,7 +361,6 @@ if s.find("is") == -1:
 else:
     print "Found 'is' in the string."
 ```
-
 
 ## Regex: 正则表达式
 
@@ -368,7 +380,7 @@ expr.match(...)
 expr.sub(...)
 ```
 
-下面列举了常见的表达式使用场景:
+下面列举了常见的表达式使用场景 :
 
 ```py
 # 检测是否为 HTML 标签
@@ -414,7 +426,7 @@ l = list()
 # 使用字符串的 split 方法，可以将字符串转化为列表
 str.split(".")
 
-# 如果需要将数组拼装为字符串，则可以使用 join 
+# 如果需要将数组拼装为字符串，则可以使用 join
 list1 = ['1', '2', '3']
 str1 = ''.join(list1)
 
@@ -433,7 +445,7 @@ x.append([4, 5]) # [1, 2, 3, [4, 5]]
 x.extend([4, 5]) # [1, 2, 3, 4, 5]，注意 extend 返回值为 None
 ```
 
-可以使用 pop、slices、del、remove 等移除列表中元素：
+可以使用 pop、slices 、 del、remove 等移除列表中元素：
 
 ```py
 myList = [10,20,30,40,50]
@@ -463,7 +475,7 @@ print(*letters) # used a * to make it unpack you don't have to
 
 ### Iteration: 索引遍历
 
-你可以使用基本的 for 循环来遍历数组中的元素，就像下面介个样纸:
+你可以使用基本的 for 循环来遍历数组中的元素，就像下面介个样纸 :
 
 ```py
 animals = ['cat', 'dog', 'monkey']
@@ -472,7 +484,7 @@ for animal in animals:
 # Prints "cat", "dog", "monkey", each on its own line.
 ```
 
-如果你在循环的同时也希望能够获取到当前元素下标，可以使用 enumerate 函数:
+如果你在循环的同时也希望能够获取到当前元素下标，可以使用 enumerate 函数 :
 
 ```py
 animals = ['cat', 'dog', 'monkey']
@@ -481,7 +493,7 @@ for idx, animal in enumerate(animals):
 # Prints "#1: cat", "#2: dog", "#3: monkey", each on its own line
 ```
 
-Python 也支持切片（Slices）: 
+Python 也支持切片（Slices ） :
 
 ```py
 nums = range(5)    # range is a built-in function that creates a list of integers
@@ -497,7 +509,7 @@ print nums         # Prints "[0, 1, 8, 9, 4]"
 
 ### Comprehensions: 变换
 
-Python 中同样可以使用 map、reduce、filter，map 用于变换数组:
+Python 中同样可以使用 map、reduce 、 filter，map 用于变换数组 :
 
 ```py
 # 使用 map 对数组中的每个元素计算平方
@@ -516,7 +528,7 @@ for i in range(5):
     print(value)
 ```
 
-reduce 用于进行归纳计算:
+reduce 用于进行归纳计算 :
 
 ```py
 # reduce 将数组中的值进行归纳
@@ -527,7 +539,7 @@ product = reduce((lambda x, y: x * y), [1, 2, 3, 4])
 # Output: 24
 ```
 
-filter 则可以对数组进行过滤:
+filter 则可以对数组进行过滤 :
 
 ```py
 number_list = range(-5, 5)
@@ -536,8 +548,6 @@ print(less_than_zero)
 
 # Output: [-5, -4, -3, -2, -1]
 ```
-
-
 
 ## 字典类型
 
@@ -568,7 +578,7 @@ def merge_dicts(*dict_args):
 
 ### 索引遍历
 
-可以根据键来直接进行元素访问: 
+可以根据键来直接进行元素访问 :
 
 ```py
 # Python 中对于访问不存在的键会抛出 KeyError 异常，需要先行判断或者使用 get
@@ -585,7 +595,7 @@ print d.get('fish', 'N/A')    # Get an element with a default; prints "wet"
 d.keys() # 使用 keys 方法可以获取所有的键
 ```
 
-可以使用 for-in 来遍历数组:
+可以使用 for-in 来遍历数组 :
 
 ```py
 # 遍历键
@@ -604,7 +614,6 @@ for key, value in d.iteritems():
 for key, value in d.items():
 ```
 
-
 ## 其他序列类型
 
 ### 集合
@@ -612,29 +621,39 @@ for key, value in d.items():
 ```python
 # Same as {"a", "b","c"}
 normal_set = set(["a", "b","c"])
- 
+
 # Adding an element to normal set is fine
 normal_set.add("d")
- 
+
 print("Normal Set")
 print(normal_set)
- 
+
 # A frozen set
 frozen_set = frozenset(["e", "f", "g"])
- 
+
 print("Frozen Set")
 print(frozen_set)
- 
+
 # Uncommenting below line would cause error as
 # we are trying to add element to a frozen set
 # frozen_set.add("h")
+```
+
+### Enum
+
+```py
+class Enum(set):
+    def __getattr__(self, name):
+        if name in self:
+            return name
+        raise AttributeError
 ```
 
 # 函数
 
 ## 函数定义
 
-Python 中的函数使用 def 关键字进行定义，譬如:
+Python 中的函数使用 def 关键字进行定义，譬如 :
 
 ```py
 def sign(x):
@@ -683,6 +702,13 @@ example(1, "var", *a_tuple, **a_dict)
 # {'1': 1, '2': 2, '3': 3}
 ```
 
+对于不定参数的调用，同样可以使用 `**` 运算符：
+
+```py
+func(**{'type':'Event'})
+# 等价于
+func(type='Event')
+```
 
 ## 生成器
 
@@ -715,10 +741,9 @@ def get_primes(number):
         number += 1
 ```
 
-
 ## 装饰器
 
-装饰器是非常有用的设计模式:
+装饰器是非常有用的设计模式 :
 
 ```py
 # 简单装饰器
@@ -737,7 +762,7 @@ def example(*a, **kw):
 
 example.__name__  # attr of function preserve
 # 'example'
-# Decorator 
+# Decorator
 
 # 带输入值的装饰器
 
@@ -770,38 +795,29 @@ example()
 # This is example function.
 ```
 
-
-
-
 # 类与对象
 
 ## 类定义
 
-Python 中对于类的定义也很直接:
+Python 中对于类的定义也很直接 :
 
 ```py
 class Greeter(object):
-    
+
     # Constructor
     def __init__(self, name):
         self.name = name  # Create an instance variable
-        
+
     # Instance method
     def greet(self, loud=False):
         if loud:
             print 'HELLO, %s!' % self.name.upper()
         else:
             print 'Hello, %s' % self.name
-        
+
 g = Greeter('Fred')  # Construct an instance of the Greeter class
 g.greet()            # Call an instance method; prints "Hello, Fred"
 g.greet(loud=True)   # Call an instance method; prints "HELLO, FRED!"
-```
-
-```py
-# isinstance 方法用于判断某个对象是否源自某个类
-ex = 10
-isinstance(ex,int)
 ```
 
 ### Managed Attributes: 受控属性
@@ -872,7 +888,7 @@ example.instmethod()
 
 ### 属性操作
 
-Python 中对象的属性不同于字典键，可以使用点运算符取值，直接使用 in 判断会存在问题:
+Python 中对象的属性不同于字典键，可以使用点运算符取值，直接使用 in 判断会存在问题 :
 
 ```py
 class A(object):
@@ -890,7 +906,8 @@ print "a.prop =", a.prop
 # a.prop = 3
 ```
 
-建议使用 hasattr、getattr、setattr 这种方式对于对象属性进行操作:
+建议使用 hasattr、getattr 、 setattr 这种方式对于对象属性进行操作 :
+
 ```py
 class Example(object):
   def __init__(self):
@@ -921,15 +938,52 @@ ex.name
 # 'example'
 ```
 
-
 # 异常与测试
-
 
 ## 异常处理
 
+### try
+
+```py
+import sys
+
+try:
+    f = open('myfile.txt')
+    s = f.readline()
+    i = int(s.strip())
+except OSError as err:
+    print("OS error: {0}".format(err))
+except ValueError:
+    print("Could not convert data to an integer.")
+except:
+    print("Unexpected error:", sys.exc_info()[0])
+    raise
+```
+
+```py
+class B(Exception):
+    pass
+
+class C(B):
+    pass
+
+class D(C):
+    pass
+
+for cls in [B, C, D]:
+    try:
+        raise cls()
+    except D:
+        print("D")
+    except C:
+        print("C")
+    except B:
+        print("B")
+```
+
 ### Context Manager - with
 
-with 常用于打开或者关闭某些资源:
+with 常用于打开或者关闭某些资源 :
 
 ```py
 host = 'localhost'
@@ -941,8 +995,7 @@ with Socket(host, port) as s:
         print msg
         conn.send(msg)
         conn.close()
-``` 
-
+```
 
 ## 单元测试
 
@@ -988,14 +1041,14 @@ if __name__ == "__main__":
 
 ### 路径处理
 
-Python 内置的 `__file__` 关键字会指向当前文件的相对路径，可以根据它来构造绝对路径，或者索引其他文件: 
+Python 内置的 `__file__` 关键字会指向当前文件的相对路径，可以根据它来构造绝对路径，或者索引其他文件 :
 
 ```py
 # 获取当前文件的相对目录
 dir = os.path.dirname(__file__) # src\app
 
 ## once you're at the directory level you want, with the desired directory as the final path node:
-dirname1 = os.path.basename(dir) 
+dirname1 = os.path.basename(dir)
 dirname2 = os.path.split(dir)[1] ## if you look at the documentation, this is exactly what os.path.basename does.
 
 # 获取当前代码文件的绝对路径，abspath 会自动根据相对路径与当前工作空间进行路径补全
@@ -1008,7 +1061,7 @@ os.path.dirname(os.path.realpath(__file__)) # D:\WorkSpace\OWS\tool\ui-tool-svn\
 os.getcwd()
 ```
 
-可以使用 listdir、walk、glob 模块来进行文件枚举与检索：
+可以使用 listdir、walk 、 glob 模块来进行文件枚举与检索：
 
 ```py
 # 仅列举所有的文件
@@ -1046,7 +1099,6 @@ with open("file.dat",mode) as f:
 # 读取文件内容
 message = f.read()
 ```
-
 
 ## 复杂格式文件
 
@@ -1150,17 +1202,15 @@ workbook.close()
 对于高级的文件操作，我们可以使用 Python 内置的 shutil
 
 ```py
-
 # 递归删除 appName 下面的所有的文件夹
 shutil.rmtree(appName)
 ```
-
 
 # 网络交互
 
 ## Requests
 
-[Requests](https://parg.co/UrO) 是优雅而易用的 Python 网络请求库:
+[Requests](https://parg.co/UrO) 是优雅而易用的 Python 网络请求库 :
 
 ```py
 import requests
