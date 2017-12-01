@@ -24,9 +24,11 @@ Browser Automation 即所谓的自动化浏览器或者能够以脚本等方式
 
 - [2017-THAL](https://github.com/emadehsan/thal): Getting started with Puppeteer and Chrome Headless for Web Scraping.
 
-- [2017-GoogleChrome-Puppeteer](https://github.com/GoogleChrome/puppeteer): Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
+- [2017-GoogleChrome-Puppeteer #Project#](https://github.com/GoogleChrome/puppeteer): Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
 
 - [2017-A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://parg.co/US1): Learn to Automate and Scrape the web with Headless Chrome.
+
+- [Rendertron #Project#](https://github.com/GoogleChrome/rendertron): Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
 # Selenium
 
