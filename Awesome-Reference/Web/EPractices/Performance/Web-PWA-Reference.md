@@ -2,18 +2,9 @@
 
 # Progressive Web Apps 学习与实践资料索引
 
-
-
 本文是 Progressive Web Apps 开发中搜集的一系列有价值的参考资料，关联父引用为 [Web Reference](http://6me.us/gUmQ)。
 
-
-
-
-
-
 # Overview: 概览
-
-
 
 - [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 
@@ -83,13 +74,13 @@
 
 - [Workbox #Project# ](https://workboxjs.org/)：Workbox 是来自 Google Chrome 团队的快速将现有应用转化为 Progressive Web Apps 的 JavaScript 库；Workbox 允许我们通过 Webpack 插件、Gulp 插件以及 npm 脚本的方式快速地为当前应用的资源创建对应加载 ServiceWorker。
 
-
-
 # Tutorial
 
 - [2017-A beginner’s guide to making Progressive Web Apps](https://parg.co/b1n): Hopefully, this post will be all you need to get started in making your own PWA.
 
 - [2017-A progressive Web application with Vue JS, Webpack & Material Design【Series】](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
+
+- [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 
 
 # Offline Storage
