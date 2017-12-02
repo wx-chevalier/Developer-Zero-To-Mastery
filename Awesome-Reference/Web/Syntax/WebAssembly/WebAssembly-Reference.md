@@ -37,3 +37,4 @@
 
 - [V8: Behind the Scenes (December Edition)](http://benediktmeurer.de/2016/12/20/v8-behind-the-scenes-december-edition/)
 
+- [2017-How JavaScript works: A comparison with WebAssembly + why in certain cases it’s better to use it over JavaScript](https://parg.co/Uua)
