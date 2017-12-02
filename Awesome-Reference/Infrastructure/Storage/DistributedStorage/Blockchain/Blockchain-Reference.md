@@ -1,32 +1,12 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
-
 
 # 区块链资料索引
 
-
 ![](https://cdn-images-1.medium.com/max/2000/1*BphKK1wX2TbhiFmbUFtI5w.jpeg)
-
-
-
 
 - [2017-Blockchain for non-techies【Series】](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5): [2. How they work](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5)
 
 - [2017-Blockchain chaincode for Java developers](https://parg.co/bRM): How to write chaincode for Hyperledger Fabric v0.6 using the Java language.
-
-
 
 - [Understanding Blockchain](https://iot-for-all.com/understanding-blockchain-5cda2919efff#.m7ei7v4lt)
 
@@ -57,14 +37,13 @@
 
 - [2017-A blockchain in 200 lines of code](http://6me.us/8sPpk): This makes understanding blockchains a necessarily harder task, than it must be. Especially source-code-wisely. Here I will go through a super-simple blockchain I implemented in 200 lines of Javascript called NaiveChain.
 
-
+- [2017-NodeJS blockchain implementation: BrewChain: Chain+WebSockets+HTTP Server](http://www.darrenbeck.co.uk/blockchain/nodejs/nodejscrypto/): In this tutorial you’ll lean to create BrewChain - a verifiable chain of which member of the team made a brew and when.
 
 ## Python
 
 - [2017-Crackcoin](https://github.com/DutchGraa/crackcoin): Crackcoin is a very basic blockchain-free cryptocurrency PoC in Python.
 
 - [2017-Let’s Build the Tiniest Blockchain](https://parg.co/baX): In Less Than 50 Lines of Python.
-
 
 # Bitcoin
 
