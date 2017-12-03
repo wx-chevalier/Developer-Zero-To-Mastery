@@ -42,9 +42,13 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [DataScienceAI-Book-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataScienceAI-Book-Reference.md): 数学基础
 * [DataScienceAI-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataScienceAI-Reference.md): 面向程序猿的数据科学与机器学习知识体系及资料合集
-  ### ComputerVision
+
+### ComputerVision
+
 * [ComputerVision-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/ComputerVision/ComputerVision-Reference.md): OCR
-  ### DataProcess
+
+### DataProcess
+
 * [Crawler-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataProcess/Crawler-Reference.md): 爬虫资料索引
 * [DataProcess-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataProcess/DataProcess-Reference.md): 数据处理资料索引
 * [DimensionReduction-Reference](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-Reference/DataScienceAI/DataProcess/DimensionReduction-Reference.md): 降维资料索引

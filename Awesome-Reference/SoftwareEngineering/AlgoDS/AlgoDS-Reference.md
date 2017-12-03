@@ -38,6 +38,8 @@
 
 - [2017-Basic javascript algorithms toolbox: starter kit](https://parg.co/b75): Here’s a list of javascript quick-to-write algos that are often useful.
 
+- [2017-CS-Playground-React: Algos & Data Structures #Project#](https://parg.co/UZd): In-Browser Algorithm and Data Structure Interview Prep.
+
 # Python
 
 * [2017-Problem Solving with Algorithms and Data Structures using Python #Book#](http://6me.us/jgWZ)：中文版参考[这里](https://github.com/facert/python-data-structure-cn)。

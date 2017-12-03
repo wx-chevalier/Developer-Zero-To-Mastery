@@ -53,8 +53,8 @@ export async function generateRepoToc(
  * @return {string}
  */
 const formatToc = (file: FileDescriptor) => {
-  return `- [${file.name.replace('.md', '')}](${file.html_url}): ${file
-    .h1s[0] || ''} \n`;
+  return `\n - [${file.name.replace('.md', '')}](${file.html_url}): ${file
+    .h1s[0] || ''} \n\n`;
 };
 
 /**
