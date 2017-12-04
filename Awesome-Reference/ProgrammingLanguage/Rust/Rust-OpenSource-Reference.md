@@ -9,3 +9,7 @@
 * [image-server-rust #Project#](https://github.com/miguelmartin75/image-server-rust): A server that handles uploading and fetching of images. Pretty much a stripped down version of imgur.
 
 * [criterion.rs #Project#](https://github.com/japaric/criterion.rs): Criterion.rs helps you write fast code by detecting and measuring performance improvements or regressions, even small ones, quickly and accurately.
+
+- [Piston #Project#](https://github.com/PistonDevelopers/piston): A modular game engine written in Rust.
+
+- [Rocket #Project#](https://github.com/aochagavia/rocket): A toy game in Rust, using Piston
