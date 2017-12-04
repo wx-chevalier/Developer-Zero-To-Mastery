@@ -1,18 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
 
-
- 
-
-
- 
-
-
- 
-
-
-﻿
+# 信息安全资料索引
 
 - [List of resources about programming practices for writing safety-critical software. ](https://github.com/stanislaw/awesome-safety-critical) 
 
