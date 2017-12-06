@@ -11,3 +11,17 @@
 # XSS
 
 * [Preventing cross-site attacks using same-site cookies](https://parg.co/bs5)
+
+- [Cross-site scripting for dummies](https://hackernoon.com/cross-site-scripting-for-dummies-be30f76fad09#.6yvkvry4s)
+
+# CSRF
+
+# SQLInjection
+
+* [SQL 注入技术专题 — 由浅入深](http://www.tuicool.com/articles/fAF363)
+
+* [大话数据库 SQL 注入的 N 种姿势](http://www.freebuf.com/articles/web/98119.html)
+
+# WebShell
+
+* [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
