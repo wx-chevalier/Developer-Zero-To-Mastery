@@ -2,8 +2,6 @@
 
 # 函数式编程资料索引
 
-
-
 - [2017-The Rise and Fall and Rise of Functional Programming (Composable Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c#.1c7sks72i)
 
 - [2012-Core Functional Programming Concepts](https://thesocietea.org/2016/12/core-functional-programming-concepts/)
@@ -23,3 +21,9 @@
 - [2017-What's Functional Programming All About?](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 
 - [2017-Practical Functional Programming](https://parg.co/UEI): The presentation attempted to explain functional programming without using concepts like “monads” or “immutability” or “side effects”.
+
+# Monad
+
+- [What is a monad?](http://stackoverflow.com/questions/44965/what-is-a-monad)
+
+- [Why are side-effects modeled as monads in Haskell?](http://stackoverflow.com/questions/2488646/why-are-side-effects-modeled-as-monads-in-haskell)

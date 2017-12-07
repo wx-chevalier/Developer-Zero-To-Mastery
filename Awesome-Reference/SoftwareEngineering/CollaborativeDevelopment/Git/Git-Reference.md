@@ -35,3 +35,14 @@
 * [2017-Merging vs. Rebasing](https://dzone.com/articles/merging-vs-rebasing): While merging and rebasing are similar in Git, they serve two different functions. Here's what you should know to keep your histories as clean or as complete as you like.
 
 * [2017-Why you should stop using Git rebase](https://parg.co/bBO): After using Git for several years, I found myself gradually using more and more advanced Git commands as part of my daily workflow.
+
+
+# Hook
+
+- [conceptual-overview](https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview)
+
+- [基于git hooks的前端代码质量控制解决方案](https://github.com/kuitos/kuitos.github.io/issues/28)
+
+- [自定义 Git - Git 钩子](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
+
+- [pre-commit by Yelp: A framework for managing and maintaining multi-language pre-commit hooks.](http://pre-commit.com/#node)

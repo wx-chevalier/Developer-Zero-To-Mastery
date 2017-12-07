@@ -23,3 +23,7 @@
 
 
 - [务实的技术债务管理](http://mp.weixin.qq.com/s?__biz=MzA4NTU2MTg3MQ==&mid=400425912&idx=1&sn=937610ebed86020fdc010643728f354e&scene=0&key=b410d3164f5f798e6f9df0fa64ea73ea6eeff85c90e853a07dc40eedf4f7821ecc30dd3ad6122697efdb015400fd38e0&ascene=0&uin=NjY5Njk1MDU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.11+build%2815A284%29&version=11020201&pass_ticket=7PGYWSIFiijcDdfKXsN%2BWlt8zlaE42%2F0WDsIR4v6jbA%3D)
+
+- [2015-务实的技术债务管理](http://6me.us/vrhF9)
+
+- [浅议技术债](http://www.zcfy.cc/article/we-need-to-talk-about-technical-debt-9670-24-ways-2097.html)
