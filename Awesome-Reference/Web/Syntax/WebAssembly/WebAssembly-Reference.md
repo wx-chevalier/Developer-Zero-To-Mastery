@@ -43,3 +43,5 @@
 # Under the hood
 
 - [2017-Understanding WebAssembly text format](https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format): To enable WebAssembly to be read and edited by humans, there is a textual representation of the wasm binary format. This is an intermediate form designed to exposed in text editors, browser developer tools, etc. This article explains how that text format works, in terms of the raw syntax, and how it is related to the underlying bytecode it represents — and the wrapper objects representing wasm in JavaScript.
+
+- [Asmble #Project#](https://github.com/cretz/asmble): Asmble is a compiler that compiles WebAssembly code to JVM bytecode. It also contains utilities for working with WASM code from the command line and from JVM languages.
