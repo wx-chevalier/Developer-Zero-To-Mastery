@@ -1,0 +1,23 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
+# Docker 常用配置
+
+# Docker Storage
+
+* [2016-Docker : Storage Patterns for Persistence](https://parg.co/Ur8): We’ll go over several variants when it comes down to data persistence.
+
+* [2017-Managing Persistence for Docker Containers](https://thenewstack.io/methods-dealing-container-storage/)
+
+* [2015-Flocker #Project#](https://github.com/ClusterHQ/flocker)
+
+* [REX-Ray #Project#](https://github.com/thecodeteam/rexray)
+
+* [GlusterFS #Project#](https://github.com/gluster/glusterfs)
+
+- [copying-data-between-docker-containers](https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f)
+
+# Network
+
+* [Docker 网络部分执行流分析（Libnetwork 源码解读）](http://dockone.io/article/1255)
+
+- [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)

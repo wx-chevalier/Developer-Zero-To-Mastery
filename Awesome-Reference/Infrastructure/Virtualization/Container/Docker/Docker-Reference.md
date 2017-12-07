@@ -8,6 +8,22 @@
 
 * [container-diff #Project#](https://github.com/GoogleCloudPlatform/container-diff): container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria
 
+- [basics-docker-containers-hypervisors-coreos](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
+
+- [深入 Docker：容器和镜像](http://segmentfault.com/a/1190000002766882)
+
+- [Docker Tutorial - Cheatsheet](https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa)
+
+- [docker-curriculum](https://github.com/prakhar1989/docker-curriculum)
+
+- [Docker 中文文档](https://github.com/widuu/chinese_docker)
+
+* [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet#images)
+
+* [10 个日常 Docker 使用技巧](https://xiequan.info/10%E4%B8%AA%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8docker%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/)
+
+- [Docker 实战](http://dockerpool.com/static/books/docker_practice/introduction/README.html)
+
 # Resource
 
 ## Book
