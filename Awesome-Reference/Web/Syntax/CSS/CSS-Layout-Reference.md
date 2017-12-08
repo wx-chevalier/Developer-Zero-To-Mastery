@@ -67,3 +67,5 @@
 * [Understanding the CSS Grid “Auto-Placement Algorithm”](http://www.tuicool.com/articles/uqAJFvn)
 
 * [How to build a responsive grid system](https://zellwk.com/blog/responsive-grid-system/)
+
+- [2017-How to make your HTML responsive by adding a single line of CSS](https://parg.co/Upx): In this article I’ll teach you how to use CSS Grid to create a super cool image grid which varies the amount of columns with the width of the screen.
