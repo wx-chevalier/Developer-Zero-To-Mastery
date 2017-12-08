@@ -16,3 +16,5 @@
 - Slack: [Growing Pains: Migrating Slack’s Desktop App to BrowserView](https://parg.co/UKp)
 
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/)
+
+- [Electron Toolkit #Project#](https://github.com/PhilippLgh/electron-toolkit): "Command Line Gui Tools" to make launching Electron apps easier, faster and fun
