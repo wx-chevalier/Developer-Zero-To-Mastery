@@ -1,26 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 分布式计算资料索引
-
 
 # Streaming: 流计算
 
 - [State in scalable architectures](http://www.tuicool.com/articles/Q7F3aq2)
-
-
 
 - [awesome-streaming](https://github.com/manuzhang/awesome-streaming)
 
@@ -43,7 +27,11 @@
  
 
 - [unit-testing-spark-with-java](http://www.jesse-anderson.com/2016/04/unit-testing-spark-with-java/)
+
 - [Spark Streaming实时计算框架介绍](www.cnblogs.com/Leo_wl/p/3530464.html)
 
 - [Spark Streaming使用Kafka保证数据零丢失](http://www.tuicool.com/articles/BJzqiey)
 
+# Quantum Computing: 量子计算
+
+- [2017-Motivations Behind Exploring Quantum Computing](http://www.clerro.com/guide/580/quantum-computing-explained)
