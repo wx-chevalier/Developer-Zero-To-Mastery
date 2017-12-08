@@ -7,3 +7,7 @@
 * [continuousintegration-continuousdelivery](http://blog.nwcadence.com/continuousintegration-continuousdelivery/)
 
 # Jenkins
+
+# Other Platform
+
+- [flow-platform #Project#](https://github.com/FlowCI/flow-platform): CI backend server and agent
