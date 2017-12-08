@@ -8,6 +8,10 @@
 
 * [2017-Common Security Issues in Web Applications #Series#](https://parg.co/Uu9): I hope this article will help developers to have simple understanding of some issues that appear to be in 80–85% of applications.
 
+# HTTP
+
+- [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
+
 # XSS
 
 * [Preventing cross-site attacks using same-site cookies](https://parg.co/bs5)
