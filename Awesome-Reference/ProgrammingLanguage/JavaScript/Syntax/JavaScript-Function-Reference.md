@@ -8,6 +8,12 @@
 
 - [Understanding Default Parameters in Javascript](https://parg.co/Urp): Javascript landed with native default parameters support with ES2015. Contrary to what one might think, it isn’t just a syntactic replacement for ||(the logical OR operator).
 
+- [call() 和 apply()](https://zhuanlan.zhihu.com/p/24465043)
+
+- [ES6 Notes: Default values of parameters](https://parg.co/UpD)
+
+- [Best practices for JavaScript function parameters](http://codeutopia.net/blog/2016/11/24/best-practices-for-javascript-function-parameters/)
+
 ## Arrow Function
 
 * [2017-Arrow Functions in Class Properties Might Not Be As Great As We Think](https://parg.co/U5R): Arrow functions in class properties won’t be in the prototype and we can’t call them with super.
@@ -27,3 +33,37 @@
 - [how-do-javascript-closures-work](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 
 - [javascript-make-your-code-cleaner-with-decorators](https://medium.com/front-end-hacking/javascript-make-your-code-cleaner-with-decorators-d34fc72af947)
+
+# Function: 函数
+
+* [2017-JavaScript Factory Functions with ES6+](https://parg.co/bay): A factory function is any function which is not a class or constructor that returns a (presumably new) object. In JavaScript, any function can return an object. When it does so without the new keyword, it’s a factory function.
+
+## Definition: 函数定义
+
+* [2017-The Many Faces of Functions in JavaScript](https://parg.co/bgS): The following is an illustrative overview of the existing syntactic forms for functions in JavaScript.
+
+* [2017-Function Type Signatures in Javascript](https://parg.co/bgK): Let’s see what these Type Signatures are and why we should use them in our code.
+
+### IIFE
+
+* [2017-What the heck is an Immediately-Invoked Function Expression?](https://parg.co/bLr): Maybe you’ve seen the syntax before, but why in the heck does an Immediately-Invoked Function Expression (IIFE — pronounced ‘iffy’) look like it does? Why is it useful?
+
+## Invokation: 函数调用
+
+* [2017-How to use Memoize to cache JavaScript function results and speed up your code](https://parg.co/bgc)
+
+## Closure: 闭包
+
+* [2017- 深入贯彻闭包思想，全面理解 JS 闭包形成过程](https://segmentfault.com/a/1190000009886713)
+
+## Decorator: 装饰器
+
+* [2015-Exploring EcmaScript Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.itxdgmcv4): Yehuda’s decorators proposal seeks to enable annotating and modifying JavaScript classes, properties and object literals at design time while keeping a syntax that’s declarative.
+
+* [2015-javascript-decorators](https://github.com/wycats/javascript-decorators): Decorators make it possible to annotate and modify classes and properties at design time.
+
+* [2016-core-decorators](https://github.com/jayphelps/core-decorators.js): Library of stage-0 JavaScript decorators (aka ES2016/ES7 decorators but not accurate) inspired by languages that come with built-ins like @override, @deprecate, @autobind, @mixin and more. Popular with React/Angular, but is framework agnostic.
+
+* [2017-How I Fell in Love with JS Decorators](https://cabbageapps.com/fell-love-js-decorators): One of the recent addiction for our team was the usage of Decorators which are proposed in the new ES7. In this article, I am going to strip Decorators for you so that you can see the beauty of it!
+
+## Iterator & Generator: 迭代器与生成器

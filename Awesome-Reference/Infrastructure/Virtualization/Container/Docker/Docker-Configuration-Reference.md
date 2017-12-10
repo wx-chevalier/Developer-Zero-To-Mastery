@@ -16,6 +16,10 @@
 
 - [copying-data-between-docker-containers](https://medium.com/@gchudnov/copying-data-between-docker-containers-26890935da3f)
 
+- [docker-indepth-volumes](http://container42.com/2014/11/03/docker-indepth-volumes/)
+
+- [深入理解 Docker Volume](http://dockone.io/article/128)
+
 # Network
 
 * [Docker 网络部分执行流分析（Libnetwork 源码解读）](http://dockone.io/article/1255)

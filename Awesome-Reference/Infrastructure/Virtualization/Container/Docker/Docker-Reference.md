@@ -45,3 +45,7 @@
 # Optimization
 
 * [2017-Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
+
+- [Dockerfile 最佳实践](http://dockone.io/article/132)
+
+- [Dockerfile 优化浅谈](http://dockone.io/article/255?utm_source=tuicool&utm_medium=referral)

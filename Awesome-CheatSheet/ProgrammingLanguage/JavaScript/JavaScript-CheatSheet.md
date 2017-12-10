@@ -88,6 +88,29 @@ removeCc("helloWorldItIsMe"); // 'hello World It Is Me'
 
 `reduce()` 函数能够将
 
+# 函数
+
+```js
+console.log(1);
+(_ => console.log(2))();
+eval('console.log(3);');
+console.log.call(null, 4);
+console.log.apply(null, [5]);
+new Function('console.log(6)')();
+Reflect.apply(console.log, null, [7])
+Reflect.construct(function(){console.log(8)}, []);
+Function.prototype.apply.call(console.log, null, [9]);
+Function.prototype.call.call(console.log, null, 10);
+new (require('vm').Script)('console.log(11)‘).runInThisContext();
+```
+
+```js
+let countries = ["Moldova", "Ukraine"];
+let otherCountries = ["USA", "Japan"];
+countries.push.apply(countries, otherCountries);
+console.log(countries); // => ['Moldova', 'Ukraine', 'USA', 'Japan']
+```
+
 # 其他
 
 ## 异常处理

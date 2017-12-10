@@ -34,6 +34,10 @@
 
 - [difference-between-mvc-mvp-mvvm-swapneel-salunkhe](https://www.linkedin.com/pulse/difference-between-mvc-mvp-mvvm-swapneel-salunkhe)
 
+- [Is MVC dead for the frontend?](https://medium.com/@alexnm/is-mvc-dead-for-the-frontend-35b4d1fe39ec#.ez5efmi0b)
+
+- [InfoQ 2016 年第 11 期 - 多形态 MVC 式 Web 架构的分类](https://parg.co/UpB)
+
 ## MVP
 
 * [presentation-model-and-passive-view-in-mvp-the-android-way](https://medium.com/@andrzejchm/presentation-model-and-passive-view-in-mvp-the-android-way-fdba56a35b1e#.tgz1fwb6y)
@@ -71,3 +75,11 @@
 * [A sample iOS app built using the Clean Swift architecture](https://github.com/Clean-Swift/CleanStore)
 
 * [Introduction to VIPER](http://mutualmobile.github.io/blog/2013/12/04/viper-introduction/)
+
+# UniDirectional Architectures
+
+* [unidirectional-user-interface-architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
+
+* [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/swift-programming/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76?source=reading_list---redux------3-4--------)
+
+- [Flux 应用架构中文文档](http://reactjs.cn/react/docs/flux-overview.html)

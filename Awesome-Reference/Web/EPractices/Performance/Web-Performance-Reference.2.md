@@ -8,17 +8,9 @@
 
 - [Save time by transforming images in the command line](http://6me.us/WYOP1)
 
-- [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.
+* [2017-Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
 
-- [2017-An Introduction to Progressive Image Rendering](https://parg.co/bLp): In this article, we’ll look at how you can save your users bandwidth and time by loading and rendering well-optimized images lazily and progressively.
-
-- [2017-Reducing Image File Size at Etsy](https://parg.co/bvn): Serving images is a critical part of Etsy’s infrastructure.
-
-- [Save time by transforming images in the command line](http://6me.us/WYOP1)
-
-- [2017-Network based image loading using the Network Information API in Service Worker](https://parg.co/U5N): Recently, Chromium improved their implementation of navigator.connection by adding three new attributes: effectiveType, downlink and rtt.
-
-- [SuperTinyIcons #Project#](https://github.com/edent/SuperTinyIcons):Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+* [SuperTinyIcons #Project#](https://github.com/edent/SuperTinyIcons):Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 ## JPEG
 
@@ -28,17 +20,7 @@
 
 * [reducing-png-file-size](https://medium.com/@duhroach/reducing-png-file-size-8473480d0476#.pxfmpayr1)
 
-- [Jpegio #Project# ](https://www.jpeg.io/): Convert any major image format into a highly optimized JPEG.
-
-* [reducing-jpg-file-size](https://medium.com/@duhroach/reducing-jpg-file-size-e5b27df3257c#.jdegycys9)
-
-* [reducing-png-file-size](https://medium.com/@duhroach/reducing-png-file-size-8473480d0476#.pxfmpayr1)
-
 ## WebP
-
-* [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
-
-* [探究 WebP 一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 
 * [使用 webP 减少图片的大小](http://www.tuicool.com/articles/euAJv2Z)
 
@@ -61,9 +43,13 @@
 * [2017-The Cost Of JavaScript](https://parg.co/UEm): In this post, I’ll cover why a little discipline can help if you’d like your site to load & be interactive quickly on mobile devices.
 
 * [Planning for Performance](https://www.youtube.com/watch?v=RWLzUnESylc)
+
 * [Solving the Web Performance Crisis by Nolan Lawson](https://twitter.com/MSEdgeDev/status/819985530775404544)
+
 * [JS Parse and Execution Time](https://timkadlec.com/2014/09/js-parse-and-execution-time/)
+
 * [Measuring Javascript Parse and Load](http://carlos.bueno.org/2010/02/measuring-javascript-parse-and-load.html)
+
 * [Unpacking the Black Box: Benchmarking JS Parsing and Execution on Mobile Devices](https://www.safaribooksonline.com/library/view/velocity-conference-new/9781491900406/part78.html)
 
 - [slides](https://speakerdeck.com/desp/unpacking-the-black-box-benchmarking-js-parsing-and-execution-on-mobile-devices))
