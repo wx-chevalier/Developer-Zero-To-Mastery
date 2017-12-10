@@ -7,4 +7,6 @@
 
 - [Deepo #Project#](https://github.com/ufoym/deepo): Deepo is a Docker image with a full reproducible deep learning research environment. It contains most popular deep learning frameworks: theano, tensorflow, sonnet, pytorch, keras, lasagne, mxnet, cntk, chainer, caffe, torch.
 
+- [2017-Turi Create #Project#](https://github.com/apple/turicreate): Turi Create simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+
 # DataSet: 数据集
