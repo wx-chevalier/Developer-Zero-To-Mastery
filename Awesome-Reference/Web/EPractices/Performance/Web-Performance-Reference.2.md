@@ -1,3 +1,9 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
+# Web 性能优化实践资料索引
+
+前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。鉴于本文篇幅较长，因此拆分为了[第一部分](.Web-Performance-Reference.md)与[第二部分](./Web-Performance-Reference.2.md)。
+
 # Image Optimization: 图片优化
 
 * [2017-Essential Image Optimization](https://images.guide/): In 2017, image optimization should be automated. It's easy to forget, best practices change, and content that doesn't go through a build pipeline can easily slip.

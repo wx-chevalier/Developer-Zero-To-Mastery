@@ -4,7 +4,7 @@
 
 * [Rendering a function with React](https://parg.co/UEv): How I tricked React into rendering a function (not call it… render it)
 
-# StyleGuide: 样式指南
+# Architecture Pattern: 架构模式
 
 * [2017-How to structure components in React?](https://parg.co/USj): Structuring system is the hardest thing and it has a big impact on the overall project.
 
@@ -124,6 +124,8 @@
 - [2017-reactopt #Project#](https://github.com/reactopt/reactopt): A CLI React performance optimization tool that identifies potential unnecessary re-rendering.
 
 - [2017-React is Slow, React is Fast: Optimizing React Apps in Practice](https://parg.co/UZq): If you care about performance, it's fairly easy to make any React application super fast. Here is how.
+
+- [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): There may be a lot of low-hanging fruit affecting performance in areas you might not track very closely but are still very important.
 
 ## Tool: 工具
 
