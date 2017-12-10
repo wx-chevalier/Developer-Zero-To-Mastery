@@ -62,6 +62,8 @@
 
 * [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 
+- [2017-Must-Watch JavaScript #Project#](https://parg.co/U37): This is a collection of well-received talks about JavaScript, covering topics such as ES6, JavaScript frameworks, client-side apps, mobile integration, JavaScript performance, tooling, leveling up, and more.
+
 ## Book
 
 * [2017-The JavaScript Way](https://github.com/bpesquet/thejsway): A modern introduction to an essential language.
