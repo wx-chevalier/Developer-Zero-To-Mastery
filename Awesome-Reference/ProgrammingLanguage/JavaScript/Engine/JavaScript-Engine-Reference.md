@@ -2,7 +2,7 @@
 
 # JavaScript 引擎资料索引
 
-* **Official V8 blog** [v8project.blogspot.com](http://v8project.blogspot.com/)
+- [v8project.blogspot.com #Collection#](http://v8project.blogspot.com/): Official V8 blog
 
 - [benediktmeurer.de](https://t.co/CzlzNpYFzx) (V8 compiler and benchmarks)
 
@@ -25,6 +25,8 @@
 * [2017- 认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685)：V8 是如何使得 JavaScript 性能有大幅提升的呢？通过对一些书籍和文章的学习，梳理了 V8 的相关内容，本文将带你认识 V8。
 
 * [2017-How The Performance Characteristics of V8's Turbofan Will Affect The Way WE Optimize ](https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/):
+
+- [2017-Understanding JS Engine with Cartoons](https://parg.co/U3B)
 
 ## Event Loop
 
