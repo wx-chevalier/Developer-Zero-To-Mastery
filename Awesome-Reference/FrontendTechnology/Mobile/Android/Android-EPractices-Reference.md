@@ -15,3 +15,13 @@
 - [Common questions on AsyncTask](https://medium.com/@duhroach/common-questions-on-asynctask-559aa7b07d0b#.wk2v7r3ss)
 
 - [HermesEventBus](https://github.com/eleme/HermesEventBus)
+
+# Production
+
+- [Android 热修复，没你想的那么难](http://kymjs.com/code/2016/05/08/01)
+
+- [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin)
+
+- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)
+
+- [ScratchView](https://github.com/cooltechworks/ScratchView)
