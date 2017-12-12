@@ -14,7 +14,7 @@
 
 ## 微信支付
 
-[微信支付 SDK- 两行代码解决支付 ](http://arccode.net/2016/05/02/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98SDK-%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3%E6%94%AF%E4%BB%98/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[微信支付 SDK- 两行代码解决支付 ](http://arccode.net/2016/05/02/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98SDK-%E4%B8%A4%E8%A1%8C%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3%E6%94%AF%E4%BB%98/)
 
 # 红包
 

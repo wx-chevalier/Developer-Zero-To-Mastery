@@ -52,7 +52,7 @@
 
 - [高效MySQL的N个习惯 ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929230&idx=1&sn=60dd4c8527af847dd0ef58cc4c2c976e&chksm=bd3b25648a4cac72f0c5d4055b5a743b3847775c97b73c613a4b0b88271f16026d480d1ff2f0&scene=0#rd)
 
-- [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
 
 - [Mysql索引实现原理及相关优化策略 ](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzg5MQ==&mid=2653995839&idx=1&sn=21dacffad0969b52589d2dcbd4bfb5a0&scene=23&srcid=0602w3n2mTGIqDpvQaJz0kqt#rd)
 

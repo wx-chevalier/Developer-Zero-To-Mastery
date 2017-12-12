@@ -10,7 +10,7 @@
 
 * [全栈工程师眼中的 HTTP](HTTP://www.epubit.com.cn/article/378)
 
-* [阮一峰 ——HTTP 协议入门](HTTP://www.ruanyifeng.com/blog/2016/08/HTTP.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [阮一峰 ——HTTP 协议入门](HTTP://www.ruanyifeng.com/blog/2016/08/HTTP.html)
 
 * [High Performance Browser Networking](HTTP://chimera.labs.oreilly.com/books/1230000000545/index.html)
 
@@ -52,8 +52,8 @@
 
 - [Journey to HTTP/2](http://kamranahmed.info/blog/2016/08/13/http-in-depth/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
-- [HTTP2 简介和基于 HTTP2 的 Web 优化](https://github.com/creeperyang/blog/issues/23?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [HTTP2 简介和基于 HTTP2 的 Web 优化](https://github.com/creeperyang/blog/issues/23)
 
-- [HTTP/2 协议规范和特性解读 ](https://taozj.org/201612/http2-spec.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [HTTP/2 协议规范和特性解读 ](https://taozj.org/201612/http2-spec.html)
 
 - [未来已到 ——HTTP/2](https://segmentfault.com/a/1190000007637735)

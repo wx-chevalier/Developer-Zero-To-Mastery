@@ -1,12 +1,12 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-# RPC 远程服务调用资料索引
+# RPC 与 WebAPI 资料索引
 
 * [2017-RPC 服务追踪的原理与实践](http://6me.us/rfJ)：在分布式服务化架构下，由于分布式服务间存在相互依赖，彼此协同来完成各类业务场景。
 
-* [微服务架构的基础框架选择：Spring Cloud 还是 Dubbo？ ](http://blog.didispace.com/microservice-framework/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [微服务架构的基础框架选择：Spring Cloud 还是 Dubbo？ ](http://blog.didispace.com/microservice-framework/)
 
-* [分布式计算编程模型之 RPC](http://www.infoq.com/cn/news/2016/04/Distributed-compute-program-RPC?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [分布式计算编程模型之 RPC](http://www.infoq.com/cn/news/2016/04/Distributed-compute-program-RPC)
 
 * [唯品会 RPC 服务框架与容器化演进](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=405781868&idx=1&sn=cbb10d37e25c76a1845f593a222da3c9&scene=4#wechat_redirect)
 
@@ -22,7 +22,7 @@
 
 * [API 返回结果设计经验与总结](http://tutuge.me/2016/05/02/design-json-api-respoense/)
 
-* [API 调用次数限制实现](https://zhuanlan.zhihu.com/p/20872901?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [API 调用次数限制实现](https://zhuanlan.zhihu.com/p/20872901)
 
 * [谈 API 网关的背景、架构以及落地方案](http://www.infoq.com/cn/news/2016/07/API-background-architecture-floo)
 
@@ -41,7 +41,3 @@
 * [2017-OpenAPI and gRPC Side-by-Side](https://parg.co/U6o): Both are open source efforts, both describe APIs, and both promise better experiences for API producers and consumers. So why do we need both? If we do, what value does each provide? What can each project learn from the other?
 
 * [2017-What are Web APIs](https://hackernoon.com/what-are-web-apis-c74053fa4072): What exactly are Web APIs? Why are Web APIs so popular and widely used? Let’s first explore what APIs are so you can understand how they evolved into Web APIs.
-
-# brpc
-
-* [brpc](https://github.com/brpc/brpc): Most common RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called "baidu-rpc" inside Baidu.

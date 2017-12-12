@@ -3,7 +3,7 @@
 
 # JavaScript 元编程资料索引
 
-- [You Don't Know JS: Meta Programming 翻译](https://github.com/lishengzxc/bblog/issues/4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [You Don't Know JS: Meta Programming 翻译](https://github.com/lishengzxc/bblog/issues/4)
 - [2015-Metaprogramming in ES6【Series】](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/): [Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)> 
 
 

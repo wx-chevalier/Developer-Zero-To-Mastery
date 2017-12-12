@@ -209,7 +209,7 @@
 
 
 
-- [Effective JavaScript](http://o8qt8c0nf.bkt.clouddn.com/%5BEffective%20JavaScript%2068%20Specific%20Ways%20to%20Harness%20the%20Power%20of%20JavaScript%20%28Effective%20Software%20Development%20Series%29%20by%20David%20Herman%20-%202013%5D.pdf):68 Specific Ways to Harness the Power of JavaScript，中文译本在[Effective JavaScript](https://github.com/dreamapplehappy/effective-javascript?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Effective JavaScript](http://o8qt8c0nf.bkt.clouddn.com/%5BEffective%20JavaScript%2068%20Specific%20Ways%20to%20Harness%20the%20Power%20of%20JavaScript%20%28Effective%20Software%20Development%20Series%29%20by%20David%20Herman%20-%202013%5D.pdf):68 Specific Ways to Harness the Power of JavaScript，中文译本在[Effective JavaScript](https://github.com/dreamapplehappy/effective-javascript)
 
  
 - 代码性能:[2016:编写高性能的JavaScript](https://segmentfault.com/a/1190000007604645)、[]()
@@ -255,7 +255,7 @@
 ## Render:渲染
 
 
-- 浏览器工作原理:[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)、[浏览器工作原理](https://segmentfault.com/a/1190000004934730)、[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
+- 浏览器工作原理:[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)、[浏览器工作原理](https://segmentfault.com/a/1190000004934730)、[从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen/)
 
 
 - 网页渲染:[CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)、[JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
@@ -266,7 +266,7 @@
 
 - [the-rendering-process-of-a-web-page](https://medium.com/@gneutzling/the-rendering-process-of-a-web-page-78e05a6749dc#.zdp2moezo)
 
-- [渲染性能](https://github.com/sundway/blog/issues/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [渲染性能](https://github.com/sundway/blog/issues/2)
  
 
 - [应该知道的前端性能二三事：Reflow 和 Repaint](http://www.tuicool.com/articles/UvYBfy)

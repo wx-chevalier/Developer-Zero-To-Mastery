@@ -18,7 +18,7 @@
 
 
 
-- [怎样读一本书V5.0 ?(译)](https://ljinkai.github.io/2017/02/08/how-to-read-a-book/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [怎样读一本书V5.0 ?(译)](https://ljinkai.github.io/2017/02/08/how-to-read-a-book/)
  
 ## Site: 站点汇总
 
@@ -245,7 +245,7 @@ Lisp
 ## 技术管理
 
 
-- [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
 
 
 

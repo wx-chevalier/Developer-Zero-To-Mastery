@@ -30,7 +30,7 @@
 
 - [扛住 100 亿次请求？我们来试一试](https://github.com/xiaojiaqi/10billionhongbaos/wiki/%E6%89%9B%E4%BD%8F100%E4%BA%BF%E6%AC%A1%E8%AF%B7%E6%B1%82%EF%BC%9F%E6%88%91%E4%BB%AC%E6%9D%A5%E8%AF%95%E4%B8%80%E8%AF%95)
 
-- [蚂蚁金服技术专家对性能优化的常见模式及趋势的思考](https://yq.aliyun.com/articles/54004?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [蚂蚁金服技术专家对性能优化的常见模式及趋势的思考](https://yq.aliyun.com/articles/54004)
 
 * [高并发性能调试经验分享](https://zhuanlan.zhihu.com/p/21348220)
 
@@ -40,7 +40,7 @@
 
 * [模拟百万级 TCP 并发](http://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648945745&idx=1&sn=422c7dd658ba83a42f5753669716378f&chksm=8f5b535db82cda4b281dfab3858e4afa6e6b453d0b77f5dd5d3f8ca3e33184fa470803d4d21e#rd)
 
-* [性能测试应该怎么做？](http://coolshell.cn/articles/17381.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [性能测试应该怎么做？](http://coolshell.cn/articles/17381.html)
 
 * [k6 #Project# ](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
@@ -54,13 +54,13 @@
 
 - [分布式系统中负载均衡算法在高可用场景下的分析](http://tech.youzan.com/load-balancing-algorithm/)
 
-- [多种负载均衡算法及其 Java 代码实现](http://www.duzhi.me/article/864.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [多种负载均衡算法及其 Java 代码实现](http://www.duzhi.me/article/864.html)
 
 - [负载均衡的那些算法们 ](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392075&idx=1&sn=fca2ebeca258e15f78a43c44bbb6153d&scene=0#wechat_redirect)
 
 - [Nginx 负载均衡系列](http://blog.csdn.net/zhangskd/article/details/50208527)
 
-- [章文嵩（正明）博士和他背后的负载均衡 (LOAD BANLANCER) 帝国](https://yq.aliyun.com/articles/52752?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [章文嵩（正明）博士和他背后的负载均衡 (LOAD BANLANCER) 帝国](https://yq.aliyun.com/articles/52752)
 
 - [荔枝 FM 架构师刘耀华：异地多活 IDC 机房架构](http://geek.csdn.net/news/detail/53231)
 
@@ -84,7 +84,7 @@
 
 - [缓存架构设计细节二三事 ](http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=404087915&idx=1&sn=075664193f334874a3fc87fd4f712ebc)
 
-- [腾讯互娱技术总监：不止于思路，谈高性能服务器架构之道中的缓存策略](http://dbaplus.cn/news-21-504-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [腾讯互娱技术总监：不止于思路，谈高性能服务器架构之道中的缓存策略](http://dbaplus.cn/news-21-504-1.html)
 
 - [缓存系统在游戏业务中的特异性](http://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247483707&idx=1&sn=b88330668d0eb6930cd3b1db95b54ed4&chksm=eaab1b6bdddc927dc78ba30581841c75ac0d8082c6d218200e473b5946fff8905acf65fa2c93#rd)
 
@@ -116,7 +116,7 @@
 
 * [乐视秒杀：每秒十万笔交易的数据架构解读](http://dbaplus.cn/news-21-420-1.html)
 
-* [阿里价值 “ 千万 ” 的秒杀场景参数优化](http://dbaplus.cn/news-21-457-1.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [阿里价值 “ 千万 ” 的秒杀场景参数优化](http://dbaplus.cn/news-21-457-1.html)
 
 * [四种框架分别实现百万 websocket 常连接的服务器](http://blog.jobbole.com/103995/)
 

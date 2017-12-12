@@ -31,4 +31,4 @@
 
 # 异常处理
 
-- [如何优雅的设计java异常](http://lrwinx.github.io/2016/04/28/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E8%AE%BE%E8%AE%A1java%E5%BC%82%E5%B8%B8/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [如何优雅的设计java异常](http://lrwinx.github.io/2016/04/28/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E8%AE%BE%E8%AE%A1java%E5%BC%82%E5%B8%B8/)

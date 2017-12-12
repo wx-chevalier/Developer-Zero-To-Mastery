@@ -7,7 +7,7 @@
 [云计算和大数据平台基础架构学习与实践资料索引]()是笔者对于现代 IT 系统中使用的基础架构相关的资料汇总，包含了分布式系统、分布式计算、（分布式）存储、虚拟化、网络与操作系统等多个方面；而偏向应用层的资料参考[服务端应用程序学习与实践资料索引]()
 
 
-- [一系列基础架构](http://ginobefunny.com/post/reading_record_201612/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [一系列基础架构](http://ginobefunny.com/post/reading_record_201612/)
 
 
 

@@ -16,11 +16,11 @@ Working Effectively with Legacy Code, by Michael Feathers. This book will give y
 
 - [Clean Code](https://drive.wps.cn/view/l/683ed7cad17246909dccd2b941e46a8a)
 
-- [Every Programmer Should Read This Book](https://blog.mindorks.com/every-programmer-should-read-this-book-6755dedec78d#.cz4m4g55l) [重构的七宗罪](http://insights.thoughtworkers.org/refactoring/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) [重构 - Martin Fowler](http://download.csdn.net/detail/leveldc/6925667?web=web)
+- [Every Programmer Should Read This Book](https://blog.mindorks.com/every-programmer-should-read-this-book-6755dedec78d#.cz4m4g55l) [重构的七宗罪](http://insights.thoughtworkers.org/refactoring/) [重构 - Martin Fowler](http://download.csdn.net/detail/leveldc/6925667?web=web)
 
 - [整天说 Code Review 重要，你知道应该关注哪些关键点吗？ ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598372&idx=1&sn=7a3ebbd7eff29c30a2076d5123262701&chksm=8be99536bc9e1c20c48f0c4cd5f6c450170c68a76a24033653841d903068aacae2fd1db4f8f9&mpshare=1&scene=1&srcid=10275nDDDTHFNYTa6O5mS6zZ#rd)
 
-- [7 个 code review 的技巧](https://zhuanlan.zhihu.com/p/24562689?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [7 个 code review 的技巧](https://zhuanlan.zhihu.com/p/24562689)
 
 * [如何跟老代码友好相处](https://zhuanlan.zhihu.com/p/24543157)
 

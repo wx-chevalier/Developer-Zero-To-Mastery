@@ -14,7 +14,7 @@
 
 
 
-- [这些年，你不能错过的 spark 学习资源](http://litaotao.github.io/spark-resouces-blogs-paper?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [这些年，你不能错过的 spark 学习资源](http://litaotao.github.io/spark-resouces-blogs-paper)
 
 - [CSDN Spark技术库](http://lib.csdn.net/base/10)
 
@@ -26,7 +26,7 @@
 
 
 
-- [ipython-notebook-spark](http://litaotao.github.io/ipython-notebook-spark?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [ipython-notebook-spark](http://litaotao.github.io/ipython-notebook-spark)
 
 
 - [apache-spark-rdd-partitioning-preservation](https://medium.com/@corentinanjuna/apache-spark-rdd-partitioning-preservation-2187a93bc33e#.r9tg3imuj)

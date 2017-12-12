@@ -2,7 +2,7 @@
 
 # Web 测试资料索引
 
-- [前端测试工具集锦](http://qaseven.github.io/2016/05/24/front-end-tools/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [前端测试工具集锦](http://qaseven.github.io/2016/05/24/front-end-tools/)
 
 - [聊一聊前端自动化测试](https://github.com/tmallfe/tmallfe.github.io/issues/37)
 

@@ -52,7 +52,7 @@
 
 - [react-css-in-js-nationjs](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
 
-- [Virtual CSS 和 Styletron](http://www.zcfy.cc/article/virtual-css-with-styletron-1996.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Virtual CSS 和 Styletron](http://www.zcfy.cc/article/virtual-css-with-styletron-1996.html)
 
 - [CSS in JS: The Argument Refined](https://medium.com/@steida/css-in-js-the-argument-refined-471c7eb83955#.z6czxmcfm)
 

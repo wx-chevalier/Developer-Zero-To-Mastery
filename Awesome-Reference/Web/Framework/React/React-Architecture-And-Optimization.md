@@ -100,7 +100,7 @@
 
 * [component-rendering-performance-in-react](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.rjjvtwgs8)
 
-* [React 应用优化：避免不必要的 render](http://www.broadview.com.cn/article/77?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [React 应用优化：避免不必要的 render](http://www.broadview.com.cn/article/77)
 
 * [React Rally: Animated — React Performance Toolbox](http://blog.vjeux.com/2015/javascript/react-rally-animated-react-performance-toolbox.html)
 

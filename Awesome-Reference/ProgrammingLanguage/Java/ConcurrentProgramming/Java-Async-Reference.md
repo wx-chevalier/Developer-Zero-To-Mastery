@@ -15,5 +15,5 @@
 
 > - [RxJava Essentials CN](http://rxjava.yuxingxin.com/chapter1/chapter1.html)
 
-> - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+> - [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)
 > - [effective-rxjava](https://github.com/mgp/effective-rxjava):一系列基于RxJava最佳实践的文章

@@ -4,7 +4,7 @@
 
 # Web 应用运行机制
 
-- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 - [浅析渲染引擎与前端优化](http://jdc.jd.com/archives/2806)
 

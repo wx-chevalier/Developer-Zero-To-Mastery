@@ -38,7 +38,7 @@
 
 - [Deep Learning Basics: Neural Networks, Backpropagation and Stochastic Gradient Descent](http://alexminnaar.com/deep-learning-basics-neural-networks-backpropagation-and-stochastic-gradient-descent.html) 
 
-- [[翻译] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io):卷积神经网络的讲解非常通俗易懂。
+- [[翻译] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/):卷积神经网络的讲解非常通俗易懂。
 
 
 ## 盘点与回顾

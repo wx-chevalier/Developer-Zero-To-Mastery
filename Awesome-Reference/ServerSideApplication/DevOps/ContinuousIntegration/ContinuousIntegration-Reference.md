@@ -8,6 +8,8 @@
 
 # Jenkins
 
+* [Jenkins 进阶系列](http://blog.csdn.net/wangmuming/article/category/2167947)
+
 # Other Platform
 
-- [flow-platform #Project#](https://github.com/FlowCI/flow-platform): CI backend server and agent
+* [flow-platform #Project#](https://github.com/FlowCI/flow-platform): CI backend server and agent

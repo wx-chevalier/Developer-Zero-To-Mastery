@@ -12,7 +12,7 @@
 
 * [https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)
 
-* [HTTPS 中的加密算法相关概念](http://foofish.net/https-symmetric.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [HTTPS 中的加密算法相关概念](http://foofish.net/https-symmetric.html)
 * [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
 
 * [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/)
@@ -29,9 +29,9 @@
 
 * [2017-A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 
-- [微信 ,QQ 这类 IM app 怎么做 —— 谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [微信 ,QQ 这类 IM app 怎么做 —— 谈谈 Websocket](http://www.jianshu.com/p/bcefda55bce4)
 
-- [ Websocket 详细讲解 ( 基础篇一 ) ](http://blog.csdn.net/woshinannan741/article/details/51470830?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [ Websocket 详细讲解 ( 基础篇一 ) ](http://blog.csdn.net/woshinannan741/article/details/51470830)
 
 - [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social)
 

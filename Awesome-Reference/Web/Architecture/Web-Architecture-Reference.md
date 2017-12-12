@@ -23,7 +23,7 @@
 
 - [A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url)
 
-- [深入学习History对象管理浏览器会话历史](http://blog.codingplayboy.com/2016/12/10/browser_history/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [深入学习History对象管理浏览器会话历史](http://blog.codingplayboy.com/2016/12/10/browser_history/)
 
 - [理解Web路由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225284&idx=1&sn=a842847bc3d11a9f3d3a74d4e3105543&chksm=bd49a5408a3e2c5688585074f2c18bc85e5b47b4e77580e301628a1bafe0e8b40d160ff34c3c&mpshare=1&scene=1&srcid=0113kQluZM3KC2EKVp2UwH1y&key=c4bc7a764749523898f79d6142d1bfa1d2be501266904669efa55f2856933bae2f7d646278f67a4d8b6d4df0992f684fa16da66ebaf180ae0139be3816d698d3962aa07d7b4bc19186296844de99db8e&ascene=0&uin=NjY5Njk1MDU%3D&devicetype=iMac+MacBookPro11%2C2+OSX+OSX+10.12.2+build(16C67)&version=12010210&nettype=WIFI&fontScale=100&pass_ticket=v1c8sCIg6sXJyhwf9txFmF6pjUH0AyxU36m6XhL69Sw%3D)
 

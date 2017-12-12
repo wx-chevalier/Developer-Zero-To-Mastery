@@ -17,11 +17,11 @@
 
 * [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
-* [什么才是真正的 RESTful 架构](http://blog.jimmylv.info/2015-11-11-what-is-really-rest/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [什么才是真正的 RESTful 架构](http://blog.jimmylv.info/2015-11-11-what-is-really-rest/)
 
-* [理解 HTTP 协议的幂等性](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/2063696.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [理解 HTTP 协议的幂等性](http://www.cnblogs.com/weidagang2046/archive/2011/06/04/2063696.html)
 
-* [RESTful 架构风格下的 4 大常见安全问题](http://insights.thoughtworkers.org/security-issues-in-restful/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [RESTful 架构风格下的 4 大常见安全问题](http://insights.thoughtworkers.org/security-issues-in-restful/)
 
 * [【spring 指南系列】如何更好的设计 RESTful API](https://zhuanlan.zhihu.com/p/24592119)
 

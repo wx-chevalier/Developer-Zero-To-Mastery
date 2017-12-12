@@ -11,7 +11,7 @@
 
 - [2017-Troubleshooting Memory Issues in Java Applications](https://parg.co/bsr): Troubleshooting memory problems can be tricky but the right approach and proper set of tools can simplify the process substantially.
 
-- [如何使用jstack分析线程状态](http://www.jianshu.com/p/6690f7e92f27?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [如何使用jstack分析线程状态](http://www.jianshu.com/p/6690f7e92f27)
 
 - [Console based JVM monitoring](https://github.com/ajermakovics/jvm-mon)
 

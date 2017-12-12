@@ -8,9 +8,17 @@
 
 * [2017-Common Security Issues in Web Applications #Series#](https://parg.co/Uu9): I hope this article will help developers to have simple understanding of some issues that appear to be in 80–85% of applications.
 
-# HTTP
+- [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 
-- [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
+- [Retire.js #Project#](http://retirejs.github.io/retire.js/)
+
+# WebAPI
+
+* [2017-Improve Your Website Security in 5 Minutes With These HTTP Headers](https://parg.co/Upz)
+
+- [REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+- [OWASP_API_Security_Project](https://www.owasp.org/index.php/OWASP_API_Security_Project)
 
 # XSS
 

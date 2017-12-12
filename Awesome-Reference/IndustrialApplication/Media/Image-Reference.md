@@ -6,7 +6,7 @@
 
 * [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction): A gentle introduction to video technology, although it's aimed at software developers / engineers, we want to make it easy for anyone to learn.
 
-* [优酷是如何防止视频被越权下载](https://zybuluo.com/RexGene/note/596711?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [优酷是如何防止视频被越权下载](https://zybuluo.com/RexGene/note/596711)
 
 - [Uber Image Diff](https://github.com/uber/image-diff)
 
@@ -22,7 +22,7 @@
 
 # QR: 二维码
 
-* [QR 码基础](https://zhuanlan.zhihu.com/p/21463650?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [QR 码基础](https://zhuanlan.zhihu.com/p/21463650)
 
 * [二维码的生成细节和原理](http://coolshell.cn/articles/10590.html#jtss-tsina)
 

@@ -10,7 +10,7 @@
 
 * [Bash-Beginners-Guide #Book#](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/sect_01_01.html)
 
-* [shell 中 >/dev/null 2>&1 是什么鬼？](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [shell 中 >/dev/null 2>&1 是什么鬼？](http://www.kissyu.org/2016/12/25/shell%E4%B8%AD%3E%20:dev:null%202%20%3E%20&1%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC%EF%BC%9F/)
 
 * [Explain Shell](http://www.explainshell.com/)
 
@@ -31,6 +31,6 @@
 
 # 文本处理
 
-* [文本处理利器 sed 与 awk 使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [文本处理利器 sed 与 awk 使用总结](https://taozj.org/201612/cmd-tools-sed-awk.html)
 * [Introduction to text manipulation on UNIX-based systems](https://www.ibm.com/developerworks/aix/library/au-unixtext/#19Useofsortoutline)
 * [Text Processing Commands](http://www.tldp.org/LDP/abs/html/textproc.html)

@@ -23,7 +23,7 @@
 - [Microsoft differential-dataflow](https://www.microsoft.com/en-us/research/publication/differential-dataflow/)
 - [Apache Spark 的设计与实现](https://www.gitbook.com/book/yourtion/sparkinternals/details)
  
-- [Spark性能优化指南——高级篇](http://tech.meituan.com/spark-tuning-pro.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Spark性能优化指南——高级篇](http://tech.meituan.com/spark-tuning-pro.html)
  
 
 - [unit-testing-spark-with-java](http://www.jesse-anderson.com/2016/04/unit-testing-spark-with-java/)

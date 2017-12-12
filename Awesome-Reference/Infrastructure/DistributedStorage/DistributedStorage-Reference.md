@@ -28,7 +28,7 @@
 
 - [聊一聊一致性哈希](http://mp.weixin.qq.com/s/FgRi3aVpNYfaLU3EeVk7ug)
 
-- [一致性hashing的原理解析](https://taozj.org/201612/consistent-hashing.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) 
+- [一致性hashing的原理解析](https://taozj.org/201612/consistent-hashing.html) 
 
 - [2017-Architect's Guide to NoSQL](http://www.datastax.com/wp-content/uploads/resources/whitepaper/DataStax_WP_Architects_Guide_to_NoSQL.pdf): This guide was created to help answer all these questions and more. In the following pages, you'll learn exactly what NoSQL is, why it's needed, how it works, what it should be used for, and (just as importantly) when it shouldn't be used
 

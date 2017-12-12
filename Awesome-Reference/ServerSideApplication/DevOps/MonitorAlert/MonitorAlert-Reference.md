@@ -2,7 +2,7 @@
 
 # 监控与告警资料索引
 
-* [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [线上故障处理](http://blog.brucefeng.info/post/fix-online-accident)
 
 * [实践｜如何从 0 开始 搭建应用监控架构？ ](http://mp.weixin.qq.com/s?__biz=MzAwNzA0NTMzMQ==&mid=2653202747&idx=1&sn=1f7b7425416a83c83accde49faad88bf&chksm=80d42087b7a3a9915e92be57daeb7ddfc1f3942908e772c01f00e33b9da3b3f601cf089e691c&mpshare=1&scene=23&srcid=1209HSNqc8p1yXBovoJNoyMp#rd)
 
@@ -37,3 +37,15 @@
 * [2015-How To Use Prometheus to Monitor Your Ubuntu 14.04 Server](https://parg.co/Ura)
 
 * [2017-Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/): In this hands-on guide we will look at how to integrate Prometheus monitoring into an existing application. Monitoring an application can give you insights into how it is being used and when.
+
+- [Linux Dash](https://github.com/afaqurk/linux-dash)
+
+- [netdata](https://github.com/firehol/netdata)
+
+- [Pinpoint](https://github.com/naver/pinpoint)
+
+# Open Falcon
+
+* [Open Falcon](http://open-falcon.org/)
+
+* [Open Falcon 在线文档地址](http://book.open-falcon.org/)

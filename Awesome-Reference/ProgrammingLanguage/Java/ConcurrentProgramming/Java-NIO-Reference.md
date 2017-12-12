@@ -4,7 +4,7 @@
 - [NIO全解析说明 ](http://zoeminghong.github.io/2016/06/12/nio20160612/)
 
 
-- [Java I/O模型从BIO到NIO和Reactor模式 ](http://www.jasongj.com/java/nio_reactor/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Java I/O模型从BIO到NIO和Reactor模式 ](http://www.jasongj.com/java/nio_reactor/)
 
 - [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)
 
