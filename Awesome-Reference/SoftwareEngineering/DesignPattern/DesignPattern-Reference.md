@@ -7,3 +7,7 @@
 * [2017-Object Oriented Tricks](https://hackernoon.com/oo-tricks-the-art-of-command-query-separation-9343e50a3de0)
 
 * [Understanding SOLID Principles #Series#](https://parg.co/U6m): [Understanding SOLID Principles: Open Closed Principle](https://parg.co/U6m)
+
+- [JavaScript — Observables Under The Hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.ihd02lckm)
+
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)

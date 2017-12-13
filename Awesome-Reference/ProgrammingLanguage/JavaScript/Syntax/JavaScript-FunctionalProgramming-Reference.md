@@ -33,3 +33,11 @@
 * [前端开发者进阶之函数柯里化 Currying](http://www.cnblogs.com/pigtail/p/3447660.html)
 
 - [前端开发者进阶之函数反柯里化 unCurrying](http://www.cnblogs.com/pigtail/p/3450852.html)
+
+# Immutable
+
+* [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.owzsyqtbd)
+
+* [FaceBook-Immutable][6]
+
+* [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)

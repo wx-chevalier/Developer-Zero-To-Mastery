@@ -10,7 +10,7 @@
 
 * [看完就会用的 Git 操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
 
-* [Git 核心概念](https://zhuanlan.zhihu.com/p/22750675?utm_source=qq&utm_medium=social)
+* [Git 核心概念](https://zhuanlan.zhihu.com/p/22750675)
 
 * [Git 的基本概念与入门](http://www.epubit.com.cn/article/829)
 

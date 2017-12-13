@@ -28,7 +28,7 @@
 
 * [What’s a JavaScript closure? In plain English, please.](http://6me.us/PxYRL): Every function in JavaScript has a closure. And this is one of the coolest features of the JavaScript language. Because without closures, it would be hard to implement common structures like callbacks or event handlers.
 
-- [大部分人都会做错的经典 JS 闭包面试题](http://www.cnblogs.com/xxcanghai/p/4991870.html?utm_source=tuicool&utm_medium=referral)
+- [大部分人都会做错的经典 JS 闭包面试题](http://www.cnblogs.com/xxcanghai/p/4991870.html)
 
 - [how-do-javascript-closures-work](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 
@@ -67,3 +67,17 @@
 * [2017-How I Fell in Love with JS Decorators](https://cabbageapps.com/fell-love-js-decorators): One of the recent addiction for our team was the usage of Decorators which are proposed in the new ES7. In this article, I am going to strip Decorators for you so that you can see the beauty of it!
 
 ## Iterator & Generator: 迭代器与生成器
+
+## this
+
+* [this 的值到底是什么？一次说清楚](https://zhuanlan.zhihu.com/p/23804247)
+
+* [2017- 换个思路理解 Javascript 中的 this](https://parg.co/bgo)：在网上很多文章都对 Javascript 中的 this 做了详细的介绍，但大多是介绍各个绑定方式或调用方式下 this 的指向，于是我想有一个统一的思路来更好理解 this 指向，使大家更好判断，以下有部分内容不是原理，而是一种解题思路。
+
+* [2017-Understanding JavaScript: This Keyword](https://parg.co/bg0)
+
+* [understand-javascripts-this-with-clarity-and-master-it](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
+- [gentle-explanation-of-this-in-javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+
+* [JavaScript Keywords: What's Up With `this`?](http://jakewiesler.com/javascript-keywords-whats-up-with-this/?utm_source=mybridge&utm_medium=web&utm_campaign=read_more)

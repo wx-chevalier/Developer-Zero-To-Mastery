@@ -12,7 +12,7 @@
 
 * [Thoughts on the future of mobile app development](https://getsiphon.com/blog/2016/01/20/future-of-app-development/)
 
-* [如何打造高性能 HybridAPP](https://segmentfault.com/a/1190000005732602?utm_source=tuicool&utm_medium=referral)
+* [如何打造高性能 HybridAPP](https://segmentfault.com/a/1190000005732602)
 
 * [跨平台开发时代的 ( 再次 ) 到来？](https://onevcat.com/2015/03/cross-platform/)
 

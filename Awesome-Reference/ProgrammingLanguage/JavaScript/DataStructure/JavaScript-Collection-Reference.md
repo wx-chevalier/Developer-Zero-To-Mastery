@@ -10,6 +10,8 @@
 
 * [2017-JavaScript 数组所有 API 全解密](https://parg.co/bgq)：系统讲解了 JavaScript 数组的各种特性和 API。
 
+- [How JavaScript’s Reduce method works, when to use it, and some of the cool things it can do](https://medium.freecodecamp.com/reduce-f47a7da511a9#.tfgm534ek)
+
 ## Set
 
 # Keyed Collection
@@ -19,3 +21,5 @@
 ## Map
 
 * [What You Should Know About ES6 Maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e#.w282eacyx): JavaScript ES6 introduces a new data structure, called maps. Maps are designed as an alternative to using Object literals for storing key/value pairs that require unique keys, and provide very useful methods for iteration.
+
+- [What You Should Know About ES6 Maps](https://hackernoon.com/what-you-should-know-about-es6-maps-dc66af6b9a1e#.w282eacyx): JavaScript ES6 introduces a new data structure, called maps. Maps are designed as an alternative to using Object literals for storing key/value pairs that require unique keys, and provide very useful methods for iteration.

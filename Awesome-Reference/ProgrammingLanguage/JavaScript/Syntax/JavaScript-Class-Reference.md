@@ -14,13 +14,19 @@
 
 * [2015-Classes in ECMAScript 6 (final semantics)](http://2ality.com/2015/02/es6-classes-final.html)
 
-## this
+- [详解 JS 类概念的实现](http://div.io/topic/1649)
 
-* [this 的值到底是什么？一次说清楚](https://zhuanlan.zhihu.com/p/23804247)
+- [OOPinJS](http://phrogz.net/js/classes/OOPinJS2.html)
 
-* [2017- 换个思路理解 Javascript 中的 this](https://parg.co/bgo)：在网上很多文章都对 Javascript 中的 this 做了详细的介绍，但大多是介绍各个绑定方式或调用方式下 this 的指向，于是我想有一个统一的思路来更好理解 this 指向，使大家更好判断，以下有部分内容不是原理，而是一种解题思路。
+- [阮一峰 :Javascript 面向对象编程（一）](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
 
-* [2017-Understanding JavaScript: This Keyword](https://parg.co/bg0)
+- [Interfaces In JavaScript](http://www.tuicool.com/articles/jyYV7rA)
+
+- [Classes in ECMAScript 6 (final semantics)](http://www.2ality.com/2015/02/es6-classes-final.html)
+
+- [object-oriented-javascript-deep-dive-es6-classes](https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/)
+
+- [JavaScript 写类的前世今生](http://jdc.jd.com/archives/2942)
 
 ## Prototype: 原型
 
@@ -53,3 +59,7 @@
 - [2016-JavaScript 实现 MVVM 之我就是想监测一个普通对象的变化](http://hcysun.me/2016/04/28/JavaScript%E5%AE%9E%E7%8E%B0MVVM%E4%B9%8B%E6%88%91%E5%B0%B1%E6%98%AF%E6%83%B3%E7%9B%91%E6%B5%8B%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%8F%98%E5%8C%96/)
 
 * [2015-Watch.JS #Project# ](https://github.com/melanke/Watch.JS): watch the changes of any object or attribute. [watch-object](https://github.com/FrontendMatter/watch-object)
+
+- [ECMAScript proposal for Optional Chaining (aka Existential Operator, aka Null Propagation)](https://github.com/claudepache/es-optional-chaining)
+
+- [decko #Project#](https://github.com/developit/decko)

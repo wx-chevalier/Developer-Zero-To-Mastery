@@ -25,3 +25,11 @@
 * [2017-The state of JavaScript modules](https://parg.co/bi0): Recently, there was a lot of fuss on Twitter regarding the current state of ES modules, especially in Node.js, which decided to introduce \*.mjs as file extension. The fear and uncertainty is understandable since the topic is complex and following the discussions takes a high degree of effort and dedication.
 
 * [2017-ES6 modules support lands in browsers: is it time to rethink bundling?](https://parg.co/bRL)
+
+- [Native ECMAScript modules - the first overview](https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview)
+
+- [Native ECMAScript modules: the new features and differences from Webpack modules](https://blog.hospodarets.com/native-ecmascript-modules-new-features#detect-the-current-script-is-executed-as-a-module)
+
+- [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
+
+- [Understanding Scope in JavaScript](https://scotch.io/tutorials/understanding-scope-in-javascript)

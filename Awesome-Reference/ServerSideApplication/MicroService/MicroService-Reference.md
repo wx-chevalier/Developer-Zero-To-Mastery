@@ -36,20 +36,20 @@
 
 * [一个可供创业公司借鉴的 API 架构演进思路 ](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598657&idx=1&sn=a663aa0b0326fefe59af31f84316a7b0&chksm=8be99453bc9e1d45e979b0e28af8b7e174dfb3c499cc40ba9bc3b90a5bb6e5e6525ae8b49ddc#rd)
 
-* [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [微服务架构的理论基础 - 康威定律](https://yq.aliyun.com/articles/8611?f=tt)
 * [阿里巴巴前架构师 360 度无死角剖析微服务](https://my.oschina.net/osccreate/blog/785004)
 * [构建高性能微服务架构的实践](http://mp.weixin.qq.com/s?__biz=MzI4MjE3MTcwNA==&mid=2664335032&idx=1&sn=bdc4586829883f256919cb2c719c6d61)
 
 [架构的本质是管理复杂性，微服务本身也是架构演化的结果](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=411129391&idx=1&sn=ebf06fb5cc4a5f57f86341ba4114cab8&scene=0#wechat_redirect)
 
-* [微服务的性能模式](http://blog.oneapm.com/apm-tech/657.html?utm_source=tuicool&utm_medium=referral)
+* [微服务的性能模式](http://blog.oneapm.com/apm-tech/657.html)
 
 - [an-introduction-to-microservices](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/)
 - [微服务 (Microservices)](http://blog.csdn.net/wurenhai/article/details/37659335)
 - [微服务实战](http://kb.cnblogs.com/page/521880/)
 - [Getting-Started-With-Microservices](https://dzone.com/refcardz/getting-started-with-microservices)
 - [Getting started with microservices](https://blog.ruxit.com/microservices/)
-- [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/?utm_source=tuicool&utm_medium=referral)
+- [How Enterprises Benefit From Microservices Architectures](https://blog.risingstack.com/how-enterprises-benefit-from-microservices-architectures/)
 
 - [微服务经典文章大汇总](http://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=504649826&idx=1&sn=6a9a2f98f3be076e234d9758ce87f656#rd)
 

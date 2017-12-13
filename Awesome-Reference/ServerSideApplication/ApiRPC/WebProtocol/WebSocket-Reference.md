@@ -1,26 +1,3 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
-
-# Web 通信协议资料索引
-
-# HTTPS
-
-* [https://en.wikipedia.org/wiki/HTTP](https://en.wikipedia.org/wiki/HTTP)
-
-* [https://en.wikipedia.org/wiki/Transport_Layer_Security](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-
-* [https://en.wikipedia.org/wiki/HTTPS](https://en.wikipedia.org/wiki/HTTPS)
-
-* [https://en.wikipedia.org/wiki/RSA_(cryptosystem)](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29)
-
-* [HTTPS 中的加密算法相关概念](http://foofish.net/https-symmetric.html)
-* [HTTPS 协议降级攻击原理](http://www.tuicool.com/articles/vEVfIjb)
-
-* [https-performance-overhead](https://www.keycdn.com/blog/https-performance-overhead/)
-
-* [2017-Brief(ish) explanation of how https works](https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works)
-
-* [大型网站 HTTPS 实践](https://mp.weixin.qq.com/s/bdLtUPDykAMCb_TR0nOdpw): 百度 HTTPS 性能优化涉及到大量内容，从前端页面、后端架构、协议特性、加密算法、流量调度、架构和运维、安全等方面都做了大量工作。本系列的文章将对此一一进行介绍。
-
 # WebSocket
 
 * [WebSocket 浅析](https://zhuanlan.zhihu.com/p/25592934)
@@ -33,7 +10,7 @@
 
 - [ Websocket 详细讲解 ( 基础篇一 ) ](http://blog.csdn.net/woshinannan741/article/details/51470830)
 
-- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953?utm_source=qq&utm_medium=social)
+- [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561/answer/40316953)
 
 - [Socket.io Game Demo](https://github.com/sgoedecke/socket-io-game): Building a multiplayer online game with socket.io.
 
@@ -46,3 +23,5 @@
 * **HTTP 2.0**: [IETF HTTP 2.0 httpbis-http2 Draft](http://tools.ietf.org/html/draft-ietf-httpbis-http2-01)[IETF HTTP 2.0 httpbis-speed-mobility Draft](http://tools.ietf.org/html/draft-montenegro-httpbis-speed-mobility)[IETF httpbis-network-friendly Draft](http://tools.ietf.org/html/draft-tarreau-httpbis-network-friendly-00) - an older HTTP 2.0 related proposal
 * **WebRTC**:[W3C WebRTC API Draft](http://dev.w3.org/2011/webrtc/editor/webrtc.html)[List of IETF WebRTC Drafts](http://tools.ietf.org/wg/rtcweb/)[IETF WebRTC Overview Draft](http://tools.ietf.org/html/draft-ietf-rtcweb-overview)[IETF WebRTC DataChannel Draft](http://tools.ietf.org/html/draft-ietf-rtcweb-data-channel)[Microsoft CU-WebRTC Proposal Start Page](http://html5labs.interopbridges.com/prototypes/cu-rtc-web/cu-rtc-web/info)
 * **QUIC**:[QUIC Chrominum Project](https://www.chromium.org/quic)[IETF QUIC Draft](https://tools.ietf.org/html/draft-tsvwg-quic-protocol-00)
+
+- [uWebSockets](https://github.com/uWebSockets/uWebSockets):Highly efficient cross-platform WebSocket & HTTP library for C++11 and Node.js

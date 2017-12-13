@@ -66,6 +66,12 @@
 
 * [Do Browsers Parse JavaScript On Every Page Load](http://stackoverflow.com/questions/1096907/do-browsers-parse-javascript-on-every-page-load/)
 
+* [optimize-js](https://github.com/nolanlawson/optimize-js)
+
+* [lazy-parsing-in-javascript-engines](https://ariya.io/2012/07/lazy-parsing-in-javascript-engines)
+
+* [Turn off negate_iife by default as it hurts V8 performance.](https://github.com/mishoo/UglifyJS2/issues/886)
+
 # Layout & Rendering: 界面布局与渲染策略
 
 * [高性能 JavaScript 重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)

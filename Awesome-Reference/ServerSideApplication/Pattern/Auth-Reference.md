@@ -16,11 +16,21 @@
 
 - [2017- 接口的权限认证技术纵览](https://parg.co/bte)：本文以表格的方式详细列举了常见的接口权限认证技术的描述、适用场景、数据存储以及和服务端交互方式等内容。本文涉及到的常用权限认证技术包括：HTTP Basic 认证、无状态 Session Cookie、JWT 、有状态 Session Cookie、随机令牌、请求签名、OAuth 等。( https://parg.co/bte )
 
+- [CIA](http://www.ciaapp.cn/index.html)
+
+# 验证码
+
+* [【Dev Club 分享】腾讯验证码的十二年 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578147&idx=3&sn=94a8f8f8b4a23b2429ba18bd50c4e048&chksm=84b3b1a4b3c438b28476200037170798276cf7762a115dad9e4b49afeed3151955afe7cf82c4&scene=4#wechat_redirect)
+
+* [验证码的前世今生](https://jaq.alibaba.com/community/art/show?articleid=548)
+
 # Json Web Token
 
 * [2015-Learn how to use JSON Web Token (JWT) to secure your next Web App! (Example with Tests!!)](https://github.com/dwyl/learn-json-web-tokens)
 
 * [2016-In this article, the fundamentals of what JSON Web Tokens (JWT) are, and why they are used will be explained.](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+
+- [JSON Web Token Tutorial: An Example in Laravel and AngularJS](http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs)
 
 # 2FA 双因素认证
 

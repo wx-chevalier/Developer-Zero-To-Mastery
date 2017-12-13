@@ -4,6 +4,12 @@
 
 本文是对于服务端应用程序开发与系统架构领域中高可用系统搭建相关资料进行整理，更多的其他相关优秀资料可以参考笔者的 [Awesome Reference](http://6me.us/qvPQ) 系列，其他的还包括[追求技术之上的进阶阅读学习索引](https://zhuanlan.zhihu.com/p/25642783) 、 [机器学习、深度学习与自然语言处理领域推荐的书籍列表](https://zhuanlan.zhihu.com/p/25612011)等等。随着公司业务的发展与终端用户的增加，保证系统的高可用性也日渐成为团队考虑的重要因素。
 
+* [如何在云平台构建大规模分布式系统](http://www.infoq.com/cn/articles/build-a-large-scale-distributed-system)
+
+* [LinkedIn 架构这十年 ](http://colobu.com/2015/07/24/brief-history-scaling-linkedin/)
+
+* [构建能够每秒处理 3 百万请求的高性能 Web 集群系列文章](http://blog.jobbole.com/87509/)
+
 # 概览
 
 * [2015-Practical Scalability Analysis With The Universal Scalability Law #Book#](https://parg.co/bNA): I wrote this book to help you understand the simple, but profoundly powerful, truths about scalability.
@@ -44,6 +50,26 @@
 
 * [k6 #Project# ](https://github.com/loadimpact/k6): k6 is a modern load testing tool, building on Load Impact's years of experience. It provides a clean, approachable scripting API, distributed and cloud execution, and orchestration via a REST API.
 
+- [sysbench 0.5 性能测试工具使用手册](http://blog.csdn.net/clh604/article/details/12108477)
+
+- [wrk](https://github.com/wg/wrk)
+
+- [Webbench]()
+
+- [Vegeta](https://github.com/tsenart/vegeta)
+
+- [Locust]()
+
+- [Gauge](https://github.com/getgauge/gauge)
+
+* [Twitter-Diffy](https://github.com/twitter/diffy): 比较新老系统之间服务差异
+
+* [Using iPerf to Troubleshoot Speed/Throughput Issues](http://blog.softlayer.com/2011/using-iperf-to-troubleshoot-speedthroughput-issues)
+
+- [性能测试中服务器关键性能指标浅析](http://www.tuicool.com/articles/B3IFBbe)
+
+- [认清性能问题](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610655&idx=1&sn=4f38ef56ff57054ab9745b0725351159#rd)
+
 # 负载均衡
 
 * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
@@ -65,6 +91,14 @@
 - [荔枝 FM 架构师刘耀华：异地多活 IDC 机房架构](http://geek.csdn.net/news/detail/53231)
 
 - [异地多活设计难？其实是你陷入了这四大误区出不来！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993345&idx=1&sn=f460c51ad3dfd1da4d41e0a408969c54&scene=0#wechat_redirect)
+
+## LVS
+
+* [Linux 服务器集群系统](http://www.linuxvirtualserver.org/zh/lvs1.html)
+
+- [LVS+Keepalived 构建高可用负载均衡](http://os.51cto.com/art/201202/317441.htm)
+
+- [Ali-LVS](https://github.com/alibaba/LVS)
 
 # 服务限流
 

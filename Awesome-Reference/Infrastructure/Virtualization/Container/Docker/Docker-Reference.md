@@ -48,4 +48,4 @@
 
 - [Dockerfile 最佳实践](http://dockone.io/article/132)
 
-- [Dockerfile 优化浅谈](http://dockone.io/article/255?utm_source=tuicool&utm_medium=referral)
+- [Dockerfile 优化浅谈](http://dockone.io/article/255)

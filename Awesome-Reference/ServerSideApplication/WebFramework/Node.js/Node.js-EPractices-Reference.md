@@ -4,9 +4,17 @@
 
 * [2017-Node.js Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
 
+# Debug
+
+* [2017-How to Debug Node.js with the Best Tools Available](https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/): We will dive into two different aspects of debugging Node.js applications - the first one will be logging, so you can keep an eye on production systems, and have events from there. After logging, we will take a look at how you can debug your applications in development environments.
+
+* [2017-Debugging remote Node.js application running in a Docker container](https://parg.co/byP)
+
 # Performance: 性能优化
 
 * [2017-Understanding & Measuring HTTP Timings with Node.js](https://blog.risingstack.com/measuring-http-timings-node-js/): This article explains timings in an HTTP request and shows how to measure them in Node.js.
+
+- [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
 
 # HTTP/2
 
@@ -15,20 +23,6 @@
 # 权限认证
 
 * [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
-
-# Storage
-
-## MySQL
-
-## ORM
-
-## Redis
-
-* [node_redis #Project#](https://github.com/NodeRedis/node_redis): This is a complete and feature rich Redis client for node.js. It supports all Redis commands and focuses on high performance.
-
-* [ioredis #Project#](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
-
-* [Radredis #Project#](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
 
 # Debug: 调试
 
@@ -41,3 +35,13 @@
 * [node-prune #Project#](https://github.com/tj/node-prune): node-prune is a small tool to prune unnecessary files from ./node_modules, such as markdown, typescript source files, and so on.
 
 * [Putting the helmet on – Securing your Express app](https://parg.co/U55)
+
+- [2017-Writing Secure Node.js Code - Danny Grander](https://parg.co/bVL)：In his presentation, Danny Grander walked us through hacking a vulnerable Node.js application, as well as looking in-depth into three different vulnerabilities in popular npm packages.
+
+- [「服务端」node 服务的监控预警系统架构](https://github.com/ShowJoy-com/showjoy-blog/issues/4)
+
+* [2017-Node.js Performance Monitoring with Prometheus](https://parg.co/bed): This article helps you to understand what to monitor if you have a Node.js application in production, and how to use Prometheus - an open-source solution, which provides powerful data compressions and fast data querying for time series data - for Node.js monitoring.
+
+* [2017-Scaling Node.js Applications](https://parg.co/b1y): Everything you need to know about Node.js built-in tools for scalability.
+
+* [2017-Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)

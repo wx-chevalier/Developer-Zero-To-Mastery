@@ -5,3 +5,5 @@
 * [2017-Building a crude Node.js from scratch](https://blog.twobucks.co/building-a-crude-node-js-from-scratch/)
 
 * [2017-Writing fast and safe native Node.js modules with Rust](https://parg.co/U5r): In this Rust tutorial, I’m going to walk you through the steps of writing a modern, fast and safe native module.
+
+- [node-js-at-scale-understanding-node-js-event-loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)

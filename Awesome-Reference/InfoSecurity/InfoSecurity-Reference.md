@@ -12,11 +12,11 @@
 
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#awesome-fuzzing): 一系列对于 Hack 安全资料的搜集
 
-* [国外最佳互联网安全博客 TOP 30](https://jaq.alibaba.com/community/art/show?articleid=601&f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [国外最佳互联网安全博客 TOP 30](https://jaq.alibaba.com/community/art/show?articleid=601&f=tt)
 
 * [The Social-Engineer Toolkit ](https://github.com/trustedsec/social-engineer-toolkit): 一系列仅用于测试用途的社会工程工具
 
-* [进攻即是最好的防御！19 个练习黑客技术的在线网站](https://zhuanlan.zhihu.com/p/24624347?utm_source=qq&utm_medium=social)
+* [进攻即是最好的防御！19 个练习黑客技术的在线网站](https://zhuanlan.zhihu.com/p/24624347)
 
 * [基于机器学习的 web 异常检测](https://zhuanlan.zhihu.com/p/25139556)
 

@@ -27,6 +27,6 @@ Working Effectively with Legacy Code, by Michael Feathers. This book will give y
 
 # Code Review 
 
-- [大家的公司的code review都是怎么做的？遇到过什么问题么？](https://www.zhihu.com/question/41089988/answer/135943884?utm_source=qq&utm_medium=social)
+- [大家的公司的code review都是怎么做的？遇到过什么问题么？](https://www.zhihu.com/question/41089988/answer/135943884)
 
 - [CRACKING THE CODE REVIEW, PART 1: PREPARING YOUR CODE REVIEW](https://www.lucidchart.com/techblog/2017/02/08/cracking-the-code-review-part-1-preparing-your-code-review/)

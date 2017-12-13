@@ -6,6 +6,8 @@
 
 # Expression: 表达式
 
+* [LogicJS #Project#](https://github.com/mcsoto/LogicJS)
+
 ## Variable: 变量
 
 * [2016-When-Should-Use-Const-And-let-Instead-of-var-in-JavaScript](https://medium.com/@pandeysoni/when-should-use-const-and-let-instead-of-var-in-javascript-ec2c3d7e5ca6#.vv8lyf4sr)
@@ -40,10 +42,12 @@
 
 ## Loop: 循环
 
-* [for..in versus for..of Loops](https://bitsofco.de/for-in-vs-for-of/?utm_source=tuicool&utm_medium=referral)
+* [for..in versus for..of Loops](https://bitsofco.de/for-in-vs-for-of/)
 
 ## ErrorHandling: 异常处理
 
 * [2017-36 个代码块，带你读懂异常处理的优雅演进](http://mp.weixin.qq.com/s/9_Gxn5eAr8XKYyRxh8e8EA)：本文讲解了从函数回调，到 ES7 规范的异常处理方式。异常处理随着规范的进步变得越来越优雅，作为程序员，我们不要害怕使用 try catch，也不能回避异常处理。
 
 - [JavaScript Errors and Stack Traces in Depth](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)
+
+- [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)

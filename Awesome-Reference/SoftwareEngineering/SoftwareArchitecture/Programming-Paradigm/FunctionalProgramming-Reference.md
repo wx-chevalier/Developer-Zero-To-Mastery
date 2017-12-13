@@ -6,7 +6,7 @@
 
 - [2012-Core Functional Programming Concepts](https://thesocietea.org/2016/12/core-functional-programming-concepts/)
 
-- [函数式编程的早期历史](https://zhuanlan.zhihu.com/p/24648375?utm_source=qq&utm_medium=social)
+- [函数式编程的早期历史](https://zhuanlan.zhihu.com/p/24648375)
 
 - [introduction-to-functional-javascript](http://functionaljavascript.blogspot.jp/2013/03/introduction-to-functional-javascript.html)
 
