@@ -3,7 +3,7 @@
 
 # Function
 
-- [A Comprehensive Walk Through Java Method References](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references?utm_source=mybridge&utm_medium=web&utm_campaign=read_more)
+- [A Comprehensive Walk Through Java Method References](https://dzone.com/articles/a-comprehensive-walk-over-java-method-references)
 
 # Lambda
 

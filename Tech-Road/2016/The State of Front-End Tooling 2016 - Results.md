@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/U0e)](https://parg.co/U0X) 
 ﻿
-> [2016 年前端工具使用度调研报告](https://segmentfault.com/a/1190000007666924)翻译自[The State of Front-End Tooling 2016 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results?utm_source=mybridge&utm_medium=web&utm_campaign=read_more#experience-general)。本文从属于笔者的[Web 前端入门与最佳实践](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices)，如果你希望了解更多关于本文提及的各种框架库的信息，可以参考笔者的[Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188)。
+> [2016 年前端工具使用度调研报告](https://segmentfault.com/a/1190000007666924)翻译自[The State of Front-End Tooling 2016 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results#experience-general)。本文从属于笔者的[Web 前端入门与最佳实践](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices)，如果你希望了解更多关于本文提及的各种框架库的信息，可以参考笔者的[Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188)。
 
 
 大概一个月之前，我启动了[2016 Front-End Tooling Survey](http://ashn.uk/survey-tooling-2016)，截止到今天，共有4715名开发者参与了该调查，这里要郑重感谢下所有参与的同志。与[上一年的调查](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)相似，本调查目的为发现前端开发者们到底在他们的技术体系中使用怎样的技术，最终对于整个前端社区的潮流风向有一个总览体现。 

@@ -80,4 +80,4 @@
 
 - [gentle-explanation-of-this-in-javascript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 
-* [JavaScript Keywords: What's Up With `this`?](http://jakewiesler.com/javascript-keywords-whats-up-with-this/?utm_source=mybridge&utm_medium=web&utm_campaign=read_more)
+* [JavaScript Keywords: What's Up With `this`?](http://jakewiesler.com/javascript-keywords-whats-up-with-this/)

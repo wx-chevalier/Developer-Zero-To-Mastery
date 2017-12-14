@@ -12,7 +12,7 @@
 
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions)
 
-- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms?utm_source=mybridge&utm_medium=web&utm_campaign=read_more): 常见算法流程演示
+- [Algorithm → AST → CSS](https://github.com/skidding/illustrated-algorithms): 常见算法流程演示
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://techiedelight.quora.com/Top-Algorithms-Data-Structures-Concepts-every-computer-science-student-should-know)
 
