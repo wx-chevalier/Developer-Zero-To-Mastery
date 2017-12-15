@@ -18,7 +18,7 @@
 
 * [differences-between-l1-and-l2-as-loss-function-and-regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
 
-- [一文告诉你机器学习中进行模型评价、模型选择和算法选择的终极方法（PART I）](http://dataunion.org/24543.html?utm_source=tuicool&utm_medium=referral)
+- [一文告诉你机器学习中进行模型评价、模型选择和算法选择的终极方法（PART I ）](http://dataunion.org/24543.html)
 
 - [differences-between-l1-and-l2-as-loss-function-and-regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
 
