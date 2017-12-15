@@ -54,6 +54,8 @@
 
 - [2017-The Definitive JavaScript Handbook for a developer interview ](https://parg.co/UZS)
 
+- [2017-30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code): Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+
 # Collection: 资料集锦
 
 * [Master JavaScript Programming With 18 OpenSource Books【Collection 】](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
