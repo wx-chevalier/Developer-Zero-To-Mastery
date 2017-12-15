@@ -36,6 +36,8 @@
 
 - [2017-Egghead.io WASM Introduction Examples](https://github.com/guybedford/wasm-intro): Course examples from the Introduction to WebAssembly egghead.io course.
 
+- [Walt #Project#](https://github.com/ballercat/walt): WAlt is an alternative syntax for WebAssembly text format. It's an experiment for using JavaScript syntax to write to as 'close to the metal' as possible.
+
 ## Rust
 
 - [2017-ROCKET - A RUST GAME RUNNING ON WASM](https://parg.co/UZJ): I thought it would be interesting to try to adapt my game Rocket to work on the browser through the wasm32-unknown-unknown target. 
