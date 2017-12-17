@@ -1,4 +1,6 @@
-# Awesome CheatSheet: 速览速学，实践备忘
+[中文版本](./README.md) | [English Version](./README.en.md)
+
+# Awesome CheatSheet: 语法速览, 实践备忘，从零到一，上手即用
 
 `Copyright © 王下邀月熊`
 

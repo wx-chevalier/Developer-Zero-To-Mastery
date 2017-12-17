@@ -1,5 +1,7 @@
 # JavaScript 语法速览与实战清单
 
+[30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
+
 # 变量与表达式
 
 # 基本数据类型
@@ -87,6 +89,21 @@ removeCc("helloWorldItIsMe"); // 'hello World It Is Me'
 ### Comprehensions: 变换
 
 `reduce()` 函数能够将
+
+```js
+// 使用 reduce 进行数组扁平化
+const flatten = arr => arr.reduce((a, v) => a.concat(v), []);
+// flatten([1,[2],3,4]) -> [1,2,3,4]
+
+const flattenDepth = (arr, depth = 1) =>
+  depth != 1
+    ? arr.reduce(
+        (a, v) => a.concat(Array.isArray(v) ? flattenDepth(v, depth - 1) : v),
+        []
+      )
+    : arr.reduce((a, v) => a.concat(v), []);
+// flattenDepth([1,[2],[[[3],4],5]], 2) -> [1,2,[3],4,5]
+```
 
 # 函数
 

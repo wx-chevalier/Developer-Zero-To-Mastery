@@ -46,6 +46,8 @@
 
 - [高性能高并发系统的稳定性保障](http://www.yunweipai.com/archives/10501.html)
 
+- [CaptainDuckDuck #Project#](https://github.com/githubsaturn/captainduckduck): Easiest app/database deployment platform and webserver package for your NodeJS, Python, Java applications. No Docker, nginx knowledge required!
+
 # 大数据
 
 # 架构演化
