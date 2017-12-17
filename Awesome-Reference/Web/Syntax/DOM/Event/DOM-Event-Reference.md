@@ -21,3 +21,19 @@
 * [Rethinking drag and drop Taking something basic and making it beautiful](https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b)
 
 * [2010-Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
+
+# 变化监听
+
+* [Angular 沉思录（一）数据绑定](https://github.com/xufei/blog/issues/10)
+
+* [双向绑定的简单实现——基于“脏检测”](https://parg.co/bOW)：本文基于“脏检测”机制实现一个简单的双向绑定。若您对如何使用 ES5 的 getter/setter 实现动态数据绑定较为感兴趣，可移步至双向绑定的简单实现——基于 ES5 对象的 getter/setter 机制。
+
+* [前端模板的原理与实现](http://www.tuicool.com/articles/Q73Ubym)
+
+* [开发 vue（或类似的 MVVM 框架）的过程中，需要面对的主要问题有哪些？](https://www.zhihu.com/question/53176471/answer/134004234)
+
+* [250 行实现一个简单的 MVVM](https://zhuanlan.zhihu.com/p/24475845)
+
+- [如何监听 js 中变量的变化?](https://www.zhihu.com/question/44724640)
+
+- [2017-如何监听页面 DOM 变动并高效响应](https://hijiangtao.github.io/2017/08/03/How-to-Manipulate-DOM-Effectively/)

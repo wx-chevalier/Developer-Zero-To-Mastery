@@ -36,7 +36,7 @@
 - [Slate #Project#](https://github.com/ianstormtaylor/slate)
 
 # RichText:富文本
-> - [Is it possible to apply CSS to half of a character?](http://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character)
+- [Is it possible to apply CSS to half of a character?](http://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character)
 
 # Auto Format
 ## [Cleave.js](http://nosir.github.io/cleave.js/)

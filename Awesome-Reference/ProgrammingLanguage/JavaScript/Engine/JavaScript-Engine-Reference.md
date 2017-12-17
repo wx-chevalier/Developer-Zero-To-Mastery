@@ -66,16 +66,4 @@
 
 ## Object Representation: 对象表示
 
-* [2017-Fast Properties in V8](https://parg.co/b70): In this blog post we would like to explain how V8 handles JavaScript properties internally.
-
-- [V8 Design Elements](https://github.com/v8/v8/wiki/Design%20Elements)
-
-- [A tour of V8: object representation](http://www.jayconrod.com/posts/52/a-tour-of-v8-object-representation)
-
-- [Demystifying v8 and JavaScript Performance](http://thlorenz.com/talks/demystifying-v8/talk.pdf)
-
-- [V8 Docs:Object Class Reference](https://v8docs.nodesource.com/node-7.2/db/d85/classv8_1_1_object.html)
-
-- [How does V8 manage the memory of object instances?](http://stackoverflow.com/questions/7413168/how-does-v8-manage-the-memory-of-object-instances)
-
 # Garbage Collection: 垃圾回收
