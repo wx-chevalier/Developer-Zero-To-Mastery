@@ -8,3 +8,7 @@
 6.  配色方案： [《色彩搭配速成！3个实用方法帮你全面搞定配色》](http://www.uisdc.com/3-color-matching-skills) 
 7.  DPI指南： [《基础知识学起来！为设计师量身打造的DPI指南》](http://www.uisdc.com/designers-guide-to-dpi) 
 8.  交互设计自学路径图： [《零基础入门！给非科班生的自学路径图之交互设计篇》](http://www.uisdc.com/non-designer-interactive-design) 
+
+# Atomic Design
+
+- [2017-Atomic Design with React](https://cheesecakelabs.com/blog/atomic-design-react/): That was the moment in which we paused to rethink our architecture and how we could set the components in a more distributed and organized way. 
