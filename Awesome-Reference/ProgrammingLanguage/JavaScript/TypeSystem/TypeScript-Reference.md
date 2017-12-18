@@ -6,6 +6,8 @@
 
 * [52-technologies-in-2016:Let's Learn TypeScript](https://github.com/shekhargulati/52-technologies-in-2016/tree/master/17-typescript)
 
+- [TypeScript Practical Introduction](https://parg.co/UsM): Let's learn TypeScript features through practical examples.
+
 ## Setup & Tool: 环境搭建与工具
 
 * [DefinitelyTyped #Project# ](https://github.com/DefinitelyTyped/DefinitelyTyped): The repository for high quality TypeScript type definitions.
