@@ -10,6 +10,14 @@
 
 * [Paper-Onboarding #Project#](https://github.com/Ramotion/paper-onboarding)
 
+## 事件处理
+
+- [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch/blob/master/README.md): Android键盘面板冲突 布局闪动处理方案
+
+- [AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher)
+
+- [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard)
+
 ## WebView
 
 * [Native 与 H5 交互的那些事 ](http://zhengxiaoyong.me/2016/04/20/Native%E4%B8%8EH5%E4%BA%A4%E4%BA%92%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)

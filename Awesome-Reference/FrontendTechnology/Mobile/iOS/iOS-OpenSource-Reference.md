@@ -68,3 +68,7 @@
 - [Blurable](https://github.com/FlexMonkey/Blurable)
 
 - [Rotatable](https://github.com/FlexMonkey/Rotatable)
+
+# Media 
+
+- [ZFPlayer](https://github.com/renzifeng/ZFPlayer)
