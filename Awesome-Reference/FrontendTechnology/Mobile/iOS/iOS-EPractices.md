@@ -21,3 +21,10 @@
 * [iOS 自动化版本号和编译号](https://segmentfault.com/a/1190000004678950)
 
 - [appirater](https://github.com/arashpayan/appirater)
+
+# 架构模式
+
+- [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns?utm_source=tuicool&utm_medium=referral)
+
+- [ReSwift](https://github.com/ReSwift/ReSwift)
+

@@ -41,3 +41,5 @@
 * [JNI&NDK 编程小结及建议](http://www.tuicool.com/articles/rQbMru2)
 
 - [MarsDaemon](https://github.com/Marswin/MarsDaemon)
+
+- [Android dev tip: Replace PNG assets with XML drawables](http://jebware.com/blog/?p=304)

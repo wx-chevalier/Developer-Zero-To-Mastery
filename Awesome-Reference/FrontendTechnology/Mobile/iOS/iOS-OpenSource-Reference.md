@@ -24,6 +24,47 @@
 
 - [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+## Gallery 
+
+- [PeekPop](https://github.com/marmelroy/PeekPop)
+
+# Indicator
+
+
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)
+
 # Picker
 
 - [FloatingToolbar](https://github.com/rubensousa/FloatingToolbar) 
+
+- [NumberMorph](https://github.com/me-abhinav/NumberMorphView)
+
+## Search 
+
+- [Reel-Search](https://github.com/Ramotion/reel-search):Only Swift
+
+- [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)
+
+## Text Editor 
+
+- [TextAttributes](https://github.com/delba/TextAttributes)
+
+- [SwiftyMarkdown](https://github.com/SimonFairbairn/SwiftyMarkdown)
+
+# 系统功能
+
+- [Swift-Permission](https://github.com/delba/Permission):A unified API to ask for permissions on iOS
+
+- [Appz](https://github.com/SwiftKitz/Appz)
+
+# Graphic 
+
+- [Chameleon](https://github.com/ViccAlexander/Chameleon): Flat Color Framework for iOS (Obj-C & Swift)
+
+- [Hue](https://github.com/hyperoslo/Hue): all-in-one coloring utility
+
+- [UIView-Glow](https://github.com/thesecretlab/UIView-Glow)
+
+- [Blurable](https://github.com/FlexMonkey/Blurable)
+
+- [Rotatable](https://github.com/FlexMonkey/Rotatable)
