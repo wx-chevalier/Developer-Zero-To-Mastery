@@ -7,3 +7,5 @@
 - [SQL in a Nutshell #Series#](https://parg.co/U31): This series focuses on the most frequent data science and analytical problems in the real-world, and aims at solving them with SQL.
 
 - [SQL Fiddle #Project#](http://sqlfiddle.com/)
+
+- [SQL Teaching](https://www.sqlteaching.com/)
