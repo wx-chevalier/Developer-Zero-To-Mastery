@@ -13,8 +13,21 @@
 # B-Tree
 
 * [B- 树、B+ 树、B\* 树的区别](http://blog.csdn.net/dazhong159/article/details/7963846/)
+
 * [B 树（B-Tree ）的由来、数据结构、基本操作以及数据库索引的应用](http://www.cnblogs.com/yanghuahui/p/3483047.html)
+
 * [B- 树和 B+ 树的应用：数据搜索和数据库索引 ](http://blog.csdn.net/hguisu/article/details/7786014)
+
+# LSM
+
+* [LSM 官方论文](https://drive.wps.cn/view/l/ace64c0b315a47ec898c97b7c06a255e)
+
+* [How-does-the-Log-Structured-Merge-Tree-work](https://www.quora.com/How-does-the-Log-Structured-Merge-Tree-work)
+
+* [LSM 树 VS B+ 树](http://blog.csdn.net/dbanote/article/details/8897599)
+
+- [LSM 树由来、设计思想以及应用到 HBase 的索引](http://www.cnblogs.com/yanghuahui/p/3483754.html)
+
 
 # 红黑树
 

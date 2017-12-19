@@ -1,17 +1,10 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
 
-
-# MySQL 实践参考资料
-
+# MySQL 配置使用与实践优化参考资料
 
 # Usage
 
-
-
 - [2017-OnlineSchemaChange #Project# ](https://github.com/facebookincubator/OnlineSchemaChange): A tool for performing online schema changes on MySQL.
-
 
 # StoreEngine
 
@@ -22,6 +15,8 @@
 - [InnoDB 存储引擎体系架构](https://segmentfault.com/a/1190000004673132)
 
 - [MySQL · InnoDB 文件系统之IO系统和内存管理 ](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342507&idx=1&sn=b7beed97485a9eb1b2b5d80c16c02ef7&scene=23&srcid=0417dJlCwbKo1B0hQQrlG2jP#rd)
+
+- [MySQL 如何存储大数据](https://github.com/zhangyachen/zhangyachen.github.io/issues/96)
 
 
 # Resource
@@ -58,6 +53,7 @@
 
 - [都是主键惹的祸-记一次死锁分析过程 ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929270&idx=1&sn=e0e2bf70746ce4d21085a21a5b61e997&chksm=bd3b255c8a4cac4ae07923b76e21b34e5c92297bd775e32dc6c79c9c61d8f9a280b59c671d53&scene=0#wechat_redirect)
 
+- [mysql使用utf8mb4经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd&utm_source=tuicool&utm_medium=referral)
 
 # EPractices
 

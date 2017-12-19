@@ -9,3 +9,5 @@
 - [SQL Fiddle #Project#](http://sqlfiddle.com/)
 
 - [SQL Teaching](https://www.sqlteaching.com/)
+
+- [Clean SQL](http://jonathansacramento.com/posts/20161119_clean_sql.html):如何编写清晰的SQL代码
