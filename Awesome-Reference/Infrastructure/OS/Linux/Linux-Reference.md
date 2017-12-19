@@ -10,6 +10,8 @@
 
 - [LPIC-1 学习路线图](http://www.ibm.com/developerworks/cn/linux/l-lpic1-map/index.html): developerWorks 上的 LPIC-1 认证准备教程指南。
 
+- [Linux进程隐藏的一种实现思路 ](http://www.freebuf.com/articles/system/117234.html?utm_source=tuicool&utm_medium=referral)
+
 # Terminal
 
 * [gotty #Project#](https://github.com/yudai/gotty)
