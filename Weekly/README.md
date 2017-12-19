@@ -71,8 +71,28 @@
 - [前端每周清单第 28 期：JS 运行原理与优化，高性能 CSS 引擎，Coursera GraphQL 实践](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/8/8.4.md)
 
 ## 9
+- [前端每周清单第 29 期：Web 现状分析与优化策略、Vue 单元测试、Headless Chrome 爬虫](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/9/9.1.md)
+- [前端每周清单第 30 期：WebVR 指南，Vue 代码分割范式，理想的 React 架构特性](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/9/9.2.md)
+- [前端每周清单第 31 期: iOS 11 Viewport 解析，Preact PWA 性能优化案例，JS 内存泄露分析](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/9/9.3.md)
+- [前端每周清单第 32 期：React 开源协议更新、JS 完整编年史、Vue 组件通信](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/9/9.4.md)
+- [前端每周清单第 33 期：React 16 发布与特性介绍，Expo AR 教程，ExtJS 从崛起到沉寂](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/9/9.5.md)
 
 ## 10
+- [前端每周清单第 34 期：Vue 现状盘点与 3.0 展望，React 代码迁移与优化，图片优化详论](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/10/10.1.md)
+- [前端每周清单第 35 期：Vue.js 2.5 发布、微前端概念详解、浏览器扩展开发实践](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/10/10.2.md)
+- [前端每周清单第 36 期：深入 Vue 2.5 类型增强、Puppeteer 端到端测试、PayPal 跨域套装](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/10/10.3.md)
+- [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/10/10.4.md)
+
+## 11
+- [前端每周清单第 38 期: Node 9 发布，Kotlin 与 React，Netflix 架构解密](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/11/11.1.md)
+- [前端每周清单第 39 期: OpenAI 与 gRPC, Gitlab 的 Vue 年度总结，GraphQL 技术栈漫游](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/11/11.2.md)
+- [前端每周清单第 40 期 : JS 的 Core 与 Cost，Node 内存溢出调试，Software 2.0](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/11/11.3.md)
+- [前端每周清单第 41 期 : Node 与 Rust、OpenCV 的火花，网络安全二三事](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/11/11.4.md)
+
+## 12
+- [前端每周清单第 42 期：V8 的执行流与优化， Pinterest 的 PWA 实践， Rust 与 WebAssembly 应用](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/12/12.1.md)
+- [前端每周清单第 43 期：2017 JavaScript 回顾、Rust 与 WebAssembly 开发游戏、Node.js 架构模式](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/12/12.2.md)
+- [前端每周清单第 44 期: 2017 JS 调查报告、REST 接口实时化、ESM 的过去与未来](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Weekly/2017/12/12.3.md)
 
 # 狗粮
 
