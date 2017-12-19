@@ -10,6 +10,10 @@
 
 # Tutorial: 教程
 
+- [2015-Elasticsearch For Beginners: Index and Search Hacker News](https://github.com/oliver006/elasticsearch-hn)
+
+- [2017-Elasticsearch For Beginners: Indexing your Gmail Inbox](https://github.com/oliver006/elasticsearch-gmail): Goal of this tutorial is to load an entire Gmail inbox into Elasticsearch using bulk indexing and then start querying the cluster to get a better picture of what's going on.
+
 # Book
 
 * [ElasticSearch 权威指南中文版 #Book#](http://es.xiaoleilu.com/010_Intro/00_README.html)
@@ -27,25 +31,3 @@
 * [ElasticSearch 工作原理](https://my.oschina.net/yjwxh/blog/675354)
 
 - [2016-Anatomy of an Elasticsearch Cluster #Series#](https://parg.co/UZz): This post is part of a series covering the underlying architecture and prototyping examples with a popular distributed search engine, Elasticsearch.
-
-# Extension: 扩展
-
-* [elasticsearch_queryAPI](http://leequangang.github.io/tech/2013/12/02/elasticsearch_queryAPI.html#match-query)
-
-## Development and debugging
-
-* [Found Play](https://www.found.no/play#): JSFiddle-like playground for Elasticsearch;
-
-## UI: 管理界面
-
-* [ElasticHQ](http://www.elastichq.org/index.html)
-
-* [elasticsearch-dump](https://github.com/taskrabbit/elasticsearch-dump):Import and export tools for elasticsearch
-
-* [Yelp-elastalert](https://github.com/Yelp/elastalert):Easy & Flexible Alerting With ElasticSearch
-
-* [Kibana](https://github.com/elastic/kibana)：[Kibana 4 权威指南](http://www.code123.cc/docs/kibana-logstash/v4/index.html)
-
-## UI Component
-
-* [Searchkit #Project# ](https://github.com/searchkit/searchkit): React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
