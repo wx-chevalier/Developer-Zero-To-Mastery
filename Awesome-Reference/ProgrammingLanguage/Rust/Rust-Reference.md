@@ -10,6 +10,9 @@
 
 * [2017-What's a reference in Rust?](https://jvns.ca/blog/2017/11/27/rust-ref/): people who have read the lifetimes chapter in the Rust book and sorta understand it in principle but are still confused about a lot of pretty basic Rust things.
 
+- [2017-
+Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/)
+
 # Overview
 
 * [2017-Deep drive into rust programming language](https://parg.co/UP1)
