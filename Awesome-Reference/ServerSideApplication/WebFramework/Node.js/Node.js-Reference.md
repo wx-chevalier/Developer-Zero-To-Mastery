@@ -41,3 +41,15 @@
 * [2017-Practical Node.js #Book#](https://github.com/azat-co/practicalnode): Practical Node is a work of 30+ in-person courses, workshops and classes delivered by me in-person at various companies.
 
 * [2017-Node.js 实践教程 #Book#](https://github.com/ElemeFE/node-practice)：本教程的初衷是做一个 Node.js 进阶的视频教程 , 在撰写 node-interview 之后 , 觉得按照概念依次讲下来不好组织 , 于是决定按照以一些有名的模块 / 功能为基础 , 在实现的过程中讲解各项知识点。
+
+# Commandline Tool: 命令行工具
+
+* [Building command line tools with Node.js](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
+
+* [Caporal.js](https://github.com/mattallty/Caporal.js): A full-featured framework for building command line applications (cli) with node.js
+
+- [tips-for-making-a-cli-based-tool-with-node](https://medium.com/@kentcdodds/tips-for-making-a-cli-based-tool-with-node-9903255c2a3b#.ugk1a07dg)
+
+- [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+- [auto-sni](https://github.com/DylanPiercey/auto-sni):Free, automated HTTPS for NodeJS made easy.

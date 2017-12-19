@@ -4,6 +4,10 @@
 
 * [2017-Node.js Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
 
+- [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/?utm_source=tuicool&utm_medium=referral)
+
+- [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
+
 # Debug
 
 * [2017-How to Debug Node.js with the Best Tools Available](https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/): We will dive into two different aspects of debugging Node.js applications - the first one will be logging, so you can keep an eye on production systems, and have events from there. After logging, we will take a look at how you can debug your applications in development environments.
@@ -45,3 +49,23 @@
 * [2017-Scaling Node.js Applications](https://parg.co/b1y): Everything you need to know about Node.js built-in tools for scalability.
 
 * [2017-Checklist: Node.JS production best practices](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)
+
+> * [Node Hero - Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
+
+## 内存泄露
+
+* [simple-guide-to-finding-a-javascript-memory-leak-in-node-js](http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/?utm_source=tuicool&utm_medium=referral)
+
+# Mocha
+
+> * [初识 mocha in NodeJS](https://cnodejs.org/topic/516526766d38277306c7d277)
+
+# PM2
+
+> * [PM2 入门与部署 GitBook](https://wohugb.gitbooks.io/pm2/content/index.html)
+
+* [10-things-you-shouldnt-do-while-running-nodejs-in-production](https://hashnode.com/post/10-things-you-shouldnt-do-while-running-nodejs-in-production-cisab2fyu0s9oth5341faywcw)
+
+* [Nodejs 线上服务稳定性保障体系](http://www.tuicool.com/articles/RRvQ7zi)
+
+- [Better Logging in Nodejs](http://www.tuicool.com/articles/3iAFjev)
