@@ -17,3 +17,42 @@
 - [AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView)
 
 - [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)
+
+# Indicator 
+
+- [Highlight](https://github.com/hongyangAndroid/Highlight)
+
+- [BlurLockView](https://github.com/Nightonke/BlurLockView)
+
+## ProgressBar
+
+- [ColorArcProgressBar](https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar)
+
+- [Progress Layout](https://github.com/iammert/ProgressLayout)
+
+## Intro
+
+- [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
+
+- [PaoloRotolo-AppIntro][1]
+
+- [ProductTour][3]
+
+- [android-about-page](https://github.com/medyo/android-about-page)
+
+- [SplashScreenZoom]()
+
+- [Highlight](https://github.com/hongyangAndroid/Highlight)
+
+# TableGrid
+
+- [ListView源代码解析](http://blog.csdn.net/guolin_blog/article/details/44996879)
+
+- [ParticleLayout：左滑删除粒子效果](https://github.com/ZhaoKaiQiang/ParticleLayout/)
+
+
+- [folding-cell-android](https://github.com/Ramotion/folding-cell-android)
+
+- [InboxLayout]()
+
+- [UltimateRecyclerView]()
