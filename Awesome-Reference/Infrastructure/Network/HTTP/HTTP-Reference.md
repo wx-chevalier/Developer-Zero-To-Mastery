@@ -52,7 +52,7 @@
 
 - [how-to-set-up-nginx-with-http-2-support-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04)
 
-- [Journey to HTTP/2](http://kamranahmed.info/blog/2016/08/13/http-in-depth/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
+- [Journey to HTTP/2](http://kamranahmed.info/blog/2016/08/13/http-in-depth/)
 
 - [HTTP2 简介和基于 HTTP2 的 Web 优化](https://github.com/creeperyang/blog/issues/23)
 

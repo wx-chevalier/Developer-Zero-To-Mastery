@@ -9,3 +9,5 @@
 - [SnowFlake](https://github.com/bartonhammond/snowflake)
 
 - [Fonts available out of the box in a React Native project](https://github.com/dabit3/react-native-fonts)
+
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop)

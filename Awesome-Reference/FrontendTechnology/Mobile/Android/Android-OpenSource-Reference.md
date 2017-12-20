@@ -30,6 +30,8 @@
 
 - [Progress Layout](https://github.com/iammert/ProgressLayout)
 
+- [Steppers](https://github.com/drozdzynski/Steppers)
+
 ## Intro
 
 - [MaterialIntroView](https://github.com/iammert/MaterialIntroView)

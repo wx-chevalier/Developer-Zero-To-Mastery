@@ -36,6 +36,7 @@
 
 * [2017-Why you should stop using Git rebase](https://parg.co/bBO): After using Git for several years, I found myself gradually using more and more advanced Git commands as part of my daily workflow.
 
+- [git-rebase-and-the-golden-rule-explained](https://medium.freecodecamp.com/git-rebase-and-the-golden-rule-explained-70715eccc372#.8snfmpokv)
 
 # Hook
 
@@ -46,3 +47,17 @@
 - [自定义 Git - Git 钩子](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
 
 - [pre-commit by Yelp: A framework for managing and maintaining multi-language pre-commit hooks.](http://pre-commit.com/#node)
+
+# Workflow: 工作流
+
+- [comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+
+- [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/)
+
+- [Gitflow 有害论 ](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
+
+- [Git 工作流分析](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+
+- [feature-toggles](http://martinfowler.com/articles/feature-toggles.html)
+
+- [Feature Flag 功能发布控制](http://fex.baidu.com/blog/2014/07/feature-flag/?qq-pf-to=pcqq.c2c)

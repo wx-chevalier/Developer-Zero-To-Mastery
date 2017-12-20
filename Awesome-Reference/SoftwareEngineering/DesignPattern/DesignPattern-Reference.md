@@ -11,3 +11,9 @@
 - [JavaScript — Observables Under The Hood](https://netbasal.com/javascript-observables-under-the-hood-2423f760584#.ihd02lckm)
 
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+
+- [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift)
+
+- [solid-javascript](http://aspiringcraftsman.com/2012/01/22/solid-javascript-the-dependency-inversion-principle/)
+
+- [android-development-the-solid-principles](https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2#.2at10l13j)

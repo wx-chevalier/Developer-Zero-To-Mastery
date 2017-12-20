@@ -32,6 +32,8 @@
 
 - [Spark Streaming使用Kafka保证数据零丢失](http://www.tuicool.com/articles/BJzqiey)
 
+
+
 # Quantum Computing: 量子计算
 
 - [2017-Motivations Behind Exploring Quantum Computing](http://www.clerro.com/guide/580/quantum-computing-explained)

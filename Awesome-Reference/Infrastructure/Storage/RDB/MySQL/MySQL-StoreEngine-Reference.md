@@ -18,3 +18,6 @@
 
 - [MySQL排序内部原理探秘](http://geek.csdn.net/news/detail/105891?utm_source=tuicool&utm_medium=referral)
 
+- [阿里云栖社区一系列关于MySQL的InnoDB引擎的讲解](https://yq.aliyun.com/groups/25?spm=5176.blog223.yqblogcon1.3.aZ9XJX)
+
+- [MySQL中的读写锁详解](http://www.jizhuomi.com/software/594.html?utm_source=tuicool&utm_medium=referral)

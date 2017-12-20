@@ -4,9 +4,9 @@
 
 主题模型经历从基于SVD的简单的LSA(隐含语义分析)，到基于概率模型与EM的pLSA，再到基于Dirichlet分布的LDA。目前，经典的主题模型一般都会基于BOW(Bag-of-Words)假设。
 
-- [Task-Driven Comparison of Topic Models](http://www.cad.zju.edu.cn/home/vagblog/?p=4151&utm_source=tuicool&utm_medium=referral)
+- [Task-Driven Comparison of Topic Models](http://www.cad.zju.edu.cn/home/vagblog/?p=4151)
 
-- [LinkedIn文本分析平台：主题挖掘的四大技术步骤](http://www.infoq.com/cn/news/2016/07/technical-details-for-topic?utm_source=tuicool&utm_medium=referral)
+- [LinkedIn文本分析平台：主题挖掘的四大技术步骤](http://www.infoq.com/cn/news/2016/07/technical-details-for-topic)
 
 # LDA
 

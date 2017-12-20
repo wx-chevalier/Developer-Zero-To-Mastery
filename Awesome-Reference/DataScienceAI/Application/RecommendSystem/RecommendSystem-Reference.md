@@ -12,7 +12,7 @@
 
 * [你不能错过的 “推荐系统” 资料合集](https://gold.xitu.io/entry/5760c8446be3ff006a02720b)
 
-* [推荐系统的苟且和远方](http://h2ex.com/1280?utm_source=tuicool&utm_medium=referral)
+* [推荐系统的苟且和远方](http://h2ex.com/1280)
 
 * [深度丨从零搭建推荐体系： 推荐体系和评估体系（下）](http://www.tuicool.com/articles/67ZjIrZ)
 

@@ -12,7 +12,7 @@
 
 ## UI
 
-* [那些年我们用过的显示性能指标](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=936&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [那些年我们用过的显示性能指标](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=936)
 
 * [Android Data Binding: Adding some variability](https://medium.com/google-developers/android-data-binding-adding-some-variability-1fe001b3abcc)
 

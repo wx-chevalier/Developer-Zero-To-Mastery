@@ -60,6 +60,12 @@
 
 # 云计算
 
+- [吴军博士-大数据与2%的人类](http://www.chinahadoop.cn/course/136/learn#lesson/3822)
+
+- [解读2015之大数据篇：大数据的黄金时代](http://www.tuicool.com/articles/MBVFrmQ)
+
+- [Cloud Native Computing](http://container-solutions.com/cloud-native-computing/)
+
 # 大厂分享
 
 * [2017 杭州云栖大会精华 PPT](https://github.com/Alimei/hangzhouYunQi2017ppt): 杭州云栖大会是阿里集团一年一度的全生态科技盛会。此次大会包含 140 多场技术主题论坛，共计 800 多个主题分享，涵盖人工智能、金融科技、量子计算、生命科学、IoT 、政务、多媒体、VR 等 20 多个前沿科技领域。
