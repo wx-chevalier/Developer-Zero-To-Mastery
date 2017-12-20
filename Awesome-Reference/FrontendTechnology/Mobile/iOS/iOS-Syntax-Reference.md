@@ -14,7 +14,7 @@
 
 ## Tabbar
 
-- [Swift语言Storyboard教程:一个基于Tabbar与Navigation的小应用](http://www.cocoachina.com/ios/20150112/10892.html?utm_source=tuicool&utm_medium=referral)
+- [Swift语言Storyboard教程:一个基于Tabbar与Navigation的小应用](http://www.cocoachina.com/ios/20150112/10892.html)
 
 - [自定义 UITabBar 总结](http://www.tuicool.com/articles/uymy2y)
 

@@ -4,7 +4,7 @@
 
 - [2012 - Machine Learning A Probabilistic Perspective - Chapter 2 - Probability](https://drive.wps.cn/view/l/8a5acb26d91f4008b425430eae8565fb)
 
-- [【机器学习技术】高斯过程初探](http://www.jianshu.com/p/2283a7c56639?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [【机器学习技术】高斯过程初探](http://www.jianshu.com/p/2283a7c56639)
 
 - [Notes Nonparametric Bayesian Methods and Dirichlet Processes](https://github.com/tdhopper/notes-on-dirichlet-processes)
 

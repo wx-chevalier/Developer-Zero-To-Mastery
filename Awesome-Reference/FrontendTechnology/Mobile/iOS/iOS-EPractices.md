@@ -24,7 +24,7 @@
 
 # 架构模式
 
-- [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns?utm_source=tuicool&utm_medium=referral)
+- [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
 
 - [ReSwift](https://github.com/ReSwift/ReSwift)
 

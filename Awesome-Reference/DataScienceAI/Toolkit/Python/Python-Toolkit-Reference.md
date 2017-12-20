@@ -1,4 +1,4 @@
-[toc]
+
 
 # DataScienceAI Python
 
@@ -37,7 +37,7 @@
 
 - [nlp_compromise](https://github.com/nlp-compromise/nlp_compromise):a cool way to use natural language in javascript
 
-- [snownlp](https://github.com/isnowfy/snownlp?utm_source=tuicool):一个基于 Python 的中文处理
+- [snownlp](https://github.com/isnowfy/snownlp):一个基于 Python 的中文处理
 
 ## Gensim
 

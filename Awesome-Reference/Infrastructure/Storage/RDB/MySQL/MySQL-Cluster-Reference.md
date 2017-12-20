@@ -16,10 +16,10 @@
 
 - [Atlas](https://github.com/Qihoo360/Atlas)
 
-- [Mycat与数据访问层](http://minirick.duapp.com/mycatyu-chou-xiang-shu-ju-ceng/?utm_source=tuicool&utm_medium=referral)
+- [Mycat与数据访问层](http://minirick.duapp.com/mycatyu-chou-xiang-shu-ju-ceng/)
 
 - [MySQL数据库复制概论](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342801&idx=1&sn=337f93df2278f749be14eb82ba34cd64&scene=23&srcid=0713bxquXQNfMnx3VPOjdGL4#rd)
 
 - [exploration-of-distributed-mysql-cluster-scheme](http://www.infoq.com/cn/articles/exploration-of-distributed-mysql-cluster-scheme)
 
-- [Yelp —— Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html?utm_source=tuicool&utm_medium=referral)
+- [Yelp —— Streaming MySQL tables in real-time to Kafka](http://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html)

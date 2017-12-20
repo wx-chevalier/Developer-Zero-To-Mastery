@@ -26,4 +26,4 @@
 
 - [Twitter情感分析技术](http://www.infoq.com/cn/news/2015/12/Twitter-api-notion)
 
-- [bayesian_sentiment_analysis](https://github.com/kennycason/bayesian_sentiment_analysis?utm_source=tuicool&utm_medium=referral)
+- [bayesian_sentiment_analysis](https://github.com/kennycason/bayesian_sentiment_analysis)

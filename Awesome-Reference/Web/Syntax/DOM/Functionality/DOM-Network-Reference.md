@@ -10,7 +10,7 @@
 
 * [前端解决跨域问题的 8 种方案（最新最全）](http://www.tuicool.com/articles/ENZbEvi)
 
-* [JavaScript  四种跨域方法](http://segmentfault.com/a/1190000003642057?utm_source=tuicool)
+* [JavaScript  四种跨域方法](http://segmentfault.com/a/1190000003642057)
 
 * [同源策略和跨域访问](http://blog.csdn.net/shimiso/article/details/21830313)
 

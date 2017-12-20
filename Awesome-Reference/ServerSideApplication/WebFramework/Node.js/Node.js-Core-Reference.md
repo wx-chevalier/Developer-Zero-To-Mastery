@@ -10,4 +10,4 @@
 
 # Native Modules: 原生模块
 
-* [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/?utm_source=tuicool&utm_medium=referral)
+* [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)

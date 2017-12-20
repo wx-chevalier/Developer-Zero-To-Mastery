@@ -20,9 +20,9 @@
 
 - [Stevia](https://github.com/s4cha/Stevia)
 
-- [Smile-Lock](https://github.com/liu044100/Smile-Lock?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [Smile-Lock](https://github.com/liu044100/Smile-Lock)
 
-- [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView)
 
 ## Gallery 
 

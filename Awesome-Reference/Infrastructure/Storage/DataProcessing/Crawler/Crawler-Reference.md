@@ -8,7 +8,7 @@
 
 * [2017-Colly #Project# ](https://github.com/asciimoo/colly): Lightning Fast and Elegant Scraping Framework for Gophers.
 
-* [爬虫集合](https://github.com/facert/awesome-spider?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [爬虫集合](https://github.com/facert/awesome-spider)
 
 * [Scrape any Website/Service/API with a single SQL Select Statement](https://hackernoon.com/scrape-any-website-service-api-with-a-single-sql-select-statement-8d60be1e9a49#.qk9dmtpdv)
 

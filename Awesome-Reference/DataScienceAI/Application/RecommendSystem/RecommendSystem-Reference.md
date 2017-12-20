@@ -18,10 +18,10 @@
 
 * [推荐系统老司机的十条经验 ](http://mp.weixin.qq.com/s?__biz=MzA4OTk5OTQzMg==&mid=2449231408&idx=1&sn=e564d339803a04a59293c585b82a1a03)
 
-* [基于用户画像的实时异步化视频推荐系统](http://www.jianshu.com/p/83af9502acb6?utm_source=tuicool&utm_medium=referral)
+* [基于用户画像的实时异步化视频推荐系统](http://www.jianshu.com/p/83af9502acb6)
 
 * [2017-Two Decades of Recommender Systems at Amazon.com](https://parg.co/bIx): Amazon is well-known for personalization and recommendations, which help customers discover items they might otherwise not have found. In this update to our original paper, we discuss some of the changes as Amazon has grown.
 
 * [除了 LR，FM（FFM）方法，CTR 预测还有那些方法，应用较为广泛？](https://www.zhihu.com/question/56204961/answer/263448135)
 
-- [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.infoq.com/cn/news/2015/05/pandas-scipy-d3-js?utm_source=tuicool&utm_medium=referral)
+- [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.infoq.com/cn/news/2015/05/pandas-scipy-d3-js)

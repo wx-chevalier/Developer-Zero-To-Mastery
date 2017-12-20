@@ -2,4 +2,4 @@
 
 # Weex 学习与实践资料索引
 
-- [阿里云社区Weex技术专题](https://yq.aliyun.com/topic/34?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [阿里云社区Weex技术专题](https://yq.aliyun.com/topic/34)

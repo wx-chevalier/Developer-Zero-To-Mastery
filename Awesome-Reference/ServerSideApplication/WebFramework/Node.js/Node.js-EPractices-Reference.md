@@ -4,7 +4,7 @@
 
 * [2017-Node.js Best Practices](https://github.com/i0natan/nodebestpractices): The largest Node.JS best practices list. Curated from the top ranked articles and always updated.
 
-- [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/?utm_source=tuicool&utm_medium=referral)
+- [Advanced Node.js Project Structure Tutorial - Node.js at Scale](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale/)
 
 - [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
 
@@ -54,7 +54,7 @@
 
 ## 内存泄露
 
-* [simple-guide-to-finding-a-javascript-memory-leak-in-node-js](http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/?utm_source=tuicool&utm_medium=referral)
+* [simple-guide-to-finding-a-javascript-memory-leak-in-node-js](http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/)
 
 # Mocha
 

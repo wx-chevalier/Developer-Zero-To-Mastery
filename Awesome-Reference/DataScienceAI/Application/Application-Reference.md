@@ -6,4 +6,4 @@
 
 - [The End of Monolithic Deep Learning](https://medium.com/intuitionmachine/the-end-of-monolithic-deep-learning-86937c86bc1f#.e544h2bin)
 
-- [机器学习的平台化发展趋势](https://zhuanlan.zhihu.com/p/24512393?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [机器学习的平台化发展趋势](https://zhuanlan.zhihu.com/p/24512393)

@@ -62,11 +62,11 @@
 
 - [深度 | Google Brain 研究员详解聊天机器人：面临的深度学习技术问题以及基于 TensorFlow 的开发实践 ](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650716717&idx=1&sn=c7cbccb6b34549629b36d3d2f0cc37f3&scene=0#wechat_redirect)
 
-- [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/?utm_source=tuicool&utm_medium=referral)
+- [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
 
 - [TensorFlow Book【Book】](https://github.com/BinRoot/TensorFlow-Book)
 
-- [ tensorflow架构 ](http://blog.csdn.net/stdcoutzyx/article/details/51645396?utm_source=tuicool&utm_medium=referral)
+- [ tensorflow架构 ](http://blog.csdn.net/stdcoutzyx/article/details/51645396)
 
 # TFLearn
 

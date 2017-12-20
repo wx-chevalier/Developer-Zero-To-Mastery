@@ -74,7 +74,7 @@
 
 # Layout & Rendering: 界面布局与渲染策略
 
-* [高性能 JavaScript 重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
+* [高性能 JavaScript 重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html)
 
 * [improving-your-css-with-parker](http://csswizardry.com/2016/06/improving-your-css-with-parker/)
 

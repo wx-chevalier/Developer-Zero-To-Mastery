@@ -14,6 +14,6 @@
 
 - [MongoDB · 特性分析 · MMAPv1 存储引擎原理](http://mp.weixin.qq.com/s?__biz=MzAwNjQwNzU2NQ==&mid=2650342491&idx=1&sn=20251a07028e4abd8f748132095157c3&scene=23&srcid=0417h1lnv1kil2BaQ7Bis1RS#rd)
 
-- [MongoDB索引原理](http://blog.yunnotes.net/index.php/mongodb-index-howto/?utm_source=tuicool&utm_medium=referral)
+- [MongoDB索引原理](http://blog.yunnotes.net/index.php/mongodb-index-howto/)
 
 - [Memdb](http://rain1017.github.io/memdb/):Mongodb中事务支持

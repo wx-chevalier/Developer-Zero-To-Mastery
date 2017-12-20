@@ -20,7 +20,7 @@
 
 ## WebView
 
-* [Native 与 H5 交互的那些事 ](http://zhengxiaoyong.me/2016/04/20/Native%E4%B8%8EH5%E4%BA%A4%E4%BA%92%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Native 与 H5 交互的那些事 ](http://zhengxiaoyong.me/2016/04/20/Native%E4%B8%8EH5%E4%BA%A4%E4%BA%92%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 
 ## Tabbar
 

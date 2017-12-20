@@ -737,7 +737,7 @@ git add .gitattributes
 ### 分支管理
 ```
 
-[toc]
+
 > - [Git常用命令整理](http://justcoding.iteye.com/blog/1830388)
 
 # Initialization & Config

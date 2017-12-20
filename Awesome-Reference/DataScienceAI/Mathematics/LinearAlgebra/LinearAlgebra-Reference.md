@@ -12,4 +12,4 @@
 
 ## SVD: 奇异值分解
 
-- [强大的矩阵奇异值分解(SVD)及其应用](http://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [强大的矩阵奇异值分解(SVD)及其应用](http://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html)

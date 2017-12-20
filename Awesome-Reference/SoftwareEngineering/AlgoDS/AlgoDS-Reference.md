@@ -56,7 +56,7 @@
 
 * [Introduction to Data Structures and Algorithms](http://www.idevelopment.info/data/Programming/data_structures/overview/Data_Structures_Algorithms_Introduction.shtml)
 
-* [VisuAlgo](http://visualgo.net/?ref=webdesignernews.com?utm_source=mybridge&utm_medium=email&utm_campaign=read_more&_branch_match_id=296605835303953850): 以动画与交互形式展现常见数据结构与算法的工作流程
+* [VisuAlgo](http://visualgo.net/?ref=webdesignernews.com&_branch_match_id=296605835303953850): 以动画与交互形式展现常见数据结构与算法的工作流程
 
 ### Books & Tools
 

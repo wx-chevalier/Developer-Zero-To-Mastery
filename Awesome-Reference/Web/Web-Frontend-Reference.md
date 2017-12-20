@@ -260,7 +260,7 @@
 
 - 网页渲染:[CSDN-开发者应该知道的有关于网页渲染的事](http://www.csdn.net/article/2015-06-12/2824946)、[JS一定要放在Body的最底部么？聊聊浏览器的渲染机制](http://delai.me/code/js-and-performance/)
 
-- [高性能JavaScript重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html?utm_source=tuicool)
+- [高性能JavaScript重排与重绘](http://www.cnblogs.com/zichi/p/4720000.html)
 
 - [how-browsers-work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 

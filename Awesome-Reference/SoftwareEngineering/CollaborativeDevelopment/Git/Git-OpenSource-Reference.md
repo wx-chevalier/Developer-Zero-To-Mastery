@@ -19,4 +19,4 @@ gitgraphjs提供了一套基于JS的绘图的API，方便进行Git中常见的�
 
 ![](https://github.com/buunguyen/octotree/raw/master/docs/chrome-github.png)
 
-[极简的 Git 服务器：git-daemon](http://harttle.com/2016/06/20/git-daemon.html?utm_source=tuicool&utm_medium=referral)
+[极简的 Git 服务器：git-daemon](http://harttle.com/2016/06/20/git-daemon.html)

@@ -10,7 +10,7 @@
 
 ## NPM
 
-* [NodeJS 包管理工具 ——npm 入门](http://aerotiger.info/archives/beginners-guide-node-package-manager.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [NodeJS 包管理工具 ——npm 入门](http://aerotiger.info/archives/beginners-guide-node-package-manager.html)
 
 * [What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file?](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies/22004559#22004559)
 

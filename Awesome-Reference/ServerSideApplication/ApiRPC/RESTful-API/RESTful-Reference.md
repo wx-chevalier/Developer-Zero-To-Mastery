@@ -8,12 +8,12 @@
 
 - [rest-api-documentation](https://dzone.com/articles/rest-api-documentation-part-1)
 
-* [编写符合规范的 REST 接口](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0&utm_source=tuicool&utm_medium=referral)
+* [编写符合规范的 REST 接口](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=208060670&idx=1&sn=ce67b8896985e8448137052b338093e0)
 
 * [Consumer-Driven Contracts: A Service Evolution Pattern](http://martinfowler.com/articles/consumerDrivenContracts.html)
 
 * [rest-anti-patterns](http://marcelo-cure.blogspot.jp/2016/09/rest-anti-patterns.html)
-* [一些 Rest 最佳实践](http://colobu.com/2015/08/10/some-REST-best-practices/?utm_source=tuicool)
+* [一些 Rest 最佳实践](http://colobu.com/2015/08/10/some-REST-best-practices/)
 
 * [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 

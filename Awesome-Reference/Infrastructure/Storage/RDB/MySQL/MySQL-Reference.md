@@ -32,7 +32,7 @@
 
 ### Practice & Resource
 
-- [单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://www.francissoung.com/2016/04/15/%E5%8D%95%E8%A1%A860%E4%BA%BF%E8%AE%B0%E5%BD%95%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%BA%E6%99%AF%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%92%8C%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93/?utm_source=tuicool&utm_medium=referral)
+- [单表60亿记录等大数据场景的MySQL优化和运维之道 | 高可用架构](http://www.francissoung.com/2016/04/15/%E5%8D%95%E8%A1%A860%E4%BA%BF%E8%AE%B0%E5%BD%95%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%BA%E6%99%AF%E7%9A%84MySQL%E4%BC%98%E5%8C%96%E5%92%8C%E8%BF%90%E7%BB%B4%E4%B9%8B%E9%81%93/)
 
 - [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
 
@@ -66,7 +66,7 @@
 
 - [都是主键惹的祸-记一次死锁分析过程 ](http://mp.weixin.qq.com/s?__biz=MjM5NzAzMTY4NQ==&mid=2653929270&idx=1&sn=e0e2bf70746ce4d21085a21a5b61e997&chksm=bd3b255c8a4cac4ae07923b76e21b34e5c92297bd775e32dc6c79c9c61d8f9a280b59c671d53&scene=0#wechat_redirect)
 
-- [mysql使用utf8mb4经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd&utm_source=tuicool&utm_medium=referral)
+- [mysql使用utf8mb4经验吐血总结](http://mp.weixin.qq.com/s?__biz=MzAwMDU2ODU3MA==&mid=2247484084&idx=1&sn=e3740e1087dc73ffcdc4b56bfeaaaa6d&chksm=9ae7bf21ad9036370e8174995ff73775a0ff8c8a51b9995fc8675a994a768a136d187e2aa76d#rd)
 
 # EPractices
 

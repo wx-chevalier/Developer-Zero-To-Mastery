@@ -50,6 +50,6 @@
 
 - [tips-for-making-a-cli-based-tool-with-node](https://medium.com/@kentcdodds/tips-for-making-a-cli-based-tool-with-node-9903255c2a3b#.ugk1a07dg)
 
-- [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [【译】使用 Node.js 创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 
 - [auto-sni](https://github.com/DylanPiercey/auto-sni):Free, automated HTTPS for NodeJS made easy.
