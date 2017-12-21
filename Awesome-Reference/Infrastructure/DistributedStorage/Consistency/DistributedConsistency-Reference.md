@@ -1,23 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 分布式一致性资料索引
-
-
 
 - [高并发下本地锁+分布式锁](https://adamswanglin.github.io/wllock/) 
 
