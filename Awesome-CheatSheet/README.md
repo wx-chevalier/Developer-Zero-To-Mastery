@@ -1,3 +1,5 @@
+![](https://parg.co/UQw)
+
 [中文版本](./README.md) | [English Version](./README.en.md)
 
 # Awesome CheatSheet: 语法速览, 实践备忘，从零到一，上手即用
