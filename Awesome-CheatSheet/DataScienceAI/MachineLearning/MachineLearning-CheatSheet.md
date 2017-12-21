@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 # 机器学习概念速览
 
 ![](http://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet.png)

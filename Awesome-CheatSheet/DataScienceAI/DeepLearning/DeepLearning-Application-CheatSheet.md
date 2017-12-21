@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 > 本文翻译自[Oliver Cameron](https://medium.com/@olivercameron?source=post_header_lockup)的[DeepLearning-Is-Revolutionary](https://medium.com/@olivercameron/deep-learning-is-revolutionary-d0f3667bafa0#.g4c7xvd6r)。本文中涉及到一些语音播放等推荐直接阅读原文听取。本文从属于笔者的[程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)，推荐阅读[有趣的机器学习：从多项拟合到深度学习](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/blob/master/machinelearning-is-fun-for-anyone-curious-about-ml.md)、[数据科学与机器学习概论](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/blob/master/datascience-machinelearning.md)
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/11/1/1-gVvI3V9QZNYFpcaEjKU7-A.gif)

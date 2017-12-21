@@ -1,4 +1,7 @@
-[![返回目录](https://parg.co/USw)](https://parg.co/bxN)
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
+
 
 # ECMAScript 各版本特性概述
 

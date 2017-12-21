@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 # ElasticSearch 清单
 
 ElasticSearch 是一个基于[Apache Lucene(TM)](https://lucene.apache.org/core/)的开源搜索引擎。无论在开源还是专有领域，Lucene 可以被认为是迄今为止最先进、性能最好的、功能最全的搜索引擎库。但是，Lucene 只是一个库。想要使用它，你必须使用 Java 来作为开发语言并将其直接集成到你的应用中，更糟糕的是，Lucene 非常复杂，你需要深入了解检索的相关知识来理解它是如何工作的。ElasticSearch 也使用 Java 开发并使用 Lucene 作为其核心来实现所有索引和搜索的功能，但是它的目的是通过简单的`RESTful API`来隐藏 Lucene 的复杂性，从而让全文搜索变得简单。不过，Elasticsearch 不仅仅是 Lucene 和全文搜索，我们还能这样去描述它：

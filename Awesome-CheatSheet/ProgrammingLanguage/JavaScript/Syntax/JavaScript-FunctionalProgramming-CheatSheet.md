@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 > [原文地址](https://github.com/hemanth/functional-programming-jargon) 译者的[Github 系列文章地址](https://github.com/wxyyxc1992/just-coder-handbook/blob/master/ProgrammingParadigm/FunctionalProgramming/functional-programming-jargon-by-javascript.md) 本文原作者尚未全部完成，有兴趣的可以到原文或者译文地址关注更新
 
 # Functional Programming Jargon: 函数式编程术语解释

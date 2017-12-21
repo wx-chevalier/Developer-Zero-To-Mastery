@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 > 本文翻译自 David Gilbertson 的[19-things-i-learnt-reading-the-nodejs-docs](https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.1twxqa1tm) 本文从属于笔者的[Web 开发入门与最佳实践](https://github.com/wxyyxc1992/Web-Develop-Introduction-And-Best-Practices)中[NodeJS 入门与最佳实践](https://github.com/wxyyxc1992/Web-Develop-Introduction-And-Best-Practices/tree/master/Server/NodeJS)系列文章。
 
 虽然我已经用了三年多的 NodeJS，也曾经以为自己对其无所不知。但是我好像从未有安静的坐下来仔细地阅读 NodeJS 的完整文档。如果有熟悉我的朋友应该知道，我之前已经看了 HTML，DOM，Web APIs，CSS，SVG 以及 ECMAScript 的文档，NodeJS 是我这个系列的最后一个待翻阅的山峰。在阅读文档的过程中我也发现了很多本来不知道的知识，我觉得我有必要分享给大家。不过文档更多的是平铺直叙，因此我也以阅读的顺序列举出我觉得需要了解的点。

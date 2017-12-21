@@ -32,6 +32,14 @@ const repos: { [key: string]: ReposityConfig } = {
     localPath: `${baseLocalDir}/Coder-Knowledge-Management/Awesome-Reference`,
   },
 
+  'Awesome-CheatSheet': {
+    description: 'Awesome-CheatSheet',
+    sUrl: 'https://parg.co/UCH',
+    chapterHeader: 'https://parg.co/UCb',
+    depth: 2,
+    localPath: `${baseLocalDir}/Coder-Knowledge-Management/Awesome-CheatSheet`,
+  },
+
   // Domain-of-ProgrammingLanguage
 
   'Modern-JavaScript-Development-Foundation': {

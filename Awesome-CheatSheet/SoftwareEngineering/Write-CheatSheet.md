@@ -1,3 +1,6 @@
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+ 
+ 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/9/1/%25E4%25B8%25AD%25E6%2596%2587%25E6%258E%2592%25E7%2589%2588%25E6%258C%2587%25E5%258D%2597.jpg)
 
 | 1983 | 肯 · 汤普逊 丹尼斯 · 里奇                       | UNIX 操作系统和 C 语言                                                                                 |
