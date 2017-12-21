@@ -1,4 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
+
 
 # 计算机视觉资料索引
 
@@ -7,7 +9,7 @@
 # OCR
 
 * [2017-Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning]()
-
+  
 - [2017-Deep image prior #Project#](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
 
 - [2017-How to break a CAPTCHA system in 15 minutes with Machine Learning](https://parg.co/UsP): Let’s hack the world’s most popular Wordpress CAPTCHA Plug-in.

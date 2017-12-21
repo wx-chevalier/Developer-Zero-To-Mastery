@@ -13,13 +13,30 @@ export interface FileDescriptor {
   rawContent?: string;
 
   // 文件链接
-  html_url: string;
+  html_url?: string;
 
   // 文件内的一级目录
   h1s?: Array<string>;
 }
 
 // 文件树
+/**
+ * {
+ *  files:[],
+ *  dirName:{
+ *    files:[
+ *      {
+ *        // 文件路径
+ *        path:"...",
+ *        fileName:"...",
+ *        // 文件所有的一级标题
+ *        h1s:["..."]
+ *      }
+ *    ],
+ *    dirName:{...}
+ *  }
+ * }
+ */
 export interface FileTree {
   dirs: {
     [key: string]: FileTree;

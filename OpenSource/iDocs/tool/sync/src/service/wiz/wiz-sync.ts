@@ -14,11 +14,16 @@ import { LICENSE } from '../../shared/license';
  * @param {string} repoName
  * @param option
  */
-export function wizSync(basePath = '/tmp', repoName = 'Awesome-Reference', option: {} = {}) {
+export function wizSync(
+  basePath = '/tmp',
+  repoName = 'Awesome-Reference',
+  option: {} = {}
+) {
   // 获得到仓库名
   const repo = repos[repoName];
 
   // 获得到为知笔记对应的路径
+  // @ts-ignore
   const wizCatalogue = repo.wizCatalogue;
 
   puppeteer.launch({ headless: false }).then(async browser => {

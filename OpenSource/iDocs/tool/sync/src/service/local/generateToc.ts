@@ -1,11 +1,18 @@
+import {
+  generateFileTree,
+  generateTocFromFileTree,
+  generateTocFromFileTreeWithSubHeader,
+} from '../../util/fs/file';
+
 const walkSync = require('walk-sync');
 const { promisify } = require('util');
 const fs = require('fs-extra');
 const readFileAsync = promisify(fs.readFile);
+const debug = require('debug')('generateToc');
 
 import { default as repos, ReposityConfig } from '../../shared/repo-config';
 
-export async function decorate(repoName = 'Awesome-Reference') {
+export async function generateToc(repoName = 'Awesome-Reference') {
   const repo: ReposityConfig = repos[repoName];
 
   const files = walkSync(repo.localPath).filter(
@@ -22,10 +29,21 @@ export async function decorate(repoName = 'Awesome-Reference') {
 
     // 替换已经存在的图片
     content = content.replace(/\[!\[返回目录\]\(.*\)\]\(.*\)/g, '');
-    content = content.replace(/【Project】/g, ' #Project# ');
 
     content = header + content;
 
     fs.outputFile(absoluteFile, content);
   }
+
+  let fileTree = await generateFileTree(repo.localPath);
+
+  let toc;
+
+  if (repo.depth === 1) {
+    toc = generateTocFromFileTree(fileTree);
+  } else {
+    toc = generateTocFromFileTreeWithSubHeader(fileTree, 0);
+  }
+
+  fs.outputFile('toc.md', toc);
 }

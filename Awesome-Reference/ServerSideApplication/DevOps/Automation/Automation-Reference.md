@@ -1,3 +1,5 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 # 自动化资料索引
 
 # Ansibe

@@ -1,3 +1,5 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 # 变分推导资料索引
 
 * [David M. Blei-Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)

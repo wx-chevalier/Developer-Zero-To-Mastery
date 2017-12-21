@@ -1,3 +1,5 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 # OCR 资料索引
 
 - [LEADTOOLs](http://leadtools.gcpowertools.com.cn/orders/) 

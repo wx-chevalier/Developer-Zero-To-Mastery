@@ -1,4 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
+
 
 # JavaScript 语法基础资料索引
 

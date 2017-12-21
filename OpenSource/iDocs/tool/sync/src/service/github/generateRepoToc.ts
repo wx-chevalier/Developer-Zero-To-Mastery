@@ -1,9 +1,12 @@
-import { FileDescriptor, FileTree } from './interface';
+import { FileDescriptor, FileTree } from '../../util/fs/interface';
 import { getH1sFromMDString } from '../../util/markdown/md';
 import { ignoreFilesOrDirs } from '../../shared/dict';
 import { GITHUB_PASSWORD, GITHUB_USERNAME } from '../../shared/private';
+import {
+  generateTocFromFileTree,
+  generateTocFromFileTreeWithSubHeader,
+} from '../../util/fs/file';
 
-const debug = require('debug')('generateRepoToc');
 const fs = require('fs-extra');
 
 const GitHub = require('github-api');
@@ -36,7 +39,7 @@ export async function generateRepoToc(
   let toc;
 
   if (useSubHeader) {
-    toc = await generateTocFromFileTreeWithSubHeader(fileTree);
+    toc = await generateTocFromFileTreeWithSubHeader(fileTree, currentDepth);
   } else {
     toc = await generateTocFromFileTree(
       fileTree,
@@ -103,85 +106,6 @@ async function dfsWalkToGenerateFileTree(repo, dir, path) {
   }
 
   return fileTree;
-}
-
-/**
- * 功能：生成二级列表形式目录，用于所有书籍系列
- * @param {FileTree} fileTree
- * @param dirAbsolutePathPrefix
- * @return {string}
- */
-export function generateTocFromFileTree(
-  fileTree: FileTree,
-  dirAbsolutePathPrefix = '/'
-): string {
-  let toc = '';
-
-  // 首先处理所有的文件
-  for (let file of fileTree.files) {
-    // 如果是需要忽略的文件，则直接跳过
-    if (ignoreFilesOrDirs.includes(file.name)) {
-      continue;
-    }
-
-    toc += `    ${formatToc(file)}`;
-  }
-
-  // 遍历当前目录下的所有文件夹
-  for (let dirName in fileTree.dirs) {
-    const dir = fileTree.dirs[dirName];
-
-    toc += `- [${dirName}](${dirAbsolutePathPrefix +
-      '/' +
-      encodeURIComponent(dirName) +
-      '/Index.md'}) \n`;
-
-    toc += generateTocFromFileTree(dir, dirAbsolutePathPrefix);
-  }
-
-  return toc;
-}
-
-/**
- * 功能：基于仓库内容，生成二级标题的目录，用于 Awesome Reference、Awesome CheatSheet 等系列
- * @param {FileTree} fileTree
- * @return {string} 用于表示目录的字符串
- */
-export function generateTocFromFileTreeWithSubHeader(
-  fileTree: FileTree
-): string {
-  let toc = '';
-
-  // 首先处理所有的文件
-  for (let file of fileTree.files) {
-    // 如果是需要忽略的文件，则直接跳过
-    if (ignoreFilesOrDirs.includes(file.name)) {
-      continue;
-    }
-
-    toc += `${formatToc(file)}`;
-  }
-
-  for (let dirName in fileTree.dirs) {
-    const dir = fileTree.dirs[dirName];
-
-    if (currentDepth == 0) {
-      toc += `## ${dirName} \n`;
-    } else if (currentDepth == 1) {
-      toc += `### ${dirName} \n`;
-    } else {
-      toc += `*** \n`;
-    }
-
-    // 进入下一级
-    currentDepth += 1;
-
-    toc += generateTocFromFileTreeWithSubHeader(dir);
-
-    currentDepth -= 1;
-  }
-
-  return toc;
 }
 
 // generateRepoToc(

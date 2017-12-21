@@ -1,3 +1,5 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+ 
 # 文本表示
 
 - [2016-NLP Research Lab Part 1: Distributed Representations](http://blog.districtdatalabs.com/nlp-research-lab-part-1-distributed-representations): How I Learned To Stop Worrying And Love Word Embeddings
