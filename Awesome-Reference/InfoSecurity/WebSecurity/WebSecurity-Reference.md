@@ -36,6 +36,8 @@
 
 * [大话数据库 SQL 注入的 N 种姿势](http://www.freebuf.com/articles/web/98119.html)
 
+- [2017-NetSPI SQL Injection Wiki](https://sqlwiki.netspi.com/): This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
+
 # WebShell
 
 * [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
