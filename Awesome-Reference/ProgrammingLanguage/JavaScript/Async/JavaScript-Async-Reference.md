@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # JavaScript 异步编程资料索引
 
@@ -18,15 +16,15 @@
 
 - [Node.js Flow (part 1) - Callback Hell vs. Async vs. Highland](http://blog.vullum.io/javascript-flow-callback-hell-vs-async-vs-highland/)
 
+- [Introduction into Channels and Transducers in JavaScript](http://www.tuicool.com/articles/zmmAjiU)
+
+# Callback
+
 - [Callback Hell](http://callbackhell.com/)
 
 - [Don't release Zalgo!](https://oren.github.io/blog/zalgo.html)
 
-- [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.yeuxdynfz)
-
-- [Introduction into Channels and Transducers in JavaScript](http://www.tuicool.com/articles/zmmAjiU)
-
-## Promise
+# Promise
 
 * [2017-How to make the fastest Promise library](https://parg.co/bhz): I have developed Aigle which is a fast Promise library. It is inspired byBluebird. The library is not only a benchmark exercise but a production-ready library that implements the Promise A+ standard, and does so faster than Bluebird.
 
@@ -40,11 +38,15 @@
 
 - [写一个符合 Promises/A+ 规范并可配合 ES7 async/await 使用的 Promise](https://zhuanlan.zhihu.com/p/23312442)
 
-## Generator
+- [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.yeuxdynfz)
+
+# Generator
 
 * [2017-Asyncing Feeling about JavaScript Generators](https://www.bignerdranch.com/blog/asyncing-feeling-about-javascript-generators/)
 
-## async/await
+- [2017-The Hidden Power of ES6 Generators: Observable Async Flow Control](https://parg.co/Uhl): In that article, I intentionally sidestepped another major use-case for generators. Arguably, the primary use case: Asynchronous flow control.
+
+# async/await
 
 * [2017-Await and Async Explained with Diagrams and Examples](http://nikgrozev.com/2017/10/01/async-await/)
 
