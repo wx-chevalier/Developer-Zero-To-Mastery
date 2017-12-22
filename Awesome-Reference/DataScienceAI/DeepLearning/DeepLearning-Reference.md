@@ -41,9 +41,11 @@
 
 ## 盘点与回顾
 
-* [Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
+* [2016-Deep Learning 2016: The Year in Review](http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review)
 
 - [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html): This post is targeted at people who already have significant experience with deep learning (e.g. people who have read chapters 1 through 8 of the book). We assume a lot of pre-existing knowledge.
+
+- [2017-Deep Learning Achievements Over the Past Year](https://parg.co/UCI): Great developments in text, voice, and computer vision technologies.
 
 # Collection: 资料索引
 
