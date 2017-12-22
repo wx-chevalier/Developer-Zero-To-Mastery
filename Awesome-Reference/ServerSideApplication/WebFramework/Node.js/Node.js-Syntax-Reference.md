@@ -24,7 +24,7 @@
 
 * [Node.js Streams 基础](http://scarletsky.github.io/2016/07/01/basics-node-js-streams/)
 
-* [A Brief History of Node Streams【Series 】](http://6me.us/cC9Jcm)
+* [A Brief History of Node Streams #Series#](http://6me.us/cC9Jcm)
 
 ## Cluster: 集群方案
 

@@ -30,7 +30,7 @@
 
 # C++
 
-* [2017-Data Structures and Algorithms Problems【Collection 】【C 】](http://www.techiedelight.com/list-of-problems/): 一系列基于 C 实现的数据结构与算法问题的总结。
+* [2017-Data Structures and Algorithms Problems #Collection#【C 】](http://www.techiedelight.com/list-of-problems/): 一系列基于 C 实现的数据结构与算法问题的总结。
 
 # Java
 

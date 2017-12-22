@@ -10,7 +10,7 @@
 
 - [2017-How To Publish Your Vue.js Component On NPM](https://parg.co/UbD): In this article I’ll show you how to prepare your component so that it can be packaged and published on NPM.
 
-- [2017-Building Large-Scale Apps with VueJS 2 【Series】](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
+- [2017-Building Large-Scale Apps with VueJS 2  #Series#](https://parg.co/Ulw): As for this series I want to share some impediments to be overcome and solutions associated with building SPAs with Vue.
 
 - [2017-Advanced Vue.js concepts: mixins, custom directives, filters, transitions, and state management](https://parg.co/UA1)
 

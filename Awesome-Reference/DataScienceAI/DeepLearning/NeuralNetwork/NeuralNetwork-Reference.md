@@ -4,7 +4,7 @@
 
 # 神经网络资料索引
 
-* [Neural networks from scratch for Javascript linguists【Series 】](https://parg.co/bNa): so let’s go on a journey, I’ll tell you everything I learned, some misconceptions I had, how to interpret the results, and some basic vocabulary and fun facts along the way.
+* [Neural networks from scratch for Javascript linguists #Series#](https://parg.co/bNa): so let’s go on a journey, I’ll tell you everything I learned, some misconceptions I had, how to interpret the results, and some basic vocabulary and fun facts along the way.
 
 * [谷歌工程师：聊一聊深度学习的 weight initialization](http://m.leiphone.com/news/201703/3qMp45aQtbxTdzmK.html)
 

@@ -87,20 +87,20 @@
 
 # Collection: 资源合集
 
-* [Computer Science Video Courses【Collection 】](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
+* [Computer Science Video Courses #Collection#](https://github.com/Developer-Y/cs-video-courses): 计算机科学与技术的系列视频搜集
 
-* [Papers We Love【Collection 】](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
+* [Papers We Love #Collection#](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss.
 
-- [2017-Awesome Creative Coding【Collection 】](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
+- [2017-Awesome Creative Coding #Collection#](https://github.com/terkelg/awesome-creative-coding): Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. This is carefully curated list of awesome creative coding resources primarily for beginners/intermediates.
 
-- [2016- 成为专业程序员路上用到的各种优秀资料、神器及框架【Collection 】](https://github.com/stanzhai/be-a-professional-programmer)
+- [2016- 成为专业程序员路上用到的各种优秀资料、神器及框架 #Collection#](https://github.com/stanzhai/be-a-professional-programmer)
 - 博客集锦：[Over 2500 dev blogs dataset](https://github.com/abdelhai/devblogs)、[Awesome Dev Blogs](https://github.com/abdelhai/awesome-dev-blogs)、[Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 - [One-Click-to-Be-Pro 【 Collection】](https://github.com/vic317yeh/One-Click-to-Be-Pro): 质量很高的优秀学习资源收集
 
-- [Github 上高达 7 万多 Star 的免费编程书籍列表【Collection 】](https://github.com/vhf/free-programming-books)
+- [Github 上高达 7 万多 Star 的免费编程书籍列表 #Collection#](https://github.com/vhf/free-programming-books)
 
-- [2016-dev-books【Collection 】](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
+- [2016-dev-books #Collection#](http://www.dev-books.com/): analysed more than 40 000 000 questions and answers on stackoverflow.com to bring you the top of most mentioned books (5720 in total)
 
 - [2017-Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 

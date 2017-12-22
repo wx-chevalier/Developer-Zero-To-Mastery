@@ -80,12 +80,12 @@
 
 
 
-- [2016 - JavaScript Stack From Scratch【Series】](https://github.com/verekia/js-stack-from-scratch):从零开始的常用JavaScript前端框架开发栈教程
+- [2016 - JavaScript Stack From Scratch #Series#](https://github.com/verekia/js-stack-from-scratch):从零开始的常用JavaScript前端框架开发栈教程
 
 - [2015 - SurviveJS  #Book#](http://survivejs.com/webpack_react/introduction/):基于React与Webpack构建一个看板应用程序来讲解Webpack/React技术栈的知识要点
 
 
-- [2016 - 阮一峰 全栈工程师培训材料【Series】](https://github.com/ruanyf/jstraining):全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发
+- [2016 - 阮一峰 全栈工程师培训材料 #Series#](https://github.com/ruanyf/jstraining):全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发
 
 - [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch):Step-by-step tutorial to build a modern JavaScript stack from scratch
 
@@ -189,7 +189,7 @@
 - [2015 - Speaking JavaScript #Book#](http://speakingjs.com/es5/index.html#toc_ch01):Dr. Axel出品的详细JavaScript基础语法的书籍。
 
 
-- [2015 - You-Dont-Know-JS【Series】](https://github.com/getify/You-Dont-Know-JS):告诉你关于许多你并不知道的JS知识
+- [2015 - You-Dont-Know-JS #Series#](https://github.com/getify/You-Dont-Know-JS):告诉你关于许多你并不知道的JS知识
 
 
 ### ES6/ES7专区
@@ -289,7 +289,7 @@
 
 
 ### React
-- 博客与论坛:[PureRender，知乎专栏，分享关于 React 相关经验及发展动态](https://zhuanlan.zhihu.com/purerender)， [React入门与最佳实践系列总纲【Series】](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/tree/master/Framework/View/React)。
+- 博客与论坛:[PureRender，知乎专栏，分享关于 React 相关经验及发展动态](https://zhuanlan.zhihu.com/purerender)， [React入门与最佳实践系列总纲 #Series#](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/tree/master/Framework/View/React)。
 
 
 
@@ -311,7 +311,7 @@
 
 ## StateManagement
 ### Redux
-- 博客与论坛:[Redux 入门与最佳实践系列总纲【Series】](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/tree/master/Framework/StateManagement/Redux)。
+- 博客与论坛:[Redux 入门与最佳实践系列总纲 #Series#](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Best-Practices/tree/master/Framework/StateManagement/Redux)。
 - 最佳实践:[深入理解Redux:10个来自专家的Redux实践建议 ](https://segmentfault.com/a/1190000006769471)。
  
 
@@ -334,7 +334,7 @@ jQuery API 替代的方法，暂时只支持 IE10+ 以上浏览器。
 
 ## NodeJS
 
-- [一起学NodeJS【Series】](https://github.com/nswbmw/N-blog):使用 Express + MongoDB 搭建多人博客 
+- [一起学NodeJS #Series#](https://github.com/nswbmw/N-blog):使用 Express + MongoDB 搭建多人博客 
 
 - [我在阅读NodeJS文档中读出的19个套路 ](https://segmentfault.com/a/1190000007435273)
 

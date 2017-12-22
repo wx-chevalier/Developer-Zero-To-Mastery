@@ -60,9 +60,9 @@
 
 # Collection: 资料集锦
 
-* [Master JavaScript Programming With 18 OpenSource Books【Collection 】](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
+* [Master JavaScript Programming With 18 OpenSource Books #Collection#](http://6me.us/snwXG): This compilation focuses on the JavaScript language with 18 solid recommendations. There are books here for beginner, intermediate, and advanced programmers alike. All of the texts are released under an open source license.
 
-* [Awesome JavaScript【Collection 】](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [Awesome JavaScript #Collection#](https://github.com/sorrycc/awesome-javascript): A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 * [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/): JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.
 

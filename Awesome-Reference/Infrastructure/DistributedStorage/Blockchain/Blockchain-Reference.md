@@ -6,7 +6,7 @@
 
 ![](https://cdn-images-1.medium.com/max/2000/1*BphKK1wX2TbhiFmbUFtI5w.jpeg)
 
-* [2017-Blockchain for non-techies【Series 】](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5): [2. How they work](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5)
+* [2017-Blockchain for non-techies #Series#](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5): [2. How they work](https://hackernoon.com/blockchain-for-non-techies-2-how-they-work-2f94d313c7e5)
 
 * [2017-Blockchain chaincode for Java developers](https://parg.co/bRM): How to write chaincode for Hyperledger Fabric v0.6 using the Java language.
 

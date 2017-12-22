@@ -28,7 +28,7 @@
 
 - [Flow vs TypeScript Type Systems for JavaScript](http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/)
 
-- [Why use static types in JavaScript?【Series】](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb): Note that I chose Flow over TypeScript in the examples in this post because of my familiarity with it.
+- [Why use static types in JavaScript? #Series#](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb): Note that I chose Flow over TypeScript in the examples in this post because of my familiarity with it.
 
 
 # Runtime Type Information

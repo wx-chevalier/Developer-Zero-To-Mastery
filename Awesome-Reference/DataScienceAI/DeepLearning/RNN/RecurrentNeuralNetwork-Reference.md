@@ -4,7 +4,7 @@
 
 # 循环神经网络资料索引
 
-* [2017-Unfolding RNNs【Series 】](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
+* [2017-Unfolding RNNs #Series#](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/): [RNN : Concepts and Architectures](http://suriyadeepan.github.io/2017-01-07-unfolding-rnn/)
 
 * [2015-RECURRENT NEURAL NETWORKS TUTORIAL](https://parg.co/bsS): Recurrent Neural Networks (RNNs) are popular models that have shown great promise in many NLP tasks. But despite their recent popularity I’ve only found a limited number of resources that throughly explain how RNNs work, and how to implement them. That’s what this tutorial is about. It’s a multi-part series in which I’m planning to cover the following.
 

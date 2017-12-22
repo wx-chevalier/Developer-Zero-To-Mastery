@@ -43,7 +43,7 @@
 
 
 
-- [2017-Idiomatic Redux: The Tao of Redux【Series】](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/): Thoughts on what Redux requires, how Redux is intended to be used, and what is possible with Redux. [Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/) 
+- [2017-Idiomatic Redux: The Tao of Redux #Series#](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/): Thoughts on what Redux requires, how Redux is intended to be used, and what is possible with Redux. [Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/) 
 
 
 # Tutorial

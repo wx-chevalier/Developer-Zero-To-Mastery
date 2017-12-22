@@ -11,7 +11,7 @@
 
 - [2017-Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2#.azcqq063o)
 
-- [React Native 学习指南【Collection】](https://github.com/reactnativecn/react-native-guide) 
+- [React Native 学习指南 #Collection#](https://github.com/reactnativecn/react-native-guide) 
 
 - [2017-React Native vs Real Native Apps](https://parg.co/U6A): This post is targeted to highlight the theoretical as well as practical aspects of using React Native in comparison with the Swift.
 

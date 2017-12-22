@@ -24,7 +24,7 @@
 
 * [2017- 深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://parg.co/bC6)：深度神经网络（DNN ）所代表的人工智能技术被认为是这一次技术变革的基石（之一）。近日，由 IEEE Fellow Joel Emer 领导的一个团队发布了一篇题为《深度神经网络的有效处理：教程和调研（Efficient Processing of Deep Neural Networks: A Tutorial and Survey ）》的综述论文，从算法、模型、硬件和架构等多个角度对深度神经网络进行了较为全面的梳理和总结。。
 
-- [Deep Learning 101【Series 】](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html): The Deep Learning 101 series is a companion piece to a talk given as part of the Department of Biomedical Informatics @ Harvard Medical School ‘Open Insights’ series. Slides for the talk are available here
+- [Deep Learning 101 #Series#](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html): The Deep Learning 101 series is a companion piece to a talk given as part of the Department of Biomedical Informatics @ Harvard Medical School ‘Open Insights’ series. Slides for the talk are available here
 
 - [深度学习：2016年的进展综述及2017年的预测 ](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653161579&idx=1&sn=e1d157cb4c6e9610be78ebf79eb4379c&chksm=8b493505bc3ebc1323b2d0a673e479d4bb9321748c62c9ad613260936849ea76c48902249868#rd)
 

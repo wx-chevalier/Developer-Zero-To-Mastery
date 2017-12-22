@@ -20,13 +20,13 @@
 
 * [2016- 分布式开放消息系统 (RocketMQ) 的原理与实践](http://www.jianshu.com/p/453c6e7ff81c)
 
-* [2016- 分布式消息队列 RocketMQ【Series 】](http://blog.csdn.net/chunlongyu/article/category/6638499)
+* [2016- 分布式消息队列 RocketMQ #Series#](http://blog.csdn.net/chunlongyu/article/category/6638499)
 
-* [2016-RocketMQ 源码分析系列文章【Series 】](http://blog.csdn.net/a417930422/article/category/6423649)
+* [2016-RocketMQ 源码分析系列文章 #Series#](http://blog.csdn.net/a417930422/article/category/6423649)
 
-* [2016-Jaskey RocketMQ 系列文章【Series 】](http://jaskey.github.io/blog/2016/12/15/rocketmq-concept/)
+* [2016-Jaskey RocketMQ 系列文章 #Series#](http://jaskey.github.io/blog/2016/12/15/rocketmq-concept/)
 
-* [2017-YunaiV RocketMQ 源码解析系列文章【Series 】](https://github.com/YunaiV/Blog/tree/master/RocketMQ)
+* [2017-YunaiV RocketMQ 源码解析系列文章 #Series#](https://github.com/YunaiV/Blog/tree/master/RocketMQ)
 
 # Kafka
 
@@ -36,7 +36,7 @@
 
 * [Kafka 设计解析（六）- Kafka 高性能架构之道](http://www.jasongj.com/kafka/high_throughput/)
 
-* [Benchmarking Kafka Performance【Series 】](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
+* [Benchmarking Kafka Performance #Series#](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)：a series that explores Kafka performance on multiple public cloud providers. [Part 1: Write Throughput](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 
 * [Kafka 深度解析](http://www.jasongj.com/2015/01/02/Kafka%e6%b7%b1%e5%ba%a6%e8%a7%a3%e6%9e%90/)
 

@@ -44,7 +44,7 @@
 - [2017-Mobdux: Combining the good parts of MobX and Redux](https://parg.co/bLd): MobX and Redux give you two opposing ways to manage your state effectively in a React application. As an experiment I attempted to merge the good parts of both approaches, and ended up with a new library, mobdux.
 
 
-- [2016-Redux vs. MobX by example【Series】](http://6me.us/KfeTad): [Part II: The Simplicity of MobX, and Conclusion](http://6me.us/KfeTad)
+- [2016-Redux vs. MobX by example #Series#](http://6me.us/KfeTad): [Part II: The Simplicity of MobX, and Conclusion](http://6me.us/KfeTad)
 
 
 # React

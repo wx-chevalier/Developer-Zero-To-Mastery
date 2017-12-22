@@ -8,7 +8,7 @@
 
 ## Test: 测试
 
-* [2017-Testing React Applications【Series 】](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
+* [2017-Testing React Applications #Series#](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
 
 * [Snapshot Testing React Components with Jest](https://semaphoreci.com/community/tutorials/snapshot-testing-react-components-with-jest)
 

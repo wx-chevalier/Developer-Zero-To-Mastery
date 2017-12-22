@@ -8,7 +8,7 @@
 
 ## Resource
 
-* [Awesome GraphQL【Collection 】](https://github.com/chentsulin/awesome-graphql): 一系列的关于 GraphQL 相关的资源的搜集
+* [Awesome GraphQL #Collection#](https://github.com/chentsulin/awesome-graphql): 一系列的关于 GraphQL 相关的资源的搜集
 
 ## Comparison: 与 REST 的对比
 
@@ -18,7 +18,7 @@
 
 # Tutorial
 
-* [2017-How to GraphQL 【 Series】](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
+* [2017-How to GraphQL  #Series#](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
 
 * [Give it a REST: use GraphQL for your APIs!](https://medium.com/@davidcelis/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.4shk2q5lq)
 

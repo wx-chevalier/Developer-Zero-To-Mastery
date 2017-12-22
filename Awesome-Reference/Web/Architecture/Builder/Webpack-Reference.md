@@ -19,7 +19,7 @@
 
 - [2017-Intro To Webpack](https://medium.com/@kimberleycook/intro-to-webpack-1d035a47028d?source=linkShare-fe48c4221a4c-1482154145): Webpack is a very complex tool, and most people do not need to know how every part of it works.
 
-- [2017-How to setup Webpack +2.0 from scratch in 2017【Series】](https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718)
+- [2017-How to setup Webpack +2.0 from scratch in 2017 #Series#](https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-v-495dba627718)
 
 - [2017-Webpack: A Detailed Introduction](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/): JavaScript module bundling has been around for a while. RequireJS had its first commits in 2009, then Browserify made its debut, and since then several other bundlers have spawned across the Internet. Among that group, webpack has jumped out as one of the best. If you’re not familiar with it, I hope this article will get you started with this powerful tool.
 
@@ -52,7 +52,7 @@
 
 - [Webpack Bundle Analyzer #Project# ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 
-- [2017-webpack for real tasks: bundling front-end and adding compilation【Series】](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/): Bundling front-end and adding compilation ,Decreasing front-end size and improving caching,  Speeding up build and improving the development workflow
+- [2017-webpack for real tasks: bundling front-end and adding compilation #Series#](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/): Bundling front-end and adding compilation ,Decreasing front-end size and improving caching,  Speeding up build and improving the development workflow
 - [基于 Webpack 搭建前端工程解决方案探索](http://www.infoq.com/cn/articles/frontend-engineering-webpack)
 
 - [基于 Webpack 的前端资源构建方案](http://lifei.github.io/2015/12/20/webpack/#___8)

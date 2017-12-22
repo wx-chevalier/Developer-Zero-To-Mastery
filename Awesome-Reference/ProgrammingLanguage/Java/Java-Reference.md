@@ -90,7 +90,7 @@
 
 ## Collection: 其他资源集锦
 
-- [2017-在Java路上，我看过的一些书、源码和框架【Collection】](http://www.jianshu.com/p/4a41ee88bd82)
+- [2017-在Java路上，我看过的一些书、源码和框架 #Collection#](http://www.jianshu.com/p/4a41ee88bd82)
 
 - [Java 程序员们值得一看的好书推荐](https://zhuanlan.zhihu.com/p/23444919)
 

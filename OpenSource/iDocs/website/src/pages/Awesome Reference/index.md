@@ -13,8 +13,8 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 - 【Article】：单篇文章，也是默认的引用类型
 - 【Slide】：幻灯片
-- 【Series】：系列文章
-- 【Book】：书籍
+-  #Series#：系列文章
+-  #Book#：书籍
 - 【Course】：视频教程
 - 【Resource】：资源集锦
 - 【Project】： 开源的项目或者框架、库。

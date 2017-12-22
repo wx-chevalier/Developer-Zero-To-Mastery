@@ -33,7 +33,7 @@
 
 - [2017-The 7 Cross-Browser Testing Tools You Need in 2016](https://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/): Even with responsive design and ever-improving standards support, cross-browser issues are not a thing of the past. Since it’s neither possible nor feasible to manually test your site in the galaxy of popular browsers and OS’s in broad use today, cross-browser testing tools come to the rescue!
 
-- [2017-Testing Your Frontend Code【Series】](http://6me.us/kNdfrD): from the point of view of a frontend newbie — to testing frontend applications.
+- [2017-Testing Your Frontend Code #Series#](http://6me.us/kNdfrD): from the point of view of a frontend newbie — to testing frontend applications.
 
 
 - [聊聊前端开发的测试](https://blog.coding.net/blog/frontend-testing)：最近在做 Coding 企业版 前端开发时花了很多时间写测试，于是和大家分享一些前端开发中的测试概念与方法。
@@ -58,7 +58,7 @@
 
 - [2015-测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html) 
 
-- [2017-How to test JavaScript with Mocha【Series】](https://parg.co/bL5)：Mocha is one of the most popular Node.js testing frameworks and while it may seem daunting, it’s actually pretty easy to get started with. [The Basics](https://parg.co/bL5)
+- [2017-How to test JavaScript with Mocha #Series#](https://parg.co/bL5)：Mocha is one of the most popular Node.js testing frameworks and while it may seem daunting, it’s actually pretty easy to get started with. [The Basics](https://parg.co/bL5)
 
 
 ## Jest
@@ -77,7 +77,7 @@
 
 - [2017-Unlocking Test Performance — Migrating from Mocha to Jest](https://parg.co/b90): Airbnb migrated from Mocha to Jest. Running our test suite with Mocha took 12+ minutes. In CI with our beefy build machines (32 cores) we’re able to run the entire Jest suite in 4 minutes 30 seconds.
 
-- [2017-Learning to test React Native with Jest【Series】](https://parg.co/be6)
+- [2017-Learning to test React Native with Jest #Series#](https://parg.co/be6)
 
 - [2017-Picking Jest over Mocha – testing tools comparison](https://parg.co/bIM)
 

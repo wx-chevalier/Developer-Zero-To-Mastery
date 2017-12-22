@@ -30,7 +30,7 @@
 
 - [死磕 Java 并发系列](http://cmsblogs.com/?author=1)：[J.U.C 之 AQS：CLH 同步队列](http://cmsblogs.com/?p=2188)、[J.U.C 之 AQS：AQS 简介](http://cmsblogs.com/?p=2174)、[Java 内存模型之总结](http://cmsblogs.com/?p=2167)、[Java 内存模型之从 JMM 角度分析 DCL](http://cmsblogs.com/?p=2161)、[Java 内存模型之分析 volatile](http://cmsblogs.com/?p=2148)、[死磕 Java 系列博客](http://cmsblogs.com/?p=2122)、[Java 内存模型之重排序](http://cmsblogs.com/?p=2116)、[ Java 内存模型之 happens-before](http://cmsblogs.com/?p=2102) 
 
-- [2017-从0到1学习Java线程池【Series】](http://6me.us/TOE3)：该系列文章总共三篇，介绍了 Java 线程池的使用以及原理，并且最后会实现一个基本的线程池。
+- [2017-从0到1学习Java线程池 #Series#](http://6me.us/TOE3)：该系列文章总共三篇，介绍了 Java 线程池的使用以及原理，并且最后会实现一个基本的线程池。
 
 - [2017-所有对象都自动含有单一的锁与一个对象可以被多次加锁的矛盾？](https://parg.co/bO2) 
 

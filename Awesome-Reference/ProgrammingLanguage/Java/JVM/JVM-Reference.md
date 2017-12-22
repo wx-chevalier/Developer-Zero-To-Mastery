@@ -15,7 +15,7 @@
 
 - [Jvm之用java解析class文件](http://www.tuicool.com/articles/ZfMnMju) 
 
-- [2017 - JVM Anatomy Park【Series】](http://6me.us/oa8): "JVM Anatomy Park" is the mini-post series, where every post is slated to take 5-10 minutes to read (and no more than 2 hours for me to write).
+- [2017 - JVM Anatomy Park #Series#](http://6me.us/oa8): "JVM Anatomy Park" is the mini-post series, where every post is slated to take 5-10 minutes to read (and no more than 2 hours for me to write).
 
 - [【笔记】Java虚拟机(一)-GC](https://darkness463.github.io/2017/03/30/Java-VM-GC/) 
 

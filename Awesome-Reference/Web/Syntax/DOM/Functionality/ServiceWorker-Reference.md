@@ -26,7 +26,7 @@
 
 * [2017-Service Worker Mock](https://parg.co/bCD): A mock service worker environment generator.
 
-* [Awesome Service Workers【Collection 】](https://github.com/TalAter/awesome-service-workers) : A collection of awesome resources for learning service workers.
+* [Awesome Service Workers #Collection#](https://github.com/TalAter/awesome-service-workers) : A collection of awesome resources for learning service workers.
 
 * [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) : This free Udacity course is a must if you're planning on building a progressive web app.
 

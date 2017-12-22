@@ -8,7 +8,7 @@
 
 - [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/)
 
-- [2013:JavaScript 异步编程【Book 】](https://drive.wps.cn/view/l/0fd7151862114e68b9e331caf1414ae1)
+- [2013:JavaScript 异步编程 #Book#](https://drive.wps.cn/view/l/0fd7151862114e68b9e331caf1414ae1)
 
 - [最后谈一次 JavaScript 异步编程](https://zhuanlan.zhihu.com/p/24444262)
 

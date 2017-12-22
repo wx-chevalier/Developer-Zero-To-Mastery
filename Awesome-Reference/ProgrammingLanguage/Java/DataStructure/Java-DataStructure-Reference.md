@@ -50,7 +50,7 @@
 
 
 
-- [Collections in Java by Java Point【Series】](https://www.javatpoint.com/collections-in-java)
+- [Collections in Java by Java Point #Series#](https://www.javatpoint.com/collections-in-java)
 
 
 # Map: 映射类型

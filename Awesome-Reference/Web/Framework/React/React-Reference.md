@@ -42,7 +42,7 @@
 
 - [2017-React Design Patterns and Best Practices #Book#](https://www.safaribooksonline.com/library/view/react-design-patterns/9781786464538/): Build modular applications that are easy to scale using the most powerful components and design patterns that React can offer you right now About This Book.
 
-- [2017-React Express【Series 】](https://github.com/dabbott/react-express): The all-in-one beginner's guide to modern React application development!
+- [2017-React Express #Series#](https://github.com/dabbott/react-express): The all-in-one beginner's guide to modern React application development!
 
 - [2017-React and React Native #Book#](https://parg.co/beh): Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps.
 
@@ -76,7 +76,7 @@
 
 ## Coding: 基础编码
 
-* [2016-Learning React with Create-React-App【Series 】](https://parg.co/bhf)
+* [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
 
 - [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
 
@@ -170,7 +170,7 @@
 
 * [2017-react-move #Project# ](https://github.com/tannerlinsley/react-move): Beautifully and deterministically animate anything in React.
 
-* [2017-React Animations 101【Series 】](https://parg.co/bMF): In this post on react animations 101, we will explore a few examples and why CSS transition are a good fit for the navigation bar.
+* [2017-React Animations 101 #Series#](https://parg.co/bMF): In this post on react animations 101, we will explore a few examples and why CSS transition are a good fit for the navigation bar.
 
 * [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.no6xhxooq)
 

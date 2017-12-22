@@ -18,7 +18,7 @@
 
 ## Base64
 
-* [Base64 Encoding & Performance【Series 】](https://csswizardry.com/2017/02/base64-encoding-and-performance/): What’s Up with Base64? & Gathering Data
+* [Base64 Encoding & Performance #Series#](https://csswizardry.com/2017/02/base64-encoding-and-performance/): What’s Up with Base64? & Gathering Data
 
 # Codec: 编码与解码
 

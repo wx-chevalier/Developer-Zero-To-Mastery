@@ -8,7 +8,7 @@
 
 # Resource: 资源汇总
 
-* [2016-Readings in Databases【Collection 】](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
+* [2016-Readings in Databases #Collection#](https://github.com/rxin/db-readings): A list of papers essential to understanding databases and building new data systems.
 
 ## Book: 书籍
 

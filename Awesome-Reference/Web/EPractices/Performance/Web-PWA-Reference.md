@@ -10,7 +10,7 @@
 
 * [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 
-* [2016-Progressive Web Apps with React.js【Series 】](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.178womihv): Progressive Web Apps take advantage of new technologies to bring the best of mobile sites & native apps to users. They’re reliable, fast, and engaging. They originate from a secure origin and load regardless of network state.
+* [2016-Progressive Web Apps with React.js #Series#](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.178womihv): Progressive Web Apps take advantage of new technologies to bring the best of mobile sites & native apps to users. They’re reliable, fast, and engaging. They originate from a secure origin and load regardless of network state.
 
 * [2016-Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) : A step-by-step guide to building a progressive web apps using the app shell pattern.
 
@@ -76,7 +76,7 @@
 
 * [2017-A beginner’s guide to making Progressive Web Apps](https://parg.co/b1n): Hopefully, this post will be all you need to get started in making your own PWA.
 
-* [2017-A progressive Web application with Vue JS, Webpack & Material Design 【 Series】](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
+* [2017-A progressive Web application with Vue JS, Webpack & Material Design  #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
 
 * [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 

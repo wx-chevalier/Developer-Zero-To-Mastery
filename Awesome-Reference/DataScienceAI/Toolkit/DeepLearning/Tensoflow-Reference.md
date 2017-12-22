@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # Tensorflow 学习与实践资料索引
 
@@ -66,10 +64,11 @@
 
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
 
-- [TensorFlow Book【Book】](https://github.com/BinRoot/TensorFlow-Book)
+- [TensorFlow Book #Book#](https://github.com/BinRoot/TensorFlow-Book)
 
 - [ tensorflow架构 ](http://blog.csdn.net/stdcoutzyx/article/details/51645396)
 
 # TFLearn
 
 - [TFLearn](https://github.com/tflearn/tflearn): Deep learning library featuring a higher-level API for TensorFlow.
+`
