@@ -9,3 +9,8 @@
 * [2017-Microservices made easy with Node.js](https://arm.ag/microservices-made-easy-with-node-js-f41bb2be2d3c): You might think microservices are too hard to get started with. This post will prove otherwise.
 
 - [2017-Progressive Image Loading using Intersection Observer and SQIP](https://parg.co/U3y): If you visit sites such as Facebook, Pinterest or Medium regularly, you may have noticed that the first time you load the page, you’ll see a page with low quality or even blurry images.
+
+# Cluster: 集群与并发架构
+
+- [2017-CPU Intensive Node.js](https://codeburst.io/cpu-intensive-node-js-part-1-1218b102e5ec): We explore the issues and solutions around running CPU intensive code in Node.js; in particular in a web server.
+
