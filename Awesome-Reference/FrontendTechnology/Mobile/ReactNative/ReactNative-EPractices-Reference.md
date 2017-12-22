@@ -2,7 +2,7 @@
  
 
 
-# ReactNative 工程实践资料索引
+# ReactNative 开发实践资料索引
 
 * [2017-Housing.com How We Built Our React Native App](https://parg.co/bDM):We
   received a very positive response from the community as well as our customers
@@ -21,7 +21,6 @@
 - [react-native-s-layoutanimation-is-awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.766zv38gf)
 
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater)
-![](https://cloud.githubusercontent.com/assets/216346/12154339/c0e6e432-b473-11e5-8aa9-29ef89029c08.gif)
 
 - [CodePush](https://microsoft.github.io/code-push/):Push Code Updates to Your APPs Instantly
 
@@ -34,3 +33,12 @@
 - [React Native之底层源码分析篇 ](http://blog.csdn.net/u014486880/article/details/51535391#rd)
 
 - [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
+
+# Builder: 构建
+
+# Debug: 调试
+
+- [react-native-debugger #Project#](https://parg.co/UhH): The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
+
+# Test: 测试
+
