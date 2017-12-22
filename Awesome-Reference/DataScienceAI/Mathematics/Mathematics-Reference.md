@@ -25,3 +25,5 @@
 - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers): 针对软件工程师的机器学习进阶之路
 
 - [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.com/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9#.esdiw8wnk)
+
+- [2014-math-as-code](https://github.com/Jam3/math-as-code): This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
