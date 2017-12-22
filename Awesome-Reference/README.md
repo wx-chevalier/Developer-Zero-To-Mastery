@@ -1,10 +1,45 @@
 # [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
 
-`Copyright © 王下邀月熊`
+`Copyright © 王下邀月熊`  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wxyyxc1992/Coder-Knowledge-Management)
 
-AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
+AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照[知识图谱](https://parg.co/bwI)中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
 
-如果您想更加系统化地学习某些知识，可以参考笔者的技术书籍归档类仓库 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse)。
+本系列文章目录层次如下：
+
+- {Something}-Syntax-Reference.md - 该文件包含或者分割为以下内容：
+  - Variable & Expression
+  - Control flow & Error Handler
+  - Function & Functional Programming
+  - Class & Object
+  - MetaProgramming
+
+- {Something}-DataStructure-Reference.md - 该文件包含或者分割为以下内容：
+  - Basic Type
+  - Indexed Collection
+  - Keyed Collection
+  
+- {Something}-Functionality-Reference.md - 该文件包含或者分割为以下内容：
+  - Storage
+  - Network
+  - System / Process
+
+- {Something}-DevPractices-Reference.md - 该文件包含或者分割为以下内容：
+  - Builder, Task runner, Bundler, dependence management
+  - Debug
+  - Test, unit test, integration test, e2e test
+  - Architecture, module system, State management, 
+  - StyleGuide, coding standards for source code in the JavaScript programming language. 
+
+- {Something}-Production-Reference.md - 该文件包含或者分割为以下内容：
+  - Performance Optimization / Tunning
+  - Release / Deploy
+  - Accessibility / Monitor
+  - RealTime
+  - I18n
+
+- {Something}-OpenSource-Reference.md - Awesome tools, frameworks, projects
+
+- {Something}-{Core/Compiler/Engine}-Reference.md Inner mechanism under the hood
 
 本系列文章索引类别约定如下：
 
