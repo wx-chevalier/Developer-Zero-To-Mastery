@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Progressive Web Apps 学习与实践资料索引
 
@@ -76,7 +74,7 @@
 
 * [2017-A beginner’s guide to making Progressive Web Apps](https://parg.co/b1n): Hopefully, this post will be all you need to get started in making your own PWA.
 
-* [2017-A progressive Web application with Vue JS, Webpack & Material Design  #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
+* [2017-A progressive Web application with Vue JS, Webpack & Material Design #Series#](https://parg.co/btH): The tutorial will be split in several parts, that will be published successively
 
 * [2017-Progressive Web Apps (PWA) 中文版 #Book#](https://github.com/SangKa/PWA-Book-CN): This book is written with stand-alone chapters, letting you learn about particular features of interest without having read previous chapters. By the end, you'll be ready to build better web applications and improve the user experience.
 

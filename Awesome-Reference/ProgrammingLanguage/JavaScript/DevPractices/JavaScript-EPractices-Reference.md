@@ -1,10 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # JavaScript EPractices Reference
 
-* [2017-Composing Software  #Series#](https://parg.co/bJ4): the “Composing Software” series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
+* [2017-Composing Software #Series#](https://parg.co/bJ4): the “Composing Software” series on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up.
 
 # StyleGuide
 
@@ -20,7 +18,7 @@
 
 * [How to use ESLint in Node.js Applications?](https://hackernoon.com/how-to-use-eslint-in-node-js-applications-cc4b2298ce55)
 
-* [2017-Rethinking JavaScript  #Series#](http://6me.us/Mi8op): 本系列文章介绍了作者在 JavaScript 开发中的一些实践技巧，包括 [Death of the for Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8) 等。
+* [2017-Rethinking JavaScript #Series#](http://6me.us/Mi8op): 本系列文章介绍了作者在 JavaScript 开发中的一些实践技巧，包括 [Death of the for Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8) 等。
 
 * [JavaScript The Right Way](http://jstherightway.org/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 
