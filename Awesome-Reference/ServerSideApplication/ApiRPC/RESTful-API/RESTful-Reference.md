@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # RESTful API 学习与实践资料索引
 
@@ -15,6 +13,7 @@
 * [Consumer-Driven Contracts: A Service Evolution Pattern](http://martinfowler.com/articles/consumerDrivenContracts.html)
 
 * [rest-anti-patterns](http://marcelo-cure.blogspot.jp/2016/09/rest-anti-patterns.html)
+
 * [一些 Rest 最佳实践](http://colobu.com/2015/08/10/some-REST-best-practices/)
 
 * [best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -37,4 +36,4 @@
 
 # Drawback: 不足
 
-* [REST is the new SOAP](https://parg.co/UsU): REST promised simplicity and delivered complexity. REST promised robustness and delivered fragility. REST promised interoperability and delivered heterogeneity. REST is the new SOAP.
+* [REST is the new SOAP](https://parg.co/UsU): REST promised simplicity and delivered complexity. REST promised robustness and delivered fragility. REST promised interoperability and delivered heterogeneity. REST is the new SOAP. [A Response to REST is the new SOAP](https://parg.co/Us9) think the entire article is full of common misunderstandings about REST and HTTP.

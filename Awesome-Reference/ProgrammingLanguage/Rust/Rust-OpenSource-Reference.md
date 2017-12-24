@@ -1,5 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # Rust OpenSource Reference
 
 本文包含了 Rust 相关的优秀开源框架与库，以及值得阅读的 Rust 优秀项目。
@@ -15,3 +15,5 @@
 - [Piston #Project#](https://github.com/PistonDevelopers/piston): A modular game engine written in Rust.
 
 - [Rocket #Project#](https://github.com/aochagavia/rocket): A toy game in Rust, using Piston
+
+- [stdweb #Project#](https://github.com/koute/stdweb): The goal of this crate is to provide Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.

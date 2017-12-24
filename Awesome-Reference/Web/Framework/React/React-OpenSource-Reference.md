@@ -10,6 +10,8 @@
 
 * [react-i18next #Project#](https://github.com/i18next/react-i18next): Internationalization for react done right. Using the i18next i18n ecosystem.
 
+- [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+
 # Pattern Library: 模式库
 
 * [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
