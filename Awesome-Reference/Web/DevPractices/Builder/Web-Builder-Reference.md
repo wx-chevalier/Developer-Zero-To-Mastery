@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Web 构建工具资料索引
 
@@ -18,7 +16,7 @@
 
 # Bundlers: 打包工具列表
 
-* [Webpack]()
+* [Webpack #Project#](https://webpack.js.org/): Webpack is a static module bundler for modern JavaScript applications.
 
 - [2017-Parcel #Project#](https://github.com/parcel-bundler/parcel): Blazing fast, zero configuration web application bundler.
 
