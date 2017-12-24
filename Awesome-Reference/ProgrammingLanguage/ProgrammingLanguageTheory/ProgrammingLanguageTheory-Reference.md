@@ -11,3 +11,9 @@
 * [2013-The Future of Programming (2013)](http://worrydream.com/dbx/)，[Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
 
 * [2017-Programming Languages: Application and Interpretation #Book#](http://cs.brown.edu/courses/cs173/2012/book/index.html): 中文译本，[lotuc-PLAI_cn](https://github.com/lotuc/PLAI-cn)
+
+# Memory Management
+
+* [Memory Management Reference](http://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
+
+# Garbage Collection

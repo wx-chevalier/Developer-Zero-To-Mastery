@@ -30,7 +30,7 @@
 
 * [2017-Adding MobX to a Vanilla React Project](https://dzone.com/articles/adding-mobx-to-a-vanilla-react-project)
 
-* [react-mobx-realworld-example-app【Project 】](https://github.com/gothinkster/react-mobx-realworld-example-app)
+* [react-mobx-realworld-example-app #Project#](https://github.com/gothinkster/react-mobx-realworld-example-app)
 
 # Under the hood
 

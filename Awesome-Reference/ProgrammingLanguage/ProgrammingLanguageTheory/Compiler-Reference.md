@@ -10,6 +10,14 @@
 
 * [how-to-be-a-compiler-make-a-compiler-with-javascript](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.dday0a975)
 
+- [前缀、中缀、后缀表达式  ](http://blog.csdn.net/antineutrino/article/details/6763722)
+
+- [plt:A path to Programming Language Theory enlightenment](https://github.com/steshaw/plt)
+
+- [怎样写一个解释器](http://www.jianshu.com/p/509505d3bd50)
+
+* [Big Endian 和 Little Endian](http://blog.csdn.net/sunshine1314/article/details/2309655)
+
 # JIT
 
 * [2017-Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html): Let’s build a small LLVM-like intermediate language and JIT execution engine in Haskell.

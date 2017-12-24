@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # GraphQL 资料索引
 
@@ -18,7 +16,7 @@
 
 # Tutorial
 
-* [2017-How to GraphQL  #Series#](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
+* [2017-How to GraphQL #Series#](https://github.com/howtographql/howtographql): How to GraphQL is a fullstack tutorial website to learn all around GraphQL! It was built by Graphcool and many amazing contributors.
 
 * [Give it a REST: use GraphQL for your APIs!](https://medium.com/@davidcelis/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336#.4shk2q5lq)
 
