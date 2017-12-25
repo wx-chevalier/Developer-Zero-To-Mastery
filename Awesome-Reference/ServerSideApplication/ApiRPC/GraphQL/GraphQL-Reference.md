@@ -23,8 +23,11 @@
 * [Building an Ecommerce GraphQL API: The Challenges](https://techblog.commercetools.com/building-an-ecommerce-graphql-api-the-challenges-6d652a95f478?source=reading_list---------99-3---------)
 * [2017-GraphQL vs. REST](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b): Two ways to send data over HTTP: What’s the difference?
 * [graphql-first-a-better-way-to-build-modern-apps](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0#.ehq4nwjeb)
+
 * [Learn GraphQL](https://learngraphql.com/basics/introduction)： GraphQL 系列教程
+
 * [GraphQL Concepts Visualized](https://medium.com/apollo-stack/the-concepts-of-graphql-bc68bd819be3#.etfu7xfdh)
+
 * [tutorial-building-a-graphql-server](https://medium.com/apollo-stack/tutorial-building-a-graphql-server-cddaa023c035#.w6r1huy4b): 从零开始构建一个 GraphQL 服务端，包含了 SQL 查询、Mongodb 查询以及 REST Endpoint 的支持
 
 * [why-graphql-is-the-future](https://medium.com/apollo-stack/why-graphql-is-the-future-3bec28193807#.kcsxfgfhm): 阐述了 GraphQL 与 REST 的对比
