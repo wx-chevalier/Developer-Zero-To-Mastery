@@ -27,3 +27,5 @@
 * [除了 LR，FM（FFM）方法，CTR 预测还有那些方法，应用较为广泛？](https://www.zhihu.com/question/56204961/answer/263448135)
 
 - [歌曲推荐系统实践：Pandas、SciPy和D3.js](http://www.infoq.com/cn/news/2015/05/pandas-scipy-d3-js)
+
+- [2017-Spotify’s Discover Weekly: How machine learning finds your new music](https://parg.co/URN): The science behind personalized music recommendations.
