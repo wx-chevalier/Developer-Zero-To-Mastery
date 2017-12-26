@@ -12,10 +12,8 @@
 
 本文是笔者的 IT 技术图谱与知识架构的纵览，在本文件夹的子目录下还包含各个细分领域的技术图谱与知识架构：
 
-- [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md)
+* [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md)
 
-- [服务端应用程序](./ServerSideApplication/ServerSideApplication-Graph.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md#微服务)
+* [服务端应用程序](./ServerSideApplication/ServerSideApplication-Graph.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md#微服务)
 
 ![IT 技术图谱与知识架构](https://parg.co/UZ1)
-
-
