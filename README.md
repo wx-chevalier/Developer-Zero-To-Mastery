@@ -1,6 +1,6 @@
 ![](https://2dhnizrxqvv1awj231eodql1-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/How-to-Photograph-The-Milky-Way.jpg)
 
-[中文版本]() | [English Version]()
+[中文版本]() | [English Version](./README)
 
 # 程序员的知识管理：技术视野、知识管理与职业规划
 
