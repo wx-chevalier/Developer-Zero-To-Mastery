@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # ElasticSearch 资料索引
 
@@ -26,10 +24,5 @@
 
 - [Awesome ElasticSearch #Project#](https://github.com/dzharii/awesome-elasticsearch): A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!
 
-# Under the hood: 内部原理
 
-* [剖析 Elasticsearch 集群系列 #Series#](http://www.infoq.com/cn/articles/analysis-of-elasticsearch-cluster-part01?from=groupmessage&isappinstalled=1)：[Elasticsearch 的存储模型和读写操作]()
 
-* [ElasticSearch 工作原理](https://my.oschina.net/yjwxh/blog/675354)
-
-- [2016-Anatomy of an Elasticsearch Cluster #Series#](https://parg.co/UZz): This post is part of a series covering the underlying architecture and prototyping examples with a popular distributed search engine, Elasticsearch.
