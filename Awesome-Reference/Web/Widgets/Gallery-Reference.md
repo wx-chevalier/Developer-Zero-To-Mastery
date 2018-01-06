@@ -1,8 +1,6 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-
-# Carousel
+# Carousel: 走马灯
 
 * [2017-A Content Slider](https://inclusive-components.design/a-content-slider/): Here, we shall be creating something that fulfills the basic purpose of a carousel — to allow the traversal of content along a horizontal axis — without being too reverential about the characteristics of past implementations.
 
@@ -15,12 +13,6 @@
 * [imagehover.css](https://github.com/ciar4n/imagehover.css)
 
 * [freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js): 控制暂停与播放
-
-# LazyLoad & PlaceHolder: 懒加载与占位符
-
-* [jquery_lazyload #Project#](https://github.com/tuupola/jquery_lazyload/)
-
-* [2017-How to use SVG as a Placeholder, and Other Image Loading Techniques](https://parg.co/UEY)
 
 # Crop: 裁剪
 

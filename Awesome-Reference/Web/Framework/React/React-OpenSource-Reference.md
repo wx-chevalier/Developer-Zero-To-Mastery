@@ -4,19 +4,31 @@
 
 * [svgr #Project#](https://github.com/smooth-code/svgr): Transform SVG into React components
 
-* [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+- [2017-react-imgpro #Project# ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
 
-* [2017-react-imgpro #Project# ](https://github.com/nitin42/react-imgpro): Image Processing Component for React.
+- [react-i18next #Project#](https://github.com/i18next/react-i18next): Internationalization for react done right. Using the i18next i18n ecosystem.
 
-* [react-i18next #Project#](https://github.com/i18next/react-i18next): Internationalization for react done right. Using the i18next i18n ecosystem.
+* [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
 
-- [react-content-loader #Project#](https://github.com/danilowoz/react-content-loader): React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.
+# Alternatives: 替代库
+
+## Preact
+
+* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
+
+- [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
+
+- [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)
 
 # Pattern Library: 模式库
 
 * [Material-UI](http://www.material-ui.com/#/): A Set of React Components that Implement Google's Material Design.
 
 - [Ant Design](https://www.hugedomains.com/domain_profile.cfm?d=ant-design&e=com): An enterprise-class UI design language and React-based implementation.
+
+* [2017-Downshift](https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components
+
+# Widgets: 组件
 
 ## List
 

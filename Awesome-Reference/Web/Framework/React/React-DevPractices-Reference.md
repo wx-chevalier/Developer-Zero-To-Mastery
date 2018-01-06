@@ -24,6 +24,10 @@
 
 - [enzyme-javascript-testing-utilities-for-react](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.huj3rtv24)
 
+* [Testing React Apps With Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
+
+- [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)
+
 ## StaticType: 静态类型检测
 
 * [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
@@ -34,32 +38,76 @@
 
 - [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
 
-## Server Side Rendering: 服务端渲染
+# Architecture Pattern: 架构模式
 
-* [2017-Introducing Rapscallion #Project# ](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
+* [2017-How to structure components in React?](https://parg.co/USj): Structuring system is the hardest thing and it has a big impact on the overall project.
 
-- [2017-Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/): In this tutorial, we'll take you through a server side rendering example step-by-step. including working around a common roadblock for React apps that talk to APIs.
+* [2017-Characteristics of an Ideal React Architecture](https://parg.co/bD4):
 
-* [React 同构技术](https://zhuanlan.zhihu.com/p/21492780)
+* [2016- 来自 AlloyTeam 的 React.js 2016 最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)
 
-* [React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+* [2016-React Patterns](http://reactpatterns.com/): Patterns for React Developers
 
-* [Redux 官方文档 ServerSideRendering](http://redux.js.org/docs/recipes/ServerRendering.html)
+* [2017-10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.5v2hpgurn): Over the last few years, I’ve worked on a handful of decent-sized React projects, and many, many pint-sized ones. Throughout this magical journey, a number of patterns have come up that I find myself repeating again and again.
 
-* [玩转 React 服务端渲染](https://blog.coding.net/blog/React-server-rendering)
+* [Understanding Component-Based Architecture](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.smfo6yyhj)
 
-* [isomorphic-redux-app](https://github.com/caljrimmer/isomorphic-redux-app)
+* [Share Code between React and React Apps using Higher Order Components](https://hackernoon.com/code-reuse-using-higher-order-hoc-and-stateless-functional-components-in-react-and-react-native-6eeb503c665#.4z4q9o6k2)
 
-* [Client-side vs. server-side rendering: why it’s not all black and white.](https://medium.freecodecamp.com/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d#.n4zils8st): Since the dawn of time, the conventional method for getting your HTML up onto a screen was by using server-side rendering. It was the only way. You loaded up your .html pages on your server, then your server went and turned them into useful documents on your users’ browsers.
+* [Higher Order React Components](http://natpryce.com/articles/000814.html)
 
-* [Introducing Rapscallion](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
+* [Renderless Components or How Logic Doesn't Always Need a UI](http://kyleshevlin.com/renderless-components/)
 
-* [2017-Scaling React Server-Side Rendering](http://arkwright.github.io/scaling-react-server-side-rendering.html): Some of the insights here are React-specific, but many are simply generic scalability challenges, or simple mistakes that were made.
+* [Higher-Order Components in React](http://6me.us/MUHBdp)
 
-## Preact
+* [jsinspect](https://github.com/danielstjules/jsinspect)
 
-* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.or5425hja)
+- [Our Best Practices for Writing React Components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.mh12fzmoi)
 
-- [Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
+- [2017-Avoiding deeply nested component trees](https://parg.co/beQ): By passing child components down instead of data you can avoid passing data down through many levels of components.
 
-- [司徒正美 preact 源码学习系列文章](https://segmentfault.com/a/1190000010336457)
+* [2017-Avoiding deeply nested component trees](https://parg.co/beQ): By passing child components down instead of data you can avoid passing data down through many levels of components.
+
+- [2017-8 Key React Component Decisions](https://parg.co/Um6): Standardize your React development with these key decisions.
+
+- [How to structure components in React?](https://parg.co/USj)
+
+## CodeStyle: 代码风格
+
+* [eslint-plugin-react #Project# ](https://parg.co/b11): React specific linting rules for ESLint.
+
+## Functional React: 函数式 React
+
+* [2017-Functional setState is the future of React](https://parg.co/bMW): Declare state changes separately from the component classes.
+
+* [non-functional-react-js](https://medium.com/@arqex/non-functional-react-js-6e020ce27ee2#.cj3dcxl4j)
+
+* [recompose #Project# ](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstate): A React utility belt for function components and higher-order components.
+
+* [2016-Why The Hipsters Recompose Everything](https://medium.com/javascript-inside/why-the-hipsters-recompose-everything-23ac08748198): Building a Utility Library for React
+
+* [2017-Top 5 Recompose HOCs](https://parg.co/bJV): Today we’ll be going through my 5 (in no particular order) favorite Recompose Higher Order Components.
+
+* [2017-Higher Order Components with Functional Patterns Using Recompose](https://egghead.io/courses/higher-order-components-with-functional-patterns-using-recompose): In this course, you will learn to use many of the most powerful and convenient higher-order components within Recompose by coding several real-world examples. Using recompose looks very different from “vanilla” React; so you will also get comfortable with the look and feel of a “recomposed” component. The best part is no more need for class components! You’ll learn how to use Recompose to both modify components and also create your own higher-order components.
+
+* [Functional React Series — Part 1: Get your App outta my Component](https://medium.com/@adamterlson/functional-react-series-part-1-get-your-app-outta-my-component-92656ae13e25#.q47pt8fga)
+
+## HOCs: 高阶组件
+
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.uz8irdipq)
+
+* [2017-Why you should keep your react components pure by using HOCs](https://hackernoon.com/why-you-should-keep-your-react-components-pure-by-using-hocs-67e5c7f80c81): In this article I show how decomposing state from the presentational layer can both reduce complexity and promote code re-use with some React examples— a win-win situation helping to tame the challenges of developing SPAs. Although I’m using React, the lessons are universal and can apply to any framework.
+
+- [redux-without-profanity-components](https://tonyhb.gitbooks.io/redux-without-profanity/content/components.html)
+
+- [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ldkxkz8na)
+
+- [react-higher-order-components-in-depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.wn52tt10t)
+
+- [container-components](https://medium.com/@learnreact/container-components-c0e67432e005#.h775w7ifn)
+
+* [2017-Understanding Higher Order Components](https://parg.co/biZ): Making sense of the rapidly changing React best practice.
+
+* [React Higher Order Components in depth](https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.52i6nt3at)
+
+- [2016-Building HOCs with Recompose](https://medium.com/front-end-developers/building-hocs-with-recompose-7debb951d101)

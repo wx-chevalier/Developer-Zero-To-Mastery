@@ -6,7 +6,15 @@
 
 `Copyright © 王下邀月熊`
 
-所谓的 CheatSheet，我们即可以将其当做速查手册，也可以作为轻量级的入门学习资料。
+所谓的 CheatSheet，我们即可以将其当做速查手册，也可以作为轻量级的入门学习资料。Awesome CheatSheet 主要包含了以下内容：
+
+* {Something}-CheatSheet.md: 对于 {Something} 的语法以及特性速览。
+
+- {Something}-LearningPath-CheatSheet.md: 对于 {Something} 的学习路径与心得分享，帮助初学者快速入门。
+
+* {Something}-Snippets-CheatSheet.md: 有用的 {Something} 代码片，帮助开发者迅速理解并且应用到工作中。
+
+* {Something}-OpenSource-CheatSheet.md: 推荐的 {Something} 相关的开源库或者工具。
 
 # 前言
 

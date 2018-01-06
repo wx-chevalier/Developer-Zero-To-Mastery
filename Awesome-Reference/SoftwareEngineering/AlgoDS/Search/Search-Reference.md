@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # 搜索算法资料索引
 
@@ -29,7 +27,6 @@
 * [LSM 树 VS B+ 树](http://blog.csdn.net/dbanote/article/details/8897599)
 
 - [LSM 树由来、设计思想以及应用到 HBase 的索引](http://www.cnblogs.com/yanghuahui/p/3483754.html)
-
 
 # 红黑树
 
