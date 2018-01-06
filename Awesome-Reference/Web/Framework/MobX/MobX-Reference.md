@@ -32,6 +32,9 @@
 
 * [react-mobx-realworld-example-app #Project#](https://github.com/gothinkster/react-mobx-realworld-example-app)
 
+- [2017-Mobx React — Best Practices](https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140): In this article I want to show you common best practices for using React with mobx.
+
+
 # Under the hood
 
 * [如何自己实现一个 mobx - 原理解析](https://zhuanlan.zhihu.com/p/26559530)

@@ -43,3 +43,7 @@
 - [ServiceWorker Specification](https://github.com/w3c/ServiceWorker)
 
 * [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
+
+# Web Worker
+
+- [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
