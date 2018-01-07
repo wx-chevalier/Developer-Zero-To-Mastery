@@ -6,7 +6,7 @@
 
 `Copyright © 王下邀月熊 - WxChevalier` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wxyyxc1992/Coder-Knowledge-Management)
 
-Awesome Reference collect valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology, etc. Each domain may contain the following files:
+Awesome Reference collect valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc. Each domain may contain the following files:
 
 * {Something}-Syntax-Reference.md - This file may contain or separate into the following:
 
@@ -49,7 +49,6 @@ Awesome Reference collect valuable, popular and up-to-date links for CS, includ
 * {Something}-{Core/Compiler/Engine}-Reference.md Inner mechanism under the hood
 
 # Contents
-
 
 * [Awesome-CS-Collections](./Awesome-CS-Collections.md): Awesome CS Collections
 
