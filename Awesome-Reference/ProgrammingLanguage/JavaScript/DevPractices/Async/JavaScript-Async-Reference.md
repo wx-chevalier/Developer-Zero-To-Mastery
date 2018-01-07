@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # JavaScript 异步编程资料索引
 
@@ -20,9 +20,9 @@
 
 # Callback
 
-- [Callback Hell](http://callbackhell.com/)
+* [Callback Hell](http://callbackhell.com/)
 
-- [Don't release Zalgo!](https://oren.github.io/blog/zalgo.html)
+* [Don't release Zalgo!](https://oren.github.io/blog/zalgo.html)
 
 # Promise
 
