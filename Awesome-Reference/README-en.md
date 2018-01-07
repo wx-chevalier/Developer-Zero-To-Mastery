@@ -8,6 +8,12 @@
 
 Awesome Reference collect valuable, popular and up-to-date links for CS, including Programming Language, Software Engineering, Server Side Application, Infrastructure, InfoSecurity, Industrial Application, DataScienceAI, Frontend Technology(iOS, Android, RN, Electron), etc. Each domain may contain the following files:
 
+* {Something}-Reference.md - This file may contain or separate into the following:
+
+  * Overview & Case Study & CheatSheet
+  * Resource & Book & Collection
+  * Tutorial & Learning Path
+
 * {Something}-Syntax-Reference.md - This file may contain or separate into the following:
 
   * Variable & Expression

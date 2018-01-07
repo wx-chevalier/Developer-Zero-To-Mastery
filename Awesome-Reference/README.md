@@ -6,6 +6,12 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 本系列文章目录层次如下：
 
+* {Something}-Reference.md - 该文件包含或者分割为以下内容：
+
+  * Overview & Case Study & CheatSheet
+  * Resource & Book & Collection
+  * Tutorial & Learning Path
+
 * {Something}-Syntax-Reference.md - 该文件包含或者分割为以下内容：
 
   * Variable & Expression

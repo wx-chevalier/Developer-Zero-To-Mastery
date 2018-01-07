@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # DOM 事件处理资料索引
 

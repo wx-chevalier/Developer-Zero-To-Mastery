@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Linux 资料索引
 
@@ -12,7 +10,7 @@
 
 - [LPIC-1 学习路线图](http://www.ibm.com/developerworks/cn/linux/l-lpic1-map/index.html): developerWorks 上的 LPIC-1 认证准备教程指南。
 
-- [Linux进程隐藏的一种实现思路 ](http://www.freebuf.com/articles/system/117234.html)
+- [Linux 进程隐藏的一种实现思路 ](http://www.freebuf.com/articles/system/117234.html)
 
 # Terminal
 
@@ -24,10 +22,10 @@
 
 - [How to write startup script for systemd](http://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
 
-- [编写systemd下服务脚本 ](http://blog.csdn.net/fu_wayne/article/details/38018825)
+- [编写 systemd 下服务脚本 ](http://blog.csdn.net/fu_wayne/article/details/38018825)
 
 - [阮一峰：Systemd 入门教程：实战篇](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html)
 
-- [Linux的进程间通信-文件和文件锁](http://liwei.life/2016/07/31/file_and_filelock/)
+- [Linux 的进程间通信-文件和文件锁](http://liwei.life/2016/07/31/file_and_filelock/)
 
 - [创建分区和文件系统](http://www.tuicool.com/articles/RZ7FvqV)
