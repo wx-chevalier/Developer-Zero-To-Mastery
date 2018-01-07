@@ -12,4 +12,4 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 
 * [Project Euler](https://projecteuler.net/about): Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
-- [Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
+- [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.

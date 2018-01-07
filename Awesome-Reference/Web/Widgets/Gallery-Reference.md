@@ -14,6 +14,8 @@
 
 * [freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js): 控制暂停与播放
 
+- [instagram.css #Project#](https://github.com/picturepan2/instagram.css): Instagram.css - Pure CSS Instagram filters. You can add all these Instagram-like filters to your photos with using CSS only.
+
 # Crop: 裁剪
 
 * [Cropper](http://fengyuanchen.github.io/cropper/): 基于 jQuery 的图片裁剪工具

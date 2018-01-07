@@ -1,4 +1,4 @@
-# [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
+# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
 
 `Copyright © 王下邀月熊` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wxyyxc1992/Coder-Knowledge-Management)
 

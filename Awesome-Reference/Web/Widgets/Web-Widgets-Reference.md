@@ -1,39 +1,157 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
+[中文版本](./Web-Widgets-Reference.md) | [English Version](Web-Widgets-Reference-en.md)
 
 # Web 插件索引
 
+不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 
-不拘泥于
+* [General - 通用](./Web-Widgets-Reference.md)
 
+  * Button - 按钮: FAB - 悬浮按钮, ImageButton - 图片按钮
 
+  * Icon - 图标
 
-- [Zuck.js](https://github.com/ramon82/zuck.js): A javascript library that lets you add stories EVERYWHERE.
+  * LocaleProvider - 国际化
 
-- [impress.js #Project#](https://github.com/impress/impress.js/): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+  * Validation - 校验
 
-- [Vanilla JavaScript Repository](http://www.vanillalist.com/):  无 jQuery 插件的 JavaScript 插件搜索仓库
+  * Other - 其他
 
+* Layout - 布局
 
+  * Dialog - 窗体
 
+  * Grid - 网格
 
-# Text Editor: 文本编辑器
+  * Cascading - 瀑布流
 
-- [Pell #Project#](https://github.com/jaredreich/pell): pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies
+  * Tabs - 标签页
 
-# Search
+- Navigation - 导航
 
-- [Holmes #Project#](https://haroen.me/holmes/)
+  * Affix / Anchor - 固钉 / 锚点
 
+  * Breadcrumb - 面包屑
 
-# Menu
+  * Menu - 普通可分组菜单
 
-- [Tasty CSS-animated hamburgers](https://jonsuh.com/hamburgers/)
+  * Dropdown - 下拉菜单
 
-- [react-osx-dock #Project#](https://github.com/lukehorvat/react-osx-dock): React component that is magnifiable like the Mac OS X dock.
+  * Pagination - 分页
 
-# Uploader
+  * Steps - 步骤条
 
-- [uppy](https://github.com/transloadit/uppy)
+  * Timeline - 时间轴
+
+  * Collapse Panel - 折叠面板
+
+  * Search - 搜索
+
+* Picker - 输入器
+
+  * Input - 输入框
+
+  * Input Number - 数字输入框
+
+  * Auto Complete - 自动完成
+
+  * Auto Format - 自动格式化
+
+  * Date Picker - 日期选择器
+
+  * Time Picker - 时间选择器
+
+  * DateTime Picker - 时间与日期选择
+
+  * Editor - 编辑器
+
+* Select - 选择器
+
+  * Radio - 单选框
+
+  * Checkbox - 多选框
+
+  * Select - 下拉选择框
+
+  * Slider - 滑动输入条
+
+  * Wheeler - 滚轮选择
+
+  * Switch - 开关
+
+  * TreeSelect - 树形选择
+
+  * Transfer - 穿梭选择
+
+  * Mention - 提及
+
+  * Cascader - 级联选择
+
+  * Rate - 评分
+
+  * Upload - 上传
+
+  * City Select - 城市选择
+
+- Indicator - 展现器
+
+  * Label - 标签: TypeWriter - 打字机
+
+  * List - 列表
+
+  * Table - 表格
+
+  * Tree - 树形控件
+
+  * File - 文件夹与文件
+
+  * Calendar - 日历
+
+  * Tag - 标签
+
+  * Badge - 徽标数
+
+  * Divider - 分割线
+
+  * Code - 代码高亮显示
+
+* Feedback - 反馈
+
+  * Spin - 自旋式加载中
+
+  * Skeleton - 骨骼式加载中
+
+  * Progress - 进度条
+
+  * Popover - 气泡卡片
+
+  * Tooltip - 提示
+
+  * Alert - 警告提示
+
+  * Modal - 对话框
+
+  * Message - 全局提示
+
+  * Notification - 通知提醒框
+
+* Gallery - 画廊
+
+  * Avatar - 头像
+
+  * Card - 卡片
+
+  * Carousel - 走马灯 / 轮播
+
+  * Image View - 图片视图/滤镜
+
+  * Image Crop - 图片裁剪
+
+  * Video Player - 视频播放
+
+# Other
+
+* [Zuck.js](https://github.com/ramon82/zuck.js): A javascript library that lets you add stories EVERYWHERE.
+
+* [impress.js #Project#](https://github.com/impress/impress.js/): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
