@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-# 资源请求与缓存
+# 资源请求与分发
 
 * [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/#abstain)
 
