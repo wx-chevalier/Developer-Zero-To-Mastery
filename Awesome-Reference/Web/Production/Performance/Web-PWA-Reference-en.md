@@ -1,14 +1,14 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-# Progressive Web Apps 学习与实践资料索引
+# PWA Reference: Curated links for mastering PWA
 
-本文是 Progressive Web Apps 开发中搜集的一系列有价值的参考资料。
+This file aggregates popular links for learning how to implement Progressive Web Apps.
 
-# Overview: 概览
+# Overview
 
 * [2016-Why Google Thinks You Should Start Building Progressive Web Apps](https://arc.applause.com/2016/05/24/progressive-web-apps/)
 
-## Case Study: 案例分析
+## Case Study
 
 * [PWA.rocks](https://pwa.rocks/): A showcase of several progressive web apps, collected by the [Opera Dev Relations team](https://twitter.com/ODevRel).
 
@@ -24,10 +24,6 @@
 
 * [Suumo Case Study](https://developers.google.com/web/showcase/2016/suumo) : Japan's top real estate site supercharges new listings with web Push Notifications and sees a 31% open rate for notifications.
 
-* [2017- 百度搜索对 PWA 的探索和初步实践](http://6me.us/JS85s): 本文是百度搜索资深 Web 前端工程师沈洲在前端之巅微信群中的分享整理总结而成，介绍了百度天气 PWA 应用的开发实践，本周还分享了[《PWA 实践：从一个简单的页面开始》](http://6me.us/Ik5k1L)与[《PWA 实践：理解和创建 Service Worker 脚本》](http://6me.us/P5cB)等 PWA 相关内容 。
-
-- [2017-PWA 在饿了么的实践经验](https://parg.co/bO7)：本篇旨在和大家分享「饿了么 M 站」（https://h5.ele.me/msite/）在 PWA 改造中的实践经验。涉及到的方面有：PWA 线上部署的准备工作、多页应用的 prerender 优化、实践过程中踩到的（和推进解决的）坑。
-
 * [2017-Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3): A look into removing common and uncommon performance bottlenecks in one of the worlds largest React.js PWAs, Twitter Lite.
 
 * [2017-Upgrading Ele.me to Progressive Web App](https://parg.co/bMz): we at Ele.me (the biggest food ordering and delivering company in China) have been working on upgrading our mobile website to a Progressive Web App.
@@ -38,7 +34,7 @@
 
 - [A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
 
-## Tool: 工具
+## Tool
 
 * [2017-Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.z5egf9m7v): This article is written by Addy Osmani. Two years ago, our team at Google started work on JavaScript libraries to reduce the friction for building Progressive Web Apps.
 
@@ -53,8 +49,6 @@
 * [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html): Generate Android style icons.
 
 * [pwmetrics #Project# ](https://github.com/paulirish/pwmetrics): Progressive web metrics at your fingertipz
-
-* [Workbox #Project# ](https://workboxjs.org/)：Workbox 是来自 Google Chrome 团队的快速将现有应用转化为 Progressive Web Apps 的 JavaScript 库；Workbox 允许我们通过 Webpack 插件、Gulp 插件以及 npm 脚本的方式快速地为当前应用的资源创建对应加载 ServiceWorker。
 
 # Tutorial
 
@@ -71,8 +65,6 @@
 - [2016-Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) : A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
 
 - [2015-A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/): Progressive web apps could be the next big thing for the mobile web. Originally proposed by Google in 2015, they have already attracted a lot of attention because of the relative ease of development and the almost instant wins for the application’s user experience.
-
-- [2017-PWA 入门 : 写个非常简单的 PWA 页面](https://parg.co/bOz)：Progressive Web Apps 是 Google 提出的用前沿的 Web 技术为网页提供 App 般使用体验的一系列方案。这篇文章里我们来完成一个非常简单的 PWA 页面。
 
 - [2017-Progressive Web Apps — The Next Step in Responsive Web Design — Julian Gaviria ](https://julian.is/article/progressive-web-apps/)
 
@@ -93,3 +85,45 @@
 * [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) : An article introducing Push API.
 
 * [web-push-libs](https://github.com/web-push-libs) : A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
+
+---
+
+# Service Worker
+
+* Service Worker Support in Browser: [Can I Use - Service Workers](http://caniuse.com/#feat=serviceworkers), [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
+
+* [2017 - Send messages when you’re back online with Service Workers and Background Sync](http://6me.us/IrTKkz): When you send an SMS message but your phone doesn’t have great signal it will continue to try to send the message in the background, even if you close the app. Pretty useful right? In this post we’re going to see how to replicate this behaviour in a web application using the Background Sync API from the Service Worker.
+
+* [2017-Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.k65nmof59):In this post we’ll be looking at some of the approaches being taken to test service workers in the latest service worker libraries the Chrome DevRel team have been working on.
+
+* [2017-Service Worker Mock](https://parg.co/bCD): A mock service worker environment generator.
+
+* [Awesome Service Workers #Collection#](https://github.com/TalAter/awesome-service-workers) : A collection of awesome resources for learning service workers.
+
+* [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) : This free Udacity course is a must if you're planning on building a progressive web app.
+
+* [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) : The official service workers spec.
+
+* [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync) : A gentle introduction to background sync, along with some great videos and code samples.
+
+* [Background Sync Explained](https://github.com/WICG/BackgroundSync/blob/master/explainer.md) : The official "explainer" document for background sync, including one-off synchronization and periodic synchronization.
+
+* [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) : The WIP spec for Background Sync.
+
+- [Service Worker, what are you ?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.vf0c3n2jk)
+
+- [ServiceWorker Specification](https://github.com/w3c/ServiceWorker)
+
+* [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
+
+## Offline Storage
+
+* [2016-Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
+
+- [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
+
+- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
+
+- [2017-Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+
+- [2017-The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.

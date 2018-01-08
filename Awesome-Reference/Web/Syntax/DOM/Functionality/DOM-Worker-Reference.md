@@ -1,20 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # ServiceWorker 资料索引
 
 * [Service Workers Break the Browser’s Refresh Button by Default; Here’s Why](https://parg.co/Uue): Service Workers are like apps. You can’t safely upgrade an app while it’s still running. [How to Fix the Refresh Button When Using Service Workers](https://parg.co/Uu1)
-
-# Offline Storage
-
-* [2016-Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
-
-- [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
-
-- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
-
-- [2017-Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
-
-- [2017-The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
 
 # Service Worker
 
@@ -44,6 +32,18 @@
 
 * [Experimenting With The Background Fetch API](https://parg.co/UEk): The service worker API is expanding as more ways to use the background dwelling worker emerge.
 
+## Offline Storage
+
+* [2016-Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) : The current state of offline storage in the browser
+
+- [IndexedDB API](https://developer.mozilla.org/en/docs/Web/API/IndexedDB_API) : API docs, key concepts, and sample code from Mozilla.
+
+- [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) : API docs, and sample code from Mozilla.
+
+- [2017-Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+
+- [2017-The Offline Cookbook](https://parg.co/UZh): With ServiceWorker we gave up trying to solve offline, and gave developers the moving parts to go solve it themselves.
+
 # Web Worker
 
-- [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
+* [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
