@@ -12,6 +12,8 @@
 
 * [The Best Request Is No Request, Revisited](https://alistapart.com/article/the-best-request-is-no-request-revisited)
 
+- [How Modern Web Browsers Accelerate Performance: The Networking Layer](https://parg.co/UtY): In this post, we’ll try to analyze what techniques modern browsers employ to automatically boost performance.
+
 ## Compression: 压缩
 
 ## HTTP/2 Push: HTTP/2 推送
@@ -43,3 +45,13 @@
 ## Code Spliting: 代码分割
 
 * [Bundle Buddy #Project#](https://github.com/samccone/bundle-buddy): Bundle Buddy is a tool to help you find source code duplication across your javascript chunks/splits. This enables you to fine tune code splitting parameters to reduce bundle invalidation rates as well as improve repeat page load performance \o/.
+
+# CDN
+
+* [从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598371&idx=1&sn=b9e81fc19c36c0c2a29dc98e27a6b215&chksm=8be99531bc9e1c275c0452fcc5ce9317b9617ca038f867c0d2c0bcd5f3c8c5cb17ea3008b6c8&mpshare=1&scene=1&srcid=1027iEBIt2HLCFke3LM6UdtC#rd)
+
+* [完结篇：史上最全的 CDN 内容分发网络实战技巧](http://mp.weixin.qq.com/s/a9rxbe8Zj8TZGhTVQPBzyQ)
+
+- [JARE](http://www.jare.io/)
+
+* [jare-instant-free-cdn](http://www.yegor256.com/2016/03/30/jare-instant-free-cdn.html)
