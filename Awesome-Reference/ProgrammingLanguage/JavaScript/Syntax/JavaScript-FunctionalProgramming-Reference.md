@@ -14,15 +14,15 @@
 
 - [2017-avascript and Functional Programming #Series#](https://parg.co/UQn): This is part of the “Javascript and Functional Programming” series on learning functional programming techniques in JavaScript ES6+.
 
-## Tool: 工具
+# OpenSource: 开源工具与库
 
 * [Rambda #Project#](http://ramdajs.com/0.22.1/index.html)
 
-# Immutable
+- [immer #Project#](https://github.com/mweststrate/immer): Create the next immutable state tree by simply modifying the current tree.
+
+## Immutable
 
 * [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.owzsyqtbd)
-
-* [FaceBook-Immutable][6]
 
 * [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 
