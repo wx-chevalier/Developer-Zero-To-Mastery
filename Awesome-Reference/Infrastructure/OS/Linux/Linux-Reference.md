@@ -6,7 +6,7 @@
 
 * [Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.](https://github.com/marcan/takeover.sh)
 
-* [linux-insides](https://github.com/0xAX/linux-insides)
+* [linux-insides #Book#](https://github.com/0xAX/linux-insides): A book-in-progress about the linux kernel and its insides.
 
 - [LPIC-1 学习路线图](http://www.ibm.com/developerworks/cn/linux/l-lpic1-map/index.html): developerWorks 上的 LPIC-1 认证准备教程指南。
 
