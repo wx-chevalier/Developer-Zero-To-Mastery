@@ -48,7 +48,7 @@
 
 # CDN
 
-* [从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598371&idx=1&sn=b9e81fc19c36c0c2a29dc98e27a6b215&chksm=8be99531bc9e1c275c0452fcc5ce9317b9617ca038f867c0d2c0bcd5f3c8c5cb17ea3008b6c8&mpshare=1&scene=1&srcid=1027iEBIt2HLCFke3LM6UdtC#rd)
+* [2016-从直播 CDN 的原理说起，谈如何解决延时和连麦的老难题？](https://parg.co/UtK)
 
 * [完结篇：史上最全的 CDN 内容分发网络实战技巧](http://mp.weixin.qq.com/s/a9rxbe8Zj8TZGhTVQPBzyQ)
 

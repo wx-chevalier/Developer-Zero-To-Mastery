@@ -10,15 +10,21 @@
 
 * [小胡子哥的性能专栏](https://github.com/barretlee√/performance-column/issues)
 
-* [2016-Front-End Performance Checklist 2017 (PDF, Apple Pages)](http://6me.us/d1xGe): we created an overview of all the things we have to keep in mind when improving performance.
-
 * [2017-Frontend Performance Check-list For Production](https://parg.co/bLP): In this article I will share with you my chick-list that I use to optimize my web pages after development. So feel free to leave a comment if you think I miss something.
 
 - [2017-The State of the Web](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3): A guide to impactful performance improvements.
 
-* [Web 优化训练营 , 网页提速 50 倍](http://www.tuicool.com/articles/Ub6bMrR): 通过一个完整的实例 , 一步步的优化加载 , 渲染等各方面的体验
+* [400% 飞跃：Web 页面加载速度优化实战](https://parg.co/Utq)
 
-* [400% 飞跃：Web 页面加载速度优化实战 ](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484307&idx=1&sn=e795ef72f62cec564d263b495efc7a54&chksm=97236151a054e847afa5b35388f7bfdca6b2707e92c2a97b36e86aed7cb8acd50e9307912ee8&mpshare=1&scene=1&srcid=10049m9VtGjECpa1kK5qVIlU#rd)
+* [移动端 HTML5 页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/)
+
+* [钉钉的 H5 性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig)
+
+* [解耦 ---Hybrid H5 跨平台性思考 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=3&sn=96c9ec407e937132595c29b0584cdd5c&scene=4#wechat_redirect)
+
+* [Mobile JavaScript Apps: The Problem with the Mobile Web](http://thefullstack.xyz/category/the-mobile-web/)
+
+* [Speed Matters: Designing for Mobile Performance](https://parg.co/bDR)
 
 # Benchmark: 性能评测与监控
 
@@ -49,15 +55,3 @@
 * [wrk](https://github.com/wg/wrk): wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
 
 * [Apache JMeter](https://jmeter.apache.org/): The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
-
-# Mobile Optimization: 移动端优化
-
-* [移动端 HTML5 页面开发备忘录 ](http://zerosoul.github.io/2016/11/15/h5-memo/)
-
-* [钉钉的 H5 性能优化方案](http://mp.weixin.qq.com/s/r-D4S94XOo22PQM_wZlrig)
-
-* [解耦 ---Hybrid H5 跨平台性思考 ](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=3&sn=96c9ec407e937132595c29b0584cdd5c&scene=4#wechat_redirect)
-
-* [Mobile JavaScript Apps: The Problem with the Mobile Web](http://thefullstack.xyz/category/the-mobile-web/)
-
-* [Speed Matters: Designing for Mobile Performance](https://parg.co/bDR)
