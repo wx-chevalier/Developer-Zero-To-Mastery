@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-# PWA Reference: Curated links for mastering PWA
+# PWA Reference: Curated links for mastering PWA
 
 This file aggregates popular links for learning how to implement Progressive Web Apps.
 
