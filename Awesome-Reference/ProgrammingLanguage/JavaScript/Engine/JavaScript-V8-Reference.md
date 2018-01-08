@@ -37,3 +37,5 @@
 - [How does V8 manage the memory of object instances?](http://stackoverflow.com/questions/7413168/how-does-v8-manage-the-memory-of-object-instances)
 
 - [2017-Understanding V8’s Bytecode](https://parg.co/bzQ): This article explains V8’s bytecode format — which is actually easy to read once you understand some basic concepts.
+
+- [2017-Understanding How the Chrome V8 Engine Translates JavaScript into Machine Code](https://parg.co/Utm)
