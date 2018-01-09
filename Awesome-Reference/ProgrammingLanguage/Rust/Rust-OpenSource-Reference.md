@@ -17,3 +17,5 @@
 - [Rocket #Project#](https://github.com/aochagavia/rocket): A toy game in Rust, using Piston
 
 - [stdweb #Project#](https://github.com/koute/stdweb): The goal of this crate is to provide Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
+
+- [Rustface #Project#](https://github.com/atomashpolskiy/rustface): Face detection library for the Rust programming language
