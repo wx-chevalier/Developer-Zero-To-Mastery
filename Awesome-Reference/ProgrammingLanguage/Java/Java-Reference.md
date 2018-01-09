@@ -16,7 +16,7 @@
 
 - [Java Web Frameworks Index by RebelLabs](https://zeroturnaround.com/rebellabs/java-web-frameworks-index-by-rebellabs/)
 
-## Syntax CheatSheet: 语法速览
+## CheatSheet: 语法速览
 
 * [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
 
@@ -46,7 +46,10 @@
 
 * [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
-# Book: 书籍
+
+# Resource
+
+## Book: 书籍
 
 * [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
 
@@ -57,8 +60,6 @@
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
 - [Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
-
-# Resource
 
 ## Blog: 博客
 
@@ -75,6 +76,8 @@
 * [ImportNews:专注 Java&Android](http://www.importnew.com/)
 
 * [来自 GeniusVJR 的学习笔记 d](https://github.com/GeniusVJR/LearningNotes)
+
+- [Java Specialists](https://www.javaspecialists.eu/): From expert level specialists articles, to inhouse concurrency courses to emergency consulting.
 
 ## Collection: 其他资源集锦
 
