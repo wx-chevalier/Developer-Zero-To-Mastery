@@ -1,6 +1,5 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
- 
- 
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+
 ![](https://media.githubusercontent.com/media/wxyyxc1992/OSS/master/Cover/Coder-Essentials/Awesome-CheatSheet/ProgrammingLanguage/Python/Python-CheatSheet.jpg)
 
 # Python 语法速览与实战清单
@@ -82,7 +81,7 @@ pp.pprint(tup)
 
 ## 模块
 
-Python 中的模块（Module ）即是 Python 源码文件，其可以导出类、函数与全局变量；当我们从某个模块导入变量时，函数名往往就是命名空间（Namespace ）。而 Python 中的包（Package ）则是模块的文件夹，往往由 `__init__.py` 指明某个文件夹为包 :
+Python 中的模块(Module)即是 Python 源码文件，其可以导出类、函数与全局变量；当我们从某个模块导入变量时，函数名往往就是命名空间(Namespace)。而 Python 中的包（Package ）则是模块的文件夹，往往由 `__init__.py` 指明某个文件夹为包 :
 
 ```py
 # 文件目录

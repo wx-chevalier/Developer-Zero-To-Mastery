@@ -1,9 +1,35 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
- 
- 
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+
+[🔆 中文版本](./JavaScript-CheatSheet.md) | [☀️ English Version](./JavaScript-CheatSheet.en.md)
+
 # JavaScript 语法速览与实战清单
 
-[30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
+参考了 [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
+
+# 基础语法
+
+## ES6 Module: 模块
+
+```js
+// 导出蜘蛛
+export { default as Spider } from "./source/spider/Spider";
+export { default as HTMLSpider } from "./source/spider/web/HTMLSpider";
+export {
+  default as HeadlessChromeSpider
+} from "./source/spider/web/HeadlessChromeSpider";
+
+// 导出爬虫
+export { default as Crawler } from "./source/crawler/Crawler";
+
+// 导出爬虫调度器
+export { default as CrawlerScheduler } from "./source/crawler/CrawlerScheduler";
+
+// 导出全局唯一值
+export { dcEmitter, store } from "./source/crawler/supervisor";
+
+// 导出持久化器
+export { default as DownloadPersistor } from "./sink/persist/DownloadPersistor";
+```
 
 # 变量与表达式
 
@@ -24,7 +50,7 @@ typeof null; // object  !!
 typeof Symbol("Hi"); // symbol (New ES6)
 ```
 
-## 正则表达式
+## Regex: 正则表达式
 
 对于常量正则表达式，可以使用正则字符串方式；而对于动态的正则表达式，可以使用正则表达式构造函数 :
 
@@ -35,6 +61,8 @@ const regexLiteral = /cat/;
 // Regular Expression Constructor
 const regexConstructor = new RegExp("cat");
 ```
+
+正则表达式可以用来判断元素存在性，用于字符串替换等：
 
 ```js
 const str1 = "the cat says meow";
@@ -89,15 +117,26 @@ removeCc("helloWorldItIsMe"); // 'hello World It Is Me'
 
 ## Array: 数组
 
-### Comprehensions: 变换
+### Array Like
 
-`reduce()` 函数能够将
+### Transform: 变换
+
+`reduce()` 函数能够将某个函数作用于数组中的每个  元素，从而将多个值转换为单个值；其典型的用法为计算数组和值，或者进行数组扁平化：
 
 ```js
+// 指定初始值
+let result = arr.reduce(callback, initValue);
+
+// 计算数组和值
+let sum = arr.reduce((acc, val) => {
+  return acc + val;
+});
+
 // 使用 reduce 进行数组扁平化
 const flatten = arr => arr.reduce((a, v) => a.concat(v), []);
 // flatten([1,[2],3,4]) -> [1,2,3,4]
 
+// 深度扁平化
 const flattenDepth = (arr, depth = 1) =>
   depth != 1
     ? arr.reduce(
@@ -109,6 +148,21 @@ const flattenDepth = (arr, depth = 1) =>
 ```
 
 # 函数
+
+## Definition: 函数定义
+
+## Call: 函数调用
+
+可以使用 apply 来连接两个数组：
+
+```js
+let countries = ["Moldova", "Ukraine"];
+let otherCountries = ["USA", "Japan"];
+countries.push.apply(countries, otherCountries);
+console.log(countries); // => ['Moldova', 'Ukraine', 'USA', 'Japan']
+```
+
+较为全面的 JavaScript 中函数调用方式列举如下：
 
 ```js
 console.log(1);
@@ -122,13 +176,6 @@ Reflect.construct(function(){console.log(8)}, []);
 Function.prototype.apply.call(console.log, null, [9]);
 Function.prototype.call.call(console.log, null, 10);
 new (require('vm').Script)('console.log(11)‘).runInThisContext();
-```
-
-```js
-let countries = ["Moldova", "Ukraine"];
-let otherCountries = ["USA", "Japan"];
-countries.push.apply(countries, otherCountries);
-console.log(countries); // => ['Moldova', 'Ukraine', 'USA', 'Japan']
 ```
 
 # 其他
@@ -146,25 +193,4 @@ try {
 } finally {
   alert("thanks for playing!");
 }
-```
-
-```js
-// 导出蜘蛛
-export { default as Spider } from "./source/spider/Spider";
-export { default as HTMLSpider } from "./source/spider/web/HTMLSpider";
-export {
-  default as HeadlessChromeSpider
-} from "./source/spider/web/HeadlessChromeSpider";
-
-// 导出爬虫
-export { default as Crawler } from "./source/crawler/Crawler";
-
-// 导出爬虫调度器
-export { default as CrawlerScheduler } from "./source/crawler/CrawlerScheduler";
-
-// 导出全局唯一值
-export { dcEmitter, store } from "./source/crawler/supervisor";
-
-// 导出持久化器
-export { default as DownloadPersistor } from "./sink/persist/DownloadPersistor";
 ```

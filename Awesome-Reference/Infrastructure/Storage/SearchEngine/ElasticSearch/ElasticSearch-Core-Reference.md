@@ -1,6 +1,6 @@
 # ElasticSearch 线上调试与内部原理资料索引
 
-- [Bulk 异常引发的 Elasticsearch 内存泄漏](https://www.jianshu.com/p/d4f7a6d58008)
+* [Bulk 异常引发的 Elasticsearch 内存泄漏](https://www.jianshu.com/p/d4f7a6d58008)
 
 # Core: 内部原理
 
