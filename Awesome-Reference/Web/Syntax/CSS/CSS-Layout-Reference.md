@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # CSS 布局学习与实践资料索引
 
@@ -46,15 +44,15 @@
 
 * [Flexbox Defense: 考验你 Flexbox 技能熟练度的塔防小游戏](http://www.flexboxdefense.com/)
 
-* [Flex 布局新旧混合写法详解（兼容微信）](http://www.ccwebsite.com/flex-layout-old-and-new-compatible/)
-
 * [移动端开发小记 - Flexbox](http://taobaofed.org/blog/2015/11/11/flexbox-in-mobile-web/)
 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * [CSS3: Flexbox](http://book.mixu.net/css/4-flexbox.html)
 
-* [Flexbox Patterns](http://www.flexboxpatterns.com/feature-list)
+* [2017-Flexbox Patterns #Project#](http://www.flexboxpatterns.com/feature-list)
+
+- [2018-CSS Flexible Box Layout in MDN](https://parg.co/UVS): CSS Flexible Box Layout is a module of CSS that defines a CSS box model optimized for user interface design, and the layout of items in one dimension.
 
 # Grid
 
