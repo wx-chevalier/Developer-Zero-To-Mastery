@@ -1,5 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # 分类
 
 * [Logistic Regression Vs Decision Trees Vs SVM: Part I](http://www.edvancer.in/logistic-regression-vs-decision-trees-vs-svm-part1/)
@@ -22,12 +22,12 @@
 
 - [What is a Support Vector Machine, and Why Would I Use it?](http://www.kdnuggets.com/2017/02/yhat-support-vector-machine.html)
 
-- [支持向量机通俗导论（理解SVM的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837)
+- [支持向量机通俗导论（理解 SVM 的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837)
 
 # Random Forest: 随机森林
 
-- [How to Implement Random Forest From Scratch in Python](http://machinelearningmastery.com/implement-random-forest-scratch-python/)
+* [How to Implement Random Forest From Scratch in Python](http://machinelearningmastery.com/implement-random-forest-scratch-python/)
 
-- [The Unreasonable Effectiveness of Random Forests](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883#.wdmxlsekf)
+* [The Unreasonable Effectiveness of Random Forests](https://medium.com/rants-on-machine-learning/the-unreasonable-effectiveness-of-random-forests-f33c3ce28883#.wdmxlsekf)
 
-- [Random Forests in Python](http://www.kdnuggets.com/2016/12/random-forests-python.html)
+* [Random Forests in Python](http://www.kdnuggets.com/2016/12/random-forests-python.html)

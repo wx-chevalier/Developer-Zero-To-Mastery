@@ -47,3 +47,5 @@
 # Web Worker
 
 * [2017-How Web Workers can help with consistent, asynchronous tasks in JavaScript](https://medium.freecodecamp.org/how-web-workers-can-help-with-consistent-asynchronous-tasks-in-javascript-cd6d728fa4ee)
+
+- [workerize #Project#](https://github.com/developit/workerize): Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.

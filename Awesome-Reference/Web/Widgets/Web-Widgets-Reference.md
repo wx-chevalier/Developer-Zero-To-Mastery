@@ -6,7 +6,7 @@
 
 不拘泥于某种框架或者实现方式，本索引涵盖了 Web 开发中常用的组件模式，其按照如下方式进行归类：
 
-* [General - 通用](./Web-Widgets-Reference.md)
+* [General - 通用](./General-Widgets-Reference.md)
 
   * Button - 按钮: FAB - 悬浮按钮, ImageButton - 图片按钮
 
@@ -20,13 +20,17 @@
 
 * Layout - 布局
 
-  * Dialog - 窗体
-
   * Grid - 网格
+
+  * Dialog - 窗体
 
   * Cascading - 瀑布流
 
   * Tabs - 标签页
+
+  * Scroll View - 滚动视图
+
+  * Page Slider - 滚动页面
 
 - Navigation - 导航
 
@@ -47,6 +51,8 @@
   * Collapse Panel - 折叠面板
 
   * Search - 搜索
+
+  * Form
 
 * Picker - 输入器
 
@@ -106,6 +112,8 @@
 
   * File - 文件夹与文件
 
+  * Clock - 时钟与计数器
+
   * Calendar - 日历
 
   * Tag - 标签
@@ -142,16 +150,20 @@
 
   * Card - 卡片
 
-  * Carousel - 走马灯 / 轮播
-
   * Image View - 图片视图/滤镜
 
   * Image Crop - 图片裁剪
+
+  * Carousel - 走马灯 / 轮播
+
+  * Parallax - 并发滚动
+
+  * Scrollytelling - 滚动介绍
 
   * Video Player - 视频播放
 
 # Other
 
-* [Zuck.js](https://github.com/ramon82/zuck.js): A javascript library that lets you add stories EVERYWHERE.
+* [Zuck.js #Project#](https://github.com/ramon82/zuck.js): A javascript library that lets you add stories EVERYWHERE.
 
 * [impress.js #Project#](https://github.com/impress/impress.js/): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.

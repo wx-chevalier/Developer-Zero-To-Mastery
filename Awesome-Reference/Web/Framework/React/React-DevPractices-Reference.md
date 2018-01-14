@@ -2,9 +2,9 @@
 
 # React 工程实践资料索引
 
-# Production: 生产环境
+# Debug: 调试
 
-## Test: 测试
+# Test: 测试
 
 * [2017-Testing React Applications #Series#](https://blog.logrocket.com/testing-react-applications-part-1-of-3-ebd8397917f3)：With React and the ecosystem of testing tools that have emerged around it, it’s finally possible to build robust, scalable tests that provide strong guarantees on code correctness.
 
@@ -28,15 +28,29 @@
 
 - [2017-Front-end (React) Snapshot Testing with Jest: What is it for?](https://parg.co/bRQ)
 
-## StaticType: 静态类型检测
+# StaticType: 静态类型检测
 
 * [2017-Typing Higher-order Components in Recompose With Flow](https://parg.co/bDu)
 
-### TypeScript
+## Flow
+
+## TypeScript
 
 * [2017-React Higher-Order Components in TypeScript made simple](https://codeburst.io/react-higher-order-components-in-typescript-made-simple-6f9b55691af1)
 
 - [2017-react-typescript-samples](https://parg.co/UZK): The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+
+# Code Splitting & Components Decomposition: 代码分割与组件解耦
+
+* [2017-React Loadable #Project# ](https://github.com/thejameskyle/react-loadable): [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility #Project# ](https://github.com/stratiformltd/react-loadable-visibility)
+
+* [2017-Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html): This chapter is an extra step that can help speed up the initial load time of your React app.
+
+* [2017-https://parg.co/bXz](https://parg.co/bXz): Techniques for decomposing React components. React components have a lot of power and flexibility. With so many tools at your disposal, it is incredibly easy for components to grow over time, become bloated and do too much.
+
+* [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
+
+- [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
 
 # Architecture Pattern: 架构模式
 

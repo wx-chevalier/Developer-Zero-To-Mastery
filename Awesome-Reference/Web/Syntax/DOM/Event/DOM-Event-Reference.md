@@ -10,7 +10,7 @@
 
 * [如何让 H5 体验接近 APP：（一）触摸反馈](https://segmentfault.com/a/1190000006864910)
 
-## DnD: 拖拽事件
+# DnD: 拖拽事件
 
 * [2016-interact.js #Project#](https://github.com/taye/interact.js): JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
 
@@ -22,18 +22,30 @@
 
 * [2010-Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
 
-# 变化监听
+# Scroll: 滚动事件
 
-* [Angular 沉思录（一）数据绑定](https://github.com/xufei/blog/issues/10)
+* [Complexities of an Infinite Scroller](https://developers.google.com/web/updates/2016/07/infinite-scroller)
 
-* [双向绑定的简单实现——基于“脏检测”](https://parg.co/bOW)：本文基于“脏检测”机制实现一个简单的双向绑定。若您对如何使用 ES5 的 getter/setter 实现动态数据绑定较为感兴趣，可移步至双向绑定的简单实现——基于 ES5 对象的 getter/setter 机制。
+* [react-springy-parallax](https://github.com/drcmda/react-springy-parallax): A springy, composable parallax-scroller for React.
 
-* [前端模板的原理与实现](http://www.tuicool.com/articles/Q73Ubym)
+* [react-waypoint](https://github.com/brigade/react-waypoint): A React component to execute a function whenever you scroll to an element. Works in all containers that can scroll, including the window.
 
-* [开发 vue（或类似的 MVVM 框架）的过程中，需要面对的主要问题有哪些？](https://www.zhihu.com/question/53176471/answer/134004234)
+* [Lucifier129: pull-element](https://github.com/Lucifier129/pull-element): Lightweight, high-performance and smooth pull element effect that support all directions
 
-* [250 行实现一个简单的 MVVM](https://zhuanlan.zhihu.com/p/24475845)
+* [移动 Web 滚动性能优化: Passive event listeners](https://zhuanlan.zhihu.com/p/24555031)
 
-- [如何监听 js 中变量的变化?](https://www.zhihu.com/question/44724640)
+* [iScroll #Project#](http://iscrolljs.com/#whos):高性能的多平台 JS 滚动条
 
-- [2017-如何监听页面 DOM 变动并高效响应](https://hijiangtao.github.io/2017/08/03/How-to-Manipulate-DOM-Effectively/)
+* [React-iScroll #Project#](https://github.com/schovi/react-iscroll)
+
+* [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll):基于 jQuery 的滚动插件
+
+## IntersectionObserver
+
+## ScrollSpy: 滚动监听
+
+* [React Visibility Sensor #Project#](https://github.com/joshwnj/react-visibility-sensor): Sensor component for React that notifies you when it goes in or out of the window viewport.
+
+* [Build a Custom JavaScript Scrollspy Navigation](https://scotch.io/tutorials/build-a-custom-javascript-scrollspy-navigation)
+
+- [InView](https://github.com/camwiegert/in-view): 自动判断某个元素是否在 ViewPort 内

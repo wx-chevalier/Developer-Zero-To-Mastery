@@ -20,7 +20,7 @@
 
 * [Java Programming Cheatsheet From Princeton](http://introcs.cs.princeton.edu/java/11cheatsheet/): This appendix summarizes the most commonly-used Java language features in the textbook.
 
-* [2017-Java  语法清单](https://zhuanlan.zhihu.com/p/25578170)
+* [2017-Java 语法清单](https://zhuanlan.zhihu.com/p/25578170)
 
 ## Java 8
 
@@ -46,20 +46,21 @@
 
 * [2017-Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/): In this write up we’re going to have quick, high level look at some of the new features;
 
-
 # Resource
 
 ## Book: 书籍
 
 * [2011-深入理解 Java 虚拟机：JVM 高级特性与最佳实践 #Book#](https://parg.co/b1E)：全书共分为五大部分。第一部分从宏观的角度介绍了整个 Java 技术体系的过去、现在和未来；第二部分讲解了 JVM 的自动内存管理；第三部分分析了虚拟机的执行子系统；第四部分讲解了程序的编译与代码的优化；第五部分探讨了 Java 实现高效并发的原理。
 
-* [2015-实战 Java 高并发程序设计]()：
+* [2015-实战 Java 高并发程序设计 #Book#]()：
 
 * [2015-Pro Java 8 Programming, Third Edition #Project# ](https://www.safaribooksonline.com/library/view/pro-java-8/9781484206416/): Pro Java 8 Programming covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8.
 
 * [2017-Think Java #Book#](https://books.trinket.io/thinkjava/): Think Java is an excellent introduction to computer science and programming intended for people with little or no experience.
 
-- [Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+- [2017-Introduction To Programming In Java #Book#](http://introcs.cs.princeton.edu/java/home/): Princeton 出品的 Java 入门书籍
+
+- [2011-Java Concurrency In Practice #Book#](https://parg.co/UVQ):Our goal is to give readers a set of design rules and mental models that make it easier and more fun to build correct, performant concurrent classes and applications in Java.
 
 ## Blog: 博客
 

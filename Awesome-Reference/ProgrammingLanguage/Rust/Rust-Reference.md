@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Rust 学习与实践资料索引
 
@@ -13,15 +11,15 @@
 * [2017-What's a reference in Rust?](https://jvns.ca/blog/2017/11/27/rust-ref/): people who have read the lifetimes chapter in the Rust book and sorta understand it in principle but are still confused about a lot of pretty basic Rust things.
 
 - [2017-
-Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/)
+  Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/)
 
 # Overview
 
 * [2017-Deep drive into rust programming language](https://parg.co/UP1)
 
-## Tutorial
+## Case Study
 
-* [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.
+* [Why Rust is the future of robotics](https://parg.co/UVu): We believe Rust is the future of robotics because it enables developers to be fearless, to create and enforce standards, and to build and rely on a strong community.
 
 ## CheatSheet
 
@@ -42,3 +40,5 @@ Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom
 * [2017-Rust Essentials-Second Edition #Book#](https://parg.co/UPI): Leverage the functional programming and concurrency features of Rust and speed up your application development.
 
 - [2016-Algorithm Cookbook in Rust #Book#](https://github.com/EbTech/rust-algorithms): A collection of classic data structures and algorithms, emphasizing beauty and clarity over full generality.
+
+* [2016-Rust-101](https://www.ralfj.de/projects/rust-101/main.html): This is Rust-101, a small tutorial for the Rust language. It is intended to be an interactive, hands-on course: I believe the only way to really learn a language is to write code in it, so you should be coding during the course.

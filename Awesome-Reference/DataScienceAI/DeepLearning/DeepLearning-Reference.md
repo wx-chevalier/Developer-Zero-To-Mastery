@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # 深度学习资料索引
 
@@ -26,9 +24,9 @@
 
 - [Deep Learning 101 #Series#](http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html): The Deep Learning 101 series is a companion piece to a talk given as part of the Department of Biomedical Informatics @ Harvard Medical School ‘Open Insights’ series. Slides for the talk are available here
 
-- [深度学习：2016年的进展综述及2017年的预测 ](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653161579&idx=1&sn=e1d157cb4c6e9610be78ebf79eb4379c&chksm=8b493505bc3ebc1323b2d0a673e479d4bb9321748c62c9ad613260936849ea76c48902249868#rd)
+- [深度学习：2016 年的进展综述及 2017 年的预测 ](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653161579&idx=1&sn=e1d157cb4c6e9610be78ebf79eb4379c&chksm=8b493505bc3ebc1323b2d0a673e479d4bb9321748c62c9ad613260936849ea76c48902249868#rd)
 
-- [sjchoi86-深度学习指导](https://github.com/sjchoi86/dl_tutorials):一系列对于深度学习入门指导的PPT
+- [sjchoi86-深度学习指导](https://github.com/sjchoi86/dl_tutorials):一系列对于深度学习入门指导的 PPT
 
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
@@ -87,10 +85,6 @@
 * [2017-The-Terrible-Deep-Learning-List](https://github.com/samdeeplearning/The-Terrible-Deep-Learning-List): 15 working examples to get you started with Deep Learning without learning any of the math.
 
 * [Miles Deep - AI Porn Video Editor](https://github.com/ryanjay0/miles-deep)
-
-## Funny DeepLearning
-
-* [Using Keras and Deep Q-Network to Play FlappyBird](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
 
 # Toolkits: 工具
 

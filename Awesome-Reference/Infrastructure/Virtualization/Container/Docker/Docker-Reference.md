@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Docker Reference
 
@@ -38,16 +36,6 @@
 
 * [2017-The New Stack-The Docker and Container Ecosystem #Book#](https://thenewstack.io/ebooks/): The container ecosystem is constantly changing and impacting the developer landscape. Our five ebook series on the container ecosystem covers everything from application development to orchestration, networking, security, data storage, and monitoring.
 
-## Tool
+# Tutorial
 
-* [ctop #Project#](https://github.com/bcicen/ctop): Top-like interface for container metrics
-
-* [container-diff #Project#](https://github.com/GoogleCloudPlatform/container-diff): container-diff is a tool for analyzing and comparing container images. container-diff can examine images along several different criteria
-
-# Optimization
-
-* [2017-Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
-
-- [Dockerfile 最佳实践](http://dockone.io/article/132)
-
-- [Dockerfile 优化浅谈](http://dockone.io/article/255)
+* [Docker + Kubernetes](https://parg.co/UVt)

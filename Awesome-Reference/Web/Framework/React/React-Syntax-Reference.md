@@ -4,6 +4,8 @@
 
 # Component: 组件开发
 
+* [2017-How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
+
 * [2017-Convert React.createClass to ES6 Class](https://daveceddia.com/convert-createclass-to-es6-class/): As of React 15.5, createClass is deprecated. You’ll get warnings in the console if you’re using it in your code – and, when React 16 comes out, createClass will be removed entirely.
 
 * [2017-React Lifecycle Methods- how and when to use them](https://parg.co/bCT): The above is the life of a React component, from birth (pre-mounting) and death (unmounting).

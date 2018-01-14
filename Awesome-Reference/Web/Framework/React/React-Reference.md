@@ -2,6 +2,8 @@
 
 # React 学习与实践资料索引
 
+过去的一年里 React 及其社区依旧活跃，开源协议的变更、新版本的发布、组件库的扩充，都在不断为 React 的蓬勃发展注入新的动力。本文即是对笔者 [Awesome Reference 中 React 学习与实践资料索引]()的总结，涵盖了[概述与学习资源、语法、开发实践、生产环境优化、调和算法与内部原理、开源框架与库]()等几个部分。
+
 # Overview: 概览
 
 * [2014-Removing-User-Interface-Complexity,-or-Why-React-is-Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
@@ -10,9 +12,9 @@
 
 * [2017-React 常用面试题目与分析](https://zhuanlan.zhihu.com/p/24856035)
 
-* [2017-How Pure CSS Images Helped Me Understand React Components](https://parg.co/bL6): How did I overcome impostor syndrome and finally learn React? There are a few reasons but one of the most significant ones was learning how to make pure CSS images.
+- [2017-All the fundamental React.js concepts, jammed into this single Medium article](https://parg.co/bzp): This article is not going to cover what React is or why you should learn it. Instead, this is a practical introduction to the fundamentals of React.js for those who are already familiar with JavaScript and know the basics of the DOM API.
 
-## Principle: 设计理念
+## Concept: 概念
 
 * [2016-Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html): One of the many great parts of React is how it makes you think about apps as you build them. In this document, we'll walk you through the thought process of building a searchable product data table using React.
 
@@ -25,20 +27,6 @@
 * [2016-Moving Airbnb Search to React](http://6me.us/2mS): Using experiments to tackle a large refactor with confidence
 
 # Tutorial: 入门教程
-
-## Concept: 概念
-
-* [Master the JavaScript Interview What is a Pure Function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
-
-- [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
-
-- [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
-
-- [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
-
-- [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
-
-- [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
 
 ## Coding: 基础编码
 

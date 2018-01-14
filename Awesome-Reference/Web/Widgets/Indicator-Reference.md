@@ -1,12 +1,10 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # Web 指示器插件索引
 
 # ProgressBar
 
-- [NProgress](http://ricostacruz.com/nprogress/)
+* [NProgress](http://ricostacruz.com/nprogress/)
 
 # Introduction
 
@@ -14,10 +12,9 @@
 
 ### [react-user-tour](https://github.com/socialtables/react-user-tour)
 
-
 # Text
 
-- [ellipsed #Project#](https://github.com/nzambello/ellipsed): A JavaScript library for multilined ellipsis
+* [ellipsed #Project#](https://github.com/nzambello/ellipsed): A JavaScript library for multilined ellipsis
 
 ## Animation
 
@@ -31,17 +28,15 @@
 
 ![](http://7xiegq.com1.z0.glb.clouddn.com/2015-09-22%2017_46_27.gif)
 
+* Installation
 
-
-- Installation
-
-``` 
+```
 npm install substituteteacher.js --save-dev
 ```
 
-- Usage
+* Usage
 
-``` html
+```html
 <!-- Step 1: Add the substituteteacher.js file -->
 <script src="substituteteacher.min.js"></script>
 
@@ -61,46 +56,52 @@ npm install substituteteacher.js --save-dev
 ```
 
 # Progress
+
 ## ProgressBar
+
 ### [Elastic Progress](https://github.com/codrops/ElasticProgress)
 
 ![Elastic Progress](https://camo.githubusercontent.com/cc2cecf6a9725655027e0282452ad246d88a2fb9/687474703a2f2f636f64726f7073707a2e74796d70616e75732e6e6574646e612d63646e2e636f6d2f636f64726f70732f77702d636f6e74656e742f75706c6f6164732f323031352f30392f656c617374696370726f67726573732e676966)
+
 ## Pagination
 
 ### [Rubber Indicator][1]
 
 <iframe src="http://codepen.io/machycek/full/eNvyjb/"></iframe>
 
-
 # DateTimer
+
 ## TimeLine
 
 ### [labella.js](https://github.com/twitter/labella.js)
 
 ### [d3-timeline](https://github.com/commodityvectors/d3-timeline)
+
 ![](https://raw.githubusercontent.com/commodityvectors/d3-timeline/master/usage.gif)
-
-
 
 [1]: http://codepen.io/machycek/full/eNvyjb/
 
 # Loading
 
-- [css-loaders](https://github.com/lukehaas/css-loaders)
+* [css-loaders](https://github.com/lukehaas/css-loaders)
 
-- [SpinKit](https://github.com/tobiasahlin/SpinKit):A collection of loading indicators animated with CSS,IE8 Support
+* [SpinKit](https://github.com/tobiasahlin/SpinKit):A collection of loading indicators animated with CSS,IE8 Support
 
-- [loaders.css](https://github.com/ConnorAtherton/loaders.css)
-![](http://7xkt0f.com1.z0.glb.clouddn.com/2016-03-25%2013_59_30.gif)
-
+* [loaders.css](https://github.com/ConnorAtherton/loaders.css)
+  ![](http://7xkt0f.com1.z0.glb.clouddn.com/2016-03-25%2013_59_30.gif)
 
 ## Code Style(代码样式显示)
 
-- [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)
+* [spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)
 
-- [microlight](https://github.com/asvd/microlight)
+* [microlight](https://github.com/asvd/microlight)
 
 # Table
 
-- [react-pivottable #Project#](https://react-pivottable.js.org/): React-based drag'n'drop pivot table with Plotly.js charts.
+* [react-pivottable #Project#](https://react-pivottable.js.org/): React-based drag'n'drop pivot table with Plotly.js charts.
 
+# Clock
+
+* [D3 Calendar Heatmap](https://github.com/DKirwan/calendar-heatmap)
+
+* [Flip Count Down](https://github.com/xdan/flipcountdown)

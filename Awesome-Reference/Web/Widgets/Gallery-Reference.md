@@ -23,3 +23,17 @@
 * [react-image-crop](https://github.com/DominicTobias/react-image-crop)
 
 * [Pica](http://nodeca.github.io/pica/demo/):Resize image in browser with high quality and high speed
+
+# Parallax
+
+* [rellax #Project#](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library.
+
+* [guide-browser-scroll-animations](http://developer.telerik.com/featured/guide-browser-scroll-animations/?ref=mybridge.co)
+
+* [ScrollTrigger](https://github.com/terwanerik/ScrollTrigger)
+
+* AOS
+
+# Scrollytelling
+
+* [Scrollama #Project#](https://github.com/russellgoldenberg/scrollama): Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.

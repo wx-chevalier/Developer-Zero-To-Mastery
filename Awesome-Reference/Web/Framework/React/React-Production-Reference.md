@@ -53,23 +53,13 @@
 
 - [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): There may be a lot of low-hanging fruit affecting performance in areas you might not track very closely but are still very important.
 
-## Tool: 工具
+## OpenSource: 工具
 
 * [High Performance React: 3 New Tools to Speed Up Your Apps](https://parg.co/b1v): In this post I’ll highlight tools and techniques for making React apps fast. Each section also has an interactive, and (hopefully) fun demo!
 
 * [why-did-you-update #Project# ](https://github.com/garbles/why-did-you-update): Puts your console on blast when React is making unnecessary updates.
 
-## Code Splitting & Components Decomposition: 代码分割与组件解耦
-
-* [2017-React Loadable #Project# ](https://github.com/thejameskyle/react-loadable): [2017-Introducing React Loadable](http://6me.us/mNHi)、[react-loadable-visibility #Project# ](https://github.com/stratiformltd/react-loadable-visibility)
-
-* [2017-Code Splitting in Create React App](http://serverless-stack.com/chapters/code-splitting-in-create-react-app.html): This chapter is an extra step that can help speed up the initial load time of your React app.
-
-* [2017-https://parg.co/bXz](https://parg.co/bXz): Techniques for decomposing React components. React components have a lot of power and flexibility. With so many tools at your disposal, it is incredibly easy for components to grow over time, become bloated and do too much.
-
-* [2017-Writing Clean and Concise React Components by Making Full Use of ES6/7 Features and the Container-Component Pattern](https://parg.co/b1B)
-
-## Server Side Rendering: 服务端渲染
+# Server Side Rendering: 服务端渲染
 
 * [2017-Introducing Rapscallion #Project# ](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 

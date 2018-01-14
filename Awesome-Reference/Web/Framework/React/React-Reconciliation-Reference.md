@@ -18,7 +18,15 @@
 
 * [ReactJS | Learning Virtual DOM and React Diff Algorithm](http://www.oyecode.com/2015/09/reactjs-learning-virtual-dom-and-react.html)
 
-- [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture)
+* [So-You-Want-To-Be-A-Functional-Programmer](http://62f7d6c2.fromwiz.com/share/s/1yZZr21Yv4w42GorJm0oBXEi3AKTQa3rcARz2nKoQ71RpX_Z)
+
+* [React’s diff algorithm](http://calendar.perfplanet.com/2013/diff/)
+
+* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
+
+* [The Secrets of React’s virtual DOM](http://fluentconf.com/fluent2014/public/schedule/detail/32395)
+
+* [Why is React’s concept of virtual DOM said to be moreperformant than dirty model checking?](http://stackoverflow.com/questions/21109361/why-is-reacts-concept-of-virtual-dom-said-to-be-more-performant-than-dirty-mode)
 
 # Stack Reconciler
 
@@ -34,16 +42,18 @@
 
 # Fiber
 
-* [2017-React Fiber resources](https://github.com/koba04/react-fiber-resources): This is for resources for React Fiber.
+* [2017-React Fiber resources #Collection#](https://github.com/koba04/react-fiber-resources): This is for resources for React Fiber.
 
 * [2017-A look inside React Fiber - how work will get done.](http://makersden.io/blog/look-inside-fiber/): This post will go outside-in - starting from calling the render function in client JS and changing state of a component, down to describing the steps taken by Fiber to do all the work.
 
-- [2017-React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture): A description of React's new core algorithm, React Fiber.
+* [2017-React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture): A description of React's new core algorithm, React Fiber.
 
-- [2017-React 的新引擎 — React Fiber 是什么？](https://parg.co/bgb)：稍有经验的前端工程师会知道，页面的 DOM 改变，就会导致页面重新计算 DOM，进行重绘或者重排，DOM 结构复杂或者频繁操作 DOM 通常是性能瓶颈产生的原因。而网站从最开始比较简单，开始变的越来越复杂，用户交互也会越来越多，怎么去减轻 DOM 操作带来的性能损耗就变得重要起来。
+* [2017-React 的新引擎 — React Fiber 是什么？](https://parg.co/bgb)：稍有经验的前端工程师会知道，页面的 DOM 改变，就会导致页面重新计算 DOM，进行重绘或者重排，DOM 结构复杂或者频繁操作 DOM 通常是性能瓶颈产生的原因。而网站从最开始比较简单，开始变的越来越复杂，用户交互也会越来越多，怎么去减轻 DOM 操作带来的性能损耗就变得重要起来。
 
-- [2017-React Fiber 是什么](https://zhuanlan.zhihu.com/p/26027085)：React Fiber 这个大改变 Facebook 已经折腾两年多了，刚刚结束不久的 React Conf 2017 会议上，Facebook 终于确认，React Fiber 会搭上 React 下一个大版本 v16 的顺风车发布。
+* [2017-React Fiber 是什么](https://zhuanlan.zhihu.com/p/26027085)：React Fiber 这个大改变 Facebook 已经折腾两年多了，刚刚结束不久的 React Conf 2017 会议上，Facebook 终于确认，React Fiber 会搭上 React 下一个大版本 v16 的顺风车发布。
 
-- [2017-React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)： Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调（Reconciliation ）算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。
+* [2017-React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)： Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调（Reconciliation ）算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。
 
-- [2017-React Conf: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+* [2017-React Conf: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+
+* [react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture)

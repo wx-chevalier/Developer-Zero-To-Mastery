@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Docker 常用配置
 
@@ -27,3 +25,11 @@
 * [Docker 网络部分执行流分析（Libnetwork 源码解读）](http://dockone.io/article/1255)
 
 - [Docker Networking: Reborn](http://www.container42.com/2015/10/30/docker-networking-reborn/)
+
+# Optimization
+
+* [2017-Tips to Reduce Docker Image Sizes](https://parg.co/beS): Docker images can easily get to 2–3GB. Here’s some tips that can help reduce their sizes.
+
+- [Dockerfile 最佳实践](http://dockone.io/article/132)
+
+- [Dockerfile 优化浅谈](http://dockone.io/article/255)
