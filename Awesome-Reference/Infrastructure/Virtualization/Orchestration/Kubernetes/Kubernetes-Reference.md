@@ -19,3 +19,7 @@
 * [阿里云 kubernetes 部署(v1.6.x)](http://www.jianshu.com/p/02dc13d2f651)
 
 * [Kompose](http://kompose.io/index): Kompose kompose is a tool to help users familiar with docker-compose move to Kubernetes. It takes a Docker Compose file and translates it into Kubernetes resources.
+
+- [原生加速中国区 Kubernetes 安装](https://www.cnrancher.com/kubernetes-installation/): 教你如何在中国区加速部署 k8s，且实现自定义设置拥有 k8s 镜像的仓库与其命名空间。
+
+- [Quick deployment of Kubernetes - VPC environment on Alibaba Cloud ](https://www.alibabacloud.com/forum/read-830)
