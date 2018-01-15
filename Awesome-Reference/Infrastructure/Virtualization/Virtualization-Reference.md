@@ -8,3 +8,6 @@
 - [Hyper Container #Project#](https://hypercontainer.io/): Hypervisor-agnostic Docker Runtime_
 
 - [2017-Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+
+
+- [2017-The Evolution and Future of Hypervisors](https://parg.co/UV7): In this article, we will first outline the architecture of classical trap-and-emulate hypervisors that were invented in the 1970s.
