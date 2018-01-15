@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # 微服务架构学习与实践资料索引
 
@@ -17,6 +15,8 @@
 * [2016-Production Ready Microservices #Book#](https://parg.co/U6C): Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You’ll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.
 
 * [2017-Microservices Reference Architecture #Book#](https://parg.co/U6h): Learn how to connect, secure, and scale microservices in this free ebook.
+
+- [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
 # 架构实践
 
