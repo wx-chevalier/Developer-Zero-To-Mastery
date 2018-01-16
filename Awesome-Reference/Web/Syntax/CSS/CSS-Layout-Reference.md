@@ -1,16 +1,18 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # CSS 布局学习与实践资料索引
 
-* [10 分钟理解 BFC 原理](https://parg.co/bOg)
+# 盒模型与文档流
 
 * [2017-The CSS Box Model Explained by Living in a Boring Suburban Neighborhood](https://parg.co/bhN)
 
-# 盒模型与文档流
-
 * [how-well-do-you-know-display](https://www.chenhuijing.com/blog/how-well-do-you-know-display/#a-responsive-numeric-stepper)
 
-- [2017-Understanding CSS Layout And The Block Formatting Context](https://parg.co/UOz)
+## BFC
+
+* [2017-Understanding CSS Layout And The Block Formatting Context](https://parg.co/UOz)
+
+- [10 分钟理解 BFC 原理](https://parg.co/bOg)
 
 ## 定位
 
