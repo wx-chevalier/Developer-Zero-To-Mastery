@@ -13,3 +13,5 @@
 * [DNS 协议分析](http://blog.cyeam.com/network/2015/01/29/dns)
 
 - [EdgeDNS #Project#](https://github.com/jedisct1/edgedns)
+
+- [从 Chrome 源码看 DNS 解析过程](https://mp.weixin.qq.com/s/K7rdF82yi-yGk5-aN9Se8A)

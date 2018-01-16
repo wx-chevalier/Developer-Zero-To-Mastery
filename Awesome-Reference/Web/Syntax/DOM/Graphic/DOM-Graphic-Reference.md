@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # DOM 绘图相关资料索引
 
@@ -47,6 +45,12 @@
 # WebGL
 
 * [DecorativeBackgrounds #Project#](https://github.com/Mamboleoo/DecorativeBackgrounds): A collection of decorative animated background shapes powered by WebGL and TweenMax
+
+- [2017-WebGL 基础知识](http://eux.baidu.com/blog/2017/11/832)
+
+- [WebGL2 Fundamentals](https://webgl2fundamentals.org): WebGL2 from the ground up. No magic.
+
+- [TWGL #Project#](http://twgljs.org): This library's sole purpose is to make using the WebGL API less verbose.
 
 ## GPGPU
 

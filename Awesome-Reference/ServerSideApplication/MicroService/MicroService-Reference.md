@@ -18,7 +18,7 @@
 
 - [2018-The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
-# 架构实践
+# 工程实践
 
 * [现代化 Web 的微服务架构最佳实践全景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994851&idx=1&sn=3c197d1dd03b77c2e28d53eea51ceb03&chksm=bdbf00f08ac889e6578cf9c007420083ad6a211aa7d9010469df838ad9970abfe626c7d4277e&mpshare=1&scene=23&srcid=11212awqMjU8OcidSWhGPTbc#rd)
 
@@ -73,6 +73,6 @@
 
 * [2017-REST ? RPC ? 是时候改变你对微服务的认知了！](https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg): 在本文中，我们将会讨论一种完全不同的架构：不是把 service 们通过命令链揉到一块，而是通过事件流（stream of events ）来做。这是一个不错的方式。这种方式也是我们之后要讨论的一系列的一个基础。
 
-# Self-hosted Service
+# 架构模式
 
-* [URL to PDF Microservice](https://github.com/alvarcarto/url-to-pdf-api): Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+- [微服务架构三十六计](https://mp.weixin.qq.com/s/thflf4uFrC2059X9OZ1Frg): 在微服务的落地过程中，我们认为如下几点将成为组织实施微服务架构的必备能力。
