@@ -6,6 +6,8 @@
 
 * [Awesome Reference](https://parg.co/b4z)
 
+* [Awesome CS Books(.pdf) Warehouse](https://parg.co/UpB)
+
 * [HTML Reference](https://parg.co/UUK), More reference for HTML can be found [Here](https://parg.co/UUK).
 
 # Series

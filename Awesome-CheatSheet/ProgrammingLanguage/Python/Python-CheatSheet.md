@@ -641,7 +641,17 @@ print(frozen_set)
 # frozen_set.add("h")
 ```
 
-### Enum
+### Tuple
+
+```py
+# 修改 Tuple 中的值
+t = ('275', '54000', '0.0', '5000.0', '0.0')
+lst = list(t)
+lst[0] = '300'
+t = tuple(lst)
+```
+
+### Enum: 枚举类型
 
 ```py
 class Enum(set):
@@ -938,6 +948,37 @@ getattr(ex,'name')
 setattr(ex,'name','example')
 ex.name
 # 'example'
+```
+
+## 类继承
+
+```py
+# 父类必须继承 object 或者其他父类
+class BaseClass(object):
+    def __init__(self, *args, **kwargs):
+        pass
+
+class ChildClass(BaseClass):
+    def __init__(self, *args, **kwargs):
+        super(ChildClass, self).__init__(*args, **kwargs)
+```
+
+```py
+class Car(object):
+    condition = "new"
+
+    def __init__(self, model, color, mpg):
+        self.model = model
+        self.color = color
+        self.mpg   = mpg
+
+class ElectricCar(Car):
+    def __init__(self, battery_type, model, color, mpg):
+        self.battery_type=battery_type
+        super(ElectricCar, self).__init__(model, color, mpg)
+
+car = ElectricCar('battery', 'ford', 'golden', 10)
+print car.__dict__
 ```
 
 # 异常与测试

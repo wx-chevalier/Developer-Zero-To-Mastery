@@ -17,16 +17,22 @@
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://techiedelight.quora.com/Top-Algorithms-Data-Structures-Concepts-every-computer-science-student-should-know)
 
-* [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
-
-- [algorithmist](http://www.algorithmist.com/index.php/Main_Page):
+* [algorithmist](http://www.algorithmist.com/index.php/Main_Page):
   The Algorithmist is a resource dedicated to anything algorithms - from the practical realm, to the theoretical realm. There are also links and explanation to problemsets.
 
 # Resource: 通用资源
 
+## Book
+
+* [2017-Algorithm Design: Parallel and Sequential](http://www.parallel-algorithms-book.com/): 15-210 aims to teach methods for designing, analyzing, and programming sequential and parallel algorithms and data structures.
+
+- [2017-Competitive Programmer's Handbook #Book#](https://cses.fi/book.html): The purpose of this book is to give the reader a thorough introduction to competitive programming. The book is especially intended for students who want to learn algorithms and possibly participate in the International Olympiad in Informatics (IOI) or in the International Collegiate Programming Contest (ICPC).
+
 ## Online Judge: 在线编程
 
 * [Leetcode](https://leetcode.com/): LeetCode is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+
+* [牛客网]()
 
 # C++
 
