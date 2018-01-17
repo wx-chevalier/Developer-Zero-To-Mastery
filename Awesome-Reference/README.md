@@ -50,7 +50,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 * {Something}-OpenSource-Reference.md - Awesome tools, frameworks, projects
 
-* {Something}-{Core/Compiler/Engine}-Reference.md Inner mechanism under the hood
+* {Something}-{Internals/Compiler/Engine}-Reference.md Inner mechanism under the hood
 
 本系列文章索引类别约定如下：
 

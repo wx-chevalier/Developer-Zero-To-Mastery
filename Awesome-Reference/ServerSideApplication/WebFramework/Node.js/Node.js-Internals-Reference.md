@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Node.js 运行机制与核心原理资料索引
 
