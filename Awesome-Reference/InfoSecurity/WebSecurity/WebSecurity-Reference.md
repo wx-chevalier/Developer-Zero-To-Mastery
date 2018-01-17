@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Web 安全资料索引
 
@@ -29,6 +27,18 @@
 - [Cross-site scripting for dummies](https://hackernoon.com/cross-site-scripting-for-dummies-be30f76fad09#.6yvkvry4s)
 
 # CSRF
+
+* [从零开始学 CSRF](http://www.freebuf.com/articles/web/55965.html)
+
+* [Preventing CSRF](http://www.playhack.net/view.php?id=31)
+
+* [Security Corner: Cross-Site Request Forgeries](http://shiflett.org/articles/cross-site-request-forgeries)
+
+* [《深入解析跨站请求伪造漏洞：原理剖析》](http://netsecurity.51cto.com/art/200812/102951.htm)
+
+* [《 Web 安全测试之跨站请求伪造（CSRF ）》](http://netsecurity.51cto.com/art/200811/97281.htm)
+
+* [《深入解析跨站请求伪造漏洞：实例讲解》](http://netsecurity.51cto.com/art/200812/102925.htm)
 
 # SQLInjection
 
