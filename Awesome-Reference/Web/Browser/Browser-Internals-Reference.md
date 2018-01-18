@@ -34,6 +34,8 @@
 
 * [2017-Entering the Quantum Era—How Firefox got fast again and where it’s going to get faster](https://parg.co/U6v)
 
+- [2018-Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://parg.co/U8j)
+
 # Edge
 
 * [2017-Modernizing the DOM tree in Microsoft Edge](https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#gXbKkdM2Yl71P1jX.97): In this post, we’ll walk you through the history of the DOM in Internet Explorer and Microsoft Edge, and the impact of our recent work to modernize the DOM Tree, which is already resulting in substantially improved performance in the Windows 10 Creators Update.

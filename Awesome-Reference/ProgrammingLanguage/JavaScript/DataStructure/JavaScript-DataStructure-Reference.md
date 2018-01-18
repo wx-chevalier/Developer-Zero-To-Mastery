@@ -4,17 +4,23 @@
 
 # JavaScript DataStructure Reference
 
-# Number
+# Basic DataType
 
-# Boolean
+## Number
 
-# Symbol
+## Boolean
 
-# Null & Undefined: 空类型
+## Symbol
+
+## Null & Undefined: 空类型
 
 * [探索 JavaScript 中 Null 和 Undefined 的深渊](https://zhuanlan.zhihu.com/p/24881939)
 
 * [7 tips to handle undefined in JavaScript](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/): When I started to learn JavaScript about eight years ago, a bizarre situation for me was the existence of both undefined and null that represent empty values. What is the clear difference between them? They both seem to define empty values, and moreover the comparison null == undefined evaluates to true.
+
+# Type Coercion: 类型转换
+
+- [2018-JavaScript type coercion explained](https://parg.co/U8B): Type coercion is the process of converting value from one type to another.
 
 # String
 
