@@ -194,3 +194,50 @@ try {
   alert("thanks for playing!");
 }
 ```
+
+# JavaScript 语法速览与实践技巧
+
+合入 [JavaScript hacks for ES6 hipsters](https://parg.co/Uuy)
+
+# 表达式与控制流
+
+# 数据结构
+
+## Array
+
+```js
+const uniqueArray = arr => [...new Set(arr)];
+
+uniqueArray([1, 2, 2, 3, 4, 4, 5]);
+// [1,2,3,4,5]
+```
+
+# 函数与类
+
+## 函数定义
+
+### 参数
+
+ES6 中引入了所谓的默认参数 :
+
+```js
+// 传统的默认参数编写方式
+function filterEvil(array, evil) {
+  evil = evil || "darth vader";
+  return array.filter(item => item !== evil);
+}
+
+// ES6 默认参数
+function filterEvil(array, evil = "darth vader") {
+  return array.filter(item => item !== evil);
+}
+
+// 默认参数可以用来进行必要参数检测
+const isRequired = () => {
+  throw new Error("param is required");
+};
+
+function filterEvil(array, evil = isRequired()) {
+  return array.filter(item => item !== evil);
+}
+```

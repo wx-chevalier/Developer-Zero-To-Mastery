@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # JavaScript 函数相关资料索引
 
@@ -68,7 +66,19 @@
 
 * [2017-How I Fell in Love with JS Decorators](https://cabbageapps.com/fell-love-js-decorators): One of the recent addiction for our team was the usage of Decorators which are proposed in the new ES7. In this article, I am going to strip Decorators for you so that you can see the beauty of it!
 
-## Iterator & Generator: 迭代器与生成器
+# Iterator & Generator: 迭代器与生成器
+
+* [ES6 Iterators and Generators – 6 exercises and solutions](http://www.zsoltnagy.eu/es6-iterators-and-generators-6-exercises-and-solutions/)
+
+* [ES6 Iterators and Generators in Practice](http://www.zsoltnagy.eu/es6-iterators-and-generators-in-practice/)
+
+* [ES6 Generators in Depth](https://ponyfoo.com/articles/es6-generators-in-depth)
+
+* [《ECMAScript 6 入门：generator 》](http://es6.ruanyifeng.com/#docs/generator)
+
+* [深入浅出 ES6（三）：生成器 Generators](http://www.infoq.com/cn/articles/es6-in-depth-generators)
+
+* [深入浅出 ES6（十一）：生成器 Generators，续篇](http://www.infoq.com/cn/articles/es6-in-depth-generators-continued)
 
 ## this
 

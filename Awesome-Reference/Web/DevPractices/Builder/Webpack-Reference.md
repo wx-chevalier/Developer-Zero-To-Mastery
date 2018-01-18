@@ -24,6 +24,22 @@
 
 * [2017-Brief introduction to scope hoisting in Webpack](https://parg.co/beE): On its third major release, Webpack introduced a new feature: scope hoisting. Many developers are already exposing data showing great positive impacts on the initial execution time of their bundles.
 
+## Build Performance: 构建性能优化
+
+* [2016-Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/)
+
+* [HappyPack #Project# ](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
+
+# Production: 发布到生产环境
+
+* [2017-Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://parg.co/b19)
+
+- [2017-webpack for real tasks: bundling front-end and adding compilation #Series#](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/): Bundling front-end and adding compilation ,Decreasing front-end size and improving caching,  Speeding up build and improving the development workflow
+
+- [基于 Webpack 搭建前端工程解决方案探索](http://www.infoq.com/cn/articles/frontend-engineering-webpack)
+
+- [基于 Webpack 的前端资源构建方案](http://lifei.github.io/2015/12/20/webpack/#___8)
+
 ## Code Split: 代码分割
 
 * [2017-Vendor and code splitting in webpack 2](https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923#.4ma6usgf0)
@@ -32,25 +48,7 @@
 
 * [2017-How to use Webpack’s new “magic comment” feature with React Universal Component + SSR](https://parg.co/b9A): Webpack 2.4.0, which came out a few weeks ago, launched with a very interesting new feature: “magic comments.” In combination with dynamic imports, “magic comments” greatly simplify code-splitting + server-side rendering.
 
-# EPractices
-
-## Build Performance: 构建性能优化
-
-* [2016-Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/)
-
-* [HappyPack #Project# ](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
-
-## Production: 发布到生产环境
-
-* [2017-Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://parg.co/b19)
-
 * [Webpack Bundle Analyzer #Project# ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
-
-* [2017-webpack for real tasks: bundling front-end and adding compilation #Series#](https://iamakulov.com/notes/all/webpack-for-real-tasks-part-1/): Bundling front-end and adding compilation ,Decreasing front-end size and improving caching,  Speeding up build and improving the development workflow
-
-* [基于 Webpack 搭建前端工程解决方案探索](http://www.infoq.com/cn/articles/frontend-engineering-webpack)
-
-* [基于 Webpack 的前端资源构建方案](http://lifei.github.io/2015/12/20/webpack/#___8)
 
 ## Internals
 
