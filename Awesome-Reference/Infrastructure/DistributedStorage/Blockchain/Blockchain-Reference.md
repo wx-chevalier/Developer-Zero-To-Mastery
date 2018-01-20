@@ -29,3 +29,21 @@
 - [区块链 ——2016 最耀眼的新兴技术之一 ](http://mp.weixin.qq.com/s?__biz=MzI3MzEzMDI1OQ==&mid=2651815383&idx=1&sn=dd55f73df9f054b4d1354675f76b2f61)
 
 - [CryptoList #Collection#](https://github.com/coinpride/CryptoList): Curated collection of blockchain & cryptocurrency links.
+
+# Overview
+
+- [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
+
+# Resource
+
+## Book
+
+## Collection
+
+## Blog
+
+- [Blockgeeks #Blog#](https://blockgeeks.com/): Blockgeeks is a leading online learning platform that helps anyone learn Blockchain in business, software, technology and creative skills to achieve personal and professional goals.
+
+# Smart Contract: 智能合约
+
+- [为什么要用区块链技术实现智能合约？](https://www.zhihu.com/question/43404157): 智能合约貌似就是一段脚本，可以被准确执行。这用传统的技术也能实现，为什么一定要用区块链技术呢？
