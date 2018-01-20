@@ -11,3 +11,5 @@
 # Native Modules: 原生模块
 
 * [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)
+
+- [2018-Deep Dive Node #Series#](https://blog.safia.rocks/): How does the Node main process start, How does Node load built-in modules, Node module deep-dive: os
