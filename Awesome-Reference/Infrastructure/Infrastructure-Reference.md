@@ -1,6 +1,4 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
 
 # 云计算和大数据平台基础架构资料索引
 
@@ -59,6 +57,8 @@
 * [2017- 深度解密京东登月平台基础架构](https://parg.co/bg7)：近日，京东发布登月机器学习平台，并在京东云上线，正式对外提供人工智能服务。登月机器学习平台的上线代表着京东人工智能技术从应用级服务到基础算法的全面对外开放，实践着京东 RaaS（零售即服务）的发展策略。今天我们邀请了 AI 与大数据部的工程师为大家深度解密京东登月平台基础架构。
 
 - [2016-Data Infrastructure At Airbnb](https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.8y91c8qmk): At Airbnb we promote a data informed culture and use data as a key input for making decisions.
+
+- [2018-Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users. 
 
 # 云计算
 
