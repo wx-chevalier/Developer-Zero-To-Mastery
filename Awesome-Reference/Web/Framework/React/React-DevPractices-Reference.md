@@ -52,6 +52,8 @@
 
 - [2018-Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://parg.co/UVJ): In this article, software engineers from Airbnb share practices in combing server rendering and code splitting.
 
+* [Upgrading a create-react-app project to a SSR + code splitting setup](https://parg.co/Ukg): This is what we’ll cover: Server-side rendering, Code splitting with react-loadable, Code splitting on the server, Taking benefit of webpack’s chunkNames.
+
 # Architecture Pattern: 架构模式
 
 * [2017-How to structure components in React?](https://parg.co/USj): Structuring system is the hardest thing and it has a big impact on the overall project.

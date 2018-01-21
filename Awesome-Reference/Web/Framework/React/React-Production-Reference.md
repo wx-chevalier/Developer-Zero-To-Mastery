@@ -61,7 +61,7 @@
 
 # Server Side Rendering: 服务端渲染
 
-* [2017-Introducing Rapscallion #Project# ](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
+* [2017-Introducing Rapscallion #Project#](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
 - [2017-Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/): In this tutorial, we'll take you through a server side rendering example step-by-step. including working around a common roadblock for React apps that talk to APIs.
 
@@ -80,3 +80,7 @@
 * [Introducing Rapscallion](http://formidable.com/blog/2017/introducing-rapscallion/): a new approach for server-side rendering React applications.
 
 * [2017-Scaling React Server-Side Rendering](http://arkwright.github.io/scaling-react-server-side-rendering.html): Some of the insights here are React-specific, but many are simply generic scalability challenges, or simple mistakes that were made.
+
+# Monitor & Report
+
+* [react-armor #Project#](https://github.com/elierotenberg/react-armor): Protect your DOM from third-party tampering.

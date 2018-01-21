@@ -1,5 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # Core Modules: 核心模块
 
 * [2017-Mastering the Node.js Core Modules - The File System & fs Module](https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/): In this article, we'll take a look at the File System core module, File Streams and some fs module alternatives.
@@ -26,16 +26,6 @@
 
 * [A Brief History of Node Streams #Series#](http://6me.us/cC9Jcm)
 
-## Cluster: 集群方案
-
-* [浅谈 Node.js 和 PHP 进程管理](http://taobaofed.org/blog/2015/11/24/nodejs-php-process-manager/)
-
-* [2015- 当我们谈论 cluster 时我们在谈论什么](http://taobaofed.org/blog/2015/11/03/nodejs-cluster/)
-
-* [2017-Hello World: Concurrency In Node.js Using The Cluster Module](http://6me.us/AKz9)
-
-* [2017-Node.js Child Processes: Everything you need to know](https://parg.co/bLq): Using multiple processes is the best way to scale a Node application. Node.js is designed for building distributed applications with many nodes. This is why it’s named Node. Scalability is baked into the platform and it’s not something you start thinking about later in the lifetime of an application.
-
 # Command Line
 
 * 命令行辅助参数解析：[yargs #Project# ](https://github.com/yargs/yargs)、[Inquirer.js #Project# ](https://github.com/SBoudrias/Inquirer.js)
@@ -59,3 +49,11 @@
 * [ioredis #Project#](https://github.com/luin/ioredis): A robust, performance-focused and full-featured Redis client for Node and io.js.
 
 * [Radredis #Project#](https://github.com/bustle/radredis): Radredis is a node data adapter for redis. It is not a full ORM but a simple opinionated interface for storing application data in redis.
+
+# 权限认证
+
+* [Node Hero - Node.js Authentication using Passport.js](https://parg.co/UqY)
+
+# HTTP/2
+
+* [2017-How to create a zero dependency HTTP/2 static file server with Node.js (with examples)](https://parg.co/UKq)

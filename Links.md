@@ -8,7 +8,13 @@
 
 * [Awesome CS Books(.pdf) Warehouse](https://parg.co/UpB)
 
+## Web
+
 * [HTML Reference](https://parg.co/UUK), More reference for HTML can be found [Here](https://parg.co/UUK).
+
+* [Vue Reference](https://parg.co/UHc)
+
+* [Webpack Reference](https://parg.co/UkT)
 
 # Series
 

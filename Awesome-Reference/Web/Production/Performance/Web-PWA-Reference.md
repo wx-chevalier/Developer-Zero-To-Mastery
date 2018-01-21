@@ -10,10 +10,6 @@
 
 ## Case Study: 案例分析
 
-* [PWA.rocks](https://pwa.rocks/): A showcase of several progressive web apps, collected by the [Opera Dev Relations team](https://twitter.com/ODevRel).
-
-* Sample APPs: [SVGOMG](https://jakearchibald.github.io/svgomg/), [Guitar Tuner](https://aerotwist.com/blog/guitar-tuner/), [Voice Memos](https://voice-memos.appspot.com/), [Hacker News](https://react-hn.appspot.com/), [Building the Google I/O 2016 Progressive Web App](https://developers.google.com/web/showcase/2016/iowa2016)
-
 * [AliExpress Case Study](https://developers.google.com/web/showcase/2016/aliexpress) : AliExpress increases conversion rate for new users by 104% with new progressive web apps.
 
 * [eXtra Electronics Case Study](https://developers.google.com/web/showcase/2016/extra) : United eXtra Electronics grows eCommerce sales by 100% with Web Push Notifications.
@@ -36,7 +32,9 @@
 
 * [2017-HNPWA #Project#](https://parg.co/biQ): Hacker News readers as Progressive Web Apps
 
-- [A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
+- [2017-A React And Preact Progressive Web App Performance Case Study: Treebo](https://parg.co/bBH): They recently shipped a new Progressive Web App as their default mobile experience, initially using React and eventually switching to Preact in production.
+
+- [2017-A Tinder Progressive Web App Performance Case Study](https://parg.co/UMw): Techniques for JavaScript performance optimization, Service Workers for network resilience and Push Notifications for chat engagement.
 
 ## Tool: 工具
 

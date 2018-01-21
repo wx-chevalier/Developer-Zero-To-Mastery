@@ -2,8 +2,6 @@
 
 # Webpack 学习与实践资料索引
 
-* [react-armor](https://github.com/elierotenberg/react-armor)
-
 * [前端缓存策略与基于 Webpack 的静态资源版本管理](https://zhuanlan.zhihu.com/p/24954527)
 
 * [大公司里怎样开发和部署前端代码](https://github.com/fouber/blog/issues/6)。
@@ -28,7 +26,15 @@
 
 * [2016-Optimizing Webpack build times and improving caching with DLL bundles](https://robertknight.github.io/posts/webpack-dll-plugins/)
 
-* [HappyPack #Project# ](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
+* [Keep webpack Fast: A Field Guide for Better Build Performance](https://parg.co/UkI): This post is a field guide offering up what we learned on our path towards a faster build.
+
+* [HappyPack #Project#](https://github.com/amireh/happypack): HappyPack makes webpack builds faster by allowing you to transform multiple files in parallel.
+
+* [AutoDllPlugin #Project#](https://parg.co/Uka): Webpack's DllPlugin without the boilerplate.
+
+* [HardSourceWebpackPlugin #Project#](https://parg.co/Uk1): HardSourceWebpackPlugin is a plugin for webpack to provide an intermediate caching step for modules.
+
+* [parallel-webpack #Project#](https://parg.co/UkW): Builds multi-config webpack projects in parallel.
 
 # Production: 发布到生产环境
 
@@ -48,22 +54,24 @@
 
 * [2017-How to use Webpack’s new “magic comment” feature with React Universal Component + SSR](https://parg.co/b9A): Webpack 2.4.0, which came out a few weeks ago, launched with a very interesting new feature: “magic comments.” In combination with dynamic imports, “magic comments” greatly simplify code-splitting + server-side rendering.
 
-* [Webpack Bundle Analyzer #Project# ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
-
-## Internals
-
-* [2017-Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007/)
+- [2018-RIP CommonsChunkPlugin](https://parg.co/Ukz): webpack 4 removes the CommonsChunkPlugin in favor of two new options (optimization.splitChunks and optimization.runtimeChunk). Here is how it works.
 
 # OpenSource: 相关的开源工具与扩展
 
-## 构建监控与优化
+## 监控
 
 * [Webpack Dashboard #Project#](https://github.com/FormidableLabs/webpack-dashboard): A CLI dashboard for webpack dev server. 如果是 Windows 下的开发者可以优先使用 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard)
 
-* [Webpack Monitor](https://github.com/webpackmonitor/webpackmonitor): A tool for monitoring webpack optimization metrics through the development process
+* [Webpack Monitor #Project#](https://github.com/webpackmonitor/webpackmonitor): A tool for monitoring webpack optimization metrics through the development process
 
 - [JARVIS #Project#](https://github.com/zouhir/jarvis): J.A.R.V.I.S. (Just A Rather Very Intelligent System) will put in your browser all the relevant information you need from your webpack build whether in dev or in prod.
+
+* [Webpack Bundle Analyzer #Project# ](https://github.com/th0r/webpack-bundle-analyzer): Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 
 ## 应用优化
 
 * [preload-webpack-plugin](https://github.com/googlechrome/preload-webpack-plugin): A Webpack plugin for wiring up link `<rel='preload'>` (and prefetch) - supports async chunks
+
+# Internals
+
+* [2017-Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007/)
