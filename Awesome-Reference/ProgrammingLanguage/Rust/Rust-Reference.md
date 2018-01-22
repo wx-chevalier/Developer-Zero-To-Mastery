@@ -2,20 +2,11 @@
 
 # Rust 学习与实践资料索引
 
-* [2014-Rust Borrow and Lifetimes](http://arthurtw.github.io/2014/11/30/rust-borrow-lifetimes.html)
-
-* [2014-Move vs Copy in Rust](https://parg.co/UPa)
-
-* [2016-Understanding Rust: ownership, borrowing, lifetimes](https://parg.co/UPt)
-
-* [2017-What's a reference in Rust?](https://jvns.ca/blog/2017/11/27/rust-ref/): people who have read the lifetimes chapter in the Rust book and sorta understand it in principle but are still confused about a lot of pretty basic Rust things.
-
-- [2017-
-  Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/)
-
 # Overview
 
 * [2017-Deep drive into rust programming language](https://parg.co/UP1)
+
+- [2018-Why is Rust difficult?](https://vorner.github.io/difficult.html): Rust is considered difficult to learn by many people but I don’t consider it necessarily a bad thing for a language to be hard to learn.
 
 ## Case Study
 
