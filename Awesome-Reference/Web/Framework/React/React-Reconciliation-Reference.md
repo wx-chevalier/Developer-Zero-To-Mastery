@@ -32,6 +32,8 @@
 
 # Stack Reconciler
 
+- [2017-RFClarification: why is `setState` asynchronous?](https://parg.co/Uid)
+
 * [Dive into setState() method in React](https://gist.github.com/ajhsu/e259392f06aa8e3bf5c9)
 
 * [Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
