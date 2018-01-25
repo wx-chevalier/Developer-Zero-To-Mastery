@@ -16,6 +16,9 @@
 
 - [statsd](https://github.com/etsy/statsd)
 
+- [Building a Centralized Logging Application #Series#](https://medium.com/eulercoder/part-1-building-a-centralized-logging-application-5a537033da0a?source=linkShare-fe48c4221a4c-1516701704)
+
+
 # Logstash
 
 * [使用 Elasticsearch + Logstash + Kibana 搭建日志集中分析平台实践](http://xiequan.info/%E4%BD%BF%E7%94%A8elasticsearch-logstash-kibana%E6%90%AD%E5%BB%BA%E6%97%A5%E5%BF%97%E9%9B%86%E4%B8%AD%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0%E5%AE%9E%E8%B7%B5/)

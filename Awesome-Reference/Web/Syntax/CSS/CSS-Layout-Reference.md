@@ -79,5 +79,3 @@
 - [2017-Debugging CSS Grid Layouts With Firefox Grid Inspector](https://parg.co/U3i)
 
 - [2018-CSS Grid + Flexbox Solving Real-world Problems](https://parg.co/Ukv): The challenge for this would be supporting Internet Explorer 11 and Safari 9+.
-
-- [CSS Gridish #Project#](https://github.com/ibm/css-gridish): Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
