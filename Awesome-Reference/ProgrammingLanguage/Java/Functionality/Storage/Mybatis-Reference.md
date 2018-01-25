@@ -14,6 +14,8 @@
 
 - [mybatis-types](https://github.com/javaplugs/mybatis-types/blob/master/README.md)
 
+- [聊聊 MyBatis 缓存机制](https://zhuanlan.zhihu.com/p/33179093?iam=ed4cd6b92a003a0ce8e801ae74196e19): MyBatis 是常见的 Java 数据库访问层框架。在日常工作中，开发人员多数情况下是使用 MyBatis 的默认缓存配置，但是 MyBatis 缓存机制有一些不足之处，在使用中容易引起脏数据，形成一些潜在的隐患。
+
 # Mybatis Generator
 
 - [MyBatis Generator 官方文档](http://generator.sturgeon.mopaas.com/whatsNew.html)
