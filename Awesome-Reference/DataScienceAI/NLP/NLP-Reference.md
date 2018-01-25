@@ -1,26 +1,8 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
- 
- 
-
-
- 
-
-
- 
-
-
- 
-
-
 
 # 自然语言处理资料索引
 
-
 # Overview
-
-
 
 - [知乎问答:自然语言处理该怎么最快入门](https://www.zhihu.com/question/19895141/answer/20084186)
 
@@ -33,33 +15,26 @@
 - [2015-NLP Tasks and Applications](http://www.cs.jhu.edu/~jason/465/PDFSlides/lect36-tasks.pdf)
 
 - [2017-Learning AI if You Suck at Math — P7 — The Magic of Natural Language Processing](https://parg.co/bR4)
-# Book & Course
 
+## DeepLearning
 
-
-- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
-
-
-- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
-
-
-- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
-
-
-
+- [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing. 
 
 # Resource
 
 - [DL4NLP-Deep Learning for NLP resources【Resource】](https://github.com/andrewt3000/DL4NLP)
- 
 
+- [2015 - Text Data Management and Analysis #Book#](): A Practical Introduction to Information Retrieval and Text Mining
+
+- [2016 - CS224d: Deep Learning for Natural Language Processing【Course】](http://cs224d.stanford.edu/syllabus.html)
+
+- [2017 - Oxford Deep NLP 2017 course【Course】](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+# Tutorial
+
+- [2018-How to solve 90% of NLP problems: a step-by-step guide](https://parg.co/UiG): Using Machine Learning to understand and leverage text.
+ 
 # Tool
 
 - [SnowNLP #Project# ](https://github.com/isnowfy/snownlp): SnowNLP 是一个 Python 写的类库，可以方便的处理中文文本内容，是受到了 TextBlob 的启发而写的，由于现在大部分的自然语言处理库基本都是针对英文的，于是写了一个方便处理中文的类库，并且和 TextBlob 不同的是，这里没有用 NLTK，所有的算法都是自己实现的，并且自带了一些训练好的字典。
 
-
-# DeepLearning
-
-
-
-- [2017-Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html#optimization): This post is a collection of best practices for using neural networks in Natural Language Processing. 
