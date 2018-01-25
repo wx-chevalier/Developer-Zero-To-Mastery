@@ -76,3 +76,5 @@
 # 架构模式
 
 - [微服务架构三十六计](https://mp.weixin.qq.com/s/thflf4uFrC2059X9OZ1Frg): 在微服务的落地过程中，我们认为如下几点将成为组织实施微服务架构的必备能力。
+
+- [2017-How to Define Service Boundaries](https://hackernoon.com/how-to-define-service-boundaries-251c4fc0f205?source=linkShare-fe48c4221a4c-1516851130)

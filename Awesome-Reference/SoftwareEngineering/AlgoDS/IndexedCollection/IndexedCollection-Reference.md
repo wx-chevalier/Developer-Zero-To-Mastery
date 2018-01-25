@@ -1,10 +1,13 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
 
-
 # 序列结构资料索引
 
 * [数据结构浅析(四)：栈与队列](http://www.jianshu.com/p/c3ba7e56fb53)
+
+# List
+
+- [2018-Data Structures — Linked List Implementation in JS](https://medium.com/front-end-hacking/data-structures-linked-list-implementation-in-js-3beb48ff49cd)
 
 # Queue
 
