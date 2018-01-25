@@ -1,6 +1,5 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
- 
- 
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+
 **常用命令：**
 
 ```
@@ -48,17 +47,15 @@
 
 重启：init 6  或 reboot
 关机：init 0 或 shutdown
-
 ```
 
-**使用firewall开放Linux端口**：
+**使用 firewall 开放 Linux 端口**：
 
-开启80端口(开放10050到10060端口):
+开启 80 端口(开放 10050 到 10060 端口):
 
 ```
 firewall-cmd --zone=public --permanent --add-port=80/tcp
 firewall-cmd --permanent --zone=public --add-port=10050-10060/tcp
-
 ```
 
 重启防火墙:
@@ -84,12 +81,11 @@ firewall-cmd --reload
 命令含义：
 --zone #作用域
 --add-port=80/tcp #添加端口，格式为：端口/通讯协议
---permanent #永久生效，没有此参数重启后失效
-其它firewall可以用 firewall-cmd  -h查询
+--permanent #永久生效，没有此参数重启后失效其它 firewall 可以用 firewall-cmd -h 查询
 
 **网卡操作命令(ip)：**
 
-CentOS 7 用ip命令代替ifconfig命令:
+CentOS 7 用 ip 命令代替 ifconfig 命令:
 
 ```
 ip [选项] 操作对象{link|addr|route...}
@@ -108,22 +104,18 @@ ip [选项] 操作对象{link|addr|route...}
 # ip route add default via 192.168.0.254 dev eth0 # 设置默认网关为192.168.0.254
 # ip route del 192.168.4.0/24 # 删除192.168.4.0网段的网关
 # ip route del default # 删除默认路由
-
 ```
 
-**DHCP：ip地址释放和获取**
+**DHCP：ip 地址释放和获取**
 
 ```
 #dhclient -r          #释放ip
 #dhclient             #重新获取ip
-
 ```
 
-(注：使用ln -sf /lib/systemd/system/multi-user.target /etc/systemd/system/default.target 设置VM中CentOS7的运行级别为3之后，需要手动设置其ip地址，才能使用XShell连接)
+(注：使用 ln -sf /lib/systemd/system/multi-user.target /etc/systemd/system/default.target 设置 VM 中 CentOS7 的运行级别为 3 之后，需要手动设置其 ip 地址，才能使用 XShell 连接)
 
- 
-
-**Linux下安装(卸载)KDE和GNOME：**
+**Linux 下安装(卸载)KDE 和 GNOME：**
 
 1.查看是否安装了桌面系统
 
@@ -132,38 +124,35 @@ yum grouplist
 yum grouplist ｜more ←如果输出太长，可以使用“｜more”分页显示
 ```
 
-在grouplist的输出结果中的“InstalledGroups:”部分中，
+在 grouplist 的输出结果中的“InstalledGroups:”部分中，
 
-在grouplist的输出结果中的“InstalledGroups:”部分中，
-如果你能找到“XWindow System”和“GNOME Desktop Environment或KDE (K DesktopEnvironment)或XFCE-4.4”的话，证明你安装了桌面环境。
+在 grouplist 的输出结果中的“InstalledGroups:”部分中，如果你能找到“XWindow System”和“GNOME Desktop Environment 或 KDE (K DesktopEnvironment)或 XFCE-4.4”的话，证明你安装了桌面环境。
 
-在grouplist的输出结果中的“InstalledGroups:”部分中，
-如果你能找到“XWindow System”和“GNOME Desktop Environment或KDE (K DesktopEnvironment)或XFCE-4.4”的话，证明你安装了桌面环境。
-2.如果系统安装之前采用最小化安装，没有安装桌面，那么先安装桌面系统：
+在 grouplist 的输出结果中的“InstalledGroups:”部分中，如果你能找到“XWindow System”和“GNOME Desktop Environment 或 KDE (K DesktopEnvironment)或 XFCE-4.4”的话，证明你安装了桌面环境。 2.如果系统安装之前采用最小化安装，没有安装桌面，那么先安装桌面系统：
 
 ```
 yum group install "X Window System"
 ```
 
-3.安装GNOME桌面环境
+3.安装 GNOME 桌面环境
 
 ```
 yum group install "Desktop"
 ```
 
-4.安装KDE桌面环境
+4.安装 KDE 桌面环境
 
 ```
 yumgroupinstall "KDE Desktop"
 ```
 
-5.卸载GNOME桌面环境
+5.卸载 GNOME 桌面环境
 
 ```
 yum group remove "GNOME Desktop Environment"
 ```
 
-6.卸载KDE桌面环境
+6.卸载 KDE 桌面环境
 
 ```
 yum group remove "KDE Desktop"
@@ -172,7 +161,7 @@ yum group remove "KDE Desktop"
 **从命令行界面切换到图形界面：**
 
 **从命令行界面切换到图形界面：**
-方法1：运行命令
+方法 1：运行命令
 
 ```
 startx
@@ -180,14 +169,13 @@ startx
 
 需要先配置图形界面信息
 
-需要先配置图形界面信息
-（old）方法2：修改/etc/inittab文件中的
+需要先配置图形界面信息（old）方法 2：修改/etc/inittab 文件中的
 
 ```
 id:3:initdefault ，将3改为5 ，重新启动系统；
 ```
 
-方法3：进入图形界面：
+方法 3：进入图形界面：
 
 ```
 init 5
@@ -211,14 +199,13 @@ systemctl set-default multi-user.target
 systemctl set-default graphical.target
 ```
 
-shutdown关机命令：
+shutdown 关机命令：
 
 ```
 shutdown now # 立即关机
 shutdown +2 # 2 min 后关机
 shutdown 10:01 # 10:01关机
 shutdown +2 "The machine will shutdown" # 2min 后关机，并通知在线者
-
 ```
 
 真机环境中，在图形界面和文本界面间快捷键切换：
@@ -229,14 +216,13 @@ Ctrl+ALT+F7 ；
 eg:CTRL+ALT+F1是进入文本界面，CTRL+ALT+F7才是图形界面。
 ```
 
-**虚拟机静态IP设置及主机名设置绑定**
+**虚拟机静态 IP 设置及主机名设置绑定**
 
-打开终端，root权限下：vim /etc/sysconfig/network-scripts/ifcfg-enoXXXX，
-
-在插入模式下：
+打开终端，root 权限下：vim /etc/sysconfig/network-scripts/ifcfg-enoXXXX，
 
 在插入模式下：
-修改
+
+在插入模式下：修改
 
 ```
 BOOTPROTO=static
@@ -251,15 +237,13 @@ NETMASK=255.255.255.0
 GATEWAY0=192.168.145.1
 DNS1=8.8.8.8
 DNS2=8.8.4.4
-
 ```
 
-hostname crs811 #设置主机名为crs811
+hostname crs811 #设置主机名为 crs811
 
 ```
 vi /etc/hosts #编辑配置文件
 127.0.0.1 localhost www #修改localhost.localdomain为www
-
 ```
 
 重启网络：
@@ -268,22 +252,20 @@ vi /etc/hosts #编辑配置文件
 systemctl restart network
 ```
 
-**Centos7默认没有ifconfig和netstat**
+**Centos7 默认没有 ifconfig 和 netstat**
 
-ifconfig使用ip addr命令代替，
+ifconfig 使用 ip addr 命令代替，
 
-ifconfig使用ip addr命令代替，
-在cenots6下的ss命令可以代替netstat，但是现在的ss和以前的完全是两样 ，还是得装上才行方便查看端口占用和tcp链接攻击等等。
+ifconfig 使用 ip addr 命令代替，在 cenots6 下的 ss 命令可以代替 netstat，但是现在的 ss 和以前的完全是两样 ，还是得装上才行方便查看端口占用和 tcp 链接攻击等等。
 
-ifconfig使用ip addr命令代替，
-在cenots6下的ss命令可以代替netstat，但是现在的ss和以前的完全是两样 ，还是得装上才行方便查看端口占用和tcp链接攻击等等。
-Centos7下把net-tools包装上就好了：
+ifconfig 使用 ip addr 命令代替，在 cenots6 下的 ss 命令可以代替 netstat，但是现在的 ss 和以前的完全是两样 ，还是得装上才行方便查看端口占用和 tcp 链接攻击等等。
+Centos7 下把 net-tools 包装上就好了：
 
 ```
 yum install net-tools
 ```
 
-**CentOS7 中　php默认5.4, apache默认2.4,Mariadb代替了mysql**
+**CentOS7 中　 php 默认 5.4, apache 默认 2.4,Mariadb 代替了 mysql**
 
 **CentOS7 dhcp 启动失败可能原因**
 
@@ -305,24 +287,22 @@ yum install net-tools
 \1. 配置文件有问题。
 1.1 内容不符合语法结构，例如，少个分号；
 1.2 声明的子网和子网掩码不符合；
-\2. 主机IP地址和声明的子网不在同一网段。
+\2. 主机 IP 地址和声明的子网不在同一网段。
 
 出现问题的可能有以下几个可能：
 \1. 配置文件有问题。
 1.1 内容不符合语法结构，例如，少个分号；
 1.2 声明的子网和子网掩码不符合；
-\2. 主机IP地址和声明的子网不在同一网段。
-\3. 主机没有配置静态IP地址。
+\2. 主机 IP 地址和声明的子网不在同一网段。
+\3. 主机没有配置静态 IP 地址。
 
 出现问题的可能有以下几个可能：
 \1. 配置文件有问题。
 1.1 内容不符合语法结构，例如，少个分号；
 1.2 声明的子网和子网掩码不符合；
-\2. 主机IP地址和声明的子网不在同一网段。
-\3. 主机没有配置静态IP地址。
-\4. 配置文件路径出问题，比如在RHEL6以下的版本中，配置文件保存在了/etc/dhcpd.conf，但是在rhel6及以上版本中，却保存在了/etc/dhcp/dhcpd.conf。
-
- 
+\2. 主机 IP 地址和声明的子网不在同一网段。
+\3. 主机没有配置静态 IP 地址。
+\4. 配置文件路径出问题，比如在 RHEL6 以下的版本中，配置文件保存在了/etc/dhcpd.conf，但是在 rhel6 及以上版本中，却保存在了/etc/dhcp/dhcpd.conf。
 
 **Linux 课程(Cent OS)常用服务、工具和命令安装列表：**
 
@@ -346,5 +326,4 @@ dig - 查询域名解析:    #yum install bind-utils
 wget - 下载文件命令: #yum install wget
 
 CentOS 6 之前常用网络命令安装:    #yum install net-tools
-
 ```

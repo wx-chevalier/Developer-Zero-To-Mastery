@@ -1,4 +1,4 @@
-![](https://camo.githubusercontent.com/1a7ddd081e0fcc80e7acf9ed04c5705f2028862c/68747470733a2f2f636f64696e672e6e65742f752f686f7465616d2f702f43616368652f6769742f7261772f6d61737465722f323031362f31302f332f312d6d44523069425643615f7a3750655a6864595a7859512e6a706567)
+![](https://parg.co/Uhb)
 
 [中文版本](README.md) | [English Version](./README-en.md)
 
@@ -12,10 +12,8 @@
 
 本文是笔者的 IT 技术图谱与知识架构的纵览，在本文件夹的子目录下还包含各个细分领域的技术图谱与知识架构：
 
-- [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md)
+* [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md)
 
-- [服务端应用程序](./ServerSideApplication/ServerSideApplication-Graph.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md#微服务)
+* [服务端应用程序](./ServerSideApplication/ServerSideApplication-Graph.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md#微服务)
 
 ![IT 技术图谱与知识架构](https://parg.co/UZ1)
-
-
