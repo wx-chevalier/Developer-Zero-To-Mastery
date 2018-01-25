@@ -13,3 +13,6 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 * [Project Euler](https://projecteuler.net/about): Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
 - [Computer Science: Open Source Society University](https://github.com/ossu/computer-science): The OSSU curriculum is a complete education in computer science using online materials.
+
+- [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): 
+A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
