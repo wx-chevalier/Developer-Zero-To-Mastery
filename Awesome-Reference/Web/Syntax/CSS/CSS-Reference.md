@@ -21,33 +21,3 @@
 ## Compatibility:  兼容性
 
 * [CSS Compatibility in Internet Explorer](https://msdn.microsoft.com/en-us/library/hh781508%28v=vs.85%29.aspx): Microsoft Internet Explorer 6 was the first fully Cascading Style Sheets, Level 1 (CSS1)-compliant version of Internet Explorer. Windows Internet Explorer 8 is fully compliant with the Cascading Style Sheets, Level 2 Revision 1 (CSS2.1) specification and supports some features of Cascading Style Sheets, Level 3 (CSS3). Windows Internet Explorer 9 and Internet Explorer 10 add even more support for many CSS3 modules.
-
-# Syntax: 语法
-
-* [2017-Locally Scoped CSS Variables: What, How, and Why](https://parg.co/bLS): CSS Custom Properties (also popularly called CSS Variables) are here! This is really exciting because we finally have true variables in CSS!
-
-* [Basic CSS Selector Syntax Explained Using Cats](https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats)
-
-## 功能函数
-
-* [How calc() Works](https://bitsofco.de/how-calc-works/)
-
-# 选择器
-
-* [How CSS pseudo-classes work, explained with code and lots of diagrams](https://medium.freecodecamp.com/explained-css-pseudo-classes-cef3c3177361#.ax2oehufx)
-
-# Graphic: 绘图
-
-* [css 巧用 border 属性制作各种图形(矩形，梯形，三角形)](http://www.manongjc.com/article/86.html)
-
-* [CodePen-BorderShapes](http://codepen.io/wxyyxc1992/pen/BzrPrb)
-
-## CSS Shape
-
-* [How I started drawing CSS Images](http://6me.us/kpnB)
-
-* [An Intermediate Guide to Pure CSS Images](http://codepen.io/mikemang/post/an-intermediate-guide-to-pure-css-images)
-
-# 颜色与背景
-
-* [Gradientify](http://www.gradientify.dfusic.net/): Best gradients in one place.

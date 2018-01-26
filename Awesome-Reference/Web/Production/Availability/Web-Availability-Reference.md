@@ -4,7 +4,7 @@
 
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/): Why do we need to talk about robust JavaScript and how do we achieve it?
 
-# Accessibility: 可访问性
+# Accessibility: 易用性
 
 # UI
 
