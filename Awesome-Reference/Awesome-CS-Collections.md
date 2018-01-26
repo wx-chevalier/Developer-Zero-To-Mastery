@@ -16,3 +16,5 @@ Awesome CS Collections 是集合的集合，集结了 CS、IT 相关的跨领域
 
 - [2018-Awesome Scalability, Availability, and Stability Back-end Design Patterns](https://github.com/binhnguyennus/awesome-scalability): 
 A curated list of selected readings to illustrate Scalability, Availability, and Stability Design Patterns in Back-end Development.
+
+- [2018-Interviews #Collection#](https://github.com/kdn251/interviews): Everything you need to know to get the job.
