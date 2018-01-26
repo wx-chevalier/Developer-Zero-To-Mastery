@@ -12,3 +12,5 @@
 
 - [2017-
   Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up](https://cafbit.com/post/tokio_internals/)
+
+- [2018-Async/Await I: Self-Referential Structs](https://parg.co/Ui5): This is the first in a series of blog posts about generators, async & await in Rust. 
