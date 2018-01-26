@@ -22,7 +22,7 @@
 
 * [2010-Native HTML5 Drag and Drop](https://www.html5rocks.com/en/tutorials/dnd/basics/): Drag and drop (DnD) is a first class citizen in HTML5! The spec defines an event-based mechanism, JavaScript API, and additional markup for declaring that just about any type of element be draggable on a page.
 
-# Scroll: 滚动事件
+# Scroll & Visibility: 滚动事件与可见性
 
 * [Complexities of an Infinite Scroller](https://developers.google.com/web/updates/2016/07/infinite-scroller)
 
@@ -41,6 +41,8 @@
 * [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll):基于 jQuery 的滚动插件
 
 ## IntersectionObserver
+
+- [2018-Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://parg.co/Uiu): In this article, we are going to go out of the scroll darkness and talk about the modern way of lazy-loading resources.
 
 ## ScrollSpy: 滚动监听
 
