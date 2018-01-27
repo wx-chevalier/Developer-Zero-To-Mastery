@@ -6,25 +6,11 @@
 
 # 开发环境
 
-## 通用工具
+## Command Line Tools
 
-### 命令行增强
-
-* OnMyZsh
-
-- Tmux
-
-* Gotty
-
-### 版本控制
-
-### 远程访问
-
-### 数据库连接
+- [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
 ## Windows
-
-### 命令行增强
 
 ## Mac
 
@@ -32,7 +18,7 @@
 
 * [高效 MacBook 工作环境配置](https://zhuanlan.zhihu.com/p/24868436)：
 
-# IDE 、调试与部署
+# IDE
 
 * [前端工程师必备实用网站](https://zhuanlan.zhihu.com/p/24513356)
 
@@ -48,11 +34,21 @@
 
 ## JetBrains
 
+## Online Editor: 在线编辑与共享
+
+* [CodePen]()
+
+* [Code SandBox]()
+
+* [JSFiddler]()
+
+* [Dwitter](https://www.dwitter.net/): Edit the code to start the fun, or browse through other peoples demos below
+
+# Cloud
+
 ## Chrome Extension
 
 * IE Tab: 仅支持 Windows 系统，能够在标签中以 IE 内核显示网页。
-
-### 阅读与下载
 
 * [Chrono 下载管理器](http://6me.us/PFn)
 
@@ -64,31 +60,9 @@
 
 - [Google Scholar Button](http://6me.us/wXicA0)
 
-### 网页分析与处理
+* 链接缩略: [Goog.gl URL Shortener](http://6me.us/vaJuM3)
 
-* 链接缩略
-
-* [Goog.gl URL Shortener](http://6me.us/vaJuM3)
-
-- 截图工具
-
-- [Awesome Screenshot](http://6me.us/lzEw)
-
-### 网络调试
-
-* 远程桌面
-
-* [Chrome Remote Desktop](http://6me.us/55h)
-
-## Online Editor: 在线编辑与共享
-
-* [CodePen]()
-
-* [Code SandBox]()
-
-* [JSFiddler]()
-
-* [Dwitter](https://www.dwitter.net/): Edit the code to start the fun, or browse through other peoples demos below
+- 截图工具: [Awesome Screenshot](http://6me.us/lzEw), [Chrome Remote Desktop](http://6me.us/55h)
 
 ## 云端部署
 
@@ -126,9 +100,7 @@
 
 * [滴答清单]
 
-## 开发文档
-
-### 接口文档
+## 接口文档
 
 查阅各种 API 文档是程序猿的必备技能，这里列举出部分整合类型的文档查阅网站，方便特别是被墙的情况下查阅文档。
 
@@ -144,7 +116,7 @@
 
 * [mkdocs](https://github.com/mkdocs/mkdocs/)
 
-### 协同编辑
+## 协同编辑
 
 * [gollum #Project#](https://github.com/gollum/gollum): Gollum is a simple wiki system built on top of Git. A Gollum Wiki is simply a git repository (either bare or regular) of a specific nature.
 
@@ -153,9 +125,5 @@
 * [Realms Wiki Beta #Project#](https://github.com/scragg0x/realms-wiki): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
 ## 图片资源
-
-## 展示汇报
-
-### Screener & Recorder: 截图与录屏
 
 * [Kap #Project#](https://getkap.co/): Capture your screen, An open-source screen recorder built with web technology.
