@@ -28,9 +28,11 @@
 
 # Tutorial: 教程
 
-* [Go by Example](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
+* [2017-A tour of Go #Project#](https://tour.golang.org/welcome/1): The tour is divided into a list of modules and interactive, These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
-- [Go Web Examples](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
+* [2016-Go by Example #Series#](https://gobyexample.com/): Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
+
+- [Go Web Examples #Series#](https://gowebexamples.github.io/): Go Web Examples provides easy to understand code snippets on how to do web development in the Go programming language.
 
 * [2017-Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): A workshop covering all the tools gophers use in their day to day life.
 
@@ -38,4 +40,4 @@
 
 * [2017-Golang tutorial series by GolangBot.com](https://golangbot.com/learn-golang-series/)
 
-* [Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
+* [2017-Golang command tutorial in Chinese.](https://github.com/hyper0x/go_command_tutorial)
