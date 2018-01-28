@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 # 概率论资料索引
 
 - [什么是狄利克雷分布？狄利克雷过程又是什么？](https://www.zhihu.com/question/26751755/answer/80931791)

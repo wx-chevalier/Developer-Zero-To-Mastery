@@ -8,7 +8,7 @@
 
 ## Command Line Tools
 
-- [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [httpie #Project#](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
 ## Windows
 
@@ -69,22 +69,6 @@
 * [Github Pages](): [2017-GitHub Pages and Single-Page Apps](https://dev.to/_evansalter/github-pages-and-single-page-apps)
 
 - [now.sh]()
-
-# 社区
-
-## Github
-
-* [强力推荐！那些你不能错过的 GitHub 插件和工具](https://juejin.im/post/59ade28051882538fd72fa2c)
-
-- [ghbtns.](https://ghbtns.com/#star)
-
-- [github-js](https://github.com/akshaykumar6/github-js): 对于 V3 版本的 Github 接口的封装
-
-* [Github Trends RSS](http://github-trends.ryotarai.info/):Github 每日趋势的 RSS
-
-- [Github Notifier](https://parg.co/bDV): 能够自动根据指定的 Github 用户名获取到相应的 Issue、Pull Request 等通知消息反馈给用户。
-
-- [Github with MathJax](https://parg.co/bDa)
 
 ## Public APIs
 

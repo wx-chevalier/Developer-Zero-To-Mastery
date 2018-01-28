@@ -1,6 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 ![](https://cdn-images-1.medium.com/max/2000/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg)
 
@@ -42,24 +40,24 @@
 
 # Hook
 
-- [conceptual-overview](https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview)
+* [conceptual-overview](https://www.atlassian.com/git/tutorials/git-hooks/conceptual-overview)
 
-- [基于git hooks的前端代码质量控制解决方案](https://github.com/kuitos/kuitos.github.io/issues/28)
+* [基于 git hooks 的前端代码质量控制解决方案](https://github.com/kuitos/kuitos.github.io/issues/28)
 
-- [自定义 Git - Git 钩子](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
+* [自定义 Git - Git 钩子](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
 
-- [pre-commit by Yelp: A framework for managing and maintaining multi-language pre-commit hooks.](http://pre-commit.com/#node)
+* [pre-commit by Yelp: A framework for managing and maintaining multi-language pre-commit hooks.](http://pre-commit.com/#node)
 
 # Workflow: 工作流
 
-- [comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+* [comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
-- [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/)
+* [一个成功的 Git 分支模型](http://blog.jobbole.com/81196/)
 
-- [Gitflow 有害论 ](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
+* [Gitflow 有害论 ](http://insights.thoughtworkers.org/gitflow-consider-harmful/)
 
-- [Git 工作流分析](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+* [Git 工作流分析](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
-- [feature-toggles](http://martinfowler.com/articles/feature-toggles.html)
+* [feature-toggles](http://martinfowler.com/articles/feature-toggles.html)
 
-- [Feature Flag 功能发布控制](http://fex.baidu.com/blog/2014/07/feature-flag/?qq-pf-to=pcqq.c2c)
+* [Feature Flag 功能发布控制](http://fex.baidu.com/blog/2014/07/feature-flag/?qq-pf-to=pcqq.c2c)

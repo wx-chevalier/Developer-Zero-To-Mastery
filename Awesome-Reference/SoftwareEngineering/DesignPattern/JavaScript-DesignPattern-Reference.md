@@ -13,3 +13,5 @@
 - [2012-solid-javascript](http://aspiringcraftsman.com/2012/01/22/solid-javascript-the-dependency-inversion-principle/)
 
 - [2017-Design-Patterns-JS #Project#](https://github.com/fbeline/Design-Patterns-JS/): All the 23 (GoF) design patterns implemented in Javascript
+
+- [2017-Design Patterns in TypeScript](https://parg.co/Ui8): Here are the implementations of the following design patterns in TypeScript.

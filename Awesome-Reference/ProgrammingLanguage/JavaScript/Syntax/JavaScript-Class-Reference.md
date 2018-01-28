@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 # JavaScript 类与对象资料索引
 
 * [2017-Object-oriented programming in vanilla JavaScript](https://parg.co/UEy): JavaScript is a powerful object-oriented programming (OOP) language, however, unlike many traditional programming languages, it uses a prototype-based OOP model which makes its syntax foreign to most developers.

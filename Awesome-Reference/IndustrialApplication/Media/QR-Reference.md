@@ -1,3 +1,4 @@
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 # QR: 二维码
 
 * [QR 码基础](https://zhuanlan.zhihu.com/p/21463650)

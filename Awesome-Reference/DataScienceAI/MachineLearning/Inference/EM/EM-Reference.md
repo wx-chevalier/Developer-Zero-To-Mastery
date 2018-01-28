@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 # Expectation-Maximization 资料索引
 
 * [What is an intuitive explanation for the expectation maximization (EM) algorithm?](http://6me.us/R0gEUS)

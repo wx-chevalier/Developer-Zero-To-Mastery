@@ -10,7 +10,7 @@
 
 - [A practical security guide for web developers](https://github.com/FallibleInc/security-guide-for-developers)
 
-- [Retire.js #Project#](http://retirejs.github.io/retire.js/)
+- [2018-Hacker101](https://github.com/Hacker0x01/hacker101): Hacker101 is a free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 
 # WebAPI
 
@@ -34,11 +34,11 @@
 
 * [Security Corner: Cross-Site Request Forgeries](http://shiflett.org/articles/cross-site-request-forgeries)
 
-* [《深入解析跨站请求伪造漏洞：原理剖析》](http://netsecurity.51cto.com/art/200812/102951.htm)
+* [深入解析跨站请求伪造漏洞：原理剖析](http://netsecurity.51cto.com/art/200812/102951.htm)
 
-* [《 Web 安全测试之跨站请求伪造（CSRF ）》](http://netsecurity.51cto.com/art/200811/97281.htm)
+* [ Web 安全测试之跨站请求伪造（CSRF ）](http://netsecurity.51cto.com/art/200811/97281.htm)
 
-* [《深入解析跨站请求伪造漏洞：实例讲解》](http://netsecurity.51cto.com/art/200812/102925.htm)
+* [深入解析跨站请求伪造漏洞：实例讲解](http://netsecurity.51cto.com/art/200812/102925.htm)
 
 # SQLInjection
 
@@ -50,4 +50,4 @@
 
 # WebShell
 
-* [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
+* [PHP-backdoors #Project#](https://github.com/bartblaze/PHP-backdoors)

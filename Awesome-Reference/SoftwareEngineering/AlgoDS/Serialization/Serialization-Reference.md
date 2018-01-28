@@ -1,5 +1,5 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+
 # 数据压缩与序列化资料索引
 
 # JSON
@@ -14,4 +14,4 @@
 
 # Compression
 
-- [Zstandard #Project#](http://facebook.github.io/zstd/): Zstandard is a real-time compression algorithm, providing high compression ratios.
+* [Zstandard #Project#](http://facebook.github.io/zstd/): Zstandard is a real-time compression algorithm, providing high compression ratios.

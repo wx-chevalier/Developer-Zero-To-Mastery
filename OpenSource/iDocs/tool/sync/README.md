@@ -1,6 +1,7 @@
 # 文档辅助工具
 
-- Awesome Reference
+* Awesome Reference
+
 ```sh
 # 数据同步
 $ ts-node src/cli/note.ts -t sync -r Awesome-Reference

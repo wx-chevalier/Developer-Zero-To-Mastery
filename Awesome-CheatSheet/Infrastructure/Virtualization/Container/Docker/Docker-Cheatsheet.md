@@ -1,17 +1,14 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
- 
- 
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+
 # Docker
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/6/1/WX20170703-131127.png)
 
 参考了 [Docker Cheat Sheet](https://parg.co/Upp)
 
-# 镜像与容器
+# 镜像
 
-## 镜像
-
-### 管理
+## 镜像管理
 
 最后，运行 `docker images` 命令检查镜像现在是否可用。
 
@@ -29,8 +26,6 @@ ubuntu              14.04               ad892dd21d60        11 days ago         
 docker rmi $(docker images -q -f dangling=true)
 ```
 
-### 拉取与创建
-
 ```sh
 # 拉取镜像
 docker pull image_name
@@ -39,128 +34,11 @@ docker pull image_name
 docker commit -m “commit message” -a “author”  container_name username/image_name:tag
 ```
 
-## 容器
-
-### 创建与移除
-
-你的 Container 会在你结束命令之后自动退出，使用以下的命令选项可以将容器保持在激活状态：
-
-* `-i` 即使在没有附着的情况下依然保持 STDIN 处于开启。单纯使用 -i 命令是不会出现`root@689d580b6416:/` 这种前缀。
-* `-t` 分配一个伪 TTY 控制台
-
-```sh
-# 创建，并且启动某个容器以执行某个命令
-docker run -ti --name container_name image_name command
-
-# 创建，启动容器执行某个命令然后删除该容器
-docker run --rm -ti image_name command
-
-# 创建，启动容器，并且映射卷与端口，同时设置环境变量
-docker run -it --rm -p 8080:8080 -v /path/to/agent.jar:/agent.jar -e JAVA_OPTS=”-javaagent:/agent.jar” tomcat:8.0.29-jre8
-
-# 关闭所有正在运行的容器
-docker kill $(docker ps -q)
-
-# 移除所有停止的容器
-docker rm $(docker ps -a -q)
-```
-
-### 控制
-
-```sh
-# 启动/停止某个容器
-docker [start|stop] container_name
-```
-
-```sh
-# 在某个容器内执行某条命令
-docker exec -ti container_name command.sh
-
-
-
-# 查看某个容器的输出日志
-docker logs -ft container_name
-```
-
-# Volume: 数据卷
-
-数据卷是一个可供一个或多个容器使用的特殊目录，它绕过 UFS，可以提供很多有用的特性：
-
-* 数据卷可以在容器之间共享和重用
-* 对数据卷的修改会立马生效
-* 对数据卷的更新，不会影响镜像
-* 卷会一直存在，直到没有容器使用
-
-\* 数据卷的使用，类似于 Linux 下对目录或文件进行 mount。
-
-For example, the following creates a tmpfs volume called foo with a size of 100 megabyte and uid of 1000.
-
-```sh
-docker volume create --driver local \
-    --opt type=tmpfs \
-    --opt device=tmpfs \
-    --opt o=size=100m,uid=1000 \
-    foo
-```
-
-nother example that uses nfs to mount the /path/to/dir in rw mode from 192.168.1.1:
-
-```sh
-docker volume create --driver local \
-    --opt type=nfs \
-    --opt o=addr=192.168.1.1,rw \
-    --opt device=:/path/to/dir \
-    foo
-```
-
-```sh
-docker run -d \
-  -it \
-  --name devtest \
-  -v myvol2:/app \
-  nginx:latest
-```
-
-```json
-"Mounts": [
-    {
-        "Type": "volume",
-        "Name": "myvol2",
-        "Source": "/var/lib/docker/volumes/myvol2/_data",
-        "Destination": "/app",
-        "Driver": "local",
-        "Mode": "",
-        "RW": true,
-        "Propagation": ""
-    }
-],
-```
-
-```sh
-docker system prune -a
-```
-
-Docker `-v` 标记也可以指定挂载一个本地主机的目录 / 文件到容器中去：
-
-```sh
-# 挂载目录
-$ sudo docker run -d -P --name web -v /src/webapp:/opt/webapp training/webapp python app.py
-
-# 挂载文件
-$ sudo docker run --rm -it -v ~/.bash_history:/.bash_history ubuntu /bin/bash
-
-# Docker 挂载数据卷的默认权限是读写，用户也可以通过 `:ro` 指定为只读。
-$ sudo docker run -d -P --name web -v /src/webapp:/opt/webapp:ro
-training/webapp python app.py
-```
-
-注意：Dockerfile 中不支持这种用法，这是因为 Dockerfile 是为了移植和分享用的。然而，不同操作系统的路径格式不一样，所以目前还不能支持。
-
-# Dockfile
+## Dockfile
 
 Dockerfile 由一行行命令语句组成，并且支持以 `#` 开头的注释行。一般的，Dockerfile 分为四部分：基础镜像信息、维护者信息、镜像操作指令和容器启动时执行指令。例如：
 
-```shell
+```sh
 # This dockerfile uses the ubuntu image
 # VERSION 2 - EDITION 1
 # Author: docker_user
@@ -183,51 +61,9 @@ CMD /usr/sbin/nginx
 
 其中，一开始必须指明所基于的镜像名称，接下来推荐说明维护者信息。后面则是镜像操作指令，例如 `RUN` 指令，`RUN` 指令将对镜像执行跟随的命令。每运行一条 `RUN` 指令，镜像添加新的一层，并提交。最后是 `CMD` 指令，来指定运行容器时的操作命令。
 
-最后，这边有一个 Docker 官方 MongoDB 的例子：
-
-```shell
-#
-# MongoDB Dockerfile
-#
-# https://github.com/dockerfile/mongodb
-#
-
-# Pull base image.
-FROM dockerfile/ubuntu
-
-# Install MongoDB.
-RUN \
-  apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10 && \
-  echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' > /etc/apt/sources.list.d/mongodb.list && \
-  apt-get update && \
-  apt-get install -y mongodb-org && \
-  rm -rf /var/lib/apt/lists/*
-
-# Define mountable directories.
-VOLUME ["/data/db"]
-
-# Define working directory.
-WORKDIR /data
-
-# Define default command.
-CMD ["mongod"]
-
-# Expose ports.
-#   - 27017: process
-#   - 28017: http
-EXPOSE 27017
-EXPOSE 28017
-```
-
-### 指令
-
-指令的一般格式为 `INSTRUCTION arguments`，指令包括 `FROM`、`MAINTAINER`、`RUN` 等。
-
-* FROM
-
-格式为 `FROM <image>`或`FROM <image>:<tag>`。
-
-第一条指令必须为 `FROM` 指令。并且，如果在同一个 Dockerfile 中创建多个镜像时，可以使用多个 `FROM` 指令（每个镜像一次）。
+| 指令名 | 格式                                        | 描述                                                                                                                   |
+| ------ | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| FROM   | 格式为 `FROM <image>`或`FROM <image>:<tag>` | 第一条指令必须为 `FROM` 指令。并且，如果在同一个 Dockerfile 中创建多个镜像时，可以使用多个 `FROM` 指令（每个镜像一次） |
 
 * MAINTAINER
 
@@ -345,7 +181,7 @@ ONBUILD RUN /usr/local/bin/python-build --dir /app/src
 
 如果基于 image-A 创建新的镜像时，新的 Dockerfile 中使用 `FROM image-A`指定基础镜像时，会自动执行 `ONBUILD` 指令内容，等价于在后面添加了两条指令。
 
-```
+```sh
 FROM image-A
 
 #Automatically run the following
@@ -354,6 +190,44 @@ RUN /usr/local/bin/python-build --dir /app/src
 ```
 
 使用 `ONBUILD` 指令的镜像，推荐在标签中注明，例如 `ruby:1.9-onbuild`。
+
+最后，这边有一个 Docker 官方 MongoDB 的例子：
+
+```shell
+#
+# MongoDB Dockerfile
+#
+# https://github.com/dockerfile/mongodb
+#
+
+# Pull base image.
+FROM dockerfile/ubuntu
+
+# Install MongoDB.
+RUN \
+  apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 7F0CEB10 && \
+  echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' > /etc/apt/sources.list.d/mongodb.list && \
+  apt-get update && \
+  apt-get install -y mongodb-org && \
+  rm -rf /var/lib/apt/lists/*
+
+# Define mountable directories.
+VOLUME ["/data/db"]
+
+# Define working directory.
+WORKDIR /data
+
+# Define default command.
+CMD ["mongod"]
+
+# Expose ports.
+#   - 27017: process
+#   - 28017: http
+EXPOSE 27017
+EXPOSE 28017
+```
+
+指令的一般格式为 `INSTRUCTION arguments`，指令包括 `FROM`、`MAINTAINER`、`RUN` 等。
 
 ### 创建镜像
 
@@ -366,6 +240,134 @@ RUN /usr/local/bin/python-build --dir /app/src
 ```
 $ sudo docker build -t myrepo/myapp /tmp/test1/
 ```
+
+## 容器
+
+### 创建与移除
+
+你的 Container 会在你结束命令之后自动退出，使用以下的命令选项可以将容器保持在激活状态：
+
+* `-i` 即使在没有附着的情况下依然保持 STDIN 处于开启。单纯使用 -i 命令是不会出现`root@689d580b6416:/` 这种前缀。
+* `-t` 分配一个伪 TTY 控制台
+
+```sh
+# 创建，并且启动某个容器以执行某个命令
+docker run -ti --name container_name image_name command
+
+# 创建，启动容器执行某个命令然后删除该容器
+docker run --rm -ti image_name command
+
+# 创建，启动容器，并且映射卷与端口，同时设置环境变量
+docker run -it --rm -p 8080:8080 -v /path/to/agent.jar:/agent.jar -e JAVA_OPTS=”-javaagent:/agent.jar” tomcat:8.0.29-jre8
+
+# 关闭所有正在运行的容器
+docker kill $(docker ps -q)
+
+# 移除所有停止的容器
+docker rm $(docker ps -a -q)
+```
+
+### 控制
+
+```sh
+# 启动/停止某个容器
+docker [start|stop] container_name
+```
+
+```sh
+# 在某个容器内执行某条命令
+docker exec -ti container_name command.sh
+
+
+
+# 查看某个容器的输出日志
+docker logs -ft container_name
+```
+
+# 容器
+
+## Volume: 数据卷
+
+容器运行时应该尽量保持容器存储层不发生写操作，对于数据库类需要保存动态数据的应用，其数据库文件应该保存于卷(volume)中，后面的章节我们会进一步介绍 Docker 卷的概念。为了防止运行时用户忘记将动态文件所保存目录挂载为卷，在 Dockerfile 中，我们可以事先指定某些目录挂载为匿名卷，这样在运行时如果用户不指定挂载，其应用也可以正常运行，不会向容器存储层写入大量数据。数
+
+据卷是一个可供一个或多个容器使用的特殊目录，它绕过 UFS，可以提供很多有用的特性：
+
+* 数据卷可以在容器之间共享和重用
+* 对数据卷的修改会立马生效
+* 对数据卷的更新，不会影响镜像
+* 卷会一直存在，直到没有容器使用
+
+* 数据卷的使用，类似于 Linux 下对目录或文件进行 mount。
+
+For example,
+
+```sh
+# the following creates a tmpfs volume called foo with a size of 100 megabyte and uid of 1000.
+docker volume create --driver local \
+    --opt type=tmpfs \
+    --opt device=tmpfs \
+    --opt o=size=100m,uid=1000 \
+    foo
+```
+
+nother example that uses nfs to mount the /path/to/dir in rw mode from 192.168.1.1:
+
+```sh
+docker volume create --driver local \
+    --opt type=nfs \
+    --opt o=addr=192.168.1.1,rw \
+    --opt device=:/path/to/dir \
+    foo
+```
+
+```sh
+docker run -d \
+  -it \
+  --name devtest \
+  -v myvol2:/app \
+  nginx:latest
+```
+
+```json
+"Mounts": [
+    {
+        "Type": "volume",
+        "Name": "myvol2",
+        "Source": "/var/lib/docker/volumes/myvol2/_data",
+        "Destination": "/app",
+        "Driver": "local",
+        "Mode": "",
+        "RW": true,
+        "Propagation": ""
+    }
+],
+```
+
+```sh
+docker system prune -a
+```
+
+Docker `-v` 标记也可以指定挂载一个本地主机的目录 / 文件到容器中去：
+
+```sh
+# 挂载目录
+$ sudo docker run -d -P --name web -v /src/webapp:/opt/webapp training/webapp python app.py
+
+# 挂载文件
+$ sudo docker run --rm -it -v ~/.bash_history:/.bash_history ubuntu /bin/bash
+
+# Docker 挂载数据卷的默认权限是读写，用户也可以通过 `:ro` 指定为只读。
+$ sudo docker run -d -P --name web -v /src/webapp:/opt/webapp:ro
+training/webapp python app.py
+```
+
+注意：Dockerfile 中不支持这种用法，这是因为 Dockerfile 是为了移植和分享用的。然而，不同操作系统的路径格式不一样，所以目前还不能支持。
+
+```yaml
+VOLUME /data
+```
+
+## Network: 网络
 
 # Orchestration: 编排
 
@@ -487,3 +489,5 @@ tty:true
 ```
 
 ## Docker Swarm
+
+## Docker Stack

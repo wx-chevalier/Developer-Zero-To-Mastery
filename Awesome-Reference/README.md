@@ -84,7 +84,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 # 目录
 
-* [Awesome-CS-Collections](./Awesome-CS-Collections.md): Awesome CS Collections
+* [Awesome-CS-Collection-en](./Awesome-CS-Collection-en.md): Awesome CS Collection: Curated list for awesome
+
+- [Awesome-CS-Collections](./Awesome-CS-Collections.md): Awesome CS Collections
+
+* [README-en](./README-en.md): [Awesome Reference: Guide to Galaxy](https://parg.co/b4z)
 
 ## DataScienceAI
 
@@ -106,6 +110,10 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
+* [Personas-Reference](./DataScienceAI/Application/Personas/Personas-Reference.md): 用户画像资料索引
+
+---
+
 * [RecommendSystem-Reference](./DataScienceAI/Application/RecommendSystem/RecommendSystem-Reference.md): Recommend System Reference
 
 ---
@@ -118,13 +126,17 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ### ComputerVision
 
-* [ComputerVision-Reference](./DataScienceAI/ComputerVision/ComputerVision-Reference.md): 计算机视觉资料索引
+* [ComputerVision-OpenSource-Reference](./DataScienceAI/ComputerVision/ComputerVision-OpenSource-Reference.md): 计算机视觉相关开源工具与框架索引
 
-- [OCR-Reference](./DataScienceAI/ComputerVision/OCR-Reference.md): OCR 资料索引
+- [ComputerVision-Reference](./DataScienceAI/ComputerVision/ComputerVision-Reference.md): 计算机视觉资料索引
+
+* [OCR-Reference](./DataScienceAI/ComputerVision/OCR-Reference.md): OCR 资料索引
 
 ### DeepLearning
 
-* [DeepLearning-Reference](./DataScienceAI/DeepLearning/DeepLearning-Reference.md): 深度学习资料索引
+* [DeepLearning-OpenSource-Reference](./DataScienceAI/DeepLearning/DeepLearning-OpenSource-Reference.md): 深度学习开源项目索引
+
+- [DeepLearning-Reference](./DataScienceAI/DeepLearning/DeepLearning-Reference.md): 深度学习资料索引
 
 ---
 
@@ -185,6 +197,10 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 ---
 
 * [Markov-Reference](./DataScienceAI/MachineLearning/Algorithm/Markov/Markov-Reference.md): 马尔科夫模型资料索引
+
+---
+
+* [ReinforcementLearning-Reference](./DataScienceAI/MachineLearning/Algorithm/Reinforcement/ReinforcementLearning-Reference.md): 强化学习资料索引
 
 ---
 
@@ -268,9 +284,13 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Keras-Reference](./DataScienceAI/Toolkit/DeepLearning/Keras-Reference.md):
+* [Keras-Reference](./DataScienceAI/Toolkit/DeepLearning/Keras-Reference.md): Keras Reference
 
 - [Tensoflow-Reference](./DataScienceAI/Toolkit/DeepLearning/Tensoflow-Reference.md): Tensorflow 学习与实践资料索引
+
+* [Tensorflow-OpenSource-Reference](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-OpenSource-Reference.md): Tensorflow OpenSource Reference
+
+- [Tensorflow-Tutorial-Reference](./DataScienceAI/Toolkit/DeepLearning/Tensorflow-Tutorial-Reference.md): Tutorial
 
 ---
 
@@ -310,9 +330,9 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Android-Core-Reference](./FrontendTechnology/Mobile/Android/Android-Core-Reference.md): Android 运行机制与内部原理
+* [Android-EPractices-Reference](./FrontendTechnology/Mobile/Android/Android-EPractices-Reference.md): Android 工程实践资料索引
 
-- [Android-EPractices-Reference](./FrontendTechnology/Mobile/Android/Android-EPractices-Reference.md): Android 工程实践资料索引
+- [Android-Internals-Reference](./FrontendTechnology/Mobile/Android/Android-Internals-Reference.md): Android 运行机制与内部原理
 
 * [Android-OpenSource-Reference](./FrontendTechnology/Mobile/Android/Android-OpenSource-Reference.md): Android 开源工具与框架索引
 
@@ -326,13 +346,15 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [ReactNative-EPractices-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-EPractices-Reference.md): ReactNative 工程实践资料索引
+* [ReactNative-DevPractices-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-DevPractices-Reference.md): ReactNative 开发实践资料索引
 
-- [ReactNative-OpenSource-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-OpenSource-Reference.md): ReactNative 开源项目资料索引
+- [ReactNative-Internals-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-Internals-Reference.md): React Native 运行机制与内部原理资料索引
 
-* [ReactNative-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-Reference.md): ReactNative 学习与实践资料索引
+* [ReactNative-OpenSource-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-OpenSource-Reference.md): React Native 开源工具与框架索引
 
-- [ReactNative-Syntax-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-Syntax-Reference.md):
+- [ReactNative-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-Reference.md): ReactNative 学习与实践资料索引
+
+* [ReactNative-Syntax-Reference](./FrontendTechnology/Mobile/ReactNative/ReactNative-Syntax-Reference.md): React Native 语法资料索引
 
 ---
 
@@ -400,6 +422,10 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [Image-Reference](./IndustrialApplication/Media/Image-Reference.md): 服务端图片处理资料索引
 
+- [QR-Reference](./IndustrialApplication/Media/QR-Reference.md): QR: 二维码
+
+* [Video-Reference](./IndustrialApplication/Media/Video-Reference.md): 视频处理资料索引
+
 ### Platform
 
 ---
@@ -434,7 +460,9 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ### PenTools
 
-* [PenTools-Reference](./InfoSecurity/PenTools/PenTools-Reference.md): 渗透测试工具资料索引
+* [PenTools-OpenSource-Reference](./InfoSecurity/PenTools/PenTools-OpenSource-Reference.md): 开源渗透测试工具索引
+
+- [PenTools-Reference](./InfoSecurity/PenTools/PenTools-Reference.md): 渗透测试工具资料索引
 
 ### ReverseEngineering
 
@@ -460,6 +488,8 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
+* [BatchProcessing-Reference](./Infrastructure/DistributedComputing/Batch/BatchProcessing-Reference.md):
+
 ---
 
 * [Hadoop-Reference](./Infrastructure/DistributedComputing/Batch/Hadoop/Hadoop-Reference.md): Hadoop 学习与实践资料索引
@@ -474,7 +504,13 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [Kafka-Reference](./Infrastructure/DistributedComputing/MOM/Kafka-Reference.md): Kafka 资料索引
 
-* [MessageOrientedMiddleware-Reference](./Infrastructure/DistributedComputing/MOM/MessageOrientedMiddleware-Reference.md): 消息中间件资料索引
+* [MOM-OpenSource-Reference](./Infrastructure/DistributedComputing/MOM/MOM-OpenSource-Reference.md): 消息中间件开源框架索引
+
+- [MessageOrientedMiddleware-Reference](./Infrastructure/DistributedComputing/MOM/MessageOrientedMiddleware-Reference.md): 消息中间件资料索引
+
+---
+
+* [Serverless-Reference](./Infrastructure/DistributedComputing/Serverless/Serverless-Reference.md): Serverless 资料索引
 
 ---
 
@@ -492,6 +528,10 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
+* [Bitcoin-Reference](./Infrastructure/DistributedStorage/Blockchain/Bitcoin-Reference.md): 比特币学习与实践资料索引
+
+- [Blockchain-OpenSource-Reference](./Infrastructure/DistributedStorage/Blockchain/Blockchain-OpenSource-Reference.md): 区块链开源工具与实现
+
 * [Blockchain-Reference](./Infrastructure/DistributedStorage/Blockchain/Blockchain-Reference.md): 区块链资料索引
 
 - [Ethereum-Reference](./Infrastructure/DistributedStorage/Blockchain/Ethereum-Reference.md): Ethereum 资料索引
@@ -499,8 +539,6 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 ---
 
 * [DistributedConsistency-Reference](./Infrastructure/DistributedStorage/Consistency/DistributedConsistency-Reference.md): 分布式一致性资料索引
-
-- [Raft-Reference](./Infrastructure/DistributedStorage/Consistency/Raft-Reference.md): Raft 学习与资料索引
 
 ---
 
@@ -560,11 +598,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [CDN-Reference](./Infrastructure/Network/HTTP/CDN-Reference.md): 内容分发网络 CDN 资料索引
+* [DNS-Reference](./Infrastructure/Network/HTTP/DNS-Reference.md): DNS 资料索引
 
-- [DNS-Reference](./Infrastructure/Network/HTTP/DNS-Reference.md): DNS 资料索引
+- [HTTP-Reference](./Infrastructure/Network/HTTP/HTTP-Reference.md): HTTP 学习与实践资料索引
 
-* [HTTP-Reference](./Infrastructure/Network/HTTP/HTTP-Reference.md): HTTP 学习与实践资料索引
+* [HTTP2-Reference](./Infrastructure/Network/HTTP/HTTP2-Reference.md): HTTP/2 学习与资料索引
 
 - [HTTPS-Reference](./Infrastructure/Network/HTTP/HTTPS-Reference.md): HTTPS 资料索引
 
@@ -578,9 +616,7 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Socket-Reference](./Infrastructure/Network/TCP-IP/Socket-Reference.md): Socket 资料索引
-
-- [TCP-IP-Reference](./Infrastructure/Network/TCP-IP/TCP-IP-Reference.md): TCP/IP 资料索引
+* [TCPIP-Reference](./Infrastructure/Network/TCP-IP/TCPIP-Reference.md): TCP/IP 资料索引
 
 ### OS
 
@@ -644,13 +680,17 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [MySQL-Cluster-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-Cluster-Reference.md): MySQL 集群资料索引
 
-- [MySQL-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-Reference.md): MySQL 配置使用与实践优化参考资料
+- [MySQL-OpenSource-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-OpenSource-Reference.md): MySQL 开源工具与扩展资料索引
 
-* [MySQL-StoreEngine-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-StoreEngine-Reference.md): MySQL 工程实践与性能优化资料索引
+* [MySQL-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-Reference.md): MySQL 配置使用与实践优化参考资料
+
+- [MySQL-StoreEngine-Reference](./Infrastructure/Storage/RDB/MySQL/MySQL-StoreEngine-Reference.md): MySQL 工程实践与性能优化资料索引
 
 ---
 
-* [PostgreSQL-Reference](./Infrastructure/Storage/RDB/PostgreSQL/PostgreSQL-Reference.md): PostgreSQL 资料索引
+* [PostgreSQL-OpenSource-Reference](./Infrastructure/Storage/RDB/PostgreSQL/PostgreSQL-OpenSource-Reference.md): PostgreSQL 开源工具与扩展索引
+
+- [PostgreSQL-Reference](./Infrastructure/Storage/RDB/PostgreSQL/PostgreSQL-Reference.md): PostgreSQL 资料索引
 
 ---
 
@@ -668,9 +708,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [ElasticSearch-OpenSource-Reference](./Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-OpenSource-Reference.md): ElasticSearch 开源工具与框架资料索引
+* [ElasticSearch-Internals-Reference](./Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-Internals-Reference.md): ElasticSearch 线上调试与内部原理资料索引
 
-- [ElasticSearch-Reference](./Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-Reference.md): ElasticSearch 资料索引
+- [ElasticSearch-OpenSource-Reference](./Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-OpenSource-Reference.md): ElasticSearch 开源工具与框架资料索引
+
+* [ElasticSearch-Reference](./Infrastructure/Storage/SearchEngine/ElasticSearch/ElasticSearch-Reference.md): ElasticSearch 资料索引
 
 ### Virtualization
 
@@ -678,15 +720,19 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
+* [Container-Reference](./Infrastructure/Virtualization/Container/Container-Reference.md): Kata 资料索引
+
 ---
 
-* [Container-Reference](./Infrastructure/Virtualization/Container/Docker/Container-Reference.md): Kata 资料索引
+* [Docker-Configuration-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-Configuration-Reference.md): Docker 常用配置
 
-- [Docker-Configuration-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-Configuration-Reference.md): Docker 常用配置
+- [Docker-Internals-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-Internals-Reference.md): Docker 内部原理与机制索引
 
-* [Docker-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-Reference.md): Docker Reference
+* [Docker-OpenSource-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-OpenSource-Reference.md): Docker 开源框架与工具索引
 
-- [Dokcer-Swarm-Reference](./Infrastructure/Virtualization/Container/Docker/Dokcer-Swarm-Reference.md): Docker Swarm 资料索引
+- [Docker-Reference](./Infrastructure/Virtualization/Container/Docker/Docker-Reference.md): Docker Reference
+
+* [Dokcer-Swarm-Reference](./Infrastructure/Virtualization/Container/Docker/Dokcer-Swarm-Reference.md): Docker Swarm 资料索引
 
 ---
 
@@ -698,7 +744,9 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Kubernetes-Reference](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-Reference.md): Kubernetes Reference
+* [Kubernetes-OpenSource-Reference](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-OpenSource-Reference.md): Kubernetes 开源框架与工具索引
+
+- [Kubernetes-Reference](./Infrastructure/Virtualization/Orchestration/Kubernetes/Kubernetes-Reference.md): Kubernetes 学习与资料索引
 
 ---
 
@@ -721,8 +769,6 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 ## ProgrammingLanguage
 
 * [ProgrammingLanguage-Reference](./ProgrammingLanguage/ProgrammingLanguage-Reference.md): 编程语言资料索引
-
-- [ProgrammingLanguageTheory-Reference](./ProgrammingLanguage/ProgrammingLanguageTheory-Reference.md): 编程语言理论资料索引
 
 ### C
 
@@ -748,47 +794,53 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
----
-
-* [Gradle-Reference](./ProgrammingLanguage/Java/Builder/Gradle/Gradle-Reference.md): Gradle 学习与实践资料索引
-
----
-
-* [Maven-Reference](./ProgrammingLanguage/Java/Builder/Maven/Maven-Reference.md): Maven 学习与实践资料索引
-
----
-
-* [Akka-Reference](./ProgrammingLanguage/Java/ConcurrentProgramming/Akka-Reference.md): Akka 资料索引
-
-- [Java-Async-Reference](./ProgrammingLanguage/Java/ConcurrentProgramming/Java-Async-Reference.md): Java 异步编程资料索引
-
-* [Java-ConcurrentProgramming-Reference](./ProgrammingLanguage/Java/ConcurrentProgramming/Java-ConcurrentProgramming-Reference.md): Java 并发编程资料索引
-
-- [Java-NIO-Reference](./ProgrammingLanguage/Java/ConcurrentProgramming/Java-NIO-Reference.md): Java NIO 资料索引
-
----
-
 * [Java-Collection-Reference](./ProgrammingLanguage/Java/DataStructure/Java-Collection-Reference.md): Java 集合资料索引
 
 - [Java-DataStructure-Reference](./ProgrammingLanguage/Java/DataStructure/Java-DataStructure-Reference.md): Java 数据结构学习与实践资料索引
 
 ---
 
+* [Java-DevPractices-Reference](./ProgrammingLanguage/Java/DevPractices/Java-DevPractices-Reference.md): Java 工程实践资料索引
+
+---
+
+---
+
+* [Gradle-Reference](./ProgrammingLanguage/Java/DevPractices/Builder/Gradle/Gradle-Reference.md): Gradle 学习与实践资料索引
+
+---
+
+* [Maven-Reference](./ProgrammingLanguage/Java/DevPractices/Builder/Maven/Maven-Reference.md): Maven 学习与实践资料索引
+
+---
+
+* [Akka-Reference](./ProgrammingLanguage/Java/DevPractices/ConcurrentProgramming/Akka-Reference.md): Akka 资料索引
+
+- [Java-Async-Reference](./ProgrammingLanguage/Java/DevPractices/ConcurrentProgramming/Java-Async-Reference.md): Java 异步编程资料索引
+
+* [Java-ConcurrentProgramming-Reference](./ProgrammingLanguage/Java/DevPractices/ConcurrentProgramming/Java-ConcurrentProgramming-Reference.md): Java 并发编程资料索引
+
+- [Java-NIO-Reference](./ProgrammingLanguage/Java/DevPractices/ConcurrentProgramming/Java-NIO-Reference.md): Java NIO 资料索引
+
+---
+
+* [Java-Test-Reference](./ProgrammingLanguage/Java/DevPractices/Test/Java-Test-Reference.md): Java 测试学习与实践资料索引
+
+---
+
+* [Java-UI-Reference](./ProgrammingLanguage/Java/DevPractices/UI/Java-UI-Reference.md):
+
+---
+
 * [Groovy-Reference](./ProgrammingLanguage/Java/Dialect/Groovy-Reference.md): Groovy 学习与实践资料索引
 
----
-
-* [Java-EPractices-Reference](./ProgrammingLanguage/Java/EPractices/Java-EPractices-Reference.md): Java 工程实践资料索引
+- [Scala-Reference](./ProgrammingLanguage/Java/Dialect/Scala-Reference.md):
 
 ---
 
-* [Java-Test-Reference](./ProgrammingLanguage/Java/EPractices/Test/Java-Test-Reference.md): Java 测试学习与实践资料索引
-
 ---
 
-* [Java-Network-Reference](./ProgrammingLanguage/Java/Functionality/Java-Network-Reference.md): Java 网络操作资料索引
-
-- [Java-System-Reference](./ProgrammingLanguage/Java/Functionality/Java-System-Reference.md): Java System Reference
+* [Java-Network-Reference](./ProgrammingLanguage/Java/Functionality/Network/Java-Network-Reference.md): Java 网络操作资料索引
 
 ---
 
@@ -798,9 +850,15 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [JVM-Reference](./ProgrammingLanguage/Java/JVM/JVM-Reference.md): Memory Model: 内存模型
+* [Java-System-Reference](./ProgrammingLanguage/Java/Functionality/SysProc/Java-System-Reference.md): Java System Reference
 
-- [JVM-Tuning-Reference](./ProgrammingLanguage/Java/JVM/JVM-Tuning-Reference.md): JVM 问题定位与性能调优资料索引
+---
+
+* [JVM-GarbageCollection-Reference](./ProgrammingLanguage/Java/JVM/JVM-GarbageCollection-Reference.md): JVM 内存管理与垃圾回收资料索引
+
+- [JVM-Reference](./ProgrammingLanguage/Java/JVM/JVM-Reference.md): Memory Model: 内存模型
+
+* [JVM-Tuning-Reference](./ProgrammingLanguage/Java/JVM/JVM-Tuning-Reference.md): JVM 问题定位与性能调优资料索引
 
 ---
 
@@ -812,19 +870,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [Java-Syntax-Reference](./ProgrammingLanguage/Java/Syntax/Java-Syntax-Reference.md): Java 语法基础资料索引
 
----
-
-* [Java-UI-Reference](./ProgrammingLanguage/Java/UI/Java-UI-Reference.md):
-
 ### JavaScript
 
 * [JavaScript-OpenSource-Reference](./ProgrammingLanguage/JavaScript/JavaScript-OpenSource-Reference.md):
 
 - [JavaScript-Reference](./ProgrammingLanguage/JavaScript/JavaScript-Reference.md): JavaScript 学习与实践资料索引
-
----
-
-* [JavaScript-Async-Reference](./ProgrammingLanguage/JavaScript/Async/JavaScript-Async-Reference.md): JavaScript 异步编程资料索引
 
 ---
 
@@ -834,7 +884,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [JavaScript-EPractices-Reference](./ProgrammingLanguage/JavaScript/EPractices/JavaScript-EPractices-Reference.md): JavaScript EPractices Reference
+* [JavaScript-DevPractices-Reference](./ProgrammingLanguage/JavaScript/DevPractices/JavaScript-DevPractices-Reference.md): JavaScript EPractices Reference
+
+---
+
+* [JavaScript-Async-Reference](./ProgrammingLanguage/JavaScript/DevPractices/Async/JavaScript-Async-Reference.md): JavaScript 异步编程资料索引
 
 ---
 
@@ -884,6 +938,12 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [Swift-Reference](./ProgrammingLanguage/Limbo/Swift/Swift-Reference.md): Swift 资料索引
 
+### ProgrammingLanguageTheory
+
+* [Compiler-Reference](./ProgrammingLanguage/ProgrammingLanguageTheory/Compiler-Reference.md): 编译器资料索引
+
+- [ProgrammingLanguageTheory-Reference](./ProgrammingLanguage/ProgrammingLanguageTheory/ProgrammingLanguageTheory-Reference.md): 编程语言理论资料索引
+
 ### Python
 
 * [Python-OpenSource-Reference](./ProgrammingLanguage/Python/Python-OpenSource-Reference.md): Python 相关开源库索引
@@ -914,7 +974,11 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [Rust-OpenSource-Reference](./ProgrammingLanguage/Rust/Rust-OpenSource-Reference.md): Rust OpenSource Reference
 
-- [Rust-Reference](./ProgrammingLanguage/Rust/Rust-Reference.md): Rust 学习与实践资料索引
+- [Rust-Reference-en](./ProgrammingLanguage/Rust/Rust-Reference-en.md): Awesome Rust Reference
+
+* [Rust-Reference](./ProgrammingLanguage/Rust/Rust-Reference.md): Rust 学习与实践资料索引
+
+- [Rust-Syntax-Reference](./ProgrammingLanguage/Rust/Rust-Syntax-Reference.md): Rust 语法资料索引
 
 ## ServerSideApplication
 
@@ -922,7 +986,7 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ### ApiRPC
 
-* [RPC-OpenSource-Reference](./ServerSideApplication/ApiRPC/RPC-OpenSource-Reference.md): brpc
+* [ApiRPC-OpenSource-Reference](./ServerSideApplication/ApiRPC/ApiRPC-OpenSource-Reference.md): ApiRPC 开源框架与工具索引
 
 - [RPC-Reference](./ServerSideApplication/ApiRPC/RPC-Reference.md): RPC 与 WebAPI 资料索引
 
@@ -968,23 +1032,27 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ### MicroService
 
-* [MicroService-Reference](./ServerSideApplication/MicroService/MicroService-Reference.md): 微服务架构学习与实践资料索引
+* [MicroService-OpenSource-Reference](./ServerSideApplication/MicroService/MicroService-OpenSource-Reference.md): 微服务开源框架与工具索引
+
+- [MicroService-Reference](./ServerSideApplication/MicroService/MicroService-Reference.md): 微服务架构学习与实践资料索引
 
 ---
 
-* [HA-Reference](./ServerSideApplication/MicroService/HA/HA-Reference.md): 高可用服务端架构实践资料索引
+* [ServiceAvailability-Reference](./ServerSideApplication/MicroService/ServiceAvailability/ServiceAvailability-Reference.md): 高可用服务端架构实践资料索引
 
 ---
 
-* [Serverless-Reference](./ServerSideApplication/MicroService/Serverless/Serverless-Reference.md): Serverless 资料索引
+* [DistributedTransaction-Reference](./ServerSideApplication/MicroService/ServiceCoordination/DistributedTransaction-Reference.md): 分布式事务资料索引
 
----
-
-* [ServiceCoordination-Reference](./ServerSideApplication/MicroService/ServiceCoordination/ServiceCoordination-Reference.md): Service Coordination: 服务协调资料索引
+- [ServiceCoordination-Reference](./ServerSideApplication/MicroService/ServiceCoordination/ServiceCoordination-Reference.md): Service Coordination: 服务协调资料索引
 
 ---
 
 * [ServiceGateway-Reference](./ServerSideApplication/MicroService/ServiceGateway/ServiceGateway-Reference.md): Service Gateway: 服务网关资料索引
+
+---
+
+* [ServiceMesh-Reference](./ServerSideApplication/MicroService/ServiceOrchestration/ServiceMesh-Reference.md): 服务网格资料索引
 
 ### Pattern
 
@@ -1012,19 +1080,19 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [Spring-Reference](./ServerSideApplication/WebFramework/Java/Spring/Spring-Reference.md): Spring Boot & Spring Cloud 学习与实践资料总结
 
-- [SpringBoot-Reference](./ServerSideApplication/WebFramework/Java/Spring/SpringBoot-Reference.md):
+- [SpringBoot-Reference](./ServerSideApplication/WebFramework/Java/Spring/SpringBoot-Reference.md): Spring Boot 学习与实践资料索引
 
 * [SpringCloud-Reference](./ServerSideApplication/WebFramework/Java/Spring/SpringCloud-Reference.md): Spring Cloud 学习与资料索引
 
 ---
 
-* [Node.js-Core-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Core-Reference.md): Node.js 运行机制与核心原理资料索引
+* [Node.js-DevPractices-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-DevPractices-Reference.md): Node.js 工程实践资料索引
 
-- [Node.js-EPractices-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-EPractices-Reference.md): Node.js 工程实践资料索引
+- [Node.js-Framework-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Framework-Reference.md): Node.js 框架学习与实践资料索引
 
-* [Node.js-Framework-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Framework-Reference.md): Node.js 框架学习与实践资料索引
+* [Node.js-Internals-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Internals-Reference.md): Node.js 运行机制与核心原理资料索引
 
-- [Node.js-MicroService-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-MicroService-Reference.md): Node.js 微服务架构学习与实践资料索引
+- [Node.js-Production-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Production-Reference.md): Node.js 微服务架构学习与实践资料索引
 
 * [Node.js-Reference](./ServerSideApplication/WebFramework/Node.js/Node.js-Reference.md): Node.js 学习与实践资料索引
 
@@ -1036,7 +1104,9 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ### WebServer
 
-* [WebServer-Reference](./ServerSideApplication/WebServer/WebServer-Reference.md): Web 服务器学习与实践资料索引
+* [Automatic-WebServer-Reference](./ServerSideApplication/WebServer/Automatic-WebServer-Reference.md): 自动化 Web/API 服务器
+
+- [WebServer-Reference](./ServerSideApplication/WebServer/WebServer-Reference.md): Web 服务器学习与实践资料索引
 
 ---
 
@@ -1068,7 +1138,9 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [KeyedCollection-Reference](./SoftwareEngineering/AlgoDS/KeyedCollection/KeyedCollection-Reference.md): 映射结构资料索引
+* [Hash-Reference](./SoftwareEngineering/AlgoDS/KeyedCollection/Hash-Reference.md): Hash 资料索引
+
+- [KeyedCollection-Reference](./SoftwareEngineering/AlgoDS/KeyedCollection/KeyedCollection-Reference.md): 映射结构资料索引
 
 ---
 
@@ -1084,7 +1156,7 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Serialization-Reference](./SoftwareEngineering/AlgoDS/Serialization/Serialization-Reference.md): JSON
+* [Serialization-Reference](./SoftwareEngineering/AlgoDS/Serialization/Serialization-Reference.md): 数据压缩与序列化资料索引
 
 ---
 
@@ -1104,6 +1176,8 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [Debug-Tool-Reference](./SoftwareEngineering/CollaborativeDevelopment/Debug-Tool-Reference.md): 调试工具索引
 
+* [TechnicalManagement-Reference](./SoftwareEngineering/CollaborativeDevelopment/TechnicalManagement-Reference.md): 技术管理资料索引
+
 ---
 
 * [Agile-Reference](./SoftwareEngineering/CollaborativeDevelopment/Agile/Agile-Reference.md): 敏捷开发资料索引
@@ -1116,19 +1190,29 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [Git-Reference](./SoftwareEngineering/CollaborativeDevelopment/Git/Git-Reference.md): Git 资料索引
 
+- [GitHub-Reference](./SoftwareEngineering/CollaborativeDevelopment/Git/GitHub-Reference.md): GitHub 资料索引
+
 ---
 
 * [Docs-Reference](./SoftwareEngineering/CollaborativeDevelopment/Tool/Docs-Reference.md): 文档辅助工具
 
 - [Office-Reference](./SoftwareEngineering/CollaborativeDevelopment/Tool/Office-Reference.md): Office 相关资料索引
 
+* [Super-Browser-Reference](./SoftwareEngineering/CollaborativeDevelopment/Tool/Super-Browser-Reference.md): 超级浏览器体验索引
+
+- [Tool-Reference-en](./SoftwareEngineering/CollaborativeDevelopment/Tool/Tool-Reference-en.md): Awesome Tools for Efficient and Dedicated Workbench
+
 * [Tool-Reference](./SoftwareEngineering/CollaborativeDevelopment/Tool/Tool-Reference.md): 搭建高效率的开发工作台
 
 ### DesignPattern
 
-* [DesignPattern-Reference](./SoftwareEngineering/DesignPattern/DesignPattern-Reference.md): 设计模式资料索引
+* [DDD-Reference](./SoftwareEngineering/DesignPattern/DDD-Reference.md): 领域驱动资料索引
 
-- [SOLID-Reference](./SoftwareEngineering/DesignPattern/SOLID-Reference.md): SOLID 资料索引
+- [DesignPattern-Reference](./SoftwareEngineering/DesignPattern/DesignPattern-Reference.md): 设计模式资料索引
+
+* [Java-DesignPattern-Reference](./SoftwareEngineering/DesignPattern/Java-DesignPattern-Reference.md): Java 设计模式资料索引
+
+- [JavaScript-DesignPattern-Reference](./SoftwareEngineering/DesignPattern/JavaScript-DesignPattern-Reference.md): JavaScript 设计模式资料索引
 
 ### Product
 
@@ -1186,67 +1270,55 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [Web-Reference](./Web/Web-Reference.md): Web 学习与实践资料索引
 
-### Architecture
-
-* [Web-Architecture-Reference](./Web/Architecture/Web-Architecture-Reference.md): Web 架构学习与实践资料索引
-
-- [WebComponents-Reference](./Web/Architecture/WebComponents-Reference.md): WenComponents 资料索引
-
----
-
-* [Web-Builder-Reference](./Web/Architecture/Builder/Web-Builder-Reference.md): Web 构建工具资料索引
-
-- [Webpack-Reference](./Web/Architecture/Builder/Webpack-Reference.md): Webpack 学习与实践资料索引
-
----
-
-* [Web-StateManagement-Reference](./Web/Architecture/StateManagement/Web-StateManagement-Reference.md): Web 状态管理资料索引
-
----
-
-* [Web-StyleGuide-Reference](./Web/Architecture/StyleGuide/Web-StyleGuide-Reference.md): Web 开发样式指南资料索引
-
 ### Browser
 
 * [Browser-Automation-Reference](./Web/Browser/Browser-Automation-Reference.md): 浏览器自动化资料索引
 
 - [Browser-Extension-Reference](./Web/Browser/Browser-Extension-Reference.md): 浏览器扩展资料索引
 
-* [Browser-Inside-Reference](./Web/Browser/Browser-Inside-Reference.md): 浏览器运行原理与内部机制资料索引
+* [Browser-Internals-Reference](./Web/Browser/Browser-Internals-Reference.md): 浏览器运行原理与内部机制资料索引
 
 - [Browser-Reference](./Web/Browser/Browser-Reference.md): 浏览器相关学习与资料索引
 
-### EPractices
+### DevPractices
 
 ---
 
-* [Web-Debug-Reference](./Web/EPractices/Debug/Web-Debug-Reference.md): Web 开发界面调试资料索引
+* [Web-Architecture-Reference](./Web/DevPractices/Architecture/Web-Architecture-Reference.md): Web 架构学习与实践资料索引
+
+- [Web-Componentization-Reference](./Web/DevPractices/Architecture/Web-Componentization-Reference.md): Web 组件化资料索引
+
+* [Web-SPA-Reference](./Web/DevPractices/Architecture/Web-SPA-Reference.md): SPA
+
+- [Web-StateManagement-Reference](./Web/DevPractices/Architecture/Web-StateManagement-Reference.md): Web 状态管理资料索引
 
 ---
 
-* [Web-PWA-Reference](./Web/EPractices/Performance/Web-PWA-Reference.md): Progressive Web Apps 学习与实践资料索引
+* [Parcel-Reference](./Web/DevPractices/Builder/Parcel-Reference.md): Parcel 学习与实践资料索引
 
-- [Web-Performance-Reference.2](./Web/EPractices/Performance/Web-Performance-Reference.2.md): Web 性能优化实践资料索引
+- [Web-Builder-Reference](./Web/DevPractices/Builder/Web-Builder-Reference.md): Web 构建工具资料索引
 
-* [Web-Performance-Reference](./Web/EPractices/Performance/Web-Performance-Reference.md): Web 性能优化实践资料索引
-
----
-
-* [Web-Production-Reference](./Web/EPractices/Production/Web-Production-Reference.md): 生产环境部署与监控资料索引
+* [Webpack-Reference](./Web/DevPractices/Builder/Webpack-Reference.md): Webpack 学习与实践资料索引
 
 ---
 
-* [RealTime-Reference](./Web/EPractices/RealTime/RealTime-Reference.md): 长连接与实时通信资料索引
-
-- [WebSocket-Reference](./Web/EPractices/RealTime/WebSocket-Reference.md): WebSocket
+* [Web-Debug-Reference](./Web/DevPractices/Debug/Web-Debug-Reference.md): Web 开发界面调试资料索引
 
 ---
 
-* [Web-E2ETest-Reference](./Web/EPractices/Test/Web-E2ETest-Reference.md): Web 端到端测试资料索引
+* [CSS-Responsive-Reference](./Web/DevPractices/Responsive/CSS-Responsive-Reference.md): Web 响应式开发资料索引
 
-- [Web-Test-Reference](./Web/EPractices/Test/Web-Test-Reference.md): Web 测试资料索引
+---
 
-* [Web-TestRunner-Reference](./Web/EPractices/Test/Web-TestRunner-Reference.md):
+* [Web-StyleGuide-Reference](./Web/DevPractices/StyleGuide/Web-StyleGuide-Reference.md): Web 开发样式指南资料索引
+
+---
+
+* [Web-E2ETest-Reference](./Web/DevPractices/Test/Web-E2ETest-Reference.md): Web 端到端测试资料索引
+
+- [Web-Test-Reference](./Web/DevPractices/Test/Web-Test-Reference.md): Web 测试资料索引
+
+* [Web-TestRunner-Reference](./Web/DevPractices/Test/Web-TestRunner-Reference.md): Jest
 
 ### Framework
 
@@ -1258,19 +1330,23 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [MobX-Reference](./Web/Framework/MobX/MobX-Reference.md): MobX 学习与实践资料索引
+* [MST-Reference](./Web/Framework/MobX/MST-Reference.md): Mobx State Tree 资料索引
+
+- [MobX-Reference](./Web/Framework/MobX/MobX-Reference.md): MobX 学习与实践资料索引
 
 ---
 
-* [React-Architecture-And-Optimization](./Web/Framework/React/React-Architecture-And-Optimization.md): React 应用架构与性能优化资料索引
+* [React-DevPractices-Reference](./Web/Framework/React/React-DevPractices-Reference.md): React 工程实践资料索引
 
-- [React-EPractices-Reference](./Web/Framework/React/React-EPractices-Reference.md): React 工程实践资料索引
+- [React-OpenSource-Reference](./Web/Framework/React/React-OpenSource-Reference.md): React 开源组件与库索引
 
-* [React-OpenSource-Reference](./Web/Framework/React/React-OpenSource-Reference.md): React 开源组件与库索引
+* [React-Production-Reference](./Web/Framework/React/React-Production-Reference.md): React 应用架构与性能优化资料索引
 
-- [React-Reconciliation-Reference](./Web/Framework/React/React-Reconciliation-Reference.md): Reconciliation: 调和与 React 内部原理
+- [React-Reconciliation-Reference](./Web/Framework/React/React-Reconciliation-Reference.md): React 调和算法与内部原理
 
 * [React-Reference](./Web/Framework/React/React-Reference.md): React 学习与实践资料索引
+
+- [React-Syntax-Reference](./Web/Framework/React/React-Syntax-Reference.md): React 基础语法资料索引
 
 ---
 
@@ -1282,15 +1358,55 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 ---
 
-* [Vue-EPractices-Reference](./Web/Framework/Vue/Vue-EPractices-Reference.md): Vue.js 工程实践资料索引
+* [Vue-DevPractices-Reference](./Web/Framework/Vue/Vue-DevPractices-Reference.md): Vue.js 工程实践资料索引
 
-- [Vue-OpenSource-Reference](./Web/Framework/Vue/Vue-OpenSource-Reference.md): Vue.js 开源组件与库索引
+- [Vue-Internals-Reference](./Web/Framework/Vue/Vue-Internals-Reference.md): Under the Hood: 内部原理
+
+* [Vue-OpenSource-Reference](./Web/Framework/Vue/Vue-OpenSource-Reference.md): Vue.js 开源组件与库索引
+
+- [Vue-Production-Reference](./Web/Framework/Vue/Vue-Production-Reference.md): Performance: 性能优化
 
 * [Vue-Reference](./Web/Framework/Vue/Vue-Reference.md): Vue.js 学习与实践资料索引
 
 ---
 
 * [jQuery-Reference](./Web/Framework/jQuery/jQuery-Reference.md): jQuery 学习与实践资料索引
+
+### Production
+
+* [Web-Production-Reference](./Web/Production/Web-Production-Reference.md): 生产环境部署与监控资料索引
+
+---
+
+* [Web-Availability-Reference](./Web/Production/Availability/Web-Availability-Reference.md): Web 可用性资料索引
+
+- [Web-Polyfill-Reference](./Web/Production/Availability/Web-Polyfill-Reference.md): Web Polyfill 资料索引
+
+---
+
+* [Web-PWA-Reference-en](./Web/Production/Performance/Web-PWA-Reference-en.md): PWA Reference: Curated links for mastering PWA
+
+- [Web-PWA-Reference](./Web/Production/Performance/Web-PWA-Reference.md): Progressive Web Apps 学习与实践资料索引
+
+* [Web-Performance-Asset-Reference](./Web/Production/Performance/Web-Performance-Asset-Reference.md): Image Optimization: 图片优化
+
+- [Web-Performance-Reference-en](./Web/Production/Performance/Web-Performance-Reference-en.md):
+
+* [Web-Performance-Reference](./Web/Production/Performance/Web-Performance-Reference.md): Web 性能优化实践资料索引
+
+- [Web-Performance-Request-Delivery-Reference](./Web/Production/Performance/Web-Performance-Request-Delivery-Reference.md): 资源请求与分发
+
+* [Web-Performance-Script-Render-Reference](./Web/Production/Performance/Web-Performance-Script-Render-Reference.md): Web 性能优化实践资料索引
+
+---
+
+* [RealTime-Reference](./Web/Production/RealTime/RealTime-Reference.md): 长连接与实时通信资料索引
+
+- [WebSocket-Reference](./Web/Production/RealTime/WebSocket-Reference.md): WebSocket
+
+---
+
+* [Web-Release-Reference](./Web/Production/Release/Web-Release-Reference.md):
 
 ### Syntax
 
@@ -1300,13 +1416,15 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [CSS-Animation-Reference](./Web/Syntax/CSS/CSS-Animation-Reference.md): Web 动画资料索引
 
-- [CSS-EPractices-Reference](./Web/Syntax/CSS/CSS-EPractices-Reference.md): EPractices: 工程实践
+- [CSS-DevPractices-Reference](./Web/Syntax/CSS/CSS-DevPractices-Reference.md): DevPractices: 工程实践
 
 * [CSS-Layout-Reference](./Web/Syntax/CSS/CSS-Layout-Reference.md): CSS 布局学习与实践资料索引
 
-- [CSS-Reference](./Web/Syntax/CSS/CSS-Reference.md): CSS
+- [CSS-Modularity-Reference](./Web/Syntax/CSS/CSS-Modularity-Reference.md): CSS 命名规范与模块化资料索引
 
-* [CSS-Responsive-Reference](./Web/Syntax/CSS/CSS-Responsive-Reference.md): Web 响应式开发资料索引
+* [CSS-Reference](./Web/Syntax/CSS/CSS-Reference.md): CSS
+
+- [CSS-Syntax-Reference](./Web/Syntax/CSS/CSS-Syntax-Reference.md): CSS 语法资料索引
 
 ---
 
@@ -1316,15 +1434,13 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 * [DOM-Event-Reference](./Web/Syntax/DOM/Event/DOM-Event-Reference.md): DOM 事件处理资料索引
 
-- [DOM-ScrollView-Reference](./Web/Syntax/DOM/Event/DOM-ScrollView-Reference.md): Web 开发中滚动相关资料索引
-
 ---
 
 * [DOM-Network-Reference](./Web/Syntax/DOM/Functionality/DOM-Network-Reference.md): DOM Network 资料索引
 
 - [DOM-Storage-Reference](./Web/Syntax/DOM/Functionality/DOM-Storage-Reference.md): DOM 存储资料索引
 
-* [ServiceWorker-Reference](./Web/Syntax/DOM/Functionality/ServiceWorker-Reference.md): ServiceWorker 资料索引
+* [DOM-Worker-Reference](./Web/Syntax/DOM/Functionality/DOM-Worker-Reference.md): ServiceWorker 资料索引
 
 - [VirtualDOM-Reference](./Web/Syntax/DOM/Functionality/VirtualDOM-Reference.md): VirtualDOM 资料索引
 
@@ -1334,28 +1450,38 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [DOM-Graphic-Reference](./Web/Syntax/DOM/Graphic/DOM-Graphic-Reference.md): DOM 绘图相关资料索引
 
-* [WebGL-Reference](./Web/Syntax/DOM/Graphic/WebGL-Reference.md): WebGL 资料索引
-
 ---
 
 * [HTML-Reference](./Web/Syntax/HTML/HTML-Reference.md): HTML 学习与实践资料索引
 
 ---
 
-* [WebAssembly-Reference](./Web/Syntax/WebAssembly/WebAssembly-Reference.md): WebAssembly 学习与实践资料索引
+* [WebAssembly-OpenSource-Reference](./Web/Syntax/WebAssembly/WebAssembly-OpenSource-Reference.md): WebAssembly 开源工具与框架索引
+
+- [WebAssembly-Reference](./Web/Syntax/WebAssembly/WebAssembly-Reference.md): WebAssembly 学习与实践资料索引
 
 ### Widgets
 
-* [Dialog-Reference](./Web/Widgets/Dialog-Reference.md): 对话框与提示资料索引
+* [Awesome-Effect-And-Animations](./Web/Widgets/Awesome-Effect-And-Animations.md): 优秀的 CSS 动画效果
 
-- [Gallery-Reference](./Web/Widgets/Gallery-Reference.md): Carousel
+- [Feedback-Reference](./Web/Widgets/Feedback-Reference.md): 表格与网格控件索引
+
+* [Gallery-Reference](./Web/Widgets/Gallery-Reference.md): Carousel: 走马灯
+
+- [General-Widgets-Reference](./Web/Widgets/General-Widgets-Reference.md): Button
 
 * [Indicator-Reference](./Web/Widgets/Indicator-Reference.md): Web 指示器插件索引
 
-- [Media-Reference](./Web/Widgets/Media-Reference.md): Web 开发中媒体处理插件索引
+- [Layout-Widgets-Reference](./Web/Widgets/Layout-Widgets-Reference.md): 布局控件索引
+
+* [Media-Reference](./Web/Widgets/Media-Reference.md): Web 开发中媒体处理插件索引
+
+- [Navigation-Reference](./Web/Widgets/Navigation-Reference.md): Web 导航控件索引
 
 * [Picker-Reference](./Web/Widgets/Picker-Reference.md): 输入插件索引
 
-- [TableGrid-Reference](./Web/Widgets/TableGrid-Reference.md): 表格与网格控件索引
+- [Select-Reference](./Web/Widgets/Select-Reference.md): Web 选择器资料索引
 
-* [Web-Widgets-Reference](./Web/Widgets/Web-Widgets-Reference.md): Web 插件索引
+* [Web-Widgets-Reference-en](./Web/Widgets/Web-Widgets-Reference-en.md): Web Widgets Reference: Awesome Widgets for Next Web Application
+
+- [Web-Widgets-Reference](./Web/Widgets/Web-Widgets-Reference.md): Web 插件索引

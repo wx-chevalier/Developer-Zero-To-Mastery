@@ -1,5 +1,6 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
  
+ 
 # 人工智能的工业应用
 
 - [第四范式联合创始人陈雨强：机器学习在工业应用中的新思考](http://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650721682&idx=1&sn=6bdbf5739bb312449cb60cb6679f98d2&chksm=871b09ecb06c80fa59dba741fb79e44021d5ae16f67488c38b3fb477235a203931da86c829bc&mpshare=1&scene=23&srcid=1222rwLnKVM0ecyUZ7qVKyzy#rd)

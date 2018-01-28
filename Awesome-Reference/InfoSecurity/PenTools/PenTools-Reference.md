@@ -14,8 +14,6 @@
 
 - [RouterSploit - Router Exploitation Framework #Project#](https://github.com/reverse-shell/routersploit)
 
-- [fbctf](https://github.com/facebook/fbctf)
-
 # Exploitation Framework: 渗透框架
 
 ## BackTrack
