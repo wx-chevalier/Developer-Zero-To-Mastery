@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # React 应用架构与性能优化资料索引
 
@@ -53,6 +52,8 @@
 - [2017-React is Slow, React is Fast: Optimizing React Apps in Practice](https://parg.co/UZq): If you care about performance, it's fairly easy to make any React application super fast. Here is how.
 
 - [2017-React Performance Fixes on Airbnb Listing Pages](https://parg.co/UpT): There may be a lot of low-hanging fruit affecting performance in areas you might not track very closely but are still very important.
+
+* [Creating more efficient React views with windowing](https://parg.co/UiL): In this presentation, the [bvaughn](https://github.com/bvaughn/) talks something abot performance, search, and app architecture in React development.
 
 ## OpenSource: 工具
 

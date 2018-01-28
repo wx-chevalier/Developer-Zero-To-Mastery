@@ -54,6 +54,8 @@
 
 - [greenlet #Project#](https://github.com/developit/greenlet): Move an async function into its own thread, a simplified single-function version of workerize.
 
+- [2018-How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them](https://parg.co/Uig): We’ll offer an overview, discuss the different types of workers, how their building components come to play together, and what advantages and limitations they offer in different scenarios.
+
 ## ArrayBuffers & SharedArrayBuffers
 
 * [A cartoon intro to ArrayBuffers and SharedArrayBuffers](https://parg.co/U83): In the last article, I explained how memory-managed languages like JavaScript work with memory. I also explained how manual memory management works in languages like C.

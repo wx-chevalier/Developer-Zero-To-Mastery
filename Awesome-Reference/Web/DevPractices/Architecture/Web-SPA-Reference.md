@@ -1,9 +1,10 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # SPA
 
 * [搜狗地图面向 SPA 和 Hybrid 的前端工程体系实践](https://parg.co/UKS): 本文为搜狗地图前端主管周俊鹏老师在 QCon 上海 2017 上的演讲总结而成，搜狗地图前身是图行天下，成立于 1999 年，是国内第一家互联网地图服务网站，2005 年被搜狐收购后改名为“搜狗地图”。所以这个刚“开始”做的地图产品比大多数人预料的还要老。搜狗地图前端团队对前端工程体系的理解是：工程体系本质上是一种服务，其服务的对象是技术团队所采用的技术以及组织架构。而架构本身也定位为一种服务，其服务的对象是具体的业务。
+
+- [SPA, or not SPA, that is the question!](https://parg.co/UiI): In this article I will try to share my experience by listing my 10 reasons why you shouldn’t do a SPA website.
 
 # Route: 前端路由
 
