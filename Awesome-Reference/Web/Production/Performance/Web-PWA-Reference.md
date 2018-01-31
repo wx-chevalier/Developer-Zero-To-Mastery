@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Progressive Web Apps 学习与实践资料索引
 
@@ -43,9 +42,9 @@
 
 * [Manifoldjs: PWA Builder](http://6me.us/hx5JS): PWA Builder will give you an easy way to provide the missing pieces of your PWA, and not weigh down your site with data you don’t need or use.
 
-* [Offline-plugin for webpack](https://github.com/NekR/offline-plugin): This plugin is intended to provide an offline experience for webpack projects. It uses ServiceWorker, and AppCache as a fallback under the hood. Simply include this plugin in your webpack.config, and the accompanying runtime in your client script, and your project will become offline ready by caching all (or some) of the webpack output assets. you can also turn to [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin) for further information.
+* [Offline-plugin for webpack #Project#](https://github.com/NekR/offline-plugin): This plugin is intended to provide an offline experience for webpack projects. It uses ServiceWorker, and AppCache as a fallback under the hood. Simply include this plugin in your webpack.config, and the accompanying runtime in your client script, and your project will become offline ready by caching all (or some) of the webpack output assets. you can also turn to [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin) for further information.
 
-* [react-progressive-web-app](http://6me.us/aRCdPU): An opinionated React based repository which is optimized for Progressive Web App development.
+* [react-progressive-web-app #Project#](http://6me.us/aRCdPU): An opinionated React based repository which is optimized for Progressive Web App development.
 
 * [RealFaviconGenerator](http://realfavicongenerator.net/): A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 

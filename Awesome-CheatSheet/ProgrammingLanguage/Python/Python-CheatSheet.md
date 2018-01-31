@@ -118,6 +118,7 @@ except ImportError:
 Package 可以为某个目录下所有的文件设置统一入口 :
 
 ```py
+# 目录格式
 someDir/
 	main.py
 	subModules/

@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # 操作系统资料索引
 
@@ -15,7 +14,7 @@
 
 # GPU
 
-- [Interactive GPU Programming](https://parg.co/UiQ): I will explore major CUDA and OpenCL topics in detail.
+* [Interactive GPU Programming](https://parg.co/UiQ): I will explore major CUDA and OpenCL topics in detail.
 
 # Scheduler: 调度
 

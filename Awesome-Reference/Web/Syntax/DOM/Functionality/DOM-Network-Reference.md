@@ -1,8 +1,12 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
-# DOM Network 资料索引
+# DOM 网络请求相关资料索引
 
 # XMLHTTPRequest
+
+* [2016-前端必备 HTTP 技能之 XMLHttpRequest 对象详解](https://www.jianshu.com/p/7dc28f991f99): XMLHttpRequest(XHR)是一个 API 对象，其中的方法可以用来在浏览器和服务器端传输数据。这个对象是浏览器的 js 环境提供的。
+
+* [你真的会使用 XMLHttpRequest 吗？](https://segmentfault.com/a/1190000004322487): 这篇文章就是参考 W3C 的 XMLHttpRequest 标准和结合一些实践验证总结而来的。
 
 # fetch
 
