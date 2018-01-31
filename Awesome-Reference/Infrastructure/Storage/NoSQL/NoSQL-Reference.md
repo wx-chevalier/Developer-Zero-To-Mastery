@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # NoSQL 数据库学习与资料索引
 

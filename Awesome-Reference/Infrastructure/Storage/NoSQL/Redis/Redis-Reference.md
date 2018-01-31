@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # Redis 资料索引
 
@@ -20,4 +19,4 @@
 
 # OpenSource
 
-- [2018-RDR](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
+* [2018-RDR](https://github.com/xueqiu/rdr): RDR(redis data reveal) is a tool to parse redis rdbfile. Comparing to redis-rdb-tools, RDR is implemented by golang, much faster (5GB rdbfile takes about 2mins on my PC).
