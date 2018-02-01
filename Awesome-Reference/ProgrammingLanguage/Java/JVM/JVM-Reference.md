@@ -53,6 +53,7 @@
 
 # Class: 类文件与加载
 
+- [2018-JVM 揭秘：一个 class 文件的前世今生](http://www.tuicool.com/articles/jEnYrye)
 
 # JIT: 即时编译
 
