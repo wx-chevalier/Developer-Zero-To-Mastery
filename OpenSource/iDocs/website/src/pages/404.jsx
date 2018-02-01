@@ -18,7 +18,7 @@ function FourOhFour() {
             bsSize='large'
             className='button'
             >
-            Go to the homepage
+            Go to the DangeHome
           </Button>
         </Link>
       </div>
