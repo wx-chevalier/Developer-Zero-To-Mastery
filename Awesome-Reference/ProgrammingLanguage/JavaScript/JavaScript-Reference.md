@@ -1,11 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
- 
- 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # JavaScript 学习与实践资料索引
 
-参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript 学习与实践资料索引的入口部分，关联子索引还包括[语法基础]()等。
+参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript 学习与实践资料索引的入口部分，关联子索引还包括[语法基础](https://parg.co/b4z)等。
 
 # Overview: 概述
 
@@ -42,8 +39,6 @@
 * [ES8 Feature Set: JavaScript is Getting Asynchronous](https://medium.com/@Eugeniya/es8-feature-set-javascript-is-getting-asynchronous-2a8a43dd0cbc#.brnqngo2n)
 
 * [ECMAScript 2017 and beyond](https://speakerdeck.com/rauschma/ecmascript-2017-and-beyond): In this talk, we’ll go into the latest JavaScript features and how they are designed.
-
-* [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
 
 ## CheatSheet: 语法速览
 

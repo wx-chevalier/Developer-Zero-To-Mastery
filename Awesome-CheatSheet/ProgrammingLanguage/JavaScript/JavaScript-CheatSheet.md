@@ -2,36 +2,15 @@
 
 [🔆 中文版本](./JavaScript-CheatSheet.md) | [☀️ English Version](./JavaScript-CheatSheet.en.md)
 
-# JavaScript 语法速览与实战清单
+# 现代 JavaScript 语法速览与实战清单
 
-参考了 [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)
+本文是对于现代 JavaScript 的语法速览与实战清单，从属于 [Awesome CheatSheet](https://parg.co/UCH) ，它是对某项技术/领域的语法速览与实践备忘清单集锦，包含了 JavaScript，Java，Go，Python，Rust 等常见的编程语言，Web，数据库，信息安全等 [ITCS 知识图谱与技术路线](https://parg.co/bwI)中归档的知识技能点，其致力于提升学习速度与研发效能，即可以将其当做速查手册，也可以作为轻量级的入门学习资料。
+
+本清单参考了 [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code)，[JavaScript hacks for ES6 hipsters](https://parg.co/Uuy), [The Definitive JavaScript Handbook](https://parg.co/UZS), [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) 等。更多 JavaScript 相关学习资料参考 [Awesome JavaScript Reference](https://parg.co/UHR) 与[现代 JavaScript 开发：语法基础与工程实践](https://parg.co/bxN)。
 
 # 基础语法
 
-## ES6 Module: 模块
-
-```js
-// 导出蜘蛛
-export { default as Spider } from "./source/spider/Spider";
-export { default as HTMLSpider } from "./source/spider/web/HTMLSpider";
-export {
-  default as HeadlessChromeSpider
-} from "./source/spider/web/HeadlessChromeSpider";
-
-// 导出爬虫
-export { default as Crawler } from "./source/crawler/Crawler";
-
-// 导出爬虫调度器
-export { default as CrawlerScheduler } from "./source/crawler/CrawlerScheduler";
-
-// 导出全局唯一值
-export { dcEmitter, store } from "./source/crawler/supervisor";
-
-// 导出持久化器
-export { default as DownloadPersistor } from "./sink/persist/DownloadPersistor";
-```
-
-# 变量与表达式
+# 表达式与控制流
 
 # 基本数据类型
 
@@ -48,6 +27,24 @@ typeof "Hello"; // string
 typeof Math; // object
 typeof null; // object  !!
 typeof Symbol("Hi"); // symbol (New ES6)
+```
+
+### 隐式转换
+
+```
+// 0[object Object]1
+{} + [] + {} + [1]
+
+// NaN[object Object]
+{} + [1,2] + {} + []
+```
+
+```js
+// false，等式两侧存在 NaN，则为 false
+NaN == NaN
+
+// 先进行 Bool 操作转化为 false，然后两侧都变为数字 0
+[] == ![]
 ```
 
 ## Regex: 正则表达式
@@ -117,6 +114,13 @@ removeCc("helloWorldItIsMe"); // 'hello World It Is Me'
 
 ## Array: 数组
 
+```js
+const uniqueArray = arr => [...new Set(arr)];
+
+uniqueArray([1, 2, 2, 3, 4, 4, 5]);
+// [1,2,3,4,5]
+```
+
 ### Array Like
 
 ### Transform: 变换
@@ -151,6 +155,32 @@ const flattenDepth = (arr, depth = 1) =>
 
 ## Definition: 函数定义
 
+### 参数
+
+ES6 中引入了所谓的默认参数 :
+
+```js
+// 传统的默认参数编写方式
+function filterEvil(array, evil) {
+  evil = evil || "darth vader";
+  return array.filter(item => item !== evil);
+}
+
+// ES6 默认参数
+function filterEvil(array, evil = "darth vader") {
+  return array.filter(item => item !== evil);
+}
+
+// 默认参数可以用来进行必要参数检测
+const isRequired = () => {
+  throw new Error("param is required");
+};
+
+function filterEvil(array, evil = isRequired()) {
+  return array.filter(item => item !== evil);
+}
+```
+
 ## Call: 函数调用
 
 可以使用 apply 来连接两个数组：
@@ -178,9 +208,76 @@ Function.prototype.call.call(console.log, null, 10);
 new (require('vm').Script)('console.log(11)‘).runInThisContext();
 ```
 
+# 类与对象
+
 # 其他
 
-## 异常处理
+## ES6 Module: 模块
+
+ES2015 Modules 中主要的关键字就是 `import` 与 `export`，前者负责导入模块而后者负责导出模块。完整的导出语法如下所示：
+
+```js
+// default exports
+export default 42;
+export default {};
+export default [];
+export default foo;
+export default function () {}
+export default class {}
+export default function foo () {}
+export default class foo {}
+
+// variables exports
+export var foo = 1;
+export var foo = function () {};
+export var bar; // lazy initialization
+export let foo = 2;
+export let bar; // lazy initialization
+export const foo = 3;
+export function foo () {}
+export class foo {}
+
+// named exports
+export {foo};
+export {foo, bar};
+export {foo as bar};
+export {foo as default};
+export {foo as default, bar};
+
+// exports from
+export * from "foo";
+export {foo} from "foo";
+export {foo, bar} from "foo";
+export {foo as bar} from "foo";
+export {foo as default} from "foo";
+export {foo as default, bar} from "foo";
+export {default} from "foo";
+export {default as foo} from "foo";
+```
+
+相对应的完整的支持的导入方式如下所示：
+
+```js
+// default imports
+import foo from "foo";
+import {default as foo} from "foo";
+
+// named imports
+import {bar} from "foo";
+import {bar, baz} from "foo";
+import {bar as baz} from "foo";
+import {bar as baz, xyz} from "foo";
+
+// glob imports
+import * as foo from "foo";
+
+// mixing imports
+import foo, {baz as xyz} from "foo";
+import * as bar, {baz as xyz} from "foo";
+import foo, * as bar, {baz as xyz} from "foo";
+```
+
+## Error Handling: 异常处理
 
 ```js
 try {
@@ -192,52 +289,5 @@ try {
   alert(e.message);
 } finally {
   alert("thanks for playing!");
-}
-```
-
-# JavaScript 语法速览与实践技巧
-
-合入 [JavaScript hacks for ES6 hipsters](https://parg.co/Uuy)
-
-# 表达式与控制流
-
-# 数据结构
-
-## Array
-
-```js
-const uniqueArray = arr => [...new Set(arr)];
-
-uniqueArray([1, 2, 2, 3, 4, 4, 5]);
-// [1,2,3,4,5]
-```
-
-# 函数与类
-
-## 函数定义
-
-### 参数
-
-ES6 中引入了所谓的默认参数 :
-
-```js
-// 传统的默认参数编写方式
-function filterEvil(array, evil) {
-  evil = evil || "darth vader";
-  return array.filter(item => item !== evil);
-}
-
-// ES6 默认参数
-function filterEvil(array, evil = "darth vader") {
-  return array.filter(item => item !== evil);
-}
-
-// 默认参数可以用来进行必要参数检测
-const isRequired = () => {
-  throw new Error("param is required");
-};
-
-function filterEvil(array, evil = isRequired()) {
-  return array.filter(item => item !== evil);
 }
 ```

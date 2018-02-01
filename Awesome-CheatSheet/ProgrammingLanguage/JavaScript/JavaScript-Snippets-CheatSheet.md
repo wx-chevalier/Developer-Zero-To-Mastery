@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
 
 # JavaScript 代码片
 
@@ -12,7 +12,7 @@
 {} + [1,2] + {} + []
 ```
 
-```
+```js
 // false，等式两侧存在 NaN，则为 false
 NaN == NaN
 

@@ -2,15 +2,15 @@
 
 [中文版本](./README.md) | [English Version](./README.en.md)
 
-# Awesome CheatSheet: 语法速览, 实践备忘，从零到一，上手即用
+# [Awesome CheatSheet: 语法速览, 实践备忘，从零到一，上手即用](https://parg.co/UCH)
 
 `Copyright © 王下邀月熊`
 
-所谓的 CheatSheet，我们即可以将其当做速查手册，也可以作为轻量级的入门学习资料。Awesome CheatSheet 主要包含了以下内容：
+[Awesome CheatSheet](https://parg.co/UCH) 是对某项技术/领域的语法速览与实践备忘清单集锦，包含了 JavaScript，Java，Go，Python，Rust 等常见的编程语言，Web，数据库，信息安全等 [ITCS 知识图谱与技术路线](https://parg.co/bwI)中归档的知识技能点，其致力于提升学习速度与研发效能，即可以将其当做速查手册，也可以作为轻量级的入门学习资料。对于每个领域，Awesome CheatSheet 可能包含了以下主题的文件：
 
 * {Something}-CheatSheet.md: 对于 {Something} 的语法以及特性速览。
 
-- {Something}-LearningPath-CheatSheet.md: 对于 {Something} 的学习路径与心得分享，帮助初学者快速入门。
+* {Something}-LearningPath-CheatSheet.md: 对于 {Something} 的学习路径与心得分享，帮助初学者快速入门。
 
 * {Something}-Snippets-CheatSheet.md: 有用的 {Something} 代码片，帮助开发者迅速理解并且应用到工作中。
 

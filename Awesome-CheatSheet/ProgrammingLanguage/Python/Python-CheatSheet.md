@@ -692,6 +692,28 @@ def f(x): return x**2
 g = lambda x: x**2
 ```
 
+lambda 表达式是 Python 函数式开发的重要基石，其方便实现 Partial Function 等模式；典型的 lambda 函数声明如下：
+
+```python
+lambda x: x**2 + 2*x - 5
+```
+
+典型的用法譬如自定义的 filter 函数中：
+
+```python
+mult3 = filter(lambda x: x % 3 == 0, [1, 2, 3, 4, 5, 6, 7, 8, 9])
+```
+
+```python
+def filterfunc(x):
+    return x % 3 == 0
+mult3 = filter(filterfunc, [1, 2, 3, 4, 5, 6, 7, 8, 9])
+
+mult3 = [x for x in [1, 2, 3, 4, 5, 6, 7, 8, 9] if x % 3 == 0]
+
+range(3,10,3)
+```
+
 ## 参数
 
 ### Option Arguments: 不定参数

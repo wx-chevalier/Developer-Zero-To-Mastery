@@ -8,6 +8,10 @@
 
 * [Awesome CS Books(.pdf) Warehouse](https://parg.co/UpB)
 
+## Programming Language
+
+* [Awesome JavaScript Reference](https://parg.co/UHR)
+
 ## Web
 
 * [HTML Reference](https://parg.co/UUK), More reference for HTML can be found [Here](https://parg.co/UUK).

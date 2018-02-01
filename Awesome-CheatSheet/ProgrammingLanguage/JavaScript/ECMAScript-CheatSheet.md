@@ -8,36 +8,36 @@
 
 ECMAScript 2017 或 ES8 与 2017 年六月底由 TC39 正式发布，可以在[这里](https://www.ecma-international.org/ecma-262/8.0/index.html)浏览完整的版本；而 ES8 中代表性的特征包括了字符串填充、对象值遍历、对象的属性描述符获取、 函数参数列表与调用中的尾部逗号、异步函数、共享内存与原子操作等。
 
-### 字符串填充 ES8 中添加了内置的字符串填充函数，分别为 padStart 与 padEnd，该函数能够通过填充字符串的首部或者尾部来保证字符串达到固定的长度；开发者可以指定填充的字符串或者使用默认的空格，函数的声明如下：
+### 字符串填充
 
-```
+ES8 中添加了内置的字符串填充函数，分别为 padStart 与 padEnd，该函数能够通过填充字符串的首部或者尾部来保证字符串达到固定的长度；开发者可以指定填充的字符串或者使用默认的空格，函数的声明如下：
+
+```js
 str.padStart(targetLength [, padString])
-
-
 str.padEnd(targetLength [, padString])
 ```
 
 如上所示，函数的首个参数为目标长度，即最终生成的字符串长度；第二个参数即是指定的填充字符串：
 
-```
-'es8'.padStart(2);          // 'es8'
-'es8'.padStart(5);          // '  es8'
-'es8'.padStart(6, 'woof');  // 'wooes8'
-'es8'.padStart(14, 'wow');  // 'wowwowwowwoes8'
-'es8'.padStart(7, '0');     // '0000es8'
-'es8'.padEnd(2);          // 'es8'
-'es8'.padEnd(5);          // 'es8  '
-'es8'.padEnd(6, 'woof');  // 'es8woo'
-'es8'.padEnd(14, 'wow');  // 'es8wowwowwowwo'
-'es8'.padEnd(7, '6');     // 'es86666'
+```js
+"es8".padStart(2); // 'es8'
+"es8".padStart(5); // '  es8'
+"es8".padStart(6, "woof"); // 'wooes8'
+"es8".padStart(14, "wow"); // 'wowwowwowwoes8'
+"es8".padStart(7, "0"); // '0000es8'
+"es8".padEnd(2); // 'es8'
+"es8".padEnd(5); // 'es8  '
+"es8".padEnd(6, "woof"); // 'es8woo'
+"es8".padEnd(14, "wow"); // 'es8wowwowwowwo'
+"es8".padEnd(7, "6"); // 'es86666'
 ```
 
 ### 对象值遍历
 
 `Object.values` 函数会返回指定对象的可枚举的属性值数组，数组中值顺序与 `for-in` 循环保持一致，函数的声明为：
 
-```
-Object.values(obj)
+```js
+Object.values(obj);
 ```
 
 首个参数 `obj` 即为需要遍历的目标对象，它可以为某个对象或者数组（数组可以看做键为下标的对象）：

@@ -1,5 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
-
+[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
 
 # JavaScript 异步编程资料索引
 
@@ -74,6 +73,8 @@
 - [Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 
 - [es7-async-functions](https://jakearchibald.com/2014/es7-async-functions/)
+
+* [Mastering Async Await in Node.js](https://blog.risingstack.com/mastering-async-await-in-nodejs/): In this article, you will learn how you can simplify your callback or Promise based Node.js application with async functions (async/await).
 
 # Reactive Programming
 
