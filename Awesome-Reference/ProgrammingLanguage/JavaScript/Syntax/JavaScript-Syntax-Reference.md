@@ -25,6 +25,8 @@
 
 - [2017-An easy guide to object rest/spread properties in JavaScript](https://dmitripavlutin.com/object-rest-spread-properties-javascript/): 
 
+- [2018-Deep-copying in JavaScript](http://dassur.ma/things/deep-copy/): How do I copy an object in JavaScript? It’s a simple question, without a simple answer.
+
 ## Scope: 作用域
 
 * [2017-A guide to JavaScript variable hoisting with let and const](https://medium.freecodecamp.com/what-is-variable-hoisting-differentiating-between-var-let-and-const-in-es6-f1a70bb43d)
