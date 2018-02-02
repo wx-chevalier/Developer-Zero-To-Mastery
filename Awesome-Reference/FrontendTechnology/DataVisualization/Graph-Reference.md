@@ -18,9 +18,9 @@
 
 * [Frappé Charts #Project#](https://github.com/frappe/charts): https://github.com/frappe/charts
 
-# Flow: 流程图
+* [mxGraph #Project#](https://jgraph.github.io/mxgraph/): mxGraph is a JavaScript diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
-* [mermaid #Project#](https://github.com/knsv/mermaid)
+# Flow: 流程图
 
 * [jsPlumb](https://github.com/sporritt/jsPlumb)
 
@@ -35,6 +35,8 @@
 * [js2flowchart #Project#](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart): a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 
 # Sequence: 序列图
+
+* [mermaid #Project#](https://github.com/knsv/mermaid)
 
 # Gantt: 甘特图
 
