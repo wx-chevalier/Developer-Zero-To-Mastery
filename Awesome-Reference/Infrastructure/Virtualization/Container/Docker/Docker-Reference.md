@@ -40,3 +40,5 @@
 # Tutorial
 
 * [Docker + Kubernetes](https://parg.co/UVt)
+
+* [2018-A crash course on Docker — Learn to swim with the big fish](https://parg.co/UvP)
