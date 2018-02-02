@@ -1,6 +1,5 @@
 [![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
 
-
 # React 学习与实践资料索引
 
 过去的一年里 React 及其社区依旧活跃，开源协议的变更、新版本的发布、组件库的扩充，都在不断为 React 的蓬勃发展注入新的动力。本文即是对笔者 [Awesome Reference 中 React 学习与实践资料索引]()的总结，涵盖了[概述与学习资源、语法、开发实践、生产环境优化、调和算法与内部原理、开源框架与库]()等几个部分。
@@ -26,22 +25,6 @@
 ## Case Study: 应用案例
 
 * [2016-Moving Airbnb Search to React](http://6me.us/2mS): Using experiments to tackle a large refactor with confidence
-
-# Tutorial: 入门教程
-
-## Coding: 基础编码
-
-* [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
-
-- [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
-
-- [2017-Simple React Development in 2017](https://parg.co/bCx): The goal of this guide is to showcase how easy it can be to start modern React development.
-
-- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
-
-- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
-
-- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
 
 # Resource: 资源
 
@@ -74,3 +57,19 @@
 - [React/Redux Links #Collection#](https://github.com/markerikson/react-redux-links): Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
 - [Using forms in React-Redux: Tips And Tricks #Collection#](https://medium.com/@royisch/using-forms-in-react-redux-tips-and-tricks-48ad9c7522f6#.krt2lrdhw)
+
+# Tutorial: 入门教程
+
+* [2016-Learning React with Create-React-App #Series#](https://parg.co/bhf)
+
+- [2016-A Primer on the React Ecosystem Serials](http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/): I thought I’d share what I’ve learned so far through a primer. Over three parts, I’m going to show you how to set up an environment for React app development, create React components and have them respond to data changes, manage app state with Redux.
+
+- [2017-Simple React Development in 2017](https://parg.co/bCx): The goal of this guide is to showcase how easy it can be to start modern React development.
+
+- [2017-Create a realtime football voting app using React, Redux, React-Router-v4 and Firebase](https://parg.co/bhD): In this series of tutorials, we’ll be creating a football voting app using React, Redux, Redux-Saga, React-Router v4, and Firebase. In this first part, we will setup the project. We’re going to use create-react-app to scaffold the initial project structure, tweak it a bit, and then add the necessary libraries that we’ll be using.
+
+- [2017-How to Build a ToDo App Using React, Redux, and Webpack](https://parg.co/bMT): In this tutorial I’m going to show you how to create a simple “ToDo” app using React, Redux, a little bit of Node, and Cosmic JS.
+
+- [2017-A React TODOs example, explained](https://hackernoon.com/a-react-todos-example-explained-6df53cdebed1)
+
+- [2018-Rock Solid React.js Foundations: A Beginner’s Guide](https://parg.co/Uv3):  this post is aimed towards the audience who is looking for a perfect mix of theory and hands-on. 

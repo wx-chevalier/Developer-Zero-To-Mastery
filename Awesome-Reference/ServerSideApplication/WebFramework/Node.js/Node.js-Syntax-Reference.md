@@ -37,6 +37,8 @@
 
 - [ora #Project#](https://github.com/sindresorhus/ora): Elegant terminal spinner
 
+- [Backpressuring in Streams](https://nodejs.org/en/docs/guides/backpressuring-in-streams/): The purpose of this guide is to further detail what backpressure is, and how exactly streams address this in Node.js' source code. 
+
 # Storage
 
 ## MySQL

@@ -44,3 +44,7 @@
 # ConcurrenceControl: 并发控制
 
 * [2017-An Introduction to Atomic Variables in Java](http://www.baeldung.com/java-atomic-variables)
+
+# Coroutine: 协程
+
+- [2017-Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)

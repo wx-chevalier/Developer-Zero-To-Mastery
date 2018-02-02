@@ -34,7 +34,7 @@
 
 - [2017-Blockchains from a Distributed Computing Perspective](http://cs.brown.edu/courses/csci2952-a/papers/perspective.pdf)
 
-# Case Study: 案例分析
+## Case Study: 案例分析
 
 
 
@@ -51,6 +51,8 @@
 # Tutorial: 教程
 
 - [2018-BlockShell #Project#](https://github.com/daxeel/blockshell): A command line utility for learning Blockchain technical concepts likechaining, mining, proof of work etc.
+
+- [2018-The Complete Guide to Kickstart Blockchain Development](https://parg.co/Uvu): Cryptocurrencies, ICOs, magic internet money — it’s all so exciting, and you are the eager developer, want to get in on the madness.
 
 ## Smart Contract: 智能合约
 

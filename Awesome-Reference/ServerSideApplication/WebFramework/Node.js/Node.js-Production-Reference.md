@@ -29,6 +29,8 @@
 
 - [node-micro-optimizations-javascript](https://www.infoq.com/articles/node-micro-optimizations-javascript) ：中文译本为[多个提高 Node.js 应用吞吐量的小优化技巧介绍](https://zhuanlan.zhihu.com/p/25276558)。
 
+- [2018-node-clinic #Project#](https://github.com/nearform/node-clinic): Clinic diagnoses your Node.js performance issues.
+
 # Cluster: 集群与并发架构
 
 * [2017-CPU Intensive Node.js](https://codeburst.io/cpu-intensive-node-js-part-1-1218b102e5ec): We explore the issues and solutions around running CPU intensive code in Node.js; in particular in a web server.
