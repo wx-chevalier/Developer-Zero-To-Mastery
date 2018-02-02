@@ -14,11 +14,7 @@
 
 # 基本数据类型
 
-## 类型判断与变量比较
-
-```js
-[] == []; // false
-```
+JavaScript 内置了 7 种基础数据类型：null, undefined,
 
 ```js
 typeof 0; // number
@@ -28,6 +24,8 @@ typeof Math; // object
 typeof null; // object  !!
 typeof Symbol("Hi"); // symbol (New ES6)
 ```
+
+## 类型判断与变量比较
 
 ### 隐式转换
 
@@ -43,7 +41,7 @@ typeof Symbol("Hi"); // symbol (New ES6)
 // false，等式两侧存在 NaN，则为 false
 NaN == NaN
 
-// 先进行 Bool 操作转化为 false，然后两侧都变为数字 0
+// true, 先进行 Bool 操作转化为 false，然后两侧都变为数字 0
 [] == ![]
 ```
 
