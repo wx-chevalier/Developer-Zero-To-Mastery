@@ -16,4 +16,10 @@
 
 * [MongoDB 索引原理](http://blog.yunnotes.net/index.php/mongodb-index-howto/)
 
-* [Memdb](http://rain1017.github.io/memdb/):Mongodb 中事务支持
+# HA Cluster: 高可用集群
+
+* [2018-深入浅出MongoDB复制](http://www.infoq.com/cn/articles/mongodb-replication): 本文则是结合前两者最终给读者以简单的方式展现MongoDB复制的整个架构。
+
+# OpenSource
+
+* [Memdb #Project#](http://rain1017.github.io/memdb/): Mongodb 中事务支持
