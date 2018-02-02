@@ -11,6 +11,8 @@
 
 * [2017-The Zoo of Go Functions](https://parg.co/U5u): An overview about: anonymous, higher-order, closures, concurrent, deferred, and other kinds of Golang funcs.
 
+* [2018-Golang工程经验](https://juejin.im/post/5a6873fb518825733e60a1ae): 转战Golang一年有余，经历了两个线上项目的洗礼，总结出一些工程经验，一个是总结出一些实战经验，一个是用来发现自我不足之处
+
 ## CheatSheet
 
 * [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet): An overview of Go syntax and features.
