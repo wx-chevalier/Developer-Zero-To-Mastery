@@ -10,7 +10,7 @@
 
 ## Programming Language
 
-* [Awesome JavaScript Reference](https://parg.co/UHR)
+* [Awesome JavaScript Reference](https://github.com/wxyyxc1992/Awesome-Reference#javascript)
 
 ## Web
 
