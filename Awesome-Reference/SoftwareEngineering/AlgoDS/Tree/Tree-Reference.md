@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 树结构与算法资料索引
 

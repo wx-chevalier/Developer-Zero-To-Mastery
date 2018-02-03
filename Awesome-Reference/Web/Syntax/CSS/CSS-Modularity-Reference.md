@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
 # CSS 命名规范与模块化资料索引
 
 * [CSS 模块化与工程化演进](https://mp.weixin.qq.com/s/1QkGy9UbRF3FtyBllmJdmA)

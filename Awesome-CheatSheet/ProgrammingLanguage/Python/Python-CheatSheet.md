@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+[![返回目录](https://parg.co/UCb)](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 
 ![](https://media.githubusercontent.com/media/wxyyxc1992/OSS/master/Cover/Coder-Essentials/Awesome-CheatSheet/ProgrammingLanguage/Python/Python-CheatSheet.jpg)
 

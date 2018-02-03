@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+[![返回目录](https://parg.co/UCb)](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 
 # Web 性能优化清单
 

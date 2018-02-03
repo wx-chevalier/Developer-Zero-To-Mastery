@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 ![](https://parg.co/Uhb)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
@@ -61,7 +61,7 @@
 
 - [Awesome-CS-Collections](./Awesome-CS-Collections.md): Awesome CS Collections
 
-* [README-en](./README-en.md): [Awesome Reference: Guide to Galaxy](https://parg.co/b4z)
+* [README-en](./README-en.md): [Awesome Reference: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Reference)
 
 ## DataScienceAI
 

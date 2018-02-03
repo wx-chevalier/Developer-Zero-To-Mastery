@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+[![返回目录](https://parg.co/UCb)](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 
 # Git 命令速览与备忘清单
 

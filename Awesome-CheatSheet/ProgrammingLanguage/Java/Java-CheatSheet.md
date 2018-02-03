@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH)
+[![返回目录](https://parg.co/UCb)](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 
 > [Java  语法清单](https://zhuanlan.zhihu.com/p/25578170) 翻译自  [egek92](https://github.com/egek92)  的  [JavaCheatSheet](http://egek.us/JavaCheatSheet/)，从属于笔者的  [Java  入门与实践](https://github.com/wxyyxc1992/Domain-of-ProgrammingLanguage/tree/master/JVM/Java)系列。时间仓促，笔者只是简单翻译了些标题与内容整理，支持原作者请前往原文点赞。需要注意的是，此文在  Reddit  上也引起了广泛的讨论，此文讲解的语法要点还是以  Java 7  为主，未涉及  Java 8  中内容，略显陈旧，读者可以带着批判的视角去看。
 

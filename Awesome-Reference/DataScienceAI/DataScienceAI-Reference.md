@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # 面向程序猿的数据科学与机器学习知识体系及资料合集
 

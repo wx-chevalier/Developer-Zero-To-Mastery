@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UCb)](https://parg.co/UCH) 
+[![返回目录](https://parg.co/UCb)](https://github.com/wxyyxc1992/Awesome-CheatSheet) 
  
  
 > [基础深度学习概念备忘录](https://zhuanlan.zhihu.com/p/24436419)翻译自[DeepLearning Cheat Sheet](https://hackernoon.com/deep-learning-cheat-sheet-25421411e460#.l6qu01rnm)。笔者还是菜鸟一枚，若有谬误请多多赐教，另外如果希望了解更多机器学习&深度学习的资料可以参考笔者的[面向程序猿的数据科学与机器学习知识体系及资料合集](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/DataScience-Reference)以及[程序猿的数据科学与机器学习实战手册](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders)。

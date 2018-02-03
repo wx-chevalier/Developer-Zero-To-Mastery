@@ -4,7 +4,7 @@
 
 # Awesome Reference
 
-* [Awesome Reference](https://parg.co/b4z)
+* [Awesome Reference](https://github.com/wxyyxc1992/Awesome-Reference)
 
 * [Awesome CS Books(.pdf) Warehouse](https://parg.co/UpB)
 

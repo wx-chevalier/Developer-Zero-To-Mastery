@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 * [systemctl 命令完全指南](http://www.linuxdiyf.com/linux/13088.html)
 

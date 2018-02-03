@@ -1,11 +1,11 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
 
 
 ![](http://7xi5sw.com1.z0.glb.clouddn.com/1-gcVLvWktBPvc3rgp5fLvBA.jpeg)
 
 # Web 学习与实践资料索引
 
-本文上承接[ AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://parg.co/b4z)，子索引包含：
+本文上承接[ AwesomeReference: 程序员成长道路上的阅读学习资料工具集锦](https://github.com/wxyyxc1992/Awesome-Reference)，子索引包含：
 
 # Sight: 视野
 

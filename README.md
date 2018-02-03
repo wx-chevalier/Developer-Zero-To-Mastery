@@ -14,7 +14,7 @@
 
 * [Knowledge Graph](https://parg.co/UHY)：IT 技术图谱与知识架构，指引我在技术星海中前行的方向；包括了[泛编程语言学习知识结构](https://parg.co/bt0)、[泛前端知识图谱（Web/iOS/Android/RN）](https://parg.co/UHm)等。
 
-* [Awesome Reference](https://parg.co/b4z)：大道三千，触类旁通；他山之石，可以攻玉。Awesome Reference 是精而全的技术开发学习与实践资料索引，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照知识图谱中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
+* [Awesome Reference](https://github.com/wxyyxc1992/Awesome-Reference)：大道三千，触类旁通；他山之石，可以攻玉。Awesome Reference 是精而全的技术开发学习与实践资料索引，记录了笔者在日常阅读、学习与实践中发掘的优秀的资料，其按照知识图谱中定义的各个领域的知识体系分门别类地存放。笔者会不断更新其中链接，去芜存菁，去重留一，希望为同仁提供优秀的、有价值的、尽可能精简的资料索引。
 
 * [Awesome Cheatsheet](https://github.com/wxyyxc1992/Coder-Knowledge-Management/blob/master/Awesome-CheatSheet/README.md)：对于日常开发中用到的相关知识的备忘录/清单的总结，希望能够帮助开发者快速掌握或者回顾某个语言/框架/工具的语法或使用要点。
 

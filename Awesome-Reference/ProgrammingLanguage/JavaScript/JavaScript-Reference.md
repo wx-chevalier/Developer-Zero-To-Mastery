@@ -1,8 +1,8 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z)
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference)
 
 # JavaScript 学习与实践资料索引
 
-参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript 学习与实践资料索引的入口部分，关联子索引还包括[语法基础](https://parg.co/b4z)等。
+参考笔者在[泛编程语言学习知识结构](https://parg.co/bt0)一文中介绍的知识图谱了解目录划分原则，本文是 JavaScript 学习与实践资料索引的入口部分，关联子索引还包括[语法基础](https://github.com/wxyyxc1992/Awesome-Reference)等。
 
 # Overview: 概述
 

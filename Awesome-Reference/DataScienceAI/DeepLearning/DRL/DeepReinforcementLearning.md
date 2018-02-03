@@ -1,4 +1,4 @@
-[![返回目录](https://parg.co/UGo)](https://parg.co/b4z) 
+[![返回目录](https://parg.co/UGo)](https://github.com/wxyyxc1992/Awesome-Reference) 
  
  
 - [CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/): [【Berkeley CS 294：深度增强学习，2017年春季学期】学习资源（附字幕）](https://zhuanlan.zhihu.com/p/25298020)

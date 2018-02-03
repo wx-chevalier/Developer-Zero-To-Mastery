@@ -1,4 +1,4 @@
-# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://parg.co/b4z)
+# [Awesome Reference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Reference)
 
 `Copyright © 王下邀月熊` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wxyyxc1992/Coder-Knowledge-Management)
 
@@ -90,7 +90,7 @@ Awesome Reference 包含了笔者正在使用的，或者关注到的技术，�
 
 - [Awesome-CS-Collections](./Awesome-CS-Collections.md): Awesome CS Collections
 
-* [README-en](./README-en.md): [Awesome Reference: Guide to Galaxy](https://parg.co/b4z)
+* [README-en](./README-en.md): [Awesome Reference: Guide to Galaxy](https://github.com/wxyyxc1992/Awesome-Reference)
 
 ## DataScienceAI
 
