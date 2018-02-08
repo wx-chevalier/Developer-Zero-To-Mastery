@@ -13,9 +13,9 @@
 
 本仓库的立意还是希望以一家之言勾勒出灿烂星空，对 ITCS 相关的知识进行合理分类，辅你打造知识海洋里的一叶扁舟。本文是笔者的 IT 技术图谱与知识架构的纵览，在本文件夹的子目录下还包含各个细分领域的技术图谱与知识架构：
 
-* [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md)
+* [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-MindMap.md)
 
-* [服务端应用程序](./ServerSideApplication/ServerSideApplication-Graph.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-Graph.md#微服务)
+* [服务端应用程序](./ServerSideApplication/ServerSideApplication-MindMap.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-MindMap.md#微服务)
 
 ![IT 技术图谱与知识架构](https://parg.co/UZ1)
 
