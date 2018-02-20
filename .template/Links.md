@@ -22,13 +22,23 @@ More reference about this can be found in
 
 ## Web
 
+* [Awesome Web Reference](https://parg.co/UXa)
+
 * [HTML Reference](https://parg.co/UUK), More reference for HTML can be found [Here](https://parg.co/UUK).
 
-* [Awesome React Reference](https://github.com/wxyyxc1992/Awesome-Reference#framework)
+* [Awesome React Reference](https://github.com/wxyyxc1992/Awesome-Reference#framework), [React Reference](https://parg.co/UXI).
 
 * [Vue Reference](https://parg.co/UHc)
 
-* [Webpack Reference](https://parg.co/UkT)
+* [Webpack Reference](https://parg.co/UXz)
+
+* [PWA Reference-all](https://parg.co/UX1)
+
+* [Redux Reference](https://parg.co/UXT)
+
+## Server Side Application
+
+* [GraphQL Reference](https://parg.co/UX2)
 
 ## InfoSecurity
 
