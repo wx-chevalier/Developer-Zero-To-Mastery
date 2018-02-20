@@ -15,7 +15,7 @@
 
 * [泛编程语言知识图谱](./ServerSideApplication/ServerSideApplication-MindMap.md)
 
-* [服务端应用程序](./ServerSideApplication/ServerSideApplication-MindMap.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-MindMap.md#微服务)
+- [服务端应用程序](./ServerSideApplication/ServerSideApplication-MindMap.md), [微服务知识图谱](./ServerSideApplication/ServerSideApplication-MindMap.md#微服务)
 
 ![IT 技术图谱与知识架构](https://parg.co/UZ1)
 
