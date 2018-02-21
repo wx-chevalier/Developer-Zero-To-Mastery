@@ -2,7 +2,7 @@
 
 [中文版本](README.md) | [English Version](./README-en.md)
 
-# IT 知识图谱与技术路线
+# ITCS 技术体系与知识图谱
 
 `Copyright 2016 © 王下邀月熊`
 
