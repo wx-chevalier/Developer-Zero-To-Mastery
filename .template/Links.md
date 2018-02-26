@@ -1,10 +1,18 @@
 # Index
 
-More reference about this can be found in
+More links about this can be found in
 
 更多相关资料参考
 
+# Awesome KnowledgeMap
+
 * [IT 知识图谱与技术路线](https://parg.co/UHY), [IT Knowledge Graph and Roadmap](https://parg.co/UHY)
+
+* [MicroService MindMap](https://parg.co/UaS)
+
+* [DataScienceAI MindMap](https://parg.co/Ual) [人工智能与机器学习知识图谱](https://parg.co/Ual)
+
+* [WebSecurity MindMap](https://parg.co/Uac)
 
 # Awesome Reference
 
@@ -48,15 +56,17 @@ More reference about this can be found in
 
 ## Domain of Programming Language
 
-* [Modern-JavaScript-Development-Foundation](https://parg.co/bxN), [现代 JavaScript 开发基础](https://parg.co/bxN)
+* [现代 JavaScript 开发基础](https://parg.co/UIj)
 
 ## Web
 
-* [Web 开发基础与工程实践](https://parg.co/bMe)
+* [现代 Web 开发基础与工程实践](https://parg.co/bMe)
+
+* [现代 Web 开发基础与工程实践-基础篇](https://parg.co/Ua0)
 
 * [Modern-Web-Development-Foundation](https://parg.co/UHU), [现代 Web 开发基础](https://parg.co/UHU)
 
-- [React-And-Frontend-Engineering](https://parg.co/U0I), [React 与前端工程化实践](https://parg.co/U0I)
+- [现代 Web 开发基础与工程实践--React 篇](https://parg.co/UaY)
 
 ## Server Side
 
