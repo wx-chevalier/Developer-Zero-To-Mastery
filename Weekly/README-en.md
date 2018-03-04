@@ -4,7 +4,7 @@
 
 # Frontend Weekly
 
-Top Web Development News & Article & OpenSource Last Week.
+Handcrafted Top Web Development News & Article & OpenSource Last Week.
 
 * [Frontend+ Weekly No.1: The State of JavaScript Frameworks, Web Developer Roadmap - 2018](./2018/1/1.2-en.md)
 
