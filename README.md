@@ -12,7 +12,7 @@
 
 知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通；笔者这几年技术视野与能力的变迁，亦可以参考仓库中的 [TechRoad, 技术之路](./TechRoad)系列文章。另一方面，乱花渐欲迷人眼，太多的碎片化知识反而会使人迷失方向；此时便需要不断阅读 [Awesome-CS-Books-Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 中收录的优秀书籍/系列。
 
-所谓编程能力，其外在表现之一即是能够随时随地用合适的语言无阻塞地实现某些功能需求，对于常见的语法，接口，算法，设计模式等能够做到心随意动，信手拈来。编程能力是提升研发效能的重要保障，于笔者而言也是毕生应该追求的目标与爱好之一。笔者的编程能力较弱，日常开发，特别是在多语言多框架并用的场景下，往往会需要不断地中断，查找以继续工作，也是令我颇为苦恼。笔者目前是致力于完善 [Awesome Cheatsheet: 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)，对于日常开发中用到的相关知识的备忘录/清单进行总结, 快速掌握或者回顾某个语言/框架/工具的语法或使用要点。同时将常用的，有借鉴或者锻炼价值的代码片，沉淀到 [coding-snippets: Code Snippets, DataStructure, Algorithm and DesignPattern Implementations for Several Programming Language, Web, etc.](https://github.com/wxyyxc1992/coding-snippets) 中。
+所谓编程能力，并不仅仅是编写代码(Write Code)的能力，而是包含了阅读、编写、理解、重构、抽象等多个方面，是所谓的代码管理/掌控。其外在表现之一即是能够随时随地用合适的语言无阻塞地实现某些功能需求，对于常见的语法，接口，算法，设计模式等能够做到心随意动，信手拈来。编程能力是提升研发效能的重要保障，于笔者而言也是毕生应该追求的目标与爱好之一。笔者的编程能力较弱，日常开发，特别是在多语言多框架并用的场景下，往往会需要不断地中断，查找以继续工作，也是令我颇为苦恼。笔者目前是致力于完善 [Awesome Cheatsheet: 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)，对于日常开发中用到的相关知识的备忘录/清单进行总结, 快速掌握或者回顾某个语言/框架/工具的语法或使用要点。同时将常用的，有借鉴或者锻炼价值的代码片，沉淀到 [coding-snippets: Code Snippets, DataStructure, Algorithm and DesignPattern Implementations for Several Programming Language, Web, etc.](https://github.com/wxyyxc1992/coding-snippets) 中。
 
 所谓知识深度，即是能够对某个方面做到深入了解，并且达到融会贯通，洞若观火，可以随心所欲地加以扩展、优化、创新等改造或变换。这方面则更加的见仁见智，不同的领域与方向对于深度的定义与挖掘方向也是千差万别。笔者自知能力有限，也不敢妄加评判，根据自己浅薄的认知将常见的工程师成长路径总结在了 [RoadMap, 成长路线图](./RoadMap) 中，此外若有兴趣可以前往笔者的 [Github 笔记仓库](https://github.com/wxyyxc1992?tab=repositories)浏览指正某些领域的浅薄探究。
 
