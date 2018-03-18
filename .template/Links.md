@@ -4,7 +4,7 @@ More links about this can be found in
 
 更多相关资料参考
 
-# Awesome KnowledgeMap
+# Awesome-Coder
 
 * [IT 知识图谱与技术路线](https://parg.co/UHY), [IT Knowledge Graph and Roadmap](https://parg.co/UHY)
 
