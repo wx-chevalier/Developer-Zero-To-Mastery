@@ -15,3 +15,5 @@ Handcrafted Top Web Development News & Article & OpenSource Last Week.
 * [Frontend+ Weekly No.4：AngularJS and Long Term Support, Something about Web Security, Clean Code in React](./2018/2/2.1-en.md)
 
 * [Frontend+ Weekly No.5: React Context API & Patterns Evolution, Web Optimize with Webpack, Page Generation by AI](./2018/2/2.2-en.md)
+
+* [Frontend+ Weekly No.6: Webpack 4.0.0, Securing Your GraphQL API, Why Decentralization Matters](./2018/2/2.3-en.md)
