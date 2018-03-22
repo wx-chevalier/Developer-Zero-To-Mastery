@@ -14,19 +14,19 @@ More links about this can be found in
 
 * [WebSecurity MindMap](https://parg.co/Uac)
 
-# Awesome Reference
+# Awesome Links 
 
-* [Awesome Reference](https://github.com/wxyyxc1992/Awesome-Reference)
+* [Awesome Links ](https://github.com/wxyyxc1992/Awesome-Links)
 
 * [Awesome CS Books(.pdf) Warehouse](https://parg.co/UpB)
 
 ## Programming Language
 
-* [Awesome JavaScript Reference](https://github.com/wxyyxc1992/Awesome-Reference#javascript)
+* [Awesome JavaScript Reference](https://github.com/wxyyxc1992/Awesome-Links#javascript)
 
 ## Software Engineering
 
-* [Awesome SoftwareArchitecture Reference](https://github.com/wxyyxc1992/Awesome-Reference#softwarearchitecture)
+* [Awesome SoftwareArchitecture Reference](https://github.com/wxyyxc1992/Awesome-Links#softwarearchitecture)
 
 ## Web
 
@@ -34,7 +34,7 @@ More links about this can be found in
 
 * [HTML Reference](https://parg.co/UUK), More reference for HTML can be found [Here](https://parg.co/UUK).
 
-* [Awesome React Reference](https://github.com/wxyyxc1992/Awesome-Reference#framework), [React Reference](https://parg.co/UXI).
+* [Awesome React Reference](https://github.com/wxyyxc1992/Awesome-Links#framework), [React Reference](https://parg.co/UXI).
 
 * [Vue Reference](https://parg.co/UHc)
 
@@ -50,7 +50,7 @@ More links about this can be found in
 
 ## InfoSecurity
 
-* [Awesome WebSecurity Reference](https://github.com/wxyyxc1992/Awesome-Reference#websecurity)
+* [Awesome WebSecurity Reference](https://github.com/wxyyxc1992/Awesome-Links#websecurity)
 
 # Series
 

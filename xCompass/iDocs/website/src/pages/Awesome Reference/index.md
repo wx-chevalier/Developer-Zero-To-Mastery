@@ -2,7 +2,7 @@
 title: AwesomeReference: 精而全的技术开发学习与实践资料索引
 ---
 
-# [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Reference)
+# [AwesomeReference: 精而全的技术开发学习与实践资料索引](https://github.com/wxyyxc1992/Awesome-Links)
 
 ![](https://parg.co/bDY) ![](https://parg.co/bDm)
 

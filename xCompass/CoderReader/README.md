@@ -1,6 +1,6 @@
 # CoderReader
 
-CoderReader 是笔者闲暇时编写的专门的技术人员阅读应用，其包含了知识图谱、搜索、资讯、周刊、书籍等栏目，内容整合自笔者在[ Coder-Reference: 追求技术之上的进阶阅读学习索引](https://zhuanlan.zhihu.com/p/25642783)一文中介绍的技术社区，包括但不限于：
+CoderReader 是笔者闲暇时编写的专门的技术人员阅读应用，其包含了知识图谱、搜索、资讯、周刊、书籍等栏目，内容整合自笔者在[ Coder-Links: 追求技术之上的进阶阅读学习索引](https://zhuanlan.zhihu.com/p/25642783)一文中介绍的技术社区，包括但不限于：
 
 - 资讯聚合：[HackerNews](https://news.ycombinator.com/news)、[Reddit](https://www.reddit.com/)、[Google+](plus.google.com)、[推酷](tuicool.com)、[TechMeme](https://www.techmeme.com/)、[V2EX](https://www.v2ex.com/)、[DZone](dzone.com)
 - 技术书籍：[Gitbook](https://www.gitbook.com/)、[SafariBooksOnline](https://www.safaribooksonline.com/)
