@@ -215,7 +215,7 @@
 
 
 
-- [Node.js 学习与实践资料索引](https://parg.co/be0)
+- [Node.js  Learning & Practices Links](https://parg.co/be0)
 
 
 - [深入浅出 Node.js 全栈架构](https://parg.co/b2s)

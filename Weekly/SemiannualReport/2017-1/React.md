@@ -426,7 +426,7 @@
 
 # 延伸阅读
 
-- [ React 学习与实践资料索引](https://parg.co/bM1)
+- [ React  Learning & Practices Links](https://parg.co/bM1)
 
 - [ React 与前端工程化实践](https://parg.co/bWg)
 

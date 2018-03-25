@@ -41,23 +41,23 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 ### Java
 
-* [Java 学习与实践资料索引](https://parg.co/bgv)
+* [Java  Learning & Practices Links](https://parg.co/bgv)
 * [Java 语法基础资料索引](https://parg.co/bwa)
 * [Java 数据结构学习与实践资料索引](https://parg.co/bw1)
 * [Java 并发编程资料索引](https://parg.co/bwF)
 * [Java 工程实践资料索引](https://parg.co/bw2)
-* [JVM 资料索引](https://parg.co/bwz)
+* [JVM Links](https://parg.co/bwz)
 * [JVM 应用调试资料索引](https://parg.co/bwT)
-* [Java UI 资料索引](https://parg.co/bwx)
+* [Java UI Links](https://parg.co/bwx)
 
 ---
 
-* [Maven 学习与实践资料索引](https://parg.co/bwW)
-* [Gradle 学习与实践资料索引](https://parg.co/bwg)
+* [Maven  Learning & Practices Links](https://parg.co/bwW)
+* [Gradle  Learning & Practices Links](https://parg.co/bwg)
 
 ---
 
-* [Groovy 学习与实践资料索引](https://parg.co/bwj)
+* [Groovy  Learning & Practices Links](https://parg.co/bwj)
 
 ### JavaScript
 
@@ -72,7 +72,7 @@ AwesomeReference 记录了笔者在日常阅读、学习与实践中发掘的优
 
 ## Web
 
-* [Web 学习与实践资料索引](https://parg.co/b4T)
+* [Web  Learning & Practices Links](https://parg.co/b4T)
 
 ## FrontendTechnology: 泛前端
 

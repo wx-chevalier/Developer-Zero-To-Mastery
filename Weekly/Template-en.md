@@ -4,6 +4,8 @@ The best articles, links and news related to Frontend Development, and more, del
 
 More Issues can be found in [Frontend+ Weekly Repository](https://parg.co/U9x).
 
+By the way, sorry for my poor English.
+
 ## News
 
 ## Tutorial
