@@ -1,3 +1,0 @@
-# Ignore differences in line endings
-# The _normaliseArticles.js script causes the line endings for all articles to change when it is run on Windows
-*.md      -text
