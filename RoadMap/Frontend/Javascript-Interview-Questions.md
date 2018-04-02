@@ -312,7 +312,7 @@ function isAnagram(first, second) {
 }
 ```
 
-## 会问字符串
+## 回文字符串
 
 判断某个字符串是否为回文字符串，譬如`racecar`与`race car`都是回文字符串：
 
