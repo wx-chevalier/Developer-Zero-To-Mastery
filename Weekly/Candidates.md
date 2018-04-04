@@ -1,1 +1,0 @@
-# Candidates for Weekly
