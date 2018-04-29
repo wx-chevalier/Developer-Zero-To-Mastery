@@ -4,7 +4,7 @@
 
 # [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder): 程序员的技术视野、知识管理与职业规划
 
-`让知识在该在的地方 @ 王下邀月熊`
+博观而约取，厚积而薄发。
 
 在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。笔者个人浅论，技术能力的培养主要分为三个方面：知识广度，编程能力与知识深度。[Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列即是致力于提升开发者的高效学习能力与实际研发效能，该系列由 [Knowledge MindMap](./MindMap), [RoadMap](./RoadMap), [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 以及 [coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 这几个模块/部分组成。
 
