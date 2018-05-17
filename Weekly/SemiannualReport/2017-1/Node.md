@@ -2,7 +2,7 @@
 # 前端每周清单半年盘点之 Node.js 篇
 
 
-[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号（ID：frontshow），及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 Node.js 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
+[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号(ID：frontshow)，及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 Node.js 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
 
 
 # 教程实践
@@ -13,7 +13,7 @@
 
 
 
-- [《关于Node.js存在反序列化远程代码执行漏洞的安全公告》](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484996&idx=1&sn=a1b037ececa56de2d878f4d6c91540f1)：近日，国家信息安全漏洞共享平台（CNVD）收录了Node.js反序列化远程代码执行漏洞（CNVD-2017-01206，对应 CVE-2017-594）。攻利用漏洞执行远程执行操作系统指令，获得服务器权限。由于目前验证代码已经公开，极有可能诱发大规模网站攻击。Node.js反序列化模块node-serialize库中的unserialize()函数未做安全处理，该漏洞通过传递调用JavaScript IIFE函数表达式的方式实现远程任意代码执行的效果。攻击者可通过远程攻击获得当前服务器运行环境权限，由于实际部署中node.js运行环境较多为操作系统root权限，因此可完全控制服务器主机。CNVD对该漏洞的综合评级为“高危”。目前，相关利用方式已经在互联网上公开，近期出现攻击尝试爆发的可能。不过根据[原作者表述](https://www.zhihu.com/question/55860542/answer/146613147)，实际上这个库在 GitHub 上一共只有 20 个 star，还有几个是漏洞文章发布后引来的，而且下载量也是非常少。如果想要避免此类安全问题，需要解决的就是确保用户输入的安全。方法比如通过安全传输方式（内网 & 加密）传输序列化字符串、使用如 RSA 等签名算法对字符串进行完整化校验。
+- [《关于Node.js存在反序列化远程代码执行漏洞的安全公告》](http://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484996&idx=1&sn=a1b037ececa56de2d878f4d6c91540f1)：近日，国家信息安全漏洞共享平台(CNVD)收录了Node.js反序列化远程代码执行漏洞(CNVD-2017-01206，对应 CVE-2017-594)。攻利用漏洞执行远程执行操作系统指令，获得服务器权限。由于目前验证代码已经公开，极有可能诱发大规模网站攻击。Node.js反序列化模块node-serialize库中的unserialize()函数未做安全处理，该漏洞通过传递调用JavaScript IIFE函数表达式的方式实现远程任意代码执行的效果。攻击者可通过远程攻击获得当前服务器运行环境权限，由于实际部署中node.js运行环境较多为操作系统root权限，因此可完全控制服务器主机。CNVD对该漏洞的综合评级为“高危”。目前，相关利用方式已经在互联网上公开，近期出现攻击尝试爆发的可能。不过根据[原作者表述](https://www.zhihu.com/question/55860542/answer/146613147)，实际上这个库在 GitHub 上一共只有 20 个 star，还有几个是漏洞文章发布后引来的，而且下载量也是非常少。如果想要避免此类安全问题，需要解决的就是确保用户输入的安全。方法比如通过安全传输方式(内网 & 加密)传输序列化字符串、使用如 RSA 等签名算法对字符串进行完整化校验。
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-- [《JavaScript 模块现状》](https://parg.co/bi0)：近日随着各大浏览器纷纷开始支持 ESM（ECMAScript Moduls），Node.js 中也计划引入 `*.mjs` 作为 ESM 的文件扩展名，关于 JavaScript 模块化的未来发展也在社区引发了热切讨论。本文则是首先介绍了 ESM 在浏览器、Webpack 等构件工具以及 Node.js 中未来的实现，然后讨论了个人对于 ESM 未来发展以及对于程序开发本身的潜在影响。( https://parg.co/bi0 )
+- [《JavaScript 模块现状》](https://parg.co/bi0)：近日随着各大浏览器纷纷开始支持 ESM(ECMAScript Moduls)，Node.js 中也计划引入 `*.mjs` 作为 ESM 的文件扩展名，关于 JavaScript 模块化的未来发展也在社区引发了热切讨论。本文则是首先介绍了 ESM 在浏览器、Webpack 等构件工具以及 Node.js 中未来的实现，然后讨论了个人对于 ESM 未来发展以及对于程序开发本身的潜在影响。( https://parg.co/bi0 )
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-- [doppio](https://github.com/plasma-umass/doppio): doppio 是基于 TypeScript 0.5.0 版本编写的 Java 虚拟机（JVM），其支持 Node.js 6.0 以上版本，并且内置了 Java 8 JDK 环境；doppio 是个有趣的尝试打破浏览器语言栅栏的尝试，浏览其源代码也可以学习如何编写 Java 虚拟机。
+- [doppio](https://github.com/plasma-umass/doppio): doppio 是基于 TypeScript 0.5.0 版本编写的 Java 虚拟机(JVM)，其支持 Node.js 6.0 以上版本，并且内置了 Java 8 JDK 环境；doppio 是个有趣的尝试打破浏览器语言栅栏的尝试，浏览其源代码也可以学习如何编写 Java 虚拟机。
 
 
 

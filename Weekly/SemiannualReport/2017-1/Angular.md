@@ -3,7 +3,7 @@
 # 前端每周清单半年盘点之 Angular 篇
 
 
-[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号（ID：frontshow），及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 Angular 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
+[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号(ID：frontshow)，及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 Angular 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-- [Angular 2+ 项目实战系列](https://parg.co/beA)：本系列文章包含了八个不同的章节，从零开始介绍如何利用 MongoDB、Express、Angular 2+ 以及 Node.js（MEAN Stack）来构建某个真实的应用项目。第一部分着眼于进行基础环境的搭建，包括搭建 Angular 应用开发环境、本地搭建 MongoDB、在 Auth0 申请账户与开发者密钥、搭建 Node.js 服务器并且为 Angular 应用添加基础的组件等等。第二部分着眼于添加基础的权限验证功能，并且构建数据模型等。 ( https://parg.co/beA )
+- [Angular 2+ 项目实战系列](https://parg.co/beA)：本系列文章包含了八个不同的章节，从零开始介绍如何利用 MongoDB、Express、Angular 2+ 以及 Node.js(MEAN Stack)来构建某个真实的应用项目。第一部分着眼于进行基础环境的搭建，包括搭建 Angular 应用开发环境、本地搭建 MongoDB、在 Auth0 申请账户与开发者密钥、搭建 Node.js 服务器并且为 Angular 应用添加基础的组件等等。第二部分着眼于添加基础的权限验证功能，并且构建数据模型等。 ( https://parg.co/beA )
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-- [Angular 中利用新的动画特效（v4.3+）优化路由变换](https://parg.co/bg6)：本文着眼于介绍 Angular 应用开发中，如何利用新的动画特效，来为路由切换添加动画效果。本文首先介绍了如何从独立的依赖中引入动画模块，与为应用添加路由配置以及简单的路由动画；然后介绍了 Angular 动画接口，如何定义动画、如何添加参差效果等内容，最后介绍了如何将这些整合为独立的应用。
+- [Angular 中利用新的动画特效(v4.3+)优化路由变换](https://parg.co/bg6)：本文着眼于介绍 Angular 应用开发中，如何利用新的动画特效，来为路由切换添加动画效果。本文首先介绍了如何从独立的依赖中引入动画模块，与为应用添加路由配置以及简单的路由动画；然后介绍了 Angular 动画接口，如何定义动画、如何添加参差效果等内容，最后介绍了如何将这些整合为独立的应用。
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-- [使用 Angular 组件的四个技巧](https://parg.co/bjD)：从.5 版本的 AngularJS 开始，组件就成为 Angular 的一部分，它为代码的组织和回收提供了一种便捷的方式。Angular（Angular2 的简称）与其说是 Angular 1.x 的升级，不如说是“续集”，它在移动支持和其他功能的基础上进行了完全地重写。这里，1.x 中使用的控制器完全被组件取代。无论是否曾经使用或想继续坚持 1.x，无论是从零学起还是在跨越阶段，为了确保代码尽可能地优雅且不会过时，你都需要开始使用组件。无论属于以上哪一类，都可以在这里找到很多帮助简化流程的方法。
+- [使用 Angular 组件的四个技巧](https://parg.co/bjD)：从.5 版本的 AngularJS 开始，组件就成为 Angular 的一部分，它为代码的组织和回收提供了一种便捷的方式。Angular(Angular2 的简称)与其说是 Angular 1.x 的升级，不如说是“续集”，它在移动支持和其他功能的基础上进行了完全地重写。这里，1.x 中使用的控制器完全被组件取代。无论是否曾经使用或想继续坚持 1.x，无论是从零学起还是在跨越阶段，为了确保代码尽可能地优雅且不会过时，你都需要开始使用组件。无论属于以上哪一类，都可以在这里找到很多帮助简化流程的方法。
 
 
 
@@ -117,6 +117,6 @@
 
 
 
-- [《generator-ngx-app》](https://github.com/angular-starter-kit/generator-ngx-app)：Angular 4 商业级应用项目生成器，其包括了 angular-cli 提供的现代工具与工作流，以及来自于社区的最佳实践、可扩展的基础模板以及较好地学习曲线。（ https://github.com/angular-starter-kit/generator-ngx-app ）
+- [《generator-ngx-app》](https://github.com/angular-starter-kit/generator-ngx-app)：Angular 4 商业级应用项目生成器，其包括了 angular-cli 提供的现代工具与工作流，以及来自于社区的最佳实践、可扩展的基础模板以及较好地学习曲线。( https://github.com/angular-starter-kit/generator-ngx-app )
 
 

@@ -1,6 +1,6 @@
 # 调用 setState 之后发生了什么？
 
-在代码中调用`setState`函数之后，React 会将传入的参数对象与组件当前的状态合并，然后触发所谓的调和过程（Reconciliation）。经过调和过程，React 会以相对高效的方式根据新的状态构建 React 元素树并且着手重新渲染整个 UI 界面。在 React 得到元素树之后，React 会自动计算出新的树与老树的节点差异，然后根据差异对界面进行最小化重渲染。在差异计算算法中，React 能够相对精确地知道哪些位置发生了改变以及应该如何改变，这就保证了按需更新，而不是全部重新渲染。
+在代码中调用`setState`函数之后，React 会将传入的参数对象与组件当前的状态合并，然后触发所谓的调和过程(Reconciliation)。经过调和过程，React 会以相对高效的方式根据新的状态构建 React 元素树并且着手重新渲染整个 UI 界面。在 React 得到元素树之后，React 会自动计算出新的树与老树的节点差异，然后根据差异对界面进行最小化重渲染。在差异计算算法中，React 能够相对精确地知道哪些位置发生了改变以及应该如何改变，这就保证了按需更新，而不是全部重新渲染。
 
 # React 中 Element 与 Component 的区别是？
 
@@ -86,7 +86,7 @@ class Twitter extends Component {
 }
 ```
 
-如果你还不熟悉回调渲染模式（Render Callback Pattern），这个代码可能看起来有点怪。这种模式中，组件会接收某个函数作为其子组件，然后在渲染函数中以`props.children`进行调用：
+如果你还不熟悉回调渲染模式(Render Callback Pattern)，这个代码可能看起来有点怪。这种模式中，组件会接收某个函数作为其子组件，然后在渲染函数中以`props.children`进行调用：
 
 ```
 import React, { Component, PropTypes } from 'react'
@@ -120,7 +120,7 @@ class Twitter extends Component {
 
 # Controlled Component 与 Uncontrolled Component 之间的区别是什么？
 
-React 的核心组成之一就是能够维持内部状态的自治组件，不过当我们引入原生的 HTML 表单元素时（input,select,textarea 等），我们是否应该将所有的数据托管到 React 组件中还是将其仍然保留在 DOM 元素中呢？这个问题的答案就是受控组件与非受控组件的定义分割。受控组件（Controlled Component）代指那些交由 React 控制并且所有的表单数据统一存放的组件。譬如下面这段代码中`username`变量值并没有存放到 DOM 元素中，而是存放在组件状态数据中。任何时候我们需要改变`username`变量值时，我们应当调用`setState`函数进行修改。
+React 的核心组成之一就是能够维持内部状态的自治组件，不过当我们引入原生的 HTML 表单元素时(input,select,textarea 等)，我们是否应该将所有的数据托管到 React 组件中还是将其仍然保留在 DOM 元素中呢？这个问题的答案就是受控组件与非受控组件的定义分割。受控组件(Controlled Component)代指那些交由 React 控制并且所有的表单数据统一存放的组件。譬如下面这段代码中`username`变量值并没有存放到 DOM 元素中，而是存放在组件状态数据中。任何时候我们需要改变`username`变量值时，我们应当调用`setState`函数进行修改。
 
 ```
 class ControlledForm extends Component {
@@ -147,7 +147,7 @@ class ControlledForm extends Component {
 }
 ```
 
-而非受控组件（Uncontrolled Component）则是由 DOM 存放表单数据，并非存放在 React 组件中。我们可以使用 refs 来操控 DOM 元素：
+而非受控组件(Uncontrolled Component)则是由 DOM 存放表单数据，并非存放在 React 组件中。我们可以使用 refs 来操控 DOM 元素：
 
 ```
 class UnControlledForm extends Component {
@@ -194,7 +194,7 @@ shouldComponentUpdate 允许我们手动地判断是否要进行组件更新，�
 </Parent>
 ```
 
-如果我们使用`props.children.map`函数来遍历时会受到异常提示，因为在这种情况下`props.children`是对象（object）而不是数组（array）。React 当且仅当超过一个子元素的情况下会将`props.children`设置为数组，就像下面这个代码片：
+如果我们使用`props.children.map`函数来遍历时会受到异常提示，因为在这种情况下`props.children`是对象(object)而不是数组(array)。React 当且仅当超过一个子元素的情况下会将`props.children`设置为数组，就像下面这个代码片：
 
 ```
 <Parent>
@@ -208,7 +208,7 @@ shouldComponentUpdate 允许我们手动地判断是否要进行组件更新，�
 
 # 概述下 React 中的事件处理逻辑
 
-为了解决跨浏览器兼容性问题，React 会将浏览器原生事件（Browser Native Event）封装为合成事件（SyntheticEvent）传入设置的事件处理器中。这里的合成事件提供了与原生事件相同的接口，不过它们屏蔽了底层浏览器的细节差异，保证了行为的一致性。另外有意思的是，React 并没有直接将事件附着到子元素上，而是以单一事件监听器的方式将所有的事件发送到顶层进行处理。这样 React 在更新 DOM 的时候就不需要考虑如何去处理附着在 DOM 上的事件监听器，最终达到优化性能的目的。
+为了解决跨浏览器兼容性问题，React 会将浏览器原生事件(Browser Native Event)封装为合成事件(SyntheticEvent)传入设置的事件处理器中。这里的合成事件提供了与原生事件相同的接口，不过它们屏蔽了底层浏览器的细节差异，保证了行为的一致性。另外有意思的是，React 并没有直接将事件附着到子元素上，而是以单一事件监听器的方式将所有的事件发送到顶层进行处理。这样 React 在更新 DOM 的时候就不需要考虑如何去处理附着在 DOM 上的事件监听器，最终达到优化性能的目的。
 
 # createElement 与 cloneElement 的区别是什么？
 

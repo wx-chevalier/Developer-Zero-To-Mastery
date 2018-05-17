@@ -111,7 +111,7 @@ JavaScript 的繁荣促生了很多优秀的技术、框架与工具库，这空
 另一个很有帮助的网站就是 Indeed.com，会聚合不同站点上对于不同职位的开发者的需求信息，可以看出目前招聘上对于前端开发者技能需求的情况为:
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2016/12/1/1-aGINRwIAXUW6dUEKzvbFDw.png)
 
-在上图中，Angular（Angular 1+Angular 2）还是高于 React 的，不过我个人还是会推荐 React，有如下几个原因吧：
+在上图中，Angular(Angular 1+Angular 2)还是高于 React 的，不过我个人还是会推荐 React，有如下几个原因吧：
 
 * [More people are interested in learning React than Angular](https://medium.com/@sachagreif/the-state-of-javascript-front-end-frameworks-1a2d8a61510)
 

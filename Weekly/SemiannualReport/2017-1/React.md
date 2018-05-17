@@ -2,14 +2,14 @@
 # 前端每周清单半年盘点之 React 与 ReactNative 篇
 
 
-[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号（ID：frontshow），及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 React 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
+[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号(ID：frontshow)，及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 React 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。
 
 
 # 教程实践
 
 
 
-- [Twitter 宣布移动 Web 技术栈迁移到 Node.js，Express，React PWA](https://twitter.com/necolas/status/829128165314306048)：近日，Twitter 工程师 Nicolas 宣布 Twitter 几乎所有的移动流量迁移到了以 Node.js 为基础的服务中（Today we moved all of Twitter's mobile web traffic (that's like, a lot) to our new web stack – Node.js, Express, React PWA.）。在过去的两年中，Twitter 移动 Web 技术栈主要是基于 Scala，Google Closure Templates 以及少量的 JavaScript。后来 CharlieCroom 开始尝试将登出服务迁移到 JavaScript 技术栈中，并且进行了约 9 个月的线上测试，效果尚可，因此 Twitter 决定全部迁移到 JavaScript 技术栈中。同时，Twitter Web APP 还支持所谓的 PRPL 范式：主动推送首屏关键资源、仅渲染初始路由、预存其他路由、按需懒加载与创建剩余路由。
+- [Twitter 宣布移动 Web 技术栈迁移到 Node.js，Express，React PWA](https://twitter.com/necolas/status/829128165314306048)：近日，Twitter 工程师 Nicolas 宣布 Twitter 几乎所有的移动流量迁移到了以 Node.js 为基础的服务中(Today we moved all of Twitter's mobile web traffic (that's like, a lot) to our new web stack – Node.js, Express, React PWA.)。在过去的两年中，Twitter 移动 Web 技术栈主要是基于 Scala，Google Closure Templates 以及少量的 JavaScript。后来 CharlieCroom 开始尝试将登出服务迁移到 JavaScript 技术栈中，并且进行了约 9 个月的线上测试，效果尚可，因此 Twitter 决定全部迁移到 JavaScript 技术栈中。同时，Twitter Web APP 还支持所谓的 PRPL 范式：主动推送首屏关键资源、仅渲染初始路由、预存其他路由、按需懒加载与创建剩余路由。
 
 
 
@@ -133,17 +133,17 @@
 
 
 
-- [React Bits](https://github.com/vasanthk/react-bits)：一本关于 React 设计模式、技术与技巧的书，涵盖了常见的 React 应用开发中的设计模式、需要规避的反模式、处理 UX 变种、性能调试与样式处理等等。（ https://github.com/vasanthk/react-bits ）
+- [React Bits](https://github.com/vasanthk/react-bits)：一本关于 React 设计模式、技术与技巧的书，涵盖了常见的 React 应用开发中的设计模式、需要规避的反模式、处理 UX 变种、性能调试与样式处理等等。( https://github.com/vasanthk/react-bits )
 
 
 
 
-- [基于 ReactNaive 与 Uber 工程基础构建 UberEATS](https://eng.uber.com/ubereats-react-native/)：本文是 UberEATS 的工程师团队介绍的他们基于 Uber 原工程架构与 ReactNative 实现应用的工程实践；包括了构建迁移路径、应用架构定义、自动更新、测试与静态类型检测等等。（ https://eng.uber.com/ubereats-react-native/ )
+- [基于 ReactNaive 与 Uber 工程基础构建 UberEATS](https://eng.uber.com/ubereats-react-native/)：本文是 UberEATS 的工程师团队介绍的他们基于 Uber 原工程架构与 ReactNative 实现应用的工程实践；包括了构建迁移路径、应用架构定义、自动更新、测试与静态类型检测等等。( https://eng.uber.com/ubereats-react-native/ )
 
 
 
 
-- [微软开源跨平台开发框架 ReactXP](https://microsoft.github.io/reactxp/)：ReactXP 是来自于微软的用于开发跨平台（iOS，Android，Web，Windows）应用的开源框架，其基于 React.js 与 React Native 项目，提供了类似的接口与语法规则；能够帮助开发者快速创建优美、响应式的 Web 界面以及原生体验的移动应用。( https://microsoft.github.io/reactxp/ )
+- [微软开源跨平台开发框架 ReactXP](https://microsoft.github.io/reactxp/)：ReactXP 是来自于微软的用于开发跨平台(iOS，Android，Web，Windows)应用的开源框架，其基于 React.js 与 React Native 项目，提供了类似的接口与语法规则；能够帮助开发者快速创建优美、响应式的 Web 界面以及原生体验的移动应用。( https://microsoft.github.io/reactxp/ )
 
 
 
@@ -175,7 +175,7 @@
 
 
 
-- [后 MVC 时代](https://realm.io/news/the-post-mvc-age/)：在很长一段时间里，MVC（Model-View-Controller）架构是构建应用的黄金法则，而近几年随着 React，Vue.js，Angular 等以组件为中心的库的流行，MVC 架构在前端却趋于平寂。开发者往往将模型、视图与控制器耦合在单个实体内，而打破了传统的 MVC 架构中的约束。类似于 Flux 或者响应式编程的设计思想也改变了应用状态的处理方式，不同于 MVC 中的双向绑定，而是数据在实体之间单向流动。本文即是讨论在所谓后 MVC 时代的 GUI 应用架构的思考。( https://realm.io/news/the-post-mvc-age/ )
+- [后 MVC 时代](https://realm.io/news/the-post-mvc-age/)：在很长一段时间里，MVC(Model-View-Controller)架构是构建应用的黄金法则，而近几年随着 React，Vue.js，Angular 等以组件为中心的库的流行，MVC 架构在前端却趋于平寂。开发者往往将模型、视图与控制器耦合在单个实体内，而打破了传统的 MVC 架构中的约束。类似于 Flux 或者响应式编程的设计思想也改变了应用状态的处理方式，不同于 MVC 中的双向绑定，而是数据在实体之间单向流动。本文即是讨论在所谓后 MVC 时代的 GUI 应用架构的思考。( https://realm.io/news/the-post-mvc-age/ )
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-- [大型高性能React PWA如何消除各类性能瓶颈？](https://parg.co/bfM)：想要构建一款性能出色的 Web 应用程序，我们需要投入大量技术周期以检测时间浪费点、了解其发生原因并尝试各类解决方案。遗憾的是，这种做法往往无法快速解决问题。性能无疑是一项永恒的命题，技术人员永远徘徊在观察与测量当中，却几乎永远找不到最优解。不过利用 Twitter Lite，我们已经在众多层面内取得了细小但却极具价值的改进：从初始加载时间到React组件渲染（防止二次渲染），再到图像加载以及更多层面。尽管大多数变更本身并不显著，但其相加所带来的最终结果是，我们得以构建起一款规模极大且速度极快的渐进式 Web 应用程序。( https://parg.co/bfM )
+- [大型高性能React PWA如何消除各类性能瓶颈？](https://parg.co/bfM)：想要构建一款性能出色的 Web 应用程序，我们需要投入大量技术周期以检测时间浪费点、了解其发生原因并尝试各类解决方案。遗憾的是，这种做法往往无法快速解决问题。性能无疑是一项永恒的命题，技术人员永远徘徊在观察与测量当中，却几乎永远找不到最优解。不过利用 Twitter Lite，我们已经在众多层面内取得了细小但却极具价值的改进：从初始加载时间到React组件渲染(防止二次渲染)，再到图像加载以及更多层面。尽管大多数变更本身并不显著，但其相加所带来的最终结果是，我们得以构建起一款规模极大且速度极快的渐进式 Web 应用程序。( https://parg.co/bfM )
 
 
 
@@ -240,7 +240,7 @@
 
 
 
-- [React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)：Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调（Reconciliation）算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。( https://parg.co/btw )
+- [React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)：Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调(Reconciliation)算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。( https://parg.co/btw )
 
 
 
@@ -325,7 +325,7 @@
 
 
 
-- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。 其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。 平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面（GUI）应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
+- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。 其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。 平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
 
 
 

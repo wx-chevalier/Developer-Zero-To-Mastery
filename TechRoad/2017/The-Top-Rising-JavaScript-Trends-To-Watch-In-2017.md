@@ -267,11 +267,11 @@ GraphQL 是个不错的 REST 替代查询语言，特别是对于那些拥有大
 
 # Rust
 
-Rust 可以编译到 JavaScript 啦（通过[emscripten](https://github.com/kripken/emscripten)）。
+Rust 可以编译到 JavaScript 啦(通过[emscripten](https://github.com/kripken/emscripten))。
 
 # Custom Elements
 
-Custom Elements（包括 Shadow DOM）一直不被主流的开发者接受，不过看似 2017 这一点将会发生些许变化。变化的关键因素在于[浏览器支持比例的改善](http://jonrimmer.github.io/are-we-componentized-yet/)。个人还是蛮期待 Custom Elements 的，可以关注[SmashingMag](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)或者[Google’s](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)关于 Custom Elements 的解释。
+Custom Elements(包括 Shadow DOM)一直不被主流的开发者接受，不过看似 2017 这一点将会发生些许变化。变化的关键因素在于[浏览器支持比例的改善](http://jonrimmer.github.io/are-we-componentized-yet/)。个人还是蛮期待 Custom Elements 的，可以关注[SmashingMag](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)或者[Google’s](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)关于 Custom Elements 的解释。
 
 # WebRTC
 

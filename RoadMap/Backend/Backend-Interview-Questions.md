@@ -11,7 +11,7 @@ Servlet 的本质
 TCP 长连接。心跳包，websocket
 Netty 百万级长连接优化
 DSL 解析到 AST 。lexer 和 parser
-JVM 相关。（你读过 GC 相关源码吗？）代码规范，包命名规范大学里最有成就感的事读过的 Java 书籍。（四大名著之类）
+JVM 相关。(你读过 GC 相关源码吗？)代码规范，包命名规范大学里最有成就感的事读过的 Java 书籍。(四大名著之类)
 
 后端清单全局唯一有序 ID。 snowflake ，timestamp 加前面，然后后面加上机器 id 等冯诺依曼体系
 shell 命令的执行过程信息熵程序运行中的栈式结构，栈溢出攻击
@@ -25,7 +25,7 @@ Servlet 的本质
 TCP 长连接。心跳包，websocket
 Netty 百万级长连接优化
 DSL 解析到 AST 。lexer 和 parser
-JVM 相关。（你读过 GC 相关源码吗？）代码规范，包命名规范收集箱
+JVM 相关。(你读过 GC 相关源码吗？)代码规范，包命名规范收集箱
 
 # 编程语言
 

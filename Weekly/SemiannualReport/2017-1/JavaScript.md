@@ -3,7 +3,7 @@
 # 前端每周清单半年盘点之 JavaScript 篇
 
 
-[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号（ID：frontshow），及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 JavaScript 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。 
+[前端每周清单](http://www.infoq.com/cn/FE-Weekly)专注前端领域内容，以对外文资料的搜集为主，帮助开发者了解一周前端热点；分为新闻热点、开发教程、工程实践、深度阅读、开源项目、巅峰人生等栏目。欢迎关注【前端之巅】微信公众号(ID：frontshow)，及时获取前端每周清单；本文则是对于半年来发布的前端每周清单中的 JavaScript 相关的教程实践与开源项目的盘点，可以查看[这里](https://parg.co/bh1)获得往期清单或者其他盘点篇。 
 
 
 # 教程实践
@@ -95,12 +95,12 @@
 
 
 
-- [《12 个精妙的 JavaScript 代码片》](https://parg.co/bhH)：本文作者分享了十二个非常不错的 JavaScript代码片，这些代码片能够帮你优化现有代码，让代码更加地赏心悦目。（ https://parg.co/bhH ）
+- [《12 个精妙的 JavaScript 代码片》](https://parg.co/bhH)：本文作者分享了十二个非常不错的 JavaScript代码片，这些代码片能够帮你优化现有代码，让代码更加地赏心悦目。( https://parg.co/bhH )
 
 
 
 
-- [《JavaScript 中构建响应式引擎》](https://parg.co/bhR)：本系列文章介绍了如何在 JavaScript 中构建高性能的响应式引擎，对于有兴趣了解 MobX 底层原理的同学来说也是个不错的教程，目前包含了对于可观测对象的构造解释、属性推导与依赖追踪等内容（ https://parg.co/bhR ）
+- [《JavaScript 中构建响应式引擎》](https://parg.co/bhR)：本系列文章介绍了如何在 JavaScript 中构建高性能的响应式引擎，对于有兴趣了解 MobX 底层原理的同学来说也是个不错的教程，目前包含了对于可观测对象的构造解释、属性推导与依赖追踪等内容( https://parg.co/bhR )
 
 
 
@@ -125,7 +125,7 @@
 
 
 
-- [《使用 Inline Cache 优化动态 JavaScript 代码》](https://parg.co/b4a)：本文是作者在开发 JSIL 开源库时使用的一系列优化手段的总结，主要关于如何使用多态在线缓存（Polymorphic Inline Cache）来优化代码执行速度，不过这种方式也有可能造成意外的变化。作者介绍了何谓 Inline Cache 及其优化原理和带来的性能提升评测等内容。( https://parg.co/b4a )
+- [《使用 Inline Cache 优化动态 JavaScript 代码》](https://parg.co/b4a)：本文是作者在开发 JSIL 开源库时使用的一系列优化手段的总结，主要关于如何使用多态在线缓存(Polymorphic Inline Cache)来优化代码执行速度，不过这种方式也有可能造成意外的变化。作者介绍了何谓 Inline Cache 及其优化原理和带来的性能提升评测等内容。( https://parg.co/b4a )
 
 
 
@@ -218,7 +218,7 @@
 
 
 
-- [《最终，JavaScript 成为了一流语言》](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language)：2003年，保罗·格雷厄姆（Paul Graham）在文中提到，他的公司决定使用Lisp（一门编程语言），并且指出自己公司相比竞争对手的优势在于Lisp。如果Lisp像法语，那么现如今的JavaScript就像英语一般。尽管二者的语法不一致，但英语是世界上最广泛使用的语言，JavaScript是最广泛应用的计算语言。然而，JavaScript仍未得到与其他语言同等的尊重。尽管它的使用率在创业公司和大型公司中持续增长，但若非必要，人们不会认为它是一门有用的语言。大公司的高级工程师声称它不是一门“真正的”编程语言，许多人并不知道除了操作像素外它还能被用于何处。。( https://parg.co/bkb )
+- [《最终，JavaScript 成为了一流语言》](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language)：2003年，保罗·格雷厄姆(Paul Graham)在文中提到，他的公司决定使用Lisp(一门编程语言)，并且指出自己公司相比竞争对手的优势在于Lisp。如果Lisp像法语，那么现如今的JavaScript就像英语一般。尽管二者的语法不一致，但英语是世界上最广泛使用的语言，JavaScript是最广泛应用的计算语言。然而，JavaScript仍未得到与其他语言同等的尊重。尽管它的使用率在创业公司和大型公司中持续增长，但若非必要，人们不会认为它是一门有用的语言。大公司的高级工程师声称它不是一门“真正的”编程语言，许多人并不知道除了操作像素外它还能被用于何处。。( https://parg.co/bkb )
 
 
 - [《理解 WebAssembly 的文件格式》](https://parg.co/bk6)：为了保证 WebAssembly 能够被人们阅读与理解，需要提供对于 wasm 二进制格式的文本表示。该特性着眼于能够在文本编辑器、浏览器开发者工具等开发工具中浏览 WebAssembly 文件，而本文则介绍了这种文件格式的规范与工作原理，以及底层的字节码与上层的 JavaScript 对象之间的关联关系。( https://parg.co/bk6 )
@@ -251,7 +251,7 @@
 
 
 
-- [《JavaScript 模块现状》](https://parg.co/bi0)：近日随着各大浏览器纷纷开始支持 ESM（ECMAScript Moduls），Node.js 中也计划引入 `*.mjs` 作为 ESM 的文件扩展名，关于 JavaScript 模块化的未来发展也在社区引发了热切讨论。本文则是首先介绍了 ESM 在浏览器、Webpack 等构件工具以及 Node.js 中未来的实现，然后讨论了个人对于 ESM 未来发展以及对于程序开发本身的潜在影响。( https://parg.co/bi0 )
+- [《JavaScript 模块现状》](https://parg.co/bi0)：近日随着各大浏览器纷纷开始支持 ESM(ECMAScript Moduls)，Node.js 中也计划引入 `*.mjs` 作为 ESM 的文件扩展名，关于 JavaScript 模块化的未来发展也在社区引发了热切讨论。本文则是首先介绍了 ESM 在浏览器、Webpack 等构件工具以及 Node.js 中未来的实现，然后讨论了个人对于 ESM 未来发展以及对于程序开发本身的潜在影响。( https://parg.co/bi0 )
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-- [《JavaScript 中类的私有域定义》](http://thejameskyle.com/javascripts-new-private-class-fields.html)：目前对于类中的私有域定义已经达到了 Stage 2，本文即是详细介绍 #private 语法的使用以及设计理念。顾名思义，我们可以使用 #privateFieldName 方式来定义类中的私有域，该私有域仅允许该类的方法访问（包括静态方法）。本文还介绍了使用这种 HashTag 方式而不是其他语言中常见的 private 关键字来定义的考量。( http://thejameskyle.com/javascripts-new-private-class-fields.html )
+- [《JavaScript 中类的私有域定义》](http://thejameskyle.com/javascripts-new-private-class-fields.html)：目前对于类中的私有域定义已经达到了 Stage 2，本文即是详细介绍 #private 语法的使用以及设计理念。顾名思义，我们可以使用 #privateFieldName 方式来定义类中的私有域，该私有域仅允许该类的方法访问(包括静态方法)。本文还介绍了使用这种 HashTag 方式而不是其他语言中常见的 private 关键字来定义的考量。( http://thejameskyle.com/javascripts-new-private-class-fields.html )
 
 
 
@@ -344,7 +344,7 @@
 
 
 
-- [JavaScript 中的函数式编程就是反模式（*本文仅代表原作者个人意见）](https://parg.co/beH)：作者在本文中对比讨论了 JavaScript 与 Clojure，并且介绍了 ClojureScript 的基础用法与优势所在。作者首先讨论了他认为的函数式脚本语言应该包含的特性，包括充分的 API、内建的不可变数据结构等；然后阐述了 lodash、fp、Rambda 这样的单个库存在的不足，譬如 ImmutableJS 虽然能较好地解决部分问题，但是却会割裂使用者的开发体验。最后笔者介绍了 ClojureScripe 的特性与优点，包括能够在编辑器中单行运行、内建的大量转化函数、较好地性能与代码可读性保证等等。( https://parg.co/beH  )
+- [JavaScript 中的函数式编程就是反模式(*本文仅代表原作者个人意见)](https://parg.co/beH)：作者在本文中对比讨论了 JavaScript 与 Clojure，并且介绍了 ClojureScript 的基础用法与优势所在。作者首先讨论了他认为的函数式脚本语言应该包含的特性，包括充分的 API、内建的不可变数据结构等；然后阐述了 lodash、fp、Rambda 这样的单个库存在的不足，譬如 ImmutableJS 虽然能较好地解决部分问题，但是却会割裂使用者的开发体验。最后笔者介绍了 ClojureScripe 的特性与优点，包括能够在编辑器中单行运行、内建的大量转化函数、较好地性能与代码可读性保证等等。( https://parg.co/beH  )
 
 
 
@@ -516,7 +516,7 @@
 
 
 
-- [gpu.js](https://github.com/gpujs/gpu.js)：在[上周的前端每周清单](https://zhuanlan.zhihu.com/p/27815800)中我们介绍过 GPGPU（General Purpose Computing on GPUs）的概念与基于 WebGL 的实现方式，而 gpu.js 就是提供了浏览器中快速实现 GPGPU 的单文件 JavaScript 库。gpu.js 能够自动地将某些特定的 JavaScript 函数编译为中间语言，然后利用 WebGLS API 使其运行在 GPU 中；而在某些无法使用 GPU 的环境下，仍然会将这些函数以正常的 JavaScript 执行流运行。
+- [gpu.js](https://github.com/gpujs/gpu.js)：在[上周的前端每周清单](https://zhuanlan.zhihu.com/p/27815800)中我们介绍过 GPGPU(General Purpose Computing on GPUs)的概念与基于 WebGL 的实现方式，而 gpu.js 就是提供了浏览器中快速实现 GPGPU 的单文件 JavaScript 库。gpu.js 能够自动地将某些特定的 JavaScript 函数编译为中间语言，然后利用 WebGLS API 使其运行在 GPU 中；而在某些无法使用 GPU 的环境下，仍然会将这些函数以正常的 JavaScript 执行流运行。
 
 
 - [Wade](https://github.com/KingPixil/wade)：Wade 是轻量级、高性能的 JavaScript 搜索库，Wade 会在构建阶段自动地为输入数组中的每个字符串的字符构建反向索引，然后在搜索时候快速返回用户输入关键字对应地下标；Wade 优势在于对于相同的数据集进行多次搜索时能够避免冗余的遍历。
