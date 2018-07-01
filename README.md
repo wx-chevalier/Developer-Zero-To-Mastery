@@ -2,11 +2,21 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder): 程序员的技术视野、知识管理与职业规划
+# [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder)
 
-博观而约取，厚积而薄发。
+Awesome Coder 包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能；其主要由四部分内容组成：
 
-在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。笔者个人浅论，技术能力的培养主要分为三个方面：知识广度，编程能力与知识深度。[Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder) 系列即是致力于提升开发者的高效学习能力与实际研发效能，该系列由 [Knowledge MindMap](./MindMap), [RoadMap](./RoadMap), [Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 以及 [coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 这几个模块/部分组成。
+- 指南型仓库，[Awesome MindMap](./MindMap) 提供了 ITCS 技术体系与知识图谱，[Awesome RoadMap](./RoadMap) 与 [Awesome Interview](./Interview) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。
+
+- 资源型仓库，[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 为我们提供了各个领域的精选资料、书籍、课程、开源项目等可供参考的资源，并按照 Awesome MindMap 中的知识结构分门别类地存放。[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), 按照知识图谱来将各个领域的有效的链接沉淀下来。[Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet)，即是对于某个领域、方向的精华，以及日常工作中常用知识点的归档。无论是快速学习，还是作为日常开发中的工具手册，都是极好的。[Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 是对于优秀书籍的搜集。
+
+- 实战型仓库，[coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 是多语言版本的数据架构与算法，设计模式，常用代码片等实现。
+
+- 经历总结型仓库，[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结，[Weekly](./Weekly) 则是对于 Web 基础、各种框架的介绍，扩展到了接口、安全、跨平台等各个领域方向的文章推荐。
+
+# 前言
+
+博观而约取，厚积而薄发。在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。笔者个人浅论，技术能力的培养主要分为三个方面：知识广度，编程能力与知识深度。
 
 所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次(High Level)描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上，笔者习惯利用碎片时间浏览 HN, Reddit, Medium, Twitter 来了解资讯文章，在维护 [Frontend Weekly, 每周阅读清单与前端开发周报](https://parg.co/UHG)的过程中也不断强迫自己去阅读与探究。另一方面，笔者坚定地即认为，唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [MindMap, IT 技术图谱与知识架构](./MindMap)，并在数年来不断维护与刷新；同时，笔者将日常阅读、学习与实践中发掘的优秀的资料，按照知识图谱中定义的各个领域的知识体系分门别类地存放在 [Awesome Links : Guide to Galaxy](https://github.com/Awesome-Links) 中，以方便快速地检索与查找。
 
@@ -18,9 +28,9 @@
 
 知识深度则依赖于以下各个领域的专项文章/书籍， ✨ 友情链接：
 
-* [ProgrammingLanguage Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 编程语言语法基础与工程实践
+- [ProgrammingLanguage Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 编程语言语法基础与工程实践
 
-* [Web Series](https://github.com/wxyyxc1992/Web-Series)
+- [Web Series](https://github.com/wxyyxc1992/Web-Series)
 
 # 关于
 
