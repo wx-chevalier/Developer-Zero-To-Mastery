@@ -54,79 +54,59 @@ JavaScript 中，null 是一个可以被分配的值，设置为 null 的变量�
 
 给定一个包含整数的无序数组，要求找出乘积最大的三个数。
 
-```
+```js
 var unsorted_array = [-10, 7, 29, 30, 5, -10, -70];
-
 
 computeProduct(unsorted_array); // 21000
 
-
 function sortIntegers(a, b) {
-  return a - b;
+  return a - b;
 }
-
 
 // greatest product is either (min1 * min2 * max1 || max1 * max2 * max3)
 function computeProduct(unsorted) {
-  var sorted_array = unsorted.sort(sortIntegers),
-    product1 = 1,
-    product2 = 1,
-    array_n_element = sorted_array.length - 1;
+  var sorted_array = unsorted.sort(sortIntegers),
+    product1 = 1,
+    product2 = 1,
+    array_n_element = sorted_array.length - 1; // Get the product of three largest integers in sorted array
 
+  for (var x = array_n_element; x > array_n_element - 3; x--) {
+    product1 = product1 * sorted_array[x];
+  }
+  product2 = sorted_array[0] * sorted_array[1] * sorted_array[array_n_element];
 
-  // Get the product of three largest integers in sorted array
-  for (var x = array_n_element; x > array_n_element - 3; x--) {
-      product1 = product1 * sorted_array[x];
-  }
-  product2 = sorted_array[0] * sorted_array[1] * sorted_array[array_n_element];
+  if (product1 > product2) return product1;
 
-
-  if (product1 > product2) return product1;
-
-
-  return product2
-};
+  return product2;
+}
 ```
 
 ## 寻找连续数组中的缺失数
 
 给定某无序数组，其包含了 n 个连续数字中的 n - 1 个，已知上下边界，要求以`O(n)`的复杂度找出缺失的数字。
 
-```
+```js
 // The output of the function should be 8
 var array_of_integers = [2, 5, 1, 4, 9, 6, 3, 7];
 var upper_bound = 9;
 var lower_bound = 1;
 
-
 findMissingNumber(array_of_integers, upper_bound, lower_bound); //8
 
-
 function findMissingNumber(array_of_integers, upper_bound, lower_bound) {
+  // Iterate through array to find the sum of the numbers
+  var sum_of_integers = 0;
+  for (var i = 0; i < array_of_integers.length; i++) {
+    sum_of_integers += array_of_integers[i];
+  } // 以高斯求和公式计算理论上的数组和 // Formula: [(N * (N + 1)) / 2]
 
+  -[(M * (M - 1)) / 2]; // N is the upper bound and M is the lower bound
+  upper_limit_sum = (upper_bound * (upper_bound + 1)) / 2;
+  lower_limit_sum = (lower_bound * (lower_bound - 1)) / 2;
 
-  // Iterate through array to find the sum of the numbers
-  var sum_of_integers = 0;
-  for (var i = 0; i < array_of_integers.length; i++) {
-    sum_of_integers += array_of_integers[i];
-  }
+  theoretical_sum = upper_limit_sum - lower_limit_sum; //
 
-
-  // 以高斯求和公式计算理论上的数组和
-  // Formula: [(N * (N + 1)) / 2]
-- [(M * (M - 1)) / 2];
-  // N is the upper bound and M is the lower bound
-
-
-  upper_limit_sum = (upper_bound * (upper_bound + 1)) / 2;
-  lower_limit_sum = (lower_bound * (lower_bound - 1)) / 2;
-
-
-  theoretical_sum = upper_limit_sum - lower_limit_sum;
-
-
-  //
-  return (theoretical_sum - sum_of_integers)
+  return theoretical_sum - sum_of_integers;
 }
 ```
 
@@ -316,18 +296,21 @@ function isAnagram(first, second) {
 
 判断某个字符串是否为回文字符串，譬如`racecar`与`race car`都是回文字符串：
 
-```
-isPalindrome("racecar"); // true
-isPalindrome("race Car"); // true
-
+```js
+isPalindrome('racecar'); // true
+isPalindrome('race Car'); // true
 
 function isPalindrome(word) {
-  // Replace all non-letter chars with "" and change to lowercase
-  var lettersOnly = word.toLowerCase().replace(/\s/g, "");
+  // Replace all non-letter chars with "" and change to lowercase
+  var lettersOnly = word.toLowerCase().replace(/\s/g, ''); // Compare the string with the reversed version of the string
 
-
-  // Compare the string with the reversed version of the string
-  return lettersOnly === lettersOnly.split("").reverse().join("");
+  return (
+    lettersOnly ===
+    lettersOnly
+      .split('')
+      .reverse()
+      .join('')
+  );
 }
 ```
 
@@ -335,30 +318,27 @@ function isPalindrome(word) {
 
 ## 使用两个栈实现入队与出队
 
-```
+```js
 var inputStack = []; // First stack
 var outputStack = []; // Second stack
 
-
 // For enqueue, just push the item into the first stack
 function enqueue(stackInput, item) {
-  return stackInput.push(item);
+  return stackInput.push(item);
 }
 
-
 function dequeue(stackInput, stackOutput) {
-  // Reverse the stack such that the first element of the output stack is the
-  // last element of the input stack. After that, pop the top of the output to
-  // get the first element that was ever pushed into the input stack
-  if (stackOutput.length <= 0) {
-    while(stackInput.length > 0) {
-      var elementToOutput = stackInput.pop();
-      stackOutput.push(elementToOutput);
-    }
-  }
+  // Reverse the stack such that the first element of the output stack is the
+  // last element of the input stack. After that, pop the top of the output to
+  // get the first element that was ever pushed into the input stack
+  if (stackOutput.length <= 0) {
+    while (stackInput.length > 0) {
+      var elementToOutput = stackInput.pop();
+      stackOutput.push(elementToOutput);
+    }
+  }
 
-
-  return stackOutput.pop();
+  return stackOutput.pop();
 }
 ```
 
