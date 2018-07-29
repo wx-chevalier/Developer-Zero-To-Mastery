@@ -119,7 +119,29 @@ new Promise(() => console.log(3));
 
 # JavaScript
 
-## 数组操作与变换
+## 数据结构
+
+### 字符串
+
+💡 驼峰与下划线命名之间的转换 💡
+
+```js
+/** 将大写转化为下划线 */
+export const convertToUnderscore = key => {
+  key.replace(/[A-Z]/g, str => `_${str.toLowerCase()}`);
+};
+
+/** 将下划线转化为驼峰 */
+export const convertToCamelCase = key => {
+  key.replace(/_./g, str => str[1].toUpperCase());
+};
+```
+
+> 📖 参考资料
+>
+> - [aa](aa)
+
+### 数组操作与变换
 
 map/reduce/filter 都是开发中常用的函数。
 
@@ -136,4 +158,16 @@ map/reduce/filter 都是开发中常用的函数。
 
 # DOM
 
+# CSS
+
 # React
+
+# Vue
+
+# 工程化
+
+## 构建工具
+
+## 性能优化
+
+# 团队协作

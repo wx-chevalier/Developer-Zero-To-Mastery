@@ -1,3 +1,5 @@
+![awesome coder](https://user-images.githubusercontent.com/5803001/43364904-59f5bda6-9356-11e8-9ab3-ae073d08bb9e.png)
+
 # Awesome Interview
 
 [Awesome Interview]() 是 [Awesome Coder]() 系列的重要组成。

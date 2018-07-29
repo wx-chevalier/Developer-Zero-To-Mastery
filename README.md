@@ -1,4 +1,4 @@
-![](https://2dhnizrxqvv1awj231eodql1-wpengine.netdna-ssl.com/wp-content/uploads/2017/04/How-to-Photograph-The-Milky-Way.jpg)
+![awesome coder](https://user-images.githubusercontent.com/5803001/43364904-59f5bda6-9356-11e8-9ab3-ae073d08bb9e.png)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 

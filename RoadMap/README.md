@@ -1,16 +1,18 @@
+![awesome coder](https://user-images.githubusercontent.com/5803001/43364904-59f5bda6-9356-11e8-9ab3-ae073d08bb9e.png)
+
 # 工程师的成长之路
 
-* [Web 前端工程师之路](./Frontend)
+- [Web 前端工程师之路](./Frontend)
 
-* [服务端工程师之路](./Backend)
+- [服务端工程师之路](./Backend)
 
-* [测试工程师之路](./Test)
+- [测试工程师之路](./Test)
 
-* [运维工程师之路](./DevOps)
+- [运维工程师之路](./DevOps)
 
-* [架构师之路](./SoftwareArchitecture)
+- [架构师之路](./SoftwareArchitecture)
 
-* [人工智能与机器学习工程师之路](./DataScienceAI)
+- [人工智能与机器学习工程师之路](./DataScienceAI)
 
 #  技术人员的几重门
 
