@@ -4,7 +4,9 @@
 
 # [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder)
 
-Awesome Coder 包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能；其主要由四部分内容组成：
+Awesome Coder 系列是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+
+其主要由四部分内容组成：
 
 - 指南型仓库，[Awesome MindMap](./MindMap) 提供了 ITCS 技术体系与知识图谱，[Awesome RoadMap](./RoadMap) 与 [Awesome Interview](./Interview) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。
 
