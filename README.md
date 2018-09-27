@@ -2,7 +2,9 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-# [Awesome-Coder](https://github.com/wxyyxc1992/Awesome-Coder)
+> 请注意，仓库正在重构中，部分链接可能失效！！！
+
+# Coder Roadmap
 
 Awesome Coder 系列是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 

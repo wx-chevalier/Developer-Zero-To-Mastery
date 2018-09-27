@@ -1,1 +1,0 @@
-# Frontend Technology Widgets MindMap

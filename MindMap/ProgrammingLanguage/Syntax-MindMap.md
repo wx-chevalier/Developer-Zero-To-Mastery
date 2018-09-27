@@ -1,1 +1,0 @@
-# Programming Language Syntax MindMap
