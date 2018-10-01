@@ -1,0 +1,32 @@
+{
+  "id": "ITCS",
+  "name": "Zero Of ITCS",
+  "zhName": "",
+  "desc": "",
+  "zhDesc": "",
+  "linksHref": "",
+  "cheatSheetsHref": "",
+  "seriesHref": "",
+  "children": [
+    {
+      "id": "SoftwareEngineering",
+      "name": "Software Engineering",
+      "zhName": "软件工程基础",
+      "desc": "",
+      "zhDesc": "",
+      "linksHref": "",
+      "cheatSheetsHref": "",
+      "seriesHref": "",
+      "children": [
+        {
+          "id": "ITCS",
+          "name": "Zero Of ITCS",
+          "linksHref": "",
+          "cheatSheetsHref": "",
+          "seriesHref": "",
+          "children": ""
+        }
+      ]
+    }
+  ]
+}

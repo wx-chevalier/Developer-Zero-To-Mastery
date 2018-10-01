@@ -4,21 +4,19 @@
 
 > 请注意，仓库正在重构中，部分链接可能失效！！！
 
-# Coder Roadmap
+# Coder Roadmap, From Zero to Hero in Learning Anything
 
-Awesome Coder 系列是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+[Coder Roadmap]() 及其链接的资料([Awesome Links](), [Awesome CheatSheet](), [coding-snippets](), [design pattern snippets](), [algorithm snippets]())是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
-其主要由四部分内容组成：
+其主要由以下部分内容组成：
 
-- 指南型仓库，[Awesome MindMap](./MindMap) 提供了 ITCS 技术体系与知识图谱，[Awesome RoadMap](./RoadMap) 与 [Awesome Interview](./Interview) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。
+- 指南型仓库，[Coder Roadmap](./) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结。
 
-- 资源型仓库，[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 为我们提供了各个领域的精选资料、书籍、课程、开源项目等可供参考的资源，并按照 Awesome MindMap 中的知识结构分门别类地存放。[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), 按照知识图谱来将各个领域的有效的链接沉淀下来。[Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet)，即是对于某个领域、方向的精华，以及日常工作中常用知识点的归档。无论是快速学习，还是作为日常开发中的工具手册，都是极好的。[Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 是对于优秀书籍的搜集。
+- 资源型仓库，[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 为我们提供了各个领域的精选资料、书籍、课程、开源项目等可供参考的资源，并按照 [Coder Roadmap](./) 中的知识结构分门别类地存放。[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), 按照知识图谱来将各个领域的有效的链接沉淀下来。[Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet)，即是对于某个领域、方向的精华，以及日常工作中常用知识点的归档。无论是快速学习，还是作为日常开发中的工具手册，都是极好的。[Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 是对于优秀书籍的搜集。
 
 - 实战型仓库，[coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 是多语言版本的数据架构与算法，设计模式，常用代码片等实现。
 
-- 经历总结型仓库，[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结，[Weekly](./Weekly) 则是对于 Web 基础、各种框架的介绍，扩展到了接口、安全、跨平台等各个领域方向的文章推荐。
-
-# 前言
+# Preface | 前言
 
 博观而约取，厚积而薄发。在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。笔者个人浅论，技术能力的培养主要分为三个方面：知识广度，编程能力与知识深度。
 
@@ -30,21 +28,23 @@ Awesome Coder 系列是笔者对三个问题的思考：缓解前路的迷茫、
 
 所谓知识深度，即是能够对某个方面做到深入了解，并且达到融会贯通，洞若观火，可以随心所欲地加以扩展、优化、创新等改造或变换。这方面则更加的见仁见智，不同的领域与方向对于深度的定义与挖掘方向也是千差万别。笔者自知能力有限，也不敢妄加评判，根据自己浅薄的认知将常见的工程师成长路径总结在了 [RoadMap, 成长路线图](./RoadMap) 中，此外若有兴趣可以前往笔者的 [Github 笔记仓库](https://github.com/wxyyxc1992?tab=repositories)浏览指正某些领域的浅薄探究。
 
+## 延伸
+
 知识深度则依赖于以下各个领域的专项文章/书籍， ✨ 友情链接：
 
 - [ProgrammingLanguage Series](https://github.com/wxyyxc1992/ProgrammingLanguage-Series): 编程语言语法基础与工程实践
 
 - [Web Series](https://github.com/wxyyxc1992/Web-Series)
 
-# 关于
+# About | 关于
 
-## 规划
-
-## 致谢
+## Credits | 致谢
 
 由于笔者平日忙于工作，几乎所有线上的文档都是我夫人帮忙整理，在此特别致谢；同时也感谢我家的布丁安静的趴在脚边，不再那么粪发涂墙。
 
-## 版权
+## Roadmap | 规划
+
+## Copyright | 版权
 
 ![](https://parg.co/bDY) ![](https://parg.co/bDm)
 
