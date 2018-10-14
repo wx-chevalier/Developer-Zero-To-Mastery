@@ -8,6 +8,8 @@
 
 [Coder Roadmap]() 及其链接的资料([Awesome Links](), [Awesome CheatSheet](), [coding-snippets](), [design pattern snippets](), [algorithm snippets]())是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
+**建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
+
 其主要由以下部分内容组成：
 
 - 指南型仓库，[Coder Roadmap](./) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结。
