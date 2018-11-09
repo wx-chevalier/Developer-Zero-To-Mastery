@@ -6,17 +6,11 @@
 
 # Coder Roadmap, From Zero to Hero in Learning Anything
 
-[Coder Roadmap]() 及其链接的资料([Awesome Links](), [Awesome CheatSheet](), [coding-snippets](), [design pattern snippets](), [algorithm snippets]())是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+[Coder Roadmap](./) 及其链接的资料([Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) [coding-snippets](https://github.com/wxyyxc1992/coding-snippets), [design pattern snippets](https://github.com/wxyyxc1992/design-pattern-snippets), [algorithm snippets](https://github.com/wxyyxc1992/algorithm-snippets))是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+
+![default](https://user-images.githubusercontent.com/5803001/47262684-025c2e00-d522-11e8-8c82-4a5afcf428d1.png)
 
 **建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
-
-其主要由以下部分内容组成：
-
-- 指南型仓库，[Coder Roadmap](./) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结。
-
-- 资源型仓库，[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 为我们提供了各个领域的精选资料、书籍、课程、开源项目等可供参考的资源，并按照 [Coder Roadmap](./) 中的知识结构分门别类地存放。[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), 按照知识图谱来将各个领域的有效的链接沉淀下来。[Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet)，即是对于某个领域、方向的精华，以及日常工作中常用知识点的归档。无论是快速学习，还是作为日常开发中的工具手册，都是极好的。[Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 是对于优秀书籍的搜集。
-
-- 实战型仓库，[coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 是多语言版本的数据架构与算法，设计模式，常用代码片等实现。
 
 # Preface | 前言
 
@@ -29,6 +23,16 @@
 所谓编程能力，并不仅仅是编写代码(Write Code)的能力，而是包含了阅读、编写、理解、重构、抽象等多个方面，是所谓的代码管理/掌控。其外在表现之一即是能够随时随地用合适的语言无阻塞地实现某些功能需求，对于常见的语法，接口，算法，设计模式等能够做到心随意动，信手拈来。编程能力是提升研发效能的重要保障，于笔者而言也是毕生应该追求的目标与爱好之一。笔者的编程能力较弱，日常开发，特别是在多语言多框架并用的场景下，往往会需要不断地中断，查找以继续工作，也是令我颇为苦恼。笔者目前是致力于完善 [Awesome Cheatsheet: 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)，对于日常开发中用到的相关知识的备忘录/清单进行总结, 快速掌握或者回顾某个语言/框架/工具的语法或使用要点。同时将常用的，有借鉴或者锻炼价值的代码片，沉淀到 [coding-snippets: Code Snippets, DataStructure, Algorithm and DesignPattern Implementations for Several Programming Language, Web, etc.](https://github.com/wxyyxc1992/coding-snippets) 中。
 
 所谓知识深度，即是能够对某个方面做到深入了解，并且达到融会贯通，洞若观火，可以随心所欲地加以扩展、优化、创新等改造或变换。这方面则更加的见仁见智，不同的领域与方向对于深度的定义与挖掘方向也是千差万别。笔者自知能力有限，也不敢妄加评判，根据自己浅薄的认知将常见的工程师成长路径总结在了 [RoadMap, 成长路线图](./RoadMap) 中，此外若有兴趣可以前往笔者的 [Github 笔记仓库](https://github.com/wxyyxc1992?tab=repositories)浏览指正某些领域的浅薄探究。
+
+## Index | 索引
+
+其主要由以下部分内容组成：
+
+- 指南型仓库，[Coder Roadmap](./) 为我们提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的学习成长路线与面试必备内容。[Tech Road, 技术之路](./TechRoad)是对于笔者多年学习与认知变迁的总结。
+
+- 资源型仓库，[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), [Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet), [Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 为我们提供了各个领域的精选资料、书籍、课程、开源项目等可供参考的资源，并按照 [Coder Roadmap](./) 中的知识结构分门别类地存放。[Awesome Links](https://github.com/wxyyxc1992/Awesome-Links), 按照知识图谱来将各个领域的有效的链接沉淀下来。[Awesome CheatSheet](https://github.com/wxyyxc1992/Awesome-CheatSheet)，即是对于某个领域、方向的精华，以及日常工作中常用知识点的归档。无论是快速学习，还是作为日常开发中的工具手册，都是极好的。[Awesome CS Books Warehouse](https://github.com/wxyyxc1992/Awesome-CS-Books-Warehouse) 是对于优秀书籍的搜集。
+
+- 实战型仓库，[coding-snippets](https://github.com/wxyyxc1992/coding-snippets) 是多语言版本的数据架构与算法，设计模式，常用代码片等实现。
 
 ## 延伸
 
