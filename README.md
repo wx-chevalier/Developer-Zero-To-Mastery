@@ -6,7 +6,7 @@
 
 # Developer From Zero to Hero/Mastery for Learning Anything
 
-[Developer From Zero to Mastery](./) 及其链接的资料是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+[Developer From Zero to Mastery](./) 及其链接的资料是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，技术广度是技术深度的附属，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
 ![default](https://user-images.githubusercontent.com/5803001/47262684-025c2e00-d522-11e8-8c82-4a5afcf428d1.png)
 
