@@ -2,13 +2,41 @@
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
-> 请注意，仓库正在重构中，部分链接可能失效！！！
+# 某熊的技术之路指北 ☯
+
+当我们站在技术之路的原点，未来可能充满了迷茫，也存在着很多不同的可能；我们可能成为 **Web/(大)前端/终端工程师、服务端架构工程师、测试/运维/安全工程师等质量保障、可用性保障相关的工程师、大数据/云计算/虚拟化工程师、算法工程师、产品经理**等等某个或者某几个角色。[某熊的技术之路](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery)系列文章/书籍/视频/代码即是笔者蹒跚行进于这条路上的点滴印记，
+
+路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
+
+[![image.png](https://i.postimg.cc/7Lq1rwBT/image.png)](https://postimg.cc/bZFSQcfz)
+
+# 0.阅读，笔记与编码
+
+知行合一，知是行之始，行是知之成。
+
+Linus Torvalds — 'Talk is cheap. Show me the code.'
+
+前文重在讨论如何拓宽技术视野、追寻技术的广度，但是需要铭记的是，技术深度才是技术广度的基石，正如中国自古以来常用道术之辩，知其然，也要知其所以然；亦如 Richard Feynman 所述：”What I cannot create, I do not understand.”。我们需要自己去从零开始造些轮子，才能深刻理解使用的框架/库/平台的内部原理，才能在碰到故障时快速地修复；在下文的几乎每个章节中，我们都会提到某些笔者自造的轮子。
+
+# 1.编程语言
+
+# 2.Web 与大前端工程师
+
+# 3.服务端架构工程师
+
+# 4.测试/运维/安全工程师
+
+# 5.大数据/云计算/虚拟化工程师
+
+# 6.算法工程师
+
+# 7.产品经理
 
 # Developer From Zero to Hero/Mastery for Learning Anything
 
 [Developer From Zero to Mastery](./) 及其链接的资料是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，技术广度是技术深度的附属，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
-![default](https://user-images.githubusercontent.com/5803001/47262684-025c2e00-d522-11e8-8c82-4a5afcf428d1.png)
+![default](https://i.postimg.cc/7Lq1rwBT/image.png)
 
 **建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search)/[alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
 
