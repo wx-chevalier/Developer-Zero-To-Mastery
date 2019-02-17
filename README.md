@@ -8,7 +8,7 @@
 
 路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
 
-[![image.png](https://i.postimg.cc/MHBjgpQR/image.png)](https://postimg.cc/bZFSQcfz)
+[![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
 
 # 0.阅读，笔记与编码
 
@@ -36,7 +36,7 @@ Linus Torvalds — 'Talk is cheap. Show me the code.'
 
 [Developer From Zero to Mastery](./) 及其链接的资料是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，技术广度是技术深度的附属，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
-![default](https://i.postimg.cc/MHBjgpQR/image.png)
+![default](https://i.postimg.cc/y1QXgJ6f/image.png)
 
 **建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search)/[alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
 
