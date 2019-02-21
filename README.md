@@ -4,23 +4,29 @@
 
 # 某熊的技术之路指北 ☯
 
-当我们站在技术之路的原点，未来可能充满了迷茫，也存在着很多不同的可能；我们可能成为 **Web/(大)前端/终端工程师、服务端架构工程师、测试/运维/安全工程师等质量保障、可用性保障相关的工程师、大数据/云计算/虚拟化工程师、算法工程师、产品经理**等等某个或者某几个角色。[某熊的技术之路](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery)系列文章/书籍/视频/代码即是笔者蹒跚行进于这条路上的点滴印记，本文就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。我们也可以在笔者的[个人主页](https://wxyyxc1992.github.io/home/#/search)，或者[公众号（WIP）](https://i.postimg.cc/mDxdH0VL/image.png)中，或者使用 [alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 这样的本地工具进行关键字检索。
+当我们站在技术之路的原点，未来可能充满了迷茫，也存在着很多不同的可能；我们可能成为 **Web/(大)前端/终端工程师、服务端架构工程师、测试/运维/安全工程师等质量保障、可用性保障相关的工程师、大数据/云计算/虚拟化工程师、算法工程师、产品经理**等等某个或者某几个角色。[某熊的技术之路](https://github.com/topics/wx-doc)系列文章/书籍/视频/代码即是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
 
-路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
+[本指北](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。我们也可以在笔者的[个人主页](https://wxyyxc1992.github.io/home/#/search)，或者[公众号（WIP）](https://i.postimg.cc/mDxdH0VL/image.png)中，或者使用 [alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 这样的本地工具进行关键字检索。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
 
 [![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
 
 # 0.阅读，笔记与编码
 
-知行合一，知是行之始，行是知之成。
+工欲善其事，必先利其器，站在技术之路的起点，我们自然希望自己能够快速成长，少走弯路，早日登临彼岸。于笔者而言，常常郁结于胸的就是以下三个问题：
 
-Linus Torvalds — 'Talk is cheap. Show me the code.'
+- 应该学习什么？这是怎样的一个技术世界？存在着怎样的高峰与路径？
+- 如何克服遗忘带来的无效学习？
+- 如何不再碎片化地学习？
+
+于本质而言，也就是需要拓展自己的技术广度，精进自己的技术深度，锤炼自己的编程能力。我们先从技术广度与视野谈起。所谓登高望远，我们想要站在巨人的肩膀上，首先就是要从阅读优秀的书籍、文章开始。[Awesome Lists](https://github.com/wxyyxc1992/Awesome-Lists) 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一。
+
+在自己的知识体系下随看随记、定期整理。
 
 [笔者的文档札记](https://github.com/topics/wx-doc)即是笔者自身技术视野与认知的外化，也类比于外设之于内存，在需要的时候分页加载到脑海中使用，以应对这知识爆炸的时代。
 
 笔者目前选择的是以 MarkDown 格式记录，并且将所有的笔记存放于 [Github](https://github.com/topics/wx-doc) 以 Git 方式进行版本管理；编辑器是直接使用的 VSCode，移动端编辑的话也是用的 GitGo/WorkCopy 这样的 Git 应用。
 
-在自己的知识体系下随看随记、定期整理。
+知行合一，知是行之始，行是知之成。Linus Torvalds — 'Talk is cheap. Show me the code.'
 
 前文重在讨论如何拓宽技术视野、追寻技术的广度，但是需要铭记的是，技术深度才是技术广度的基石，正如中国自古以来常用道术之辩，知其然，也要知其所以然；亦如 Richard Feynman 所述：”What I cannot create, I do not understand.”。我们需要自己去从零开始造些轮子，才能深刻理解使用的框架/库/平台的内部原理，才能在碰到故障时快速地修复；在下文的几乎每个章节中，我们都会提到某些笔者自造的轮子。
 
@@ -37,14 +43,6 @@ Linus Torvalds — 'Talk is cheap. Show me the code.'
 # 6.算法工程师
 
 # 7.产品经理
-
-# Developer From Zero to Hero/Mastery for Learning Anything
-
-[Developer From Zero to Mastery](./) 及其链接的资料是笔者对三个问题的思考：缓解前路的迷茫、克服遗忘带来的无效学习、不再碎片化地学习，技术广度是技术深度的附属，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
-
-![default](https://i.postimg.cc/y1QXgJ6f/image.png)
-
-**建议前往 [xCompass](https://wxyyxc1992.github.io/home/#/search)/[alfred-sg](https://github.com/wxyyxc1992/Soogle/tree/master/alfred-sg) 交互式地检索、查找需要的文章/链接/书籍/课程，或者直接浏览本仓库的目录以了解更多内容。**
 
 # Navigation | 导航
 
