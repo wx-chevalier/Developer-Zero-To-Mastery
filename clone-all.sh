@@ -1,4 +1,4 @@
-!/bin/sh
+# !/bin/sh
 
 git clone https://github.com/wxyyxc1992/AIDL-Series
 git clone https://github.com/wxyyxc1992/Awesome-CheatSheets
