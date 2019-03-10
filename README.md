@@ -103,6 +103,12 @@
 
 很多时候，自己动手做些小产品也是有趣的事情，譬如 [MushiChat](https://github.com/wxyyxc1992/MushiChat) 这样的聊天平台与聊天机器人、[IoTable](https://github.com/wxyyxc1992/IoTable) 这样在 IoT 领域的一些探索。
 
+# 延伸阅读
+
+欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号或[某熊的技术之路指北](https://github.com/wxyyxc1992/Developer-Zero-To-Mastery)，让我们一起前行。
+
+[![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
+
 # Copyright | 版权
 
 ![](https://parg.co/bDY) ![](https://parg.co/bDm)
