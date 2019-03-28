@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/USw)](https://parg.co/bxN)
 
-> [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541) 翻译自 [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)  从属于笔者的  [Web 前端入门与工程实践](https://github.com/wxyyxc1992/Web-Frontend-Introduction-And-Engineering-Practices)。下文提到的很多问题从算法角度并不一定要么困难，不过用 JavaScript 内置的 API 来完成还是需要一番考量的。
+> [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541) 翻译自 [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)  从属于笔者的  [Web 前端入门与工程实践](https://github.com/wx-chevalier/Web-Frontend-Introduction-And-Engineering-Practices)。下文提到的很多问题从算法角度并不一定要么困难，不过用 JavaScript 内置的 API 来完成还是需要一番考量的。
 
 # JavaScript Specification
 

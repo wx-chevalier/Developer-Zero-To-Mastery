@@ -139,7 +139,7 @@ JVM 相关。(你读过 GC 相关源码吗？)代码规范，包命名规范收�
 
 ## Java
 
-关于此部分的详细索引可以参考笔者的[Java 入门与最佳实践](https://github.com/wxyyxc1992/WXJavaToolkits)系列文章。
+关于此部分的详细索引可以参考笔者的[Java 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits)系列文章。
 
 ### 字符串处理
 
@@ -163,11 +163,11 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 
 ### JVM 内部原理
 
-关于 JVM 部分的详细索引可以参考笔者的[JVM 入门与最佳实践](https://github.com/wxyyxc1992/WXJavaToolkits#jvmjava-virtual-machine)
+关于 JVM 部分的详细索引可以参考笔者的[JVM 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits#jvmjava-virtual-machine)
 
 ## JavaScript
 
-关于 JavaScript 部分的详细索引可以参考笔者的[JavaScript 入门与最佳实践](https://github.com/wxyyxc1992/web-frontend-practice-handbook#javascript)
+关于 JavaScript 部分的详细索引可以参考笔者的[JavaScript 入门与最佳实践](https://github.com/wx-chevalier/web-frontend-practice-handbook#javascript)
 
 ### 常用数据类型
 
@@ -187,7 +187,7 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 
 # 数据结构与算法
 
-关于数据结构与算法系列详细的文章列表可以参考笔者的[数据结构与算法系列综述](https://github.com/wxyyxc1992/just-coder-handbook/blob/master/DataStructure/README.md#graph%E5%9B%BE)
+关于数据结构与算法系列详细的文章列表可以参考笔者的[数据结构与算法系列综述](https://github.com/wx-chevalier/just-coder-handbook/blob/master/DataStructure/README.md#graph%E5%9B%BE)
 笔者也是本次校招开始之后短短月余的时间才开始刷题，如果只是为了应付校招多学点套路也能说得过去，但是刷题本身的热趣确实挺有意思。关注笔者的博客或者 Github 的朋友应该知道，笔者过去几年里一直以工程应用于产品开发为重，老实说，很多时候解决真实场景下的问题需要动的脑子不如做几个算法题，可能带来的成就感也见仁见智。以华为为例，还有一种常见的 OJ 题目便是场景题，并不需要多么复杂的算法设计与考虑，而主要考察你对于用户需求的理解与具体编程能力、编程的精细度与代码掌控力的探查。
 
 ## 字符串操作
@@ -236,13 +236,13 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 
 ### 性能优化
 
-前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。在笔者自己的知识体系内，当我们想为用户呈现更好的视觉效果与用户体验时，我们往往会从[性能评测与监控](https://github.com/wxyyxc1992/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Benchmark.md)、[资源与请求优化](https://github.com/wxyyxc1992/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Resource-Request.md)、[加载策略](https://github.com/wxyyxc1992/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Load.md)、[首页与关键路径](https://github.com/wxyyxc1992/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-HomePage-CriticalPath.md)、[渲染优化](https://github.com/wxyyxc1992/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Render.md)这几个方面进行考虑。
+前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。在笔者自己的知识体系内，当我们想为用户呈现更好的视觉效果与用户体验时，我们往往会从[性能评测与监控](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Benchmark.md)、[资源与请求优化](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Resource-Request.md)、[加载策略](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Load.md)、[首页与关键路径](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-HomePage-CriticalPath.md)、[渲染优化](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Render.md)这几个方面进行考虑。
 
 ### 响应式网页
 
 ## Web 网络安全
 
-这部分可以参考笔者的[信息安全系列文章](https://github.com/wxyyxc1992/infosecurity-handbook)，如果对 Web 网络安全基础想要有个了解可以阅读[笔者翻译的 Martin Fowler 的 Web 应用安全基础](https://segmentfault.com/a/1190000004983446)。
+这部分可以参考笔者的[信息安全系列文章](https://github.com/wx-chevalier/infosecurity-handbook)，如果对 Web 网络安全基础想要有个了解可以阅读[笔者翻译的 Martin Fowler 的 Web 应用安全基础](https://segmentfault.com/a/1190000004983446)。
 
 ### SQL 注入
 
@@ -276,7 +276,7 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 
 ### Redis
 
-关于 Redis 部分的详细知识点可以参考笔者的[Redis 入门与最佳实践](https://github.com/wxyyxc1992/infrastructure-handbook#redis)
+关于 Redis 部分的详细知识点可以参考笔者的[Redis 入门与最佳实践](https://github.com/wx-chevalier/infrastructure-handbook#redis)
 
 #### Redis 基础数据结构
 

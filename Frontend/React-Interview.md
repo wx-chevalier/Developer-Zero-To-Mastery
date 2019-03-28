@@ -235,4 +235,4 @@ this.setState((prevState, props) => {
 })
 ```
 
-这段代码没啥问题，不过只是不太常用罢了，详细可以参考[React 中 setState 同步更新策略](https://zhuanlan.zhihu.com/p/24781259?refer=wxyyxc1992)
+这段代码没啥问题，不过只是不太常用罢了，详细可以参考[React 中 setState 同步更新策略](https://zhuanlan.zhihu.com/p/24781259?refer=wx-chevalier)
