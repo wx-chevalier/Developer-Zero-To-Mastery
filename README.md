@@ -59,7 +59,7 @@
 - [fractal-components](https://github.com/wx-chevalier/fractal-components) 则是笔者日常工作中总结出来的应用、组件库以及组件开发模式，为了保证其独立性与复用性，笔者以不同的方式实现了组件。
 - [Ueact](https://github.com/wx-chevalier/Ueact) 旨在从零开始实现自定义的组件系统，多调和策略与数据流响应方式，同时能够被渲染/编译到多种组件。
 - [Legoble](https://github.com/wx-chevalier/Legoble) 则承载了自己实现一款可视化的应用构建工具的念想。
-- [Pudding](https://github.com/wx-chevalier/Pudding) 是有关于 Web Automation、多维度记录、回放、优化工具等集合。
+- [HoloWeb](https://github.com/wx-chevalier/HoloWeb) 是有关于 Web Automation、多维度记录、回放、优化工具等集合。
 
 # 3.服务端架构工程师
 
