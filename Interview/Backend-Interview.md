@@ -242,8 +242,6 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 
 ## Web 网络安全
 
-这部分可以参考笔者的[信息安全系列文章](https://github.com/wx-chevalier/infosecurity-handbook)，如果对 Web 网络安全基础想要有个了解可以阅读[笔者翻译的 Martin Fowler 的 Web 应用安全基础](https://segmentfault.com/a/1190000004983446)。
-
 ### SQL 注入
 
 ### XSS

@@ -68,11 +68,9 @@ render () {
 
 # 如果你创建了类似于下面的`Twitter`元素，那么它相关的类定义是啥样子的？
 
-```
-<Twitter username='tylermcginnis33'>
-  {(user) => user === null
-    ? <Loading />
-    : <Badge info={user} />}
+```js
+<Twitter username="tylermcginnis33">
+    {user => (user === null ? <Loading /> : <Badge info={user} />)}
 </Twitter>
 ```
 
@@ -88,23 +86,22 @@ class Twitter extends Component {
 
 如果你还不熟悉回调渲染模式(Render Callback Pattern)，这个代码可能看起来有点怪。这种模式中，组件会接收某个函数作为其子组件，然后在渲染函数中以`props.children`进行调用：
 
-```
-import React, { Component, PropTypes } from 'react'
-import fetchUser from 'twitter'
+```js
+import React, { Component, PropTypes } from 'react';
+import fetchUser from 'twitter';
 class Twitter extends Component {
-  state = {
-    user: null,
-  }
-  static propTypes = {
-    username: PropTypes.string.isRequired,
-  }
-  componentDidMount () {
-    fetchUser(this.props.username)
-      .then((user) => this.setState({user}))
-  }
-  render () {
-    return this.props.children(this.state.user)
-  }
+  state = {
+    user: null
+  };
+  static propTypes = {
+    username: PropTypes.string.isRequired
+  };
+  componentDidMount() {
+    fetchUser(this.props.username).then(user => this.setState({ user }));
+  }
+  render() {
+    return this.props.children(this.state.user);
+  }
 }
 ```
 
@@ -122,48 +119,48 @@ class Twitter extends Component {
 
 React 的核心组成之一就是能够维持内部状态的自治组件，不过当我们引入原生的 HTML 表单元素时(input,select,textarea 等)，我们是否应该将所有的数据托管到 React 组件中还是将其仍然保留在 DOM 元素中呢？这个问题的答案就是受控组件与非受控组件的定义分割。受控组件(Controlled Component)代指那些交由 React 控制并且所有的表单数据统一存放的组件。譬如下面这段代码中`username`变量值并没有存放到 DOM 元素中，而是存放在组件状态数据中。任何时候我们需要改变`username`变量值时，我们应当调用`setState`函数进行修改。
 
-```
+```js
 class ControlledForm extends Component {
-  state = {
-    username: ''
-  }
-  updateUsername = (e) => {
-    this.setState({
-      username: e.target.value,
-    })
-  }
-  handleSubmit = () => {}
-  render () {
-    return (
-      <form onSubmit={this.handleSubmit}>
-        <input
-          type='text'
-          value={this.state.username}
-          onChange={this.updateUsername} />
-        <button type='submit'>Submit</button>
-      </form>
-    )
-  }
+  state = {
+    username: ''
+  };
+  updateUsername = e => {
+    this.setState({
+      username: e.target.value
+    });
+  };
+  handleSubmit = () => {};
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+               {' '}
+        <input
+          type="text"
+          value={this.state.username}
+          onChange={this.updateUsername}
+        />
+                <button type="submit">Submit</button>     {' '}
+      </form>
+    );
+  }
 }
 ```
 
 而非受控组件(Uncontrolled Component)则是由 DOM 存放表单数据，并非存放在 React 组件中。我们可以使用 refs 来操控 DOM 元素：
 
-```
+```js
 class UnControlledForm extends Component {
-  handleSubmit = () => {
-    console.log("Input Value: ", this.input.value)
-  }
-  render () {
-    return (
-      <form onSubmit={this.handleSubmit}>
-        <input
-          type='text'
-          ref={(input) => this.input = input} />
-        <button type='submit'>Submit</button>
-      </form>
-    )
-  }
+  handleSubmit = () => {
+    console.log('Input Value: ', this.input.value);
+  };
+  render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+                <input type="text" ref={input => (this.input = input)} />
+                <button type="submit">Submit</button>     {' '}
+      </form>
+    );
+  }
 }
 ```
 
@@ -196,11 +193,9 @@ shouldComponentUpdate 允许我们手动地判断是否要进行组件更新，�
 
 如果我们使用`props.children.map`函数来遍历时会受到异常提示，因为在这种情况下`props.children`是对象(object)而不是数组(array)。React 当且仅当超过一个子元素的情况下会将`props.children`设置为数组，就像下面这个代码片：
 
-```
+```jsx
 <Parent>
-  <h1>Welcome.</h1>
-  <h2>props.children will now be an array</h2>
-
+    <h1>Welcome.</h1>  <h2>props.children will now be an array</h2>
 </Parent>
 ```
 
@@ -218,11 +213,10 @@ createElement 函数是 JSX 编译之后使用的创建 React Element 的函数�
 
 该函数会在`setState`函数调用完成并且组件开始重渲染的时候被调用，我们可以用该函数来监听渲染是否完成：
 
-```
-this.setState(
-  { username: 'tylermcginnis33' },
-  () => console.log('setState has finished and the component has re-rendered.')
-)
+```js
+this.setState({ username: 'tylermcginnis33' }, () =>
+  console.log('setState has finished and the component has re-rendered.')
+);
 ```
 
 # 下述代码有错吗？
