@@ -115,9 +115,11 @@ JVM 相关。(你读过 GC 相关源码吗？)代码规范，包命名规范收�
 
 ## Java
 
-并发编程相关内容。
+### 并发编程
 
 - 对于原子操作而言，synchronized, cas, AtomicInterger, LongAdder 哪种方式性能较好，为什么？
+
+- 如下
 
 ## Go
 
@@ -138,8 +140,6 @@ JVM 相关。(你读过 GC 相关源码吗？)代码规范，包命名规范收�
 ## Java
 
 关于此部分的详细索引可以参考笔者的[Java 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits)系列文章。
-
-### 字符串处理
 
 ### 集合类型
 
@@ -162,26 +162,6 @@ Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才
 ### JVM 内部原理
 
 关于 JVM 部分的详细索引可以参考笔者的[JVM 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits#jvmjava-virtual-machine)
-
-## JavaScript
-
-关于 JavaScript 部分的详细索引可以参考笔者的[JavaScript 入门与最佳实践](https://github.com/wx-chevalier/web-frontend-practice-handbook#javascript)
-
-### 常用数据类型
-
-### 函数与闭包
-
-### 面向对象:原型继承与 this
-
-# CS 通识
-
-## 操作系统
-
-## 网络
-
-## 并发编程
-
-## 设计模式
 
 # 数据结构与算法
 
