@@ -142,6 +142,10 @@ public class Singleton {
 
 - Goroutine 机制简述，与 JVM 线程的区别
 
+# MicroService & Spring Ecosystem
+
+- 你所在的公司/负责的项目组，是否使用过微服务；如果使用过，那么完整的研发部署流程会包含哪些关键的步骤、组件？
+
 # 数据结构与算法
 
 # 操作系统与网络
