@@ -1,6 +1,6 @@
 [![返回目录](https://parg.co/USw)](https://parg.co/bxN)
 
-> [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541) 翻译自 [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)  从属于笔者的  [Web 前端入门与工程实践](https://github.com/wx-chevalier/Web-Frontend-Introduction-And-Engineering-Practices)。下文提到的很多问题从算法角度并不一定要么困难，不过用 JavaScript 内置的 API 来完成还是需要一番考量的。
+> [JavaScript 面试中常见算法问题详解](https://zhuanlan.zhihu.com/p/25308541) 翻译自 [Interview Algorithm Questions in Javascript() {...}](https://github.com/kennymkchan/interview-questions-in-javascript)  从属于笔者的[Web 前端入门与工程实践](https://github.com/wx-chevalier/Web-Frontend-Introduction-And-Engineering-Practices)。下文提到的很多问题从算法角度并不一定要么困难，不过用 JavaScript 内置的 API 来完成还是需要一番考量的。
 
 # JavaScript Specification
 
@@ -366,16 +366,16 @@ function isBalanced(expression) {
 
 
   for (var i = 0; i < checkString.length; i++) {
-    if(checkString[i] === '{') {
-      stack.push(checkString[i]);
-    } else if (checkString[i] === '}') {
-      // Pop on an empty array is undefined
-      if (stack.length > 0) {
-        stack.pop();
-      } else {
-        return false;
-      }
-    }
+  if(checkString[i] === '{') {
+  stack.push(checkString[i]);
+  } else if (checkString[i] === '}') {
+  // Pop on an empty array is undefined
+  if (stack.length > 0) {
+  stack.pop();
+  } else {
+  return false;
+  }
+  }
   }
 
 
@@ -399,17 +399,17 @@ decimalToBinary(1000); // 1111101000
 
 function decimalToBinary(digit) {
   if(digit >= 1) {
-    // If digit is not divisible by 2 then recursively return proceeding
-    // binary of the digit minus 1, 1 is added for the leftover 1 digit
-    if (digit % 2) {
-      return decimalToBinary((digit - 1) / 2) + 1;
-    } else {
-      // Recursively return proceeding binary digits
-      return decimalToBinary(digit / 2) + 0;
-    }
+  // If digit is not divisible by 2 then recursively return proceeding
+  // binary of the digit minus 1, 1 is added for the leftover 1 digit
+  if (digit % 2) {
+  return decimalToBinary((digit - 1) / 2) + 1;
   } else {
-    // Exit condition
-    return '';
+  // Recursively return proceeding binary digits
+  return decimalToBinary(digit / 2) + 0;
+  }
+  } else {
+  // Exit condition
+  return '';
   }
 }
 ```
@@ -424,11 +424,11 @@ function recursiveBinarySearch(array, value, leftPosition, rightPosition) {
 
   var middlePivot = Math.floor((leftPosition + rightPosition) / 2);
   if (array[middlePivot] === value) {
-    return middlePivot;
+  return middlePivot;
   } else if (array[middlePivot] > value) {
-    return recursiveBinarySearch(array, value, leftPosition, middlePivot - 1);
+  return recursiveBinarySearch(array, value, leftPosition, middlePivot - 1);
   } else {
-    return recursiveBinarySearch(array, value, middlePivot + 1, rightPosition);
+  return recursiveBinarySearch(array, value, middlePivot + 1, rightPosition);
   }
 }
 ```

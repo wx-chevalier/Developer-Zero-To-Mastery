@@ -17,17 +17,17 @@ Refs 是 React 提供给我们的安全访问 DOM 元素或者某个组件实例
 ```
 class CustomForm extends Component {
   handleSubmit = () => {
-    console.log("Input Value: ", this.input.value)
+  console.log("Input Value: ", this.input.value)
   }
   render () {
-    return (
-      <form onSubmit={this.handleSubmit}>
-        <input
-          type='text'
-          ref={(input) => this.input = input} />
-        <button type='submit'>Submit</button>
-      </form>
-    )
+  return (
+  <form onSubmit={this.handleSubmit}>
+  <input
+  type='text'
+  ref={(input) => this.input = input} />
+  <button type='submit'>Submit</button>
+  </form>
+  )
   }
 }
 ```
@@ -38,12 +38,12 @@ class CustomForm extends Component {
 function CustomForm ({handleSubmit}) {
   let inputElement
   return (
-    <form onSubmit={() => handleSubmit(inputElement.value)}>
-      <input
-        type='text'
-        ref={(input) => inputElement = input} />
-      <button type='submit'>Submit</button>
-    </form>
+  <form onSubmit={() => handleSubmit(inputElement.value)}>
+  <input
+  type='text'
+  ref={(input) => inputElement = input} />
+  <button type='submit'>Submit</button>
+  </form>
   )
 }
 ```
@@ -55,11 +55,11 @@ Keys 是 React 用于追踪哪些列表中元素被修改、被添加或者被�
 ```
 render () {
   return (
-    <ul>
-      {this.state.todoItems.map(({task, uid}) => {
-        return <li key={uid}>{task}</li>
-      })}
-    </ul>
+  <ul>
+  {this.state.todoItems.map(({task, uid}) => {
+  return <li key={uid}>{task}</li>
+  })}
+  </ul>
   )
 }
 ```
@@ -70,7 +70,7 @@ render () {
 
 ```js
 <Twitter username="tylermcginnis33">
-    {user => (user === null ? <Loading /> : <Badge info={user} />)}
+  {user => (user === null ? <Loading /> : <Badge info={user} />)}
 </Twitter>
 ```
 
@@ -110,8 +110,8 @@ class Twitter extends Component {
 ```
 <Twitter username='tylermcginnis33'>
   {(user) => user === null
-    ? <Loading />
-    : <Profile info={user} />}
+  ? <Loading />
+  : <Profile info={user} />}
 </Twitter>
 ```
 
@@ -133,13 +133,13 @@ class ControlledForm extends Component {
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
-               {' '}
+        {' '}
         <input
           type="text"
           value={this.state.username}
           onChange={this.updateUsername}
         />
-                <button type="submit">Submit</button>     {' '}
+        <button type="submit">Submit</button> {' '}
       </form>
     );
   }
@@ -156,8 +156,8 @@ class UnControlledForm extends Component {
   render() {
     return (
       <form onSubmit={this.handleSubmit}>
-                <input type="text" ref={input => (this.input = input)} />
-                <button type="submit">Submit</button>     {' '}
+        <input type="text" ref={input => (this.input = input)} />
+        <button type="submit">Submit</button> {' '}
       </form>
     );
   }
@@ -170,8 +170,8 @@ class UnControlledForm extends Component {
 
 我们应当将 AJAX 请求放到 componentDidMount 函数中执行，主要原因有下：
 
-- React 下一代调和算法 Fiber 会通过开始或停止渲染的方式优化应用性能，其会影响到 componentWillMount 的触发次数。对于  componentWillMount 这个生命周期函数的调用次数会变得不确定，React 可能会多次频繁调用  componentWillMount。如果我们将 AJAX 请求放到  componentWillMount 函数中，那么显而易见其会被触发多次，自然也就不是好的选择。
-- 如果我们将 AJAX 请求放置在生命周期的其他函数中，我们并不能保证请求仅在组件挂载完毕后才会要求响应。如果我们的数据请求在组件挂载之前就完成，并且调用了`setState`函数将数据添加到组件状态中，对于未挂载的组件则会报错。而在  componentDidMount 函数中进行 AJAX 请求则能有效避免这个问题。
+- React 下一代调和算法 Fiber 会通过开始或停止渲染的方式优化应用性能，其会影响到 componentWillMount 的触发次数。对于 componentWillMount 这个生命周期函数的调用次数会变得不确定，React 可能会多次频繁调用 componentWillMount。如果我们将 AJAX 请求放到 componentWillMount 函数中，那么显而易见其会被触发多次，自然也就不是好的选择。
+- 如果我们将 AJAX 请求放置在生命周期的其他函数中，我们并不能保证请求仅在组件挂载完毕后才会要求响应。如果我们的数据请求在组件挂载之前就完成，并且调用了`setState`函数将数据添加到组件状态中，对于未挂载的组件则会报错。而在 componentDidMount 函数中进行 AJAX 请求则能有效避免这个问题。
 
 # shouldComponentUpdate 的作用是啥以及为何它这么重要？
 
@@ -195,7 +195,7 @@ shouldComponentUpdate 允许我们手动地判断是否要进行组件更新，�
 
 ```jsx
 <Parent>
-    <h1>Welcome.</h1>  <h2>props.children will now be an array</h2>
+  <h1>Welcome.</h1>  <h2>props.children will now be an array</h2>
 </Parent>
 ```
 
@@ -224,7 +224,7 @@ this.setState({ username: 'tylermcginnis33' }, () =>
 ```
 this.setState((prevState, props) => {
   return {
-    streak: prevState.streak + props.count
+  streak: prevState.streak + props.count
   }
 })
 ```
