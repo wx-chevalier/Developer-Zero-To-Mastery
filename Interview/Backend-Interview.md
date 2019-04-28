@@ -159,6 +159,7 @@ public class Singleton {
 ## 数据库基础
 
 - 为什么数据库索引中常使用合并排序算法？
+- 在分库分表的情况下，如果进行分页查询，应该使用 `limit 100，10 ORDER BY id` 还是 `where id > ? limit 10` 的形式？
 
 ## MySQL
 
