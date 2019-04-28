@@ -156,6 +156,10 @@ public class Singleton {
 
 # 数据库
 
+## 数据库基础
+
+- 为什么数据库索引中常使用合并排序算法？
+
 ## MySQL
 
 # 架构与设计
@@ -166,140 +170,10 @@ public class Singleton {
 
 关于此部分的详细索引可以参考笔者的[Java 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits)系列文章。
 
-### 集合类型
-
-### 流程控制
-
-#### 分支循环
-
-Java 中 Switch 可以使用 String 作为校验值，不过是在 1.6 之后才添加进来的，并且只能使用`hashCode`作为校验值。
-
-#### 运算符
-
-#### 异常处理
-
-### 并发编程
-
-#### 锁
-
-#### 内置的线程安全模型
-
-### JVM 内部原理
-
-关于 JVM 部分的详细索引可以参考笔者的[JVM 入门与最佳实践](https://github.com/wx-chevalier/WXJavaToolkits#jvmjava-virtual-machine)
-
 # 数据结构与算法
 
 关于数据结构与算法系列详细的文章列表可以参考笔者的[数据结构与算法系列综述](https://github.com/wx-chevalier/just-coder-handbook/blob/master/DataStructure/README.md#graph%E5%9B%BE)
 笔者也是本次校招开始之后短短月余的时间才开始刷题，如果只是为了应付校招多学点套路也能说得过去，但是刷题本身的热趣确实挺有意思。关注笔者的博客或者 Github 的朋友应该知道，笔者过去几年里一直以工程应用于产品开发为重，老实说，很多时候解决真实场景下的问题需要动的脑子不如做几个算法题，可能带来的成就感也见仁见智。以华为为例，还有一种常见的 OJ 题目便是场景题，并不需要多么复杂的算法设计与考虑，而主要考察你对于用户需求的理解与具体编程能力、编程的精细度与代码掌控力的探查。
-
-## 字符串操作
-
-### 模式匹配
-
-### 回文字串
-
-## 树与图
-
-### BFS 与 DFS
-
-#### 迷宫问题
-
-## 排序
-
-## 搜索
-
-## 科学计算
-
-## 优化算法
-
-### 递归
-
-### 动态规划
-
-#### 股票买卖
-
-### 回溯
-
-# Web 前端开发
-
-## DOM 基础
-
-## HTML+CSS 基础
-
-## 常用框架与类库
-
-### React
-
-## 常用构建工具
-
-### Webpack
-
-## 前端优化
-
-### 性能优化
-
-前端优化的根本目的是为了有一个更好地用户体验的同时尽可能减少后端负载压力。即保证更少的加载时间、更快的首屏渲染、更流畅的用户交互。在笔者自己的知识体系内，当我们想为用户呈现更好的视觉效果与用户体验时，我们往往会从[性能评测与监控](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Benchmark.md)、[资源与请求优化](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Resource-Request.md)、[加载策略](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Load.md)、[首页与关键路径](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-HomePage-CriticalPath.md)、[渲染优化](https://github.com/wx-chevalier/web-frontend-practice-handbook/blob/master/advanced/Optimization/FrontendOptimization-Render.md)这几个方面进行考虑。
-
-### 响应式网页
-
-## Web 网络安全
-
-### SQL 注入
-
-### XSS
-
-### CSRF
-
-### WebShell
-
-# 服务端应用程序
-
-## API 层
-
-## 应用层
-
-### Spring
-
-#### Bean
-
-- 远程 Bean 的构建
-
-### Express
-
-#### AOP
-
-# 基础架构与大数据
-
-## 数据存储
-
-### MySQL
-
-### Redis
-
-关于 Redis 部分的详细知识点可以参考笔者的[Redis 入门与最佳实践](https://github.com/wx-chevalier/infrastructure-handbook#redis)
-
-#### Redis 基础数据结构
-
-#### Redis 集群
-
-#### Redis 底层架构
-
-#### Redis 调优
-
-## Hadoop Ecosystem
-
-笔者在这里并没有列举 Spark/Storm/Flink 这些，感觉这些针对性可能更强一点，如果大家觉得这部分也有很大的必要列入清单请留言。
-
-### HDFS
-
-### MapReduce
-
-### HBase
-
-### Hive
-
-## Virtualization
 
 # 面试随笔
 
