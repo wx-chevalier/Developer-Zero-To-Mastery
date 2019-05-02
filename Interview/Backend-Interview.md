@@ -140,7 +140,8 @@ public class Singleton {
 
 ## Go
 
-- Goroutine 机制简述，与 JVM 线程的区别
+- Goroutine 机制简述，其与 JVM 线程的区别。
+- Go 中应该如何创建新的对象，make 关键字常用于哪些场景下。
 
 # MicroService & Spring Ecosystem
 
@@ -160,6 +161,7 @@ public class Singleton {
 
 - 为什么数据库索引中常使用合并排序算法？
 - 在分库分表的情况下，如果进行分页查询，应该使用 `limit 100，10 ORDER BY id` 还是 `where id > ? limit 10` 的形式？
+- 如果某条 SQL 执行较慢，能否分析下其原因？
 
 ## MySQL
 
