@@ -42,10 +42,6 @@
 
 在编程语言之上，我们就需要考虑如何去实现真正的软件系统，譬如 [软件工程基础](https://github.com/wx-chevalier/SoftwareEngineering-Series) 系列中的**开发工具/Git 漫谈、软件系统架构、软件质量保障**等内容，我们也可以自己去实现一些自己的工具，譬如笔者的 [Soogle](https://github.com/wx-chevalier/Soogle) 是构建自身搜索、外部服务访问能力的工具集合；而 [xCompass](https://github.com/wx-chevalier/xCompass) 是包含个人主页在内的多端阅读能力的源代码仓库。
 
----
-
-在 []()
-
 # 2.Web 与大前端工程师
 
 如果您对于 JavaScript 基础语法尚不完全了解，那么建议您首先浏览[现代 JavaScript 语法基础与工程实践](https://parg.co/UIj)或者 [JavaScript-CheatSheet](https://github.com/wx-chevalier/Awesome-CheatSheets/blob/master/ProgrammingLanguage/JavaScript/JavaScript-CheatSheet.md) 以了解基础的 JavaScript 语法及实践应用。
@@ -62,9 +58,13 @@
 在阅读之外，我们同样需要进行大量的代码实践，不仅仅是熟悉常用的框架，还需要去积累自己的组件、框架等功能库：
 
 - [fe-boilerplates](https://github.com/wx-chevalier/fe-boilerplates) 是笔者对于日常工作中的基于 React/Vue.js 技术栈与实践的收集与沉淀；为了方便不同级别/熟练程度的开发者使用，笔者将模板尽可能地泛化为多个项目，包含了从入门级到生产环境，微前端等多个不同层次/复杂度的模板项目。
+
 - [fractal-components](https://github.com/wx-chevalier/fractal-components) 则是笔者日常工作中总结出来的应用、组件库以及组件开发模式，为了保证其独立性与复用性，笔者以不同的方式实现了组件。
+
 - [Ueact](https://github.com/wx-chevalier/Ueact) 旨在从零开始实现自定义的组件系统，多调和策略与数据流响应方式，同时能够被渲染/编译到多种组件。
+
 - [Legoble](https://github.com/wx-chevalier/Legoble) 则承载了自己实现一款可视化的应用构建工具的念想。
+
 - [HoloWeb](https://github.com/wx-chevalier/HoloWeb) 是有关于 Web Automation、多维度记录、回放、优化工具等集合。
 
 # 3.服务端架构工程师
