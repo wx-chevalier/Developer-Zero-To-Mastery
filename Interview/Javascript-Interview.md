@@ -266,7 +266,7 @@ function reverseBySeparator(string, separator) {
 
 ## 乱序同字母字符串
 
-给定两个字符串，判断是否颠倒字母而成的字符串，譬如`Mary`与`Army`就是同字母而顺序颠倒：
+给定两个字符串，判断是否颠倒字母而成的字符串，譬如 `Mary` 与 `Army` 就是同字母而顺序颠倒：
 
 ```js
 var firstWord = 'Mary';
@@ -346,42 +346,35 @@ function dequeue(stackInput, stackOutput) {
 
 创建一个函数来判断给定的表达式中的大括号是否闭合：
 
-```
-var expression = "{{}}{}{}"
-var expressionFalse = "{}{{}";
-
+```js
+var expression = '{{}}{}{}';
+var expressionFalse = '{}{{}';
 
 isBalanced(expression); // true
 isBalanced(expressionFalse); // false
-isBalanced(""); // true
-
+isBalanced(''); // true
 
 function isBalanced(expression) {
-  var checkString = expression;
-  var stack = [];
+  var checkString = expression;
+  var stack = []; // If empty, parentheses are technically balanced
 
+  if (checkString.length <= 0) return true;
 
-  // If empty, parentheses are technically balanced
-  if (checkString.length <= 0) return true;
+  for (var i = 0; i < checkString.length; i++) {
+    if (checkString[i] === '{') {
+      stack.push(checkString[i]);
+    } else if (checkString[i] === '}') {
+      // Pop on an empty array is undefined
+      if (stack.length > 0) {
+        stack.pop();
+      } else {
+        return false;
+      }
+    }
+  } // If the array is not empty, it is not balanced
 
-
-  for (var i = 0; i < checkString.length; i++) {
-  if(checkString[i] === '{') {
-  stack.push(checkString[i]);
-  } else if (checkString[i] === '}') {
-  // Pop on an empty array is undefined
-  if (stack.length > 0) {
-  stack.pop();
-  } else {
-  return false;
-  }
-  }
-  }
-
-
-  // If the array is not empty, it is not balanced
-  if (stack.pop()) return false;
-  return true;
+  if (stack.pop()) return false;
+  return true;
 }
 ```
 
@@ -391,45 +384,43 @@ function isBalanced(expression) {
 
 通过某个递归函数将输入的数字转化为二进制字符串：
 
-```
+```js
 decimalToBinary(3); // 11
 decimalToBinary(8); // 1000
 decimalToBinary(1000); // 1111101000
 
-
 function decimalToBinary(digit) {
-  if(digit >= 1) {
-  // If digit is not divisible by 2 then recursively return proceeding
-  // binary of the digit minus 1, 1 is added for the leftover 1 digit
-  if (digit % 2) {
-  return decimalToBinary((digit - 1) / 2) + 1;
-  } else {
-  // Recursively return proceeding binary digits
-  return decimalToBinary(digit / 2) + 0;
-  }
-  } else {
-  // Exit condition
-  return '';
-  }
+  if (digit >= 1) {
+    // If digit is not divisible by 2 then recursively return proceeding
+    // binary of the digit minus 1, 1 is added for the leftover 1 digit
+    if (digit % 2) {
+      return decimalToBinary((digit - 1) / 2) + 1;
+    } else {
+      // Recursively return proceeding binary digits
+      return decimalToBinary(digit / 2) + 0;
+    }
+  } else {
+    // Exit condition
+    return '';
+  }
 }
 ```
 
 ## 二分搜索
 
-```
+```js
 function recursiveBinarySearch(array, value, leftPosition, rightPosition) {
-  // Value DNE
-  if (leftPosition > rightPosition) return -1;
+  // Value DNE
+  if (leftPosition > rightPosition) return -1;
 
-
-  var middlePivot = Math.floor((leftPosition + rightPosition) / 2);
-  if (array[middlePivot] === value) {
-  return middlePivot;
-  } else if (array[middlePivot] > value) {
-  return recursiveBinarySearch(array, value, leftPosition, middlePivot - 1);
-  } else {
-  return recursiveBinarySearch(array, value, middlePivot + 1, rightPosition);
-  }
+  var middlePivot = Math.floor((leftPosition + rightPosition) / 2);
+  if (array[middlePivot] === value) {
+    return middlePivot;
+  } else if (array[middlePivot] > value) {
+    return recursiveBinarySearch(array, value, leftPosition, middlePivot - 1);
+  } else {
+    return recursiveBinarySearch(array, value, middlePivot + 1, rightPosition);
+  }
 }
 ```
 
