@@ -157,20 +157,21 @@ public class Singleton {
 
 ## 数据库原理
 
-- 为什么数据库索引中常使用合并排序算法？
+- 简述 `select city,name,age from person where city(存在索引)='武汉' order by name limit 100;` 的底层执行逻辑？为什么数据库索引中常使用合并排序算法？如果针对 `city-name` 添加了联合索引，那么执行逻辑上会有何区别？
 
-- 如果某条 SQL 执行较慢，能否分析下其原因？
+* InnoDB 事务提交后在底层都干了些什么？如果发生写失效(页 16KB 数据,只写了 8Kb),可以通过重做日志进行恢复,为什么还需要 double_write?
+
+- 简述 `update person set age = 30 where id = 1;` 在数据库引擎中的执行流程。
 
 - 在分库分表的情况下，一般如何设计跨库的分页查询；如果进行分页查询，应该使用 `limit 100，10 ORDER BY id` 还是 `where id > ? limit 10` 的形式？
 
-- InnoDB 事务提交后在底层都干了些什么？如果发生写失效(页 16KB 数据,只写了 8Kb),可以通过重做日志进行恢复,为什么还需要 double_write?
+* 如果某条 SQL 执行较慢，能否分析下其原因？
 
 ## MySQL
 
-1.为什么不建议使用订单号作为主键? 
-2.为什么要在需要排序的字段上加索引?
+1.为什么不建议使用订单号作为主键? 2.为什么要在需要排序的字段上加索引?
 3.for update 的记录不存在会导致锁住全表?
-4.redolog 和 binlog 有什么区别?
+4.Redo Log 和 Binlog 有什么区别?
 5.MySQL 如何回滚一条 sql ?
 6.char(50) 和 varchar(50) 效果是一样的么?
 
@@ -209,7 +210,7 @@ public class Singleton {
 
 1.为什么不建议使用订单号作为主键? 2.为什么要在需要排序的字段上加索引?
 3.for update 的记录不存在会导致锁住全表?
-4.redolog 和 binlog 有什么区别?
+4.Redo Log 和 Binlog 有什么区别?
 5.MySQL 如何回滚一条 sql ?
 6.char(50) 和 varchar(50) 效果是一样的么?
 
