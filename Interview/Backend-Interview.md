@@ -155,25 +155,21 @@ public class Singleton {
 
 # 数据存储
 
-## 数据库原理
+## MySQL 与 RDB
 
-- 简述 `select city,name,age from person where city(存在索引)='武汉' order by name limit 100;` 的底层执行逻辑？为什么数据库索引中常使用合并排序算法？如果针对 `city-name` 添加了联合索引，那么执行逻辑上会有何区别？
+- MySQL 中的主键应该选择怎样的策略去创建？常见的分布式 ID 生成的策略有哪些？为什么不建议使用订单号作为主键?
+
+- 简述 `select city,name,age from person where city(存在索引)='武汉' order by name limit 100;` 的底层执行逻辑？为什么数据库索引中常使用合并排序算法？如果针对 `city-name` 添加了联合索引，那么执行逻辑上会有何区别？为什么要在需要排序的字段上加索引?
 
 * InnoDB 事务提交后在底层都干了些什么？如果发生写失效(页 16KB 数据,只写了 8Kb),可以通过重做日志进行恢复,为什么还需要 double_write?
 
 - 简述 `update person set age = 30 where id = 1;` 在数据库引擎中的执行流程。
 
-- 在分库分表的情况下，一般如何设计跨库的分页查询；如果进行分页查询，应该使用 `limit 100，10 ORDER BY id` 还是 `where id > ? limit 10` 的形式？
+- MySQL 并发控制策略中的锁机制与 MVCC 分别会被用于哪些场景下？for update 的记录不存在会导致锁住全表?
 
 * 如果某条 SQL 执行较慢，能否分析下其原因？
 
-## MySQL
-
-1.为什么不建议使用订单号作为主键? 2.为什么要在需要排序的字段上加索引?
-3.for update 的记录不存在会导致锁住全表?
-4.Redo Log 和 Binlog 有什么区别?
-5.MySQL 如何回滚一条 sql ?
-6.char(50) 和 varchar(50) 效果是一样的么?
+* Redo Log 和 Binlog 有什么区别?
 
 ## 缓存
 
@@ -182,6 +178,8 @@ public class Singleton {
 ## 数据库拆分与中间件
 
 - 如何设计一个分布式用户登录系统，能够根据用户 ID 将请求分发到不同的服务器？
+
+- 在分库分表的情况下，一般如何设计跨库的分页查询；如果进行分页查询，应该使用 `limit 100，10 ORDER BY id` 还是 `where id > ? limit 10` 的形式？
 
 # 架构与设计
 
