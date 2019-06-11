@@ -223,3 +223,7 @@ public class Singleton {
 - 目前在项目中使用的数据库连接池是什么？如果是 HikariCP，那么其为什么性能相较于其他数据库会比较好？
 
 - Spring 中的定时器，在单线程模型下,假如定时任务是 5 秒执行一次,但是第一个任务就执行了 8 秒,第二个会怎么样呢?
+
+# 链接
+
+- https://mp.weixin.qq.com/s/4Zip0DVMGuJPMUnv_ySGIg
