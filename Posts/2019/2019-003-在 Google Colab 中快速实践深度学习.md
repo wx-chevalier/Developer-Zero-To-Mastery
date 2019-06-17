@@ -1,6 +1,6 @@
 > 本文很多是对于 [Colab 官方 Welcome](https://colab.research.google.com/notebooks) 系列的总结，更多人工智能与深度学习相关知识参考[人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Series](https://github.com/wx-chevalier/AIDL-Series) 系列文章。
 
-![]()
+![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/1/Deep-learningheader.jpg)
 
 # Colaboratory
 
