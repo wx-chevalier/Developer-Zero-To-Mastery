@@ -1,4 +1,4 @@
-![awesome coder](https://user-images.githubusercontent.com/5803001/43364904-59f5bda6-9356-11e8-9ab3-ae073d08bb9e.png)
+![](https://i.postimg.cc/NMknTtxL/image.png)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
