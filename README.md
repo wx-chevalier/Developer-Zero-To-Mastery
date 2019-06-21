@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/NMknTtxL/image.png)
+![](https://i.postimg.cc/wT5hpkk5/image.png)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
@@ -13,6 +13,10 @@
 如果你是为了应对面试，那么建议直接阅读每一小节尾部的面试题目介绍。
 
 # 0.阅读，笔记与编码
+
+| [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) | [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) | [Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+
 
 博观而约取，厚积而薄发。在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。于笔者而言，常常郁结于胸的就是以下三个问题：
 
@@ -108,12 +112,6 @@
 笔者目前积累不多，主要在 [Product Series | 产品迷思](https://github.com/wx-chevalier/Product-Series)中，其首先会关注**产品经理的基础素养、用户交互体验、文档处理等方面**。其次会讨论有关于**项目管理、通用的领域能力构建（流程引擎、CRM 等）以及对于经典产品的分析**。最后，该系列还会关注于具体的行业观点，譬如**电子商务、智能制造**等。
 
 很多时候，自己动手做些小产品也是有趣的事情，譬如 [MushiChat](https://github.com/wx-chevalier/MushiChat) 这样的聊天平台与聊天机器人、[IoTable](https://github.com/wx-chevalier/IoTable) 这样在 IoT 领域的一些探索。
-
-# 延伸阅读
-
-欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号或[某熊的技术之路指北](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)，让我们一起前行。
-
-[![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
 
 # Copyright | 版权
 
