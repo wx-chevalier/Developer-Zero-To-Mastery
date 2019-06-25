@@ -14,10 +14,6 @@
 
 # 0.阅读，笔记与编码
 
-| [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) | [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) | [Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-
-
 博观而约取，厚积而薄发。在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。于笔者而言，常常郁结于胸的就是以下三个问题：
 
 - 应该学习什么？这是怎样的一个技术世界？存在着怎样的高峰与路径？
@@ -38,6 +34,10 @@
 
 我们需要自己去从零开始造些轮子，才能深刻理解使用的框架/库/平台的内部原理，才能在碰到故障时快速地修复；在下文的几乎每个章节中，我们都会提到某些笔者自造的轮子。笔者目前将所有的文档归类到了不同的系列中，每个系列又分为 篇-章-节-小节 这样的层次结构。
 
+| [Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) | [Awesome-Lists](https://github.com/wx-chevalier/Awesome-Lists) | [Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+
+
 # 1.编程语言与软件工程
 
 编程语言是一切的基础，正如 Steve McConnell 在 [Code Complete](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) 一书中提及，我们应该 `Program into a language` 而不是 `Program in a language`，针对不同的需要选择合适的编程语言来实现，而不是受制于自己所会的语言。在[知识图谱](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/MindMap)中也包含了跨编程语言的公共知识杂谈，笔者与编程语言相关的文章存放在 [Programming Language Series | 编程语言语法基础与工程实践](https://github.com/wx-chevalier/ProgrammingLanguage-Series)仓库中，其涵盖了 **C/C++、Go、Java、JavaScript、Python、Rust、Swift** 等常见的语言，以及通用的[编程语言理论](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/编程语言理论)。
@@ -45,6 +45,10 @@
 编程能力锻炼的基础，首要的就是关于[数据结构与算法](https://github.com/wx-chevalier/SoftwareEngineering-Series/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)，以及[面向对象的设计模式](https://github.com/wx-chevalier/SoftwareEngineering-Series/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，其对应的代码分别存放在了 [coding-snippets](https://github.com/wx-chevalier/coding-snippets), [algorithm-snippets](https://github.com/wx-chevalier/algorithm-snippets), [design-pattern-snippets](https://github.com/wx-chevalier/design-pattern-snippets) 中。此外，我们还可以从零编写一些类似于 Guava & Lodash 这样的自己的通用工具库，笔者自身是整合在了 [Guash](https://github.com/wx-chevalier/guash) 中。
 
 在编程语言之上，我们就需要考虑如何去实现真正的软件系统，譬如 [软件工程基础](https://github.com/wx-chevalier/SoftwareEngineering-Series) 系列中的**开发工具/Git 漫谈、软件系统架构、软件质量保障**等内容，我们也可以自己去实现一些自己的工具，譬如笔者的 [Soogle](https://github.com/wx-chevalier/Soogle) 是构建自身搜索、外部服务访问能力的工具集合；而 [xCompass](https://github.com/wx-chevalier/xCompass) 是包含个人主页在内的多端阅读能力的源代码仓库。
+
+| [ProgrammingLanguage Theory Primer/编程语言理论指南](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/编程语言理论) | [JavaScript 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/JavaScript) | [Java 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Java) | [Python 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Python) | [Go 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Go) | [Rust 篇](https://github.com/wx-chevalier/ProgrammingLanguage-Series/blob/master/Rust) |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+
 
 # 2.Web 与大前端工程师
 
