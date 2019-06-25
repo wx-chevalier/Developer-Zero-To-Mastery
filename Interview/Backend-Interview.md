@@ -224,6 +224,11 @@ public class Singleton {
 
 - Spring 中的定时器，在单线程模型下,假如定时任务是 5 秒执行一次,但是第一个任务就执行了 8 秒,第二个会怎么样呢?
 
+# 高可用架构
+
+- 如何设计多租户隔离系统？可以从系统隔离、服务隔离、异地多活等多领域阐述？
+
 # 链接
 
 - https://mp.weixin.qq.com/s/4Zip0DVMGuJPMUnv_ySGIg
+- https://github.com/digoal/blog/blob/master/201806/20180623_01.md
