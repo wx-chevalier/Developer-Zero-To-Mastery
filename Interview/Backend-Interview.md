@@ -228,6 +228,12 @@ public class Singleton {
 
 - 如何设计多租户隔离系统？可以从系统隔离、服务隔离、异地多活等多领域阐述？
 
+# 典型业务系统
+
+## Feed
+
+- 如何设计 Feed 流系统，针对十万、千万、十亿等不同的用户体量时其设计有什么差异？
+
 # 链接
 
 - https://mp.weixin.qq.com/s/4Zip0DVMGuJPMUnv_ySGIg
