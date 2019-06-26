@@ -36,6 +36,8 @@
 
 - Hooks 函数式组件与类组件相比各有何优劣？
 
+- 猜想一下，React DevTools 是如何监听 React 的状态变化？
+
 ## Redux
 
 ## Vue
