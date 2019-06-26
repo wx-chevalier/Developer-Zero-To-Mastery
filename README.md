@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/wT5hpkk5/image.png)
+![](https://i.postimg.cc/NGX6X6GP/image.png)
 
 [中文版本](./README.md) | [English Version](./README-en.md)
 
