@@ -158,7 +158,7 @@
 
 - [自定义基于 JavaScript 的 16 位虚拟机](https://francisstokes.wordpress.com/2017/07/20/16-bit-vm-in-javascript/)：本文介绍了如何利用  JavaScript 自定义 16 位虚拟机，主要包括如何设计某个简单的汇编语言、如何构建某个编译器能够将 `*.asm` 文件编译为可执行格式、如何构建某个能够模拟内存、CPU 以及部分 IO 操作的虚拟机。文章内容依次介绍了虚拟硬件的基础、限制、汇编语言、编译器、调试器、编码与解码等内容；更多 JavaScript 相关资料参考[ https://parg.co/bMI  ](https://parg.co/bMI)。
 
-* [JavaScript 设计模式学习](https://parg.co/bgG)：本书是  Addy Osmani 著作的开源书籍，主要介绍面向 JavaScript 语言的经典与现代的常用设计模式。所谓设计模式即是软件设计中常见问题的可复用解决方案，对于任何一门编程语言都是非常值得探索的话题。本文首先概述了设计模式的基础理论，然后介绍了 JavaScript 中常见的十余种类与对象的设计模式，接下来介绍了 JavaScript 界面设计相关的 MV\*   设计模式，然后还介绍了 JavaScript 模块化设计以及 jQuery 中的设计模式等内容；更多 JavaScript 设计模式相关参考[ https://parg.co/bIO ](https://parg.co/bIO)。
+* [JavaScript 设计模式学习](https://parg.co/bgG)：本书是  Addy Osmani 著作的开源书籍，主要介绍面向 JavaScript 语言的经典与现代的常用设计模式。所谓设计模式即是软件设计中常见问题的可复用解决方案，对于任何一门编程语言都是非常值得探索的话题。本文首先概述了设计模式的基础理论，然后介绍了 JavaScript 中常见的十余种类与对象的设计模式，接下来介绍了 JavaScript 界面设计相关的 `MV*`   设计模式，然后还介绍了 JavaScript 模块化设计以及 jQuery 中的设计模式等内容；更多 JavaScript 设计模式相关参考[ https://parg.co/bIO ](https://parg.co/bIO)。
 
 - [V8 新的 Turbofan JIT 编译器带来的性能特性概述](https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/)：V8 JavaScript 引擎最早是 Google 为 Chrome 浏览器开发的 JavaScript 虚拟机，其设计的初衷就是为了让 JavaScript 能够高速运行；而这种性能优化的保障就是所谓 JIT 编译器。本文着眼于介绍 V8 新的 Turbofan JIT 编译器提供的新的性能特性能够为应用带来的优化；本文依次介绍了使用 delete 操作符与设置为 undefined 这两种不同的去除对象属性的方式在新的编译器下的表现差异、对于 Arguments 参数不同操作的对比、柯里函数与 bind 操作符的优化，以及对象遍历、对象创建和对于新旧引擎中对于常见的 Winston 等日志框架的性能对比等内容。更多 JavaScript 引擎相关知识参考[ https://parg.co/bgp  ](https://parg.co/bgp)
 
