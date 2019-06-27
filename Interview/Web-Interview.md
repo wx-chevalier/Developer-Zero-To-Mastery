@@ -50,6 +50,8 @@
 
 ## Redux & MobX
 
+- 为什么 Redux 的 Store 会使用不可变数据类型？
+
 - Redux 中的 Reducer 为何要设置为纯函数？常见的 Side Effects 应当在哪个模块中处理？
 
 - Redux 的中间件是如何实现的？如何在 Redux 中实现简单的 Promise 中间件？
