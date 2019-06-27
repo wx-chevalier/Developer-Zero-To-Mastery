@@ -47,3 +47,5 @@
 ## Redux & MobX
 
 - Redux 的中间件是如何实现的？如何在 Redux 中实现简单的 Promise 中间件？
+
+- Redux Sagas 为何要使用 Generator？其是如何处理 Effects 的？
