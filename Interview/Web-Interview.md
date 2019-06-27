@@ -8,7 +8,7 @@
 
 - V8 引擎中的对象与数组是如何存储的？为何 JS 的数组每个数据类型都可以不一样？为何 JS 的数组无需提前设置长度，是可变数组？为何数组可以像 Object 一样挂载任意属性？如果浏览器需要进行大规模数组运算，应该选择怎样的存储结构？
 
-- Event Loop 的基础概念是否了解？
+- Event Loop 的基础概念是否了解？浏览器中的 Event Loop 与 Node.js 中的 Event Loop 有何区别？
 
 - 如何在 TypeScript 中设计简单的 IoC & DI 框架？如何实现简单的接口注解以自动生成类 Swagger 文档？
 
@@ -32,14 +32,18 @@
 
 ## React & React Native
 
+- 为何在 JSX 或者 TSX 的文件首部需要引入 React？
+
 - 在 Antd 中如何实现主题切换的特性，如何在单个项目中打包多个不同版本的 Antd？
 
 - Hooks 函数式组件与类组件相比各有何优劣？
 
 - 猜想一下，React DevTools 是如何监听 React 的状态变化？
 
-## Redux
-
 ## Vue
 
 - v-if 指令是如何实现的？
+
+## Redux & MobX
+
+- Redux 的中间件是如何实现的？如何在 Redux 中实现简单的 Promise 中间件？
