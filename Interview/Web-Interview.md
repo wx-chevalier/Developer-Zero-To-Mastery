@@ -56,6 +56,6 @@
 
 - Redux 的中间件是如何实现的？如何在 Redux 中实现简单的 Promise 中间件？
 
-- Redux Sagas 为何要使用 Generator？其是如何处理 Effects 的？
+- Redux Sagas 为何要使用 Generator？put, get 等函数的原理是什么？其是如何处理 Effects 的？
 
 - MobX 是如何实现响应式监听的？MobX 与 Redux 相比其适用场景、工程案例上有何差异？
