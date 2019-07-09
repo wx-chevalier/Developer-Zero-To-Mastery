@@ -144,6 +144,10 @@ public class Singleton {
 }
 ```
 
+### JVM
+
+- 有时候在模拟有大量超时情况的 JMeter 压力测试中，前数分钟响应经常会超时，但是后面会突然降到毫秒级别，这可能是因为什么？
+
 ## Go
 
 - Goroutine 机制简述，其与 JVM 线程的区别。
@@ -254,16 +258,11 @@ public class Singleton {
 - https://mp.weixin.qq.com/s/4Zip0DVMGuJPMUnv_ySGIg
 - https://github.com/digoal/blog/blob/master/201806/20180623_01.md
 
-
-
-> [Java 进阶面试问题列表](https://zhuanlan.zhihu.com/p/24910702)翻译自[Java developer interview questions: The hard part](https://howtotrainyourjava.com/2016/07/14/java-developer-interview-questions-the-hard-part/)，从属于笔者的[Java入门与工程实践](https://github.com/wx-chevalier/Java-Introduction-And-Engineering-Practices)系列。最近公司打算招几个 Java 开发人员，正巧在 Reddit 上看到了该文，顺手翻译了一波。只是单纯的问题列表，可能较水，慎进。
-
+> [Java 进阶面试问题列表](https://zhuanlan.zhihu.com/p/24910702)翻译自[Java developer interview questions: The hard part](https://howtotrainyourjava.com/2016/07/14/java-developer-interview-questions-the-hard-part/)，从属于笔者的[Java 入门与工程实践](https://github.com/wx-chevalier/Java-Introduction-And-Engineering-Practices)系列。最近公司打算招几个 Java 开发人员，正巧在 Reddit 上看到了该文，顺手翻译了一波。只是单纯的问题列表，可能较水，慎进。
 
 ![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/1/2/QQ2017011611fas.png)
 
-
 # 面向对象编程的基本理念与核心设计思想
-
 
 - 解释下多态性(polymorphism)，封装性(encapsulation)，内聚(cohesion)以及耦合(coupling)。
 - 继承(Inheritance)与聚合(Aggregation)的区别在哪里。
@@ -276,17 +275,16 @@ public class Singleton {
 - 你会如何设计登陆舰/数学表达式计算程序/一条龙？
 - 你知道哪些基本的排序算法，它们的计算复杂度如何？在给定数据的情况下你会倾向于使用哪种算法呢？
 - 尝试编写如下代码：
-    - 计算指定数字的阶乘
+      - 计算指定数字的阶乘
 
-    - 开发 [Fizz Buzz](http://c2.com/cgi/wiki?FizzBuzzTest) 小游戏
-    - 倒转句子中的单词
-    - 回文字符串检测
+- 开发 [Fizz Buzz](http://c2.com/cgi/wiki?FizzBuzzTest)  小游戏
+      - 倒转句子中的单词
+      - 回文字符串检测
 
-    - 枚举给定字符串的所有排列组合
-
-
+- 枚举给定字符串的所有排列组合
 
 # Java 核心概念
+
 - equals 与 hashCode 的异同点在哪里？Java 的集合中又是如何使用它们的。
 - 描述下 Java 中集合(Collections)，接口(Interfaces)，实现(Implementations)的概念。LinkedList 与 ArrayList 的区别是什么？
 - 基础类型(Primitives)与封装类型(Wrappers)的区别在哪里？
@@ -302,8 +300,8 @@ public class Singleton {
 - 什么是 JIT 编译？
 - Java 8 / Java 7 为我们提供了什么新功能？即将到来的 Java 9 又带来了怎样的新功能？
 
-
 # Hibernate / 数据库
+
 - 请解释下 ORM。
 - 简述下 Hibernate 的优劣特性。
 - Hibernate 与 JPA 区别在哪？
@@ -320,8 +318,8 @@ public class Singleton {
 - 简述下数据库正则化(Normalizations)。
 - 请介绍下你日常工作中优化慢查询(Slow Query)的策略。
 
-
 # Spring
+
 - 新版的 Spring 中有哪些新特性？
 - 介绍下 Spring 的优势与缺陷。
 - 什么是控制反转(Inversion of Control)与依赖注入(Dependency Injection)？
@@ -333,11 +331,7 @@ public class Singleton {
 - Spring 中 Bean 的生命周期包含哪些步骤？
 - Spring Bean 与 EJB Bean 的区别在哪里？
 
-
-
-
 # 其他主题
-
 
 - 介绍下切面编程(Aspect Oriented Programming)。
 - 概述下 GET 与 POST 的区别。
@@ -355,22 +349,3 @@ public class Singleton {
 - 你使用什么版本管理工具？
 - 分支(Branch)与标签(Tag)之间的区别在哪里？
 - 你常用的持续集成(Continuous Integration)、静态代码分析(Static Code Analysis)工具有哪些？
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
