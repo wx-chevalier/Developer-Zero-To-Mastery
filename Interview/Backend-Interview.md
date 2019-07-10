@@ -194,6 +194,8 @@ public class Singleton {
 
 - Sentinel 是否会对服务带来额外负载？
 
+- 在发生故障时，我们应该优先恢复局部故障还是全局故障？
+
 # 基础架构
 
 ## Linux 与操作系统
