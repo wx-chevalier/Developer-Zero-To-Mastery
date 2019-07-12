@@ -8,4 +8,4 @@
 
 - [Awesome Book Warehouse]()
 
-- [coding-snippets](), [design-patterns-snippets](), [algods-snippets]()
+- [coding-snippets](), [design-patterns-snippets](), [algorithm-snippets]()
