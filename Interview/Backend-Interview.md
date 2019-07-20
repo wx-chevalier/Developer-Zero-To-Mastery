@@ -188,7 +188,7 @@ public class Singleton {
 
 - Spring 中的定时器，在单线程模型下,假如定时任务是 5 秒执行一次,但是第一个任务就执行了 8 秒,第二个会怎么样呢?
 
-## DevOps 
+## DevOps
 
 ## Test
 
@@ -211,6 +211,12 @@ public class Singleton {
 ## 分布式系统
 
 - 如何理解 CAP 理论？常用的保障 CA/CP/AP 的策略有哪些？如何理解 BASE 理论？
+
+## 分布式计算
+
+### 并发编程
+
+- IO 多路复用属于同步阻塞型 IO 模型还是异步非阻塞 IO 模型？
 
 ## 数据库
 
