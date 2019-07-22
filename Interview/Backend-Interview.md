@@ -371,3 +371,7 @@ public class Singleton {
 - 你使用什么版本管理工具？
 - 分支(Branch)与标签(Tag)之间的区别在哪里？
 - 你常用的持续集成(Continuous Integration)、静态代码分析(Static Code Analysis)工具有哪些？
+
+# 链接
+
+- https://zhuanlan.zhihu.com/p/70410011
