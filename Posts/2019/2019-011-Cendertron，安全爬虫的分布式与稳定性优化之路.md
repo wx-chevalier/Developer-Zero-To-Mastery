@@ -8,6 +8,8 @@
 
 ![](https://i.postimg.cc/SK2k9vCV/image.png)
 
+![](https://i.postimg.cc/9QNXMNLX/image.png)
+
 ![](https://i.postimg.cc/ydSV9b4s/image.png)
 
 # 面向失败的设计与监控优先

@@ -6,6 +6,16 @@
 
 # 部署配置
 
+使用 ctop 查看容器部署状态：
+
+![](https://i.postimg.cc/SK2k9vCV/image.png)
+
+使用 htop 查看当前系统的资源使用情况：
+
+![](https://i.postimg.cc/9QNXMNLX/image.png)
+
+可以发现，Chaos Scanner 是 CPU 密集型程序，后面我们会在并发调度上采取进一步的优化措施。
+
 # 功能特性
 
 ## POC 与组件基础框架
@@ -14,7 +24,7 @@
 
 ## 资产的全生命周期管理
 
-## 系统更新
+## 扫描管理
 
 ## 设备管理
 
