@@ -150,7 +150,7 @@ public class Singleton {
 
 ## Go
 
-- Goroutine 机制简述，其与 JVM 线程的区别。
+- Goroutine 机制简述，其与 JVM 线程的区别？为什么 Go 的线程调度使用了 G-P-M 模型而不是 G-M 模型？
 - Go 中应该如何创建新的对象，make 关键字常用于哪些场景下。
 
 # 编程基础
