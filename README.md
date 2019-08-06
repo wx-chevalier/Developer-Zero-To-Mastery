@@ -30,6 +30,14 @@
 
 - 在下文的 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
 
+# 编码之道，从代码到软件系统
+
+> Programmers who program “in” a language limit their thoughts to constructs that the language directly supports. If the language tools are primitive, the programmer’s thoughts will also be primitive.
+>
+> Programmers who program “into” a language first decide what thoughts they want to express, and then they determine how to express those thoughts using the tools provided by their specific language.
+>
+> -- Steve McConnell’s Code Complete
+
 # MATRIX | 文章与代码源矩阵
 
 [![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
