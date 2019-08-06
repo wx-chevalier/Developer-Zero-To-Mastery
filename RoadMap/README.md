@@ -10,7 +10,7 @@
 
 [Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse)，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
 
-俗话说，好记性不如烂笔头，当我们阅读的多了，自然也要开始记录；而笔者认为记录的开始就要有自己的知识体系。在自己的知识体系下随看随记、定期整理。唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [MindMap, IT 技术图谱与知识架构](./MindMap)，提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的知识图谱、学习成长路线与面试必备内容，并在数年来不断维护与刷新。
+俗话说，好记性不如烂笔头，当我们阅读的多了，自然也要开始记录；而笔者认为记录的开始就要有自己的知识体系。在自己的知识体系下随看随记、定期整理。唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [Awesome MindMaps](./MindMap)，提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的知识图谱、学习成长路线与面试必备内容，并在数年来不断维护与刷新。
 
 笔者目前选择的是以 MarkDown 格式记录，并且将所有的笔记存放于 [Github-文档札记](https://github.com/topics/wx-doc)以 Git 方式进行版本管理；编辑器是直接使用的 VSCode，移动端编辑的话也是用的 GitGo/WorkCopy 这样的 Git 应用。这些笔记即是笔者自身技术视野与认知的外化，也类比于外设之于内存，在需要的时候分页加载到脑海中使用，以应对这知识爆炸的时代。其中的典型代表，[Awesome CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets)，对于日常开发中用到的相关知识的备忘录/清单进行总结, 适合快速掌握或者回顾某个语言/框架/工具的语法或使用要点。[Tech Road, 我的技术之路](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/TechRoad)是对于笔者多年学习与认知变迁的总结。
 

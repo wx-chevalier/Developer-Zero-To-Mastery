@@ -24,19 +24,35 @@
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
 
 
-- 前往 [xCompass https://wx-chevalier.github.io](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者关注微信公众号：某熊的技术之路。
+- 前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者关注微信公众号：某熊的技术之路。
 
 ![](https://i.postimg.cc/3RVYtbsv/image.png)
 
-- 在下文的 [MATRIX 文章与代码矩阵 https://github.com/wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
+- 在下文的 [MATRIX 文章与代码矩阵](https://github.com/wx-chevalier/Developer-Zero-To-Mastery) 中查看文章与项目的源代码。
 
-# 编码之道，从代码到软件系统
+# 编程之道，从代码到软件系统
+
+十年前，当笔者写下第一行 Hello World 时，仿佛已经抓住了整个世界；十年后，我还是在门口徘徊。本节主要以感性地方式去讨论笔者思索的，所谓编程到底难在哪，这个 “Little Problem”。
+
+## 语言、范式与模式
 
 > Programmers who program “in” a language limit their thoughts to constructs that the language directly supports. If the language tools are primitive, the programmer’s thoughts will also be primitive.
 >
 > Programmers who program “into” a language first decide what thoughts they want to express, and then they determine how to express those thoughts using the tools provided by their specific language.
 >
 > -- Steve McConnell’s Code Complete
+
+在笔者过去的工作中，曾经多次被语言“绑架”而导致在技术选型上的巨大失败，最终衍化为了产品、商业竞争力上的乏力。
+
+多范式编程（Multi-Paradigm Programming）和最小表达力原则（Least Expressiveness Principle）
+
+## 架构与复杂性控制
+
+## 性能与高可用
+
+首先是算法。
+
+## 研发效能
 
 # MATRIX | 文章与代码源矩阵
 
