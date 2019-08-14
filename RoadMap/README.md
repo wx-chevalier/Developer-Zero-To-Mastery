@@ -1,3 +1,5 @@
+![](https://i.postimg.cc/8zGQnXwb/image.png)
+
 # Awesome RoadMaps
 
 当我们站在技术之路的原点，未来可能充满了迷茫，也存在着很多不同的可能；我们可能成为 **Web/(大)前端/终端工程师、服务端架构工程师、测试/运维/安全工程师等质量保障、可用性保障相关的工程师、大数据/云计算/虚拟化工程师、算法工程师、产品经理**等等某个或者某几个角色。在这个知识爆炸与终身学习/碎片化学习为主的时代，我们面临的问题之一就是如何进行有效学习，不仅能有效平衡广度与深度，并且能真正的积淀下来，提升自己的研发效能。于笔者而言，常常郁结于胸的就是以下三个问题：
@@ -7,6 +9,8 @@
 - 如何不再碎片化地学习？
 
 究其根本，也就是需要拓展自己的**知识广度**，精进自己的**知识深度**，锤炼自己的**编程能力**。所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次（High Level）描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上。
+
+![](https://i.postimg.cc/SN0wJt0p/image.png)
 
 [Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse)，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
 
@@ -94,3 +98,25 @@
 笔者目前积累不多，主要在 [Product Series | 产品迷思](https://github.com/wx-chevalier/Product-Series)中，其首先会关注**产品经理的基础素养、用户交互体验、文档处理等方面**。其次会讨论有关于**项目管理、通用的领域能力构建（流程引擎、CRM 等）以及对于经典产品的分析**。最后，该系列还会关注于具体的行业观点，譬如**电子商务、智能制造**等。
 
 很多时候，自己动手做些小产品也是有趣的事情，譬如 [MushiChat](https://github.com/wx-chevalier/MushiChat) 这样的聊天平台与聊天机器人、[IoTable](https://github.com/wx-chevalier/IoTable) 这样在 IoT 领域的一些探索。
+
+# Nav | 导航
+
+[某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
+
+您可以通过以下任一方式阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
+
+- 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
+
+| [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) | [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) | [Awesome MindMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/MindMap) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
+| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+
+
+| [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://ngte-pl.gitbook.io/i/javascript/javascript) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
+| --------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
+
+
+| [软件工程、数据结构与算法、设计模式、软件架构](https://ngte-se.gitbook.io/i/) | [现代 Web 开发基础与工程实践](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ngte-be.gitbook.io/i/) | [分布式基础架构](https://ngte-infras.gitbook.io/i/) | [数据科学，人工智能与深度学习](https://ngte-aidl.gitbook.io/i/) | [产品设计与用户体验](https://ngte-pd.gitbook.io/i/) |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+
+
+- 前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程，或者关注微信公众号：某熊的技术之路。
