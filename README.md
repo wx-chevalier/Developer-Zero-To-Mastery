@@ -4,7 +4,11 @@
 
 # 某熊的技术之路指北 ☯
 
-当我们站在技术之路的原点，未来可能充满了迷茫，也存在着很多不同的可能；我们可能成为 **Web/(大)前端/终端工程师、服务端架构工程师、测试/运维/安全工程师等质量保障、可用性保障相关的工程师、大数据/云计算/虚拟化工程师、算法工程师、产品经理**等等某个或者某几个角色。[某熊的技术之路](https://github.com/topics/wx-doc)系列文章/书籍/视频/代码即是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习能力与实际研发效能。
+在这个知识大爆发的时代，笔者所见许多人面临的问题不再是知识的匮乏，也不是缺乏学习的动力、毅力或激情，而是在浩汤洪流之中迷失了方向，也无足够的承载知识的容器，终致学的越多，忘的越多，竹篮打水一场空。[某熊的技术之路](https://github.com/wx-chevalier)系列文章/书籍/视频/代码即是笔者为自己构建的**知识围栏**，也是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习效率与实际研发效能。
+
+目前笔者已有数十仓库千篇文章百万字，你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/MindMap) 查阅完整的知识脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
+
+# Nav | 导航
 
 [本指北](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
 
@@ -12,8 +16,8 @@
 
 - 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
 
-| [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) | [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
-| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/Interview) | [Awesome RoadMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/RoadMap) | [Awesome MindMaps](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/tree/master/MindMap) | [Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) |
+| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://ngte-pl.gitbook.io/i/javascript/javascript) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
