@@ -1,0 +1,3 @@
+# English List 
+
+- [Use simple words and phrases](https://www.plainlanguage.gov/guidelines/words/use-simple-words-phrases/): There are many lists of complex words and suggested substitutes, like the one below. 
