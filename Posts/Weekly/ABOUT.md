@@ -6,7 +6,7 @@
 
 过去的八个月里，一直在阅读，攒了上千条待读项目，我也打算专注地花点时间，把知识吸收，沉淀到[自己的各个系列的笔记中](https://github.com/wx-chevalier)。在三月底，我即将离开现在的公司；个人可能暂时不再负责清单的编纂，而仅是提供线索。下一阶段，我会专注于新的工作、新的协作(开源)项目，以及个人规划的诸多系列的文章写作/有趣的小项目之中。
 
-学习永不停歇，我仍然会不断地将优秀的文章，资源链接规整到 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists)；如果有同学也跟我一样有感于碎片化学习的困境，也可以阅读相对成体系的 [Web Series](https://github.com/wx-chevalier/Web-Series)，或者前往[Awesome-CS-Books-Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books-Warehouse) 中选几本好书仔细研读。
+学习永不停歇，我仍然会不断地将优秀的文章，资源链接规整到 [Awesome Links](https://github.com/wx-chevalier/Awesome-Lists)；如果有同学也跟我一样有感于碎片化学习的困境，也可以阅读相对成体系的 [Web Series](https://github.com/wx-chevalier/Web-Series)，或者前往[Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 中选几本好书仔细研读。
 
 花落花开，又是一年；山高水远，江湖再见。本文末尾我会附上清单线索来源与目前共 56 期清单的地址，感谢每一位阅读/鼓励过的朋友，希望你们能够继续支持未来的每周清单。每日阅读包括：
 
