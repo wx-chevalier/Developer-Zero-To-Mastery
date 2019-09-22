@@ -11,3 +11,4 @@ git clone git@github.com:wx-chevalier/Product-Series
 git clone git@github.com:wx-chevalier/ProgrammingLanguage-Series
 git clone git@github.com:wx-chevalier/SoftwareEngineering-Series
 git clone git@github.com:wx-chevalier/Web-Series
+GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:wx-chevalier/Awesome-CS-Books.git
