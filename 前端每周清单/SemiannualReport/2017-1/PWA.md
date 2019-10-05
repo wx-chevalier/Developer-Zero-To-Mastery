@@ -11,7 +11,7 @@
 
 
 
-- [工程实践中的 PWA 利器清单](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.3u42kd67r): 本文是 Google Chrome 团队的 Addy Osmani 所写，介绍了这两年来他们团队开发或者推荐的一系列能够用于生产环境的 PWA 开发工具或者辅助库。此文作者同时来列举了目前在很多主流站点应用 PWA 之后带来的一系列包括离线优先、首屏加载优化等提升用户体验的实践案例。 ( http://suo.im/1IxGPJ 
+- [工程实践中的 PWA 利器清单](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.3u42kd67r): 本文是 Google Chrome 团队的 Addy Osmani 所写，介绍了这两年来他们团队开发或者推荐的一系列能够用于生产环境的 PWA 开发工具或者辅助库。此文作者同时来列举了目前在很多主流站点应用 PWA 之后带来的一系列包括离线优先、首屏加载优化等提升用户体验的实践案例。( http://suo.im/1IxGPJ 
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。 其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。 平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
+- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
 
 
 

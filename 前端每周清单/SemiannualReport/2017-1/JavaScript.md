@@ -14,7 +14,7 @@
 
 - [《理解 JavaScript 中的作用域》](https://scotch.io/tutorials/understanding-scope-in-javascript)：JavaScript 中的作用域、闭包以及上下文绑定一直是令人凌乱的知识，此文作者详细地从函数作用域、块作用域、词法作用域、闭包等进行详细阐述，值得一读做个梳理。
 
-- [《ECMAScript 4 背后的故事》](https://auth0.com/blog/the-real-story-behind-es4/):  本文是对于 1999 ~ 2008 年之间 JavaScript 世界发生的大事件的详细介绍，阐述了 ECMAScript 4 从提出到角力到流产的前世今生。 ( http://suo.im/phBiE  )
+- [《ECMAScript 4 背后的故事》](https://auth0.com/blog/the-real-story-behind-es4/):  本文是对于 1999 ~ 2008 年之间 JavaScript 世界发生的大事件的详细介绍，阐述了 ECMAScript 4 从提出到角力到流产的前世今生。( http://suo.im/phBiE  )
 
 - [《深入了解 JavaScript 中错误对象与堆栈跟踪》](http://lucasfcosta.com/2017/02/17/JavaScript-Errors-and-Stack-Traces.html)：JavaScript 中 Error 对象的堆栈跟踪信息包含了从异常抛出点到构造函数的所有栈帧信息，而手动地去捕获与操作堆栈跟踪信息有助于我们在开发测试或者异常处理相关的框架时有更好地实践。( http://suo.im/MiMWd )
 

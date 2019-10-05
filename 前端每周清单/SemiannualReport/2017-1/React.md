@@ -54,7 +54,7 @@
 
 
 
-- [React 开发中的 10 个微模式](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.5v2hpgurn)：此文是 Gilbertson 在工作中总结而来的 React 开发中常见的设计模式总结，譬如输入域的唯一标识分配、CSS 控制等等 。 ( http://suo.im/42S8Kb )
+- [React 开发中的 10 个微模式](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.5v2hpgurn)：此文是 Gilbertson 在工作中总结而来的 React 开发中常见的设计模式总结，譬如输入域的唯一标识分配、CSS 控制等等 。( http://suo.im/42S8Kb )
 
 
 
@@ -240,7 +240,7 @@
 
 
 
-- [React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)：Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。 这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调(Reconciliation)算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。( https://parg.co/btw )
+- [React 新引擎 React Fiber 究竟要解决什么问题？](https://parg.co/btw)：Facebook 正在以流行的 JavaScript 框架 React 为基础开发一个全新的架构。这个名为 React Fiber 的全新设计改变了检测变更的方法和时机，借此可改进浏览器端和其他渲染设备的响应速度。这一 全新架构 最初已于 2016 年 7 月公开发布，其中蕴含着过去多年来 Facebook 不断改进的工作成果。该架构可向后兼容，彻底重写了 React 的协调(Reconciliation)算法。该过程可用于确定出现变更的具体时间，并将变更传递给渲染器。( https://parg.co/btw )
 
 
 
@@ -325,7 +325,7 @@
 
 
 
-- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。 其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。 平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
+- [大前端公共知识梳理：这些知识你都掌握了吗？](https://parg.co/byS)：近年来，随着移动化联网浪潮的汹涌而来与浏览器性能的提升，iOS、Android、Web 等前端开发技术各领风骚，大前端的概念也日渐成为某种共识。其中特别是 Web 开发的领域，以单页应用为代表的富客户端应用迅速流行，各种框架理念争妍斗艳，百花竞放。Web 技术的蓬勃发展也催生了一系列跨端混合开发技术，希望能够结合 Web 的开发便捷性与原生应用的高性能性；其中以 Cordova、PWA 为代表的方向致力于为 Web 应用尽可能添加原生体验，而以 NativeScript、ReactNative、Weex 为代表的利用 Web 技术或者理念开发原生应用。平心而论，无论哪一种开发领域或者技术，他们本质上都是进行图形用户界面(GUI)应用程序的开发，面对的问题、思考的方式、架构的设计很大程度上仍然可以回溯到当年以 MFC、Swing、WPF 为主导的桌面应用程序开发时代，其术不同而道相似。( https://parg.co/byS )
 
 
 

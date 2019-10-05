@@ -72,7 +72,7 @@
 
 
 
-- [实测Vue SSR的渲染性能：避开20倍耗时](https://parg.co/bNv)：Vue SSR是Vue.js 2.0引入的直出渲染方案，本文将全面解析virtual-dom-based 及 string-based 的原理并对其进行对比。Vue SSR的模板是virtual-dom-based，所以QQ空间Hybrid业务做Vue 2.0的改造的同时，模板类型也从之前的a类转换成b类。 本文是在实际业务场景中对Vue SSR的渲染性能做测试，并解析渲染步骤，给出尝试优化的方案和最终结论。( https://parg.co/bNv )
+- [实测Vue SSR的渲染性能：避开20倍耗时](https://parg.co/bNv)：Vue SSR是Vue.js 2.0引入的直出渲染方案，本文将全面解析virtual-dom-based 及 string-based 的原理并对其进行对比。Vue SSR的模板是virtual-dom-based，所以QQ空间Hybrid业务做Vue 2.0的改造的同时，模板类型也从之前的a类转换成b类。本文是在实际业务场景中对Vue SSR的渲染性能做测试，并解析渲染步骤，给出尝试优化的方案和最终结论。( https://parg.co/bNv )
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-- [VueConf 观后感](https://parg.co/ber)：首届官方举办的 Vue.js 大会刚刚落幕，本文即是作者对于自己参会之后的感想进行的简要阐述。作者首先介绍了自己参与的数个 WorkShop 与演讲，从 Evan You 对于 Vue.js 发展历史与现状的介绍，到基于 Vuex 的状态管理、服务端渲染、代码分割等多个具体的技术实现。本文是非常不错的对于 VueConf 的回顾，如果没有参会或者尚未了解过议程的同学可以一看，并且选择自己感兴趣的议题查看对应的胶片与演讲视频。 ( https://parg.co/ber  )
+- [VueConf 观后感](https://parg.co/ber)：首届官方举办的 Vue.js 大会刚刚落幕，本文即是作者对于自己参会之后的感想进行的简要阐述。作者首先介绍了自己参与的数个 WorkShop 与演讲，从 Evan You 对于 Vue.js 发展历史与现状的介绍，到基于 Vuex 的状态管理、服务端渲染、代码分割等多个具体的技术实现。本文是非常不错的对于 VueConf 的回顾，如果没有参会或者尚未了解过议程的同学可以一看，并且选择自己感兴趣的议题查看对应的胶片与演讲视频。( https://parg.co/ber  )
 
 
 
@@ -158,7 +158,7 @@
 
 
 
-- [VueConf 观后感](https://parg.co/ber)：首届官方举办的 Vue.js 大会刚刚落幕，本文即是作者对于自己参会之后的感想进行的简要阐述。作者首先介绍了自己参与的数个 WorkShop 与演讲，从 Evan You 对于 Vue.js 发展历史与现状的介绍，到基于 Vuex 的状态管理、服务端渲染、代码分割等多个具体的技术实现。本文是非常不错的对于 VueConf 的回顾，如果没有参会或者尚未了解过议程的同学可以一看，并且选择自己感兴趣的议题查看对应的胶片与演讲视频。 ( https://parg.co/ber  )
+- [VueConf 观后感](https://parg.co/ber)：首届官方举办的 Vue.js 大会刚刚落幕，本文即是作者对于自己参会之后的感想进行的简要阐述。作者首先介绍了自己参与的数个 WorkShop 与演讲，从 Evan You 对于 Vue.js 发展历史与现状的介绍，到基于 Vuex 的状态管理、服务端渲染、代码分割等多个具体的技术实现。本文是非常不错的对于 VueConf 的回顾，如果没有参会或者尚未了解过议程的同学可以一看，并且选择自己感兴趣的议题查看对应的胶片与演讲视频。( https://parg.co/ber  )
 
 
 

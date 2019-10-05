@@ -62,7 +62,7 @@
 
 
 
-- [Angular 2+ 项目实战系列](https://parg.co/beA)：本系列文章包含了八个不同的章节，从零开始介绍如何利用 MongoDB、Express、Angular 2+ 以及 Node.js(MEAN Stack)来构建某个真实的应用项目。第一部分着眼于进行基础环境的搭建，包括搭建 Angular 应用开发环境、本地搭建 MongoDB、在 Auth0 申请账户与开发者密钥、搭建 Node.js 服务器并且为 Angular 应用添加基础的组件等等。第二部分着眼于添加基础的权限验证功能，并且构建数据模型等。 ( https://parg.co/beA )
+- [Angular 2+ 项目实战系列](https://parg.co/beA)：本系列文章包含了八个不同的章节，从零开始介绍如何利用 MongoDB、Express、Angular 2+ 以及 Node.js(MEAN Stack)来构建某个真实的应用项目。第一部分着眼于进行基础环境的搭建，包括搭建 Angular 应用开发环境、本地搭建 MongoDB、在 Auth0 申请账户与开发者密钥、搭建 Node.js 服务器并且为 Angular 应用添加基础的组件等等。第二部分着眼于添加基础的权限验证功能，并且构建数据模型等。( https://parg.co/beA )
 
 
 
