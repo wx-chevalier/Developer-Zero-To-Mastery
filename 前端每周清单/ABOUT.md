@@ -52,7 +52,7 @@
 
 - [前端每周清单第 55 期: MobX 4 特性概览，iOS Hacks 分享, 分布式事务详解](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/3/3.3.md)
 
-* [前端每周清单第 56 期: D3 5.0，深入 React 事件系统，SketchCode 界面生成](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/3/3.4.md)
+- [前端每周清单第 56 期: D3 5.0，深入 React 事件系统，SketchCode 界面生成](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/3/3.4.md)
 
 ## 2
 
@@ -70,7 +70,7 @@
 
 - [前端每周清单第 48 期：Slack Webpack 构建优化，CSS 命名规范与用户追踪，Vue.js 单元测试](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/1/1.3.md)
 
-* [前端每周清单第 49 期：Webpack 4 Beta 尝鲜，React Windowing 与 setState 分析，Web Worker 实战](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/1/1.4.md)
+- [前端每周清单第 49 期：Webpack 4 Beta 尝鲜，React Windowing 与 setState 分析，Web Worker 实战](https://github.com/wx-chevalier/Awesome-Coder/blob/master/Weekly/2018/1/1.4.md)
 
 # 2017
 
