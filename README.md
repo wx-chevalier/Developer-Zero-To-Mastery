@@ -6,7 +6,9 @@
 
 在这个知识大爆发的时代，笔者所见许多人面临的问题不再是知识的匮乏，也不是缺乏学习的动力、毅力或激情，而是在浩汤洪流之中迷失了方向，也无足够的承载知识的容器，终致学的越多，忘的越多，竹篮打水一场空。[某熊的技术之路](https://github.com/wx-chevalier)系列文章/书籍/视频/代码即是笔者为自己构建的**知识围栏**，纳知识与己内；也是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习效率与实际研发效能。
 
-目前笔者已有数十仓库千篇文章百万字，你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
+笔者目前的沉淀分为两大系列：
+
+- 其一为编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言]()、[软件工程、模式与架构]()、[Web 与大前端]()、[服务端架构]()、[分布式基础架构]()、[数据科学，人工智能与深度学习]()。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
 
 # Nav | 导航
 
@@ -35,30 +37,6 @@
 * 行业应用：《[行业迷思](https://github.com/wx-chevalier/Business-Series)》、《[功能域](https://github.com/wx-chevalier/Business-Series)》、《[电子商务](https://github.com/wx-chevalier/Business-Series)》、《[智能制造](https://github.com/wx-chevalier/Business-Series)》
 
 此外，你还可前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程；或者在 [MATRIX 文章与代码索引矩阵](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)中查看文章与项目源代码等更详细的目录导航信息。最后，你也可以关注微信公众号：『**某熊的技术之路**』以获取最新资讯。
-
-# 编程之道，从代码到软件系统
-
-十年前，当笔者写下第一行 Hello World 时，仿佛已经抓住了整个世界；十年后，我还是在门口徘徊。本节主要以感性地方式去讨论笔者思索的，所谓编程到底难在哪，这个 “Little Problem”。
-
-## 语言、范式与模式
-
-> Programmers who program “in” a language limit their thoughts to constructs that the language directly supports. If the language tools are primitive, the programmer’s thoughts will also be primitive.
->
-> Programmers who program “into” a language first decide what thoughts they want to express, and then they determine how to express those thoughts using the tools provided by their specific language.
->
-> -- Steve McConnell’s Code Complete
-
-在笔者过去的工作中，曾经多次被语言“绑架”而导致在技术选型上的巨大失败，最终衍化为了产品、商业竞争力上的乏力。
-
-多范式编程（Multi-Paradigm Programming）和最小表达力原则（Least Expressiveness Principle）
-
-## 架构与复杂性控制
-
-## 性能与高可用
-
-首先是算法。
-
-## 研发效能
 
 # MATRIX | 文章与代码源矩阵
 
@@ -137,5 +115,3 @@
 ![](https://i.postimg.cc/TYs7KDk4/image.png)
 
 笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮(支付宝扫码)~
-
-![](https://i.postimg.cc/y1QXgJ6f/image.png?raw=true)
