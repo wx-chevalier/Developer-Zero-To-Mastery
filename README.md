@@ -10,6 +10,8 @@
 
 - 其一为编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言]()、[软件工程、模式与架构]()、[Web 与大前端]()、[服务端架构]()、[分布式基础架构]()、[数据科学，人工智能与深度学习]()。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
 
+- 其二为代码实践系列。对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了 [Dev-Snippets](https://github.com/Dev-Snippets)、[FE-Kits](https://github.com/FE-Kits)、[BE-Kits](https://github.com/BE-Kits)、[AI-Kits](https://github.com/AI-Kits) 等不同的组织中。
+
 # Nav | 导航
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
