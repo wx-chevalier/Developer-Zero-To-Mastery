@@ -16,7 +16,7 @@
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
 
-![技术视野](https://s2.ax1x.com/2019/09/30/uJWQTx.jpg)
+![技术视野](https://s2.ax1x.com/2019/12/03/QQJLvt.png)
 
 您可以通过以下导航来在 Gitbook 中阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
@@ -41,8 +41,6 @@
 此外，你还可前往 [xCompass](https://wx-chevalier.github.io/home/#/search) 交互式地检索、查找需要的文章/链接/书籍/课程；或者在 [MATRIX 文章与代码索引矩阵](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)中查看文章与项目源代码等更详细的目录导航信息。最后，你也可以关注微信公众号：『**某熊的技术之路**』以获取最新资讯。
 
 # MATRIX | 文章与代码源矩阵
-
-[![image.png](https://i.postimg.cc/y1QXgJ6f/image.png)](https://postimg.cc/bZFSQcfz)
 
 - 知识检索、资料归档、实践清单
 
@@ -110,10 +108,16 @@
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 
 
-# Copyright | 版权
+# About
+
+## Copyright | 版权
 
 ![](https://parg.co/bDY) ![](https://parg.co/bDm)
 
 ![](https://i.postimg.cc/TYs7KDk4/image.png)
 
 笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。如果觉得本系列对你有所帮助，欢迎给我家布丁买点狗粮(支付宝扫码)~
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/wx-chevalier/Developer-Zero-To-Mastery.svg)](https://starchart.cc/wx-chevalier/Developer-Zero-To-Mastery)
