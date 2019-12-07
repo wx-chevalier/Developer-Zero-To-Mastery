@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://i.postimg.cc/NGX6X6GP/image.png">
   <h1 align="center">某熊的技术之路指北 ☯</h1>
+  <p align="center">
+    <a src="./README.md">中文版本</a>
+    <a src="./README-en.md">English Version</a>
+  </p>
 </p>
-
-> [中文版本](./README.md) | [English Version](./README-en.md)
 
 在这个知识大爆发的时代，笔者所见许多人面临的问题不再是知识的匮乏，也不是缺乏学习的动力、毅力或激情，而是在浩汤洪流之中迷失了方向，也无足够的承载知识的容器，终致学的越多，忘的越多，竹篮打水一场空。[某熊的技术之路系列文章、书籍、视频、代码、项目](https://github.com/wx-chevalier)即是笔者为自己构建的**知识围栏**，纳知识与己内；也是笔者蹒跚行进于这条路上的点滴印记，包含了笔者作为程序员的技术视野、知识管理与职业规划，致力于提升开发者的学习效率与实际研发效能。
 
