@@ -2,8 +2,9 @@
   <img src="https://i.postimg.cc/NGX6X6GP/image.png">
   <h1 align="center">某熊的技术之路指北 ☯</h1>
   <p align="center">
-    <a src="./README.md">中文版本</a>
-    <a src="./README-en.md">English Version</a>
+    <a href="./README.md">中文版本</a>
+    <span style="margin:0 8px;">|</span>
+    <a href="./README-en.md">English Version</a>
   </p>
 </p>
 
