@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://github.com/wx-chevalier/Developer-Zero-To-Mastery/raw/master/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
@@ -32,7 +32,7 @@
 
 # 前言
 
-[![Product Name Screen Shot](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/raw/master/images/screenshot.png)](https://example.com)
+[![Product Name Screen Shot](https://s2.ax1x.com/2020/01/06/lr2YdJ.md.png)](https://example.com)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
