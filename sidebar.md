@@ -81,7 +81,7 @@
   - [编程之道](/编程之道/README.md)
     
   - [职业生涯](/职业生涯/README.md)
-    
+    - [文章写作与发布](/职业生涯/文章写作与发布.md)
   - [读书笔记](/读书笔记/README.md)
     - [人月神话](/读书笔记/2003-人月神话.md)
     - [Steve Don’t Make Me Think](/读书笔记/2014-Steve-Don’t%20Make%20Me%20Think.md)
