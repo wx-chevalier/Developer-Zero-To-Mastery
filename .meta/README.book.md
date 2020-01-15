@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# 前言
+# Introduction | 前言
 
 [![Product Name Screen Shot](https://s2.ax1x.com/2020/01/06/lr2YdJ.md.png)](https://example.com)
 
@@ -40,7 +40,7 @@ Here's a blank template to get started:
 
 # Nav | 导读
 
-## TOC | 目录
+本书的精排目录导航版请参考 [https://ng-tech.icu/repo](https://ng-tech.icu/repo)。
 
 # About | 关于
 
@@ -95,16 +95,16 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/Developer-Zero-To-Mastery.svg?style=flat-square
-[contributors-url]: https://github.com/wx-chevalier/Developer-Zero-To-Mastery/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/Developer-Zero-To-Mastery.svg?style=flat-square
-[forks-url]: https://github.com/wx-chevalier/Developer-Zero-To-Mastery/network/members
-[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/Developer-Zero-To-Mastery.svg?style=flat-square
-[stars-url]: https://github.com/wx-chevalier/Developer-Zero-To-Mastery/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/Developer-Zero-To-Mastery.svg?style=flat-square
-[issues-url]: https://github.com/wx-chevalier/Developer-Zero-To-Mastery/issues
-[license-shield]: https://img.shields.io/github/license/wx-chevalier/Developer-Zero-To-Mastery.svg?style=flat-square
-[license-url]: https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
+[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
+[forks-url]: https://github.com/github_username/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
+[stars-url]: https://github.com/github_username/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
+[issues-url]: https://github.com/github_username/repo/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
+[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
