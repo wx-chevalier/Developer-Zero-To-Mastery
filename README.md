@@ -18,7 +18,15 @@
 
 # Nav | 导航
 
-[某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，欢迎关注[某熊的技术之路](https://i.postimg.cc/mDxdH0VL/image.png)公众号，让我们一起前行。
+[某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，让我们一起前行。
+
+## 个人主页
+
+您可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览全部的书籍列表：
+
+![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)
+
+## 知识图谱
 
 ![技术视野](https://s2.ax1x.com/2019/12/03/QQJLvt.png)
 
