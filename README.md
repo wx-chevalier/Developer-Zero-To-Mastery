@@ -22,7 +22,7 @@
 
 ## 个人主页
 
-您可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览全部的书籍列表：
+您可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
 ![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)
 
