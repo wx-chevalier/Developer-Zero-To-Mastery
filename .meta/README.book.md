@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/wx-chevalier/repo">
     <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -16,14 +16,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/wx-chevalier/repo">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,11 +35,11 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+`wx-chevalier`, `repo`, `twitter_handle`, `email`
+
+> 本书的精排目录导航版请参考 [https://ng-tech.icu/repo](https://ng-tech.icu/repo)。
 
 # Nav | 导读
-
-本书的精排目录导航版请参考 [https://ng-tech.icu/repo](https://ng-tech.icu/repo)。
 
 # About | 关于
 
@@ -76,13 +76,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/repo.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/repo.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/repo.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/repo.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/repo/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/repo.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/repo/blob/master/LICENSE.txt
