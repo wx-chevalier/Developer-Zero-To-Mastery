@@ -83,8 +83,12 @@
   - [职业生涯](/职业生涯/README.md)
     - [文章写作与发布](/职业生涯/文章写作与发布.md)
   - [读书笔记](/读书笔记/README.md)
-    - [人月神话](/读书笔记/2003-人月神话.md)
-    - [Steve Don’t Make Me Think](/读书笔记/2014-Steve-Don’t%20Make%20Me%20Think.md)
-    - [必然](/读书笔记/2016-必然.md)
-    - [Designing Data Intensive Applications](/读书笔记/2017-Designing%20Data%20Intensive%20Applications.md)
-    - [美团机器学习实践](/读书笔记/2018-美团机器学习实践.md)
+    - 思维
+      - [必然](/读书笔记/思维/2016-必然.md)
+    - 技术
+      - [Designing Data Intensive Applications](/读书笔记/技术/2017-Designing%20Data%20Intensive%20Applications.md)
+      - [美团机器学习实践](/读书笔记/技术/2018-美团机器学习实践.md)
+    - 管理
+      - [人月神话](/读书笔记/管理/2003-人月神话.md)
+    - 设计
+      - [Steve Don’t Make Me Think](/读书笔记/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
