@@ -6,62 +6,67 @@
 
 # 1. Foundations of Data Systems
 
-An introductory chapter that defines reliability, scalability and maintainability. I particularly liked the example of the evolution of how Twitter delivers tweets to followers. There is also a good point made about response times: when end-users require multiple back-end calls, many users may experience delays, even if only a fraction of individual requests are slow (tail latency amplification).
+介绍性章节定义了可靠性，可伸缩性和可维护性。 我特别喜欢Twitter向关注者传递推文的演变方式的例子。 关于响应时间也有一个好处：当最终用户需要多个后端呼叫时，即使只有一小部分单独的请求很慢（尾部延迟放大），许多用户也可能会遇到延迟。
 
 # 2. Data Models and Query Languages
 
-This chapter discusses the well-known relational model and the document model (NoSQL). There is a good example of how a LinkedIn profile can be represented as a JSON document – the tree-like structure of a profile is a good fit to represent with JSON. However, there can be problems as data becomes more interconnected between documents (in the LinkedIn example: references to companies and universities, recommendations between users). In a document model, joins are shifted from the database to the application.
+本章讨论了众所周知的关系模型和文档模型（NoSQL）。 有一个很好的示例说明了如何将LinkedIn配置文件表示为JSON文档–配置文件的树状结构非常适合用JSON表示。 但是，随着数据在文档之间变得更加相互关联（在LinkedIn示例中：对公司和大学的引用，用户之间的建议），可能会出现问题。 在文档模型中，联接从数据库转移到应用程序。
 
-Document databases are sometimes called schema-less. That is not correct, since there is an implicit schema. A better way to think of it is schema-on-write (the database enforces the schema when storing the value), and schema-on-read (the schema is implicit, and only interpreted when the data is read). This is similar to static typing and dynamic typing in programming languages.
+文档数据库有时称为无模式（schema-less）。 这是不正确的，因为存在隐式架构。 更好的方式是写模式（schema-on-write，数据库在存储值时强制执行模式）和读模式（schema-on-read，模式是隐式的，仅在读取数据时才解释）。 这类似于编程语言中的静态类型和动态类型。
 
-Next there is a discussion of query languages, with a good example of the contrast between an imperative query (a loop in a programming language) versus a declarative query (a SELECT statement in SQL). Finally there is a discussion of graph-like data models (used by for example Neo4J) and various query languages for this model.
+接下来，将讨论查询语言，并很好地说明了命令式查询（编程语言中的循环）与声明式查询（SQL中的SELECT语句）之间的对比。 最后，讨论了类似图形的数据模型（例如，由Neo4J使用）和该模型的各种查询语言。
 
 # 3. Storage and Retrieval
 
-This is one of my favorite chapters. I have previously taken a MOOC course on databases, but it did not talk much about the internals of databases. This chapter starts off by explaining how LSM-trees and B-trees work.
+这是我最喜欢的章节之一。 我以前参加过关于数据库的MOOC课程，但是没有过多谈论数据库的内部知识。 本章首先说明LSM树和B树的工作方式。
 
-LSM-trees
-Kleppmann starts by creating a simple database in 2 lines of bash code. A key and a value is stored by appending a line (the key followed by the value) to a file. To retrieve the value for a given key, you grep through the file and take the value if the key is found. Writing to an existing key simply means appending the new line to the file. The old line with the key and value is left in the file. But the get function only returns the last value found for the given key, so it doesn’t matter that the old line is left in the file.
+## LSM-trees
 
-The key (ha ha) idea here is that it is fast to only append to the file (as opposed to changing values within the file). However, scanning through the whole file to retrieve the value for a key is slow. One speed-up is to keep a separate hash that has a pointer to where each key starts in the file. Then a read operation first looks up the offset to use, and then starts reading from that position in the file.
+Kleppmann首先用两行bash代码创建一个简单的数据库。 通过将行（键后跟值）添加到文件中来存储键和值。 要检索给定密钥的值，请遍历文件，并在找到密钥后获取该值。 写入现有密钥仅意味着将新行附加到文件中。 文件中保留了带有键和值的旧行。 但是get函数仅返回为给定键找到的最后一个值，因此文件中保留旧行并不重要。
 
-Next, we imagine that all the lines within the file are sorted by key. These files are called String Sorted Tables, abbreviated SSTables. If we have many of these files, created at different times, then a given key can appear in many of the files. However, the most recent value for the key is the only valid value – all the other values are obsolete (superseded by the newer value). We can merge these files into one file, and simultaneously get rid of all obsolete lines. This is called compaction, and since all the files are sorted by key, this can be done efficiently the same way merge sort works.
+ 这里的关键（哈哈）思想是仅将其追加到文件中是快速的（与更改文件中的值相反）。 但是，扫描整个文件以获取键的值很慢。 一种提高速度的方法是保留一个单独的散列，该散列具有一个指针，该指针指向文件中每个键的起始位置。 然后，读取操作首先查找要使用的偏移量，然后从文件中的该位置开始读取。
 
-How do you create the sorted file in the first place? You maintain an in-memory tree structure (such as a red-black tree or AVL tree), called a memtable. This keeps the data sorted, and once the tree gets to a certain size (a few megabytes), it is written out as a new SSTable. Adding or changing a value for a key simply means adding it to the memtable (possibly overwriting it if it is already present). To look up the value for a key, you first search in the memtable, then in the most recent SSTable, then in the next older SSTable etc.
+ 接下来，我们假设文件中的所有行均按键排序。 这些文件称为字符串排序表，缩写为SSTables。 如果我们有许多在不同时间创建的文件，则给定密钥可能会出现在许多文件中。 但是，密钥的最新值是唯一的有效值-所有其他值都已过时（由较新的值代替）。 我们可以将这些文件合并为一个文件，同时摆脱所有过时的行。 这称为压缩，并且由于所有文件均按键排序，因此可以有效地完成合并排序的方式。
 
-This type of storage structure is called a Log-Structured Merge-Tree (LSM-tree), and is used in for example Cassandra.
+ 首先如何创建排序的文件？ 您维护一个称为内存表的内存中树结构（例如红黑树或AVL树）。 这样可以使数据保持排序，并且一旦树达到一定大小（几兆字节），它就会作为新的SSTable被写出。 添加或更改键的值只是意味着将其添加到内存表中（如果已经存在，则可能会覆盖它）。 要查找键的值，请先在内存表中搜索，然后在最新的SSTable中搜索，然后在下一个较旧的SSTable中搜索，依此类推。
 
-B-trees
-B-trees is the most widely used indexing structure (used in traditional SQL databases), and are quite different from LSM-trees. B-trees also keep key-value pairs sorted by keys, to allow for quick lookups. However, the data is stored on disk in fixed-size blocks (also called pages), traditionally 4 KB in size. To change a value in a block, the whole block is written. A tree is created by using pointers to child blocks, where the key-range gets more and more specific, until a leaf block containing the wanted value is found. The branching factor describes how many child nodes a parent node can have.
+ 这种存储结构称为日志结构合并树（LSM-tree），例如在Cassandra中使用。
 
-Most databases can fit in a B-tree that is three or four levels deep – a four level tree of 4 KB blocks with a branching factor of 500 can store up to 256 TB. The B-tree structure was introduced in 1970 by Rudolf Bayer and Edward McCreight at Boeing. It is unclear what the B stands for – Boeing, balanced, broad, bushy, and Bayer have all been suggested according to Wikipedia.
+## B-trees
 
-LSM-trees are typically faster for writes, whereas B-trees are faster for reads. However, several factors affect the performance, and these are discussed next in the chapter. Different types of optimizations are described, and strategies for handling crashes, such as using a write-ahead log (WAL, also known as a redo log).
+B树是最广泛使用的索引结构（在传统SQL数据库中使用），并且与LSM树有很大不同。  B树还按键对键/值对进行排序，以便快速查找。 但是，数据以固定大小的块（也称为页面）存储在磁盘上，传统上大小为4 KB。 要更改块中的值，需要写入整个块。 通过使用指向子块的指针来创建树，在该子块中，键范围变得越来越具体，直到找到包含所需值的叶块为止。 分支因子描述了父节点可以具有多少个子节点。
 
-Transactions and Analytics
-When databases first appeared, they were often used for commercial transactions, for example making a sale or paying salary. Even though databases started to be used for other tasks, the term transaction stuck.
+ 大多数数据库都可以容纳在三层或四层深的B树中–具有4 KB块且分支因子为500的四层树最多可以存储256 TB。  B树结构是1970年由波音公司的Rudolf Bayer和Edward McCreight引入的。 目前尚不清楚B的含义-根据维基百科，已经提出了波音，平衡，宽阔，浓密和拜耳的建议。
 
-There are two broad categories of usage: online transaction processing (OLTP) and online analytics processing (OLAP). OLTP is typically used when facing end-users, and the transactions are typically small. OLAP is more used in a data warehouse context, where the queries may aggregate values from millions of records. Databases for OLAP are often organized in a star schema.
+ LSM树通常用于写入，而B树则用于读取。 但是，有几个因素会影响性能，这些因素将在本章中进行讨论。 描述了不同类型的优化，以及用于处理崩溃的策略，例如使用预写日志（WAL，也称为重做日志）。
+ 
+## Transactions and Analytics
 
-Sometimes, column-oriented storage is used for OLAP use-cases. This can be more efficient when processing lots of values from one column (for example summing or averaging). There is a good example in this chapter how bitmaps and run-length encoding is used to compress the stored values.
+当数据库首次出现时，它们通常用于商业交易，例如进行销售或支付薪水。 即使将数据库用于其他任务，术语 transaction 仍然存在。现在数据库用法分为两大类：在线事务处理（OLTP）和在线分析处理（OLAP）。  OLTP通常在面对最终用户时使用，并且交易通常很小。  OLAP在数据仓库环境中使用得更多，在该环境中查询可以聚合数百万条记录中的值。  OLAP数据库通常以星型模式进行组织。有时面向列的存储用于OLAP用例。 当处理一列中的多个值时（例如求和或求平均值），这可能会更有效率。 本章提供了一个很好的示例，说明如何使用位图和游程长度编码来压缩存储的值。
 
-This chapter was quite long, but very good. I have used both MySQL and Cassandra at work, and knowing how the internal storage models differ is very helpful.
+本章很长，但是非常好。 我在工作中同时使用MySQL和Cassandra，这有助于理解内部存储模型之间的差异。
 
 # 4. Encoding and Evolution
 
-Backward compatibility – newer code can read data written by older code. Forward compatibility – older code can read data written by newer code. Both are needed. When data in a program needs to be saved to file or sent over the network, it needs to be encoded in some format.
+当程序中的数据需要保存到文件或通过网络发送时，需要以某种格式进行编码。
 
-Three types of data encoding are covered. The first type is language-specific formats, for example java.io.Serializable for Java, or pickle for Python. There are many problems with using such formats: security, versioning, performance, and the fact that they are tied to a specific programming language.
+- 向后兼容性–新代码可以读取由旧代码编写的数据。
 
-Next there standardized textual encodings such as XML, JSON and CSV. They too have their problems. For example, they don’t support binary strings (sequences of bytes without a character encoding). JSON doesn’t distinguish between integers and floating-point numbers, and it doesn’t specify a precision. CSV is quite a vague format. For example, how should commas and newlines be handled?
+- 前向兼容性–旧代码可以读取新代码编写的数据。
 
-Finally, several binary encoding formats are described in some detail: Thrift (originally from Facebook), Protocol Buffers (originally from Google) and Avro (originally from the Hadoop project). They all have schemas, and use several clever tricks to make the encodings compact.
+目前常见的有三种类型的数据编码：
+
+- 第一种类型是特定于语言的格式，例如Java的java.io.Serializable或Python的pickle。使用此类编码方式存在许多问题：安全性，版本控制，性能以及它们与特定编程语言绑定的事实。
+
+- 接下来是标准化的文本编码，例如XML，JSON和CSV。 他们也有问题。 例如，它们不支持二进制字符串（没有字符编码的字节序列）。  JSON不能区分整数和浮点数，也没有指定精度。  CSV是一种模糊的格式。 例如，如何处理逗号和换行符？
+
+- 最后，还有几种著名的二进制编码格式：Thrift（最初来自Facebook），Protocol Buffers（最初来自Google）和Avro（最初来自Hadoop项目）。 它们都有模式，并使用一些巧妙的技巧使编码紧凑。
 
 # 5. Replication
 
-This is the first chapter in the Distributed Data section. Replication means that the same data is stored on multiple machines. Some reasons for replication are: to keep working even if some parts of the system fail (increased availability), to keep data geographically close to the users (reduce latency), and to increase read throughput by serving the same data from many machines.
+这是“分布式数据”部分的第一章。 复制意味着相同的数据存储在多台计算机上。 复制的一些原因是：即使系统的某些部分发生故障也要继续工作（可用性提高），使数据在地理位置上更接近用户（减少延迟），以及通过从许多计算机提供相同的数据来增加读取吞吐量。
 
-Three different models are covered: single leader, multi-leader, and leaderless. Replication can either be synchronous or asynchronous. If it is synchronous, the leader and all followers acknowledge a write before it is acknowledged back to the user. This can block all writes if any one of the followers is slow or has failed. Therefore asynchronous replication is more common.
+涵盖了三种不同的模型：单领导者（Single Leader），多领导者（Multi Leader）和无领导者（Leaderless）。 复制可以是同步的也可以是异步的。 如果是同步的，则领导者和所有关注者在确认写回用户之前会先对其进行确认。 如果任何跟随者速度慢或失败，则这可能会阻止所有写入。 因此，异步复制更为常见。
 
 There are many tricky aspects of replication. The first is when setting up a new follower. Since data is constantly changing in the leader, typically you take a consistent snapshot of the leader’s database and copy it to the new follower. Then you need to process the backlog of changes that happened during the copying process.
 
@@ -69,15 +74,18 @@ If a follower fails, it needs to catch up once it recovers. This means it needs 
 
 Performing the replication is also tricky. Simply repeating the SQL statements will cause problems if NOW() or RAND() are used. There are many other edge cases as well, so this method is generally not used. Instead, the database internal write-ahead log is used. This is an append-only sequence of bytes containing all the writes to the database.
 
-Replication Lag
+## Replication Lag
+
 When you use asynchronous replication you have eventual consistency. Even if the replication lag usually is small, a whole range of factors (for example network problems or high load) can cause the lag to become several seconds or even minutes. Several problems can occur when you have replication lag: If you submit data, and then reload the page, you may not see the data you just wrote, if the read of the reload is done from a different server than received the write. There are several possible solutions to this that guarantee that you read your own writes. This can be even trickier with cross-device reads (updating from a laptop, then reading from a phone).
 
 Another anomaly is when it appears as if time moves backwards. The first read returns a comment recently made by user X. When refreshing the page, the read is from another (lagging) server, and the comment by user X has not yet been made. Monotonic reads is a way to avoid this situation, for example by routing all reads to the same server. If eventual consistency is too weak, distributed transactions can be used.
 
-Multi-Leader Replication
+## Multi-Leader Replication
+
 In multi-datacenter operations, it can make sense to use multi-leader replications. There are several advantages: performance (writes don’t all have to go through a single leader), tolerance of datacenter outages, tolerance of network problems (temporary problems don’t prevent writes to go through). However, with more than one leader there is the risk of write conflicts. There are several ways to handle these: Last write wins (based on timestamp or unique id), merge the values together automatically, or keep the conflicting values and let the user pick the value to keep.
 
-Leaderless Replication
+## Leaderless Replication
+
 Dynamo, Cassandra, Riak and Voldemort all use leaderless replication. In order to make sure no writes are lost, and that no reads return stale values, quorum reads and writes are used. If there are n replicas, every write must be confirmed by w nodes to be successful, and we must query at least r nodes for each read. As long as w + r > n, we expect to get up-to-date values when reading. In the simplest case, n=3 and w=2 and r=2. However, there can still be edge cases – for example, if a write is concurrent with a read, the write may only be present in some of the replicas, and it is unclear if the new or old value should be returned for the read.
 
 If a node has been down, and has stale values, it can be detected when reading a value from it. This can initiate a repair. There can also be an anti-entropy process running in the background that looks for inconsistencies and initiates repair.
@@ -205,13 +213,13 @@ The major difference between a thing that might go wrong and a thing that cannot
 
 # Conclusion
 
-These days, it feels like most systems are distributed system in one way or another. Designing Data-Intensive Applications should almost be mandatory reading for all software developers. So many of the concepts explained in it are really useful to know.
+如今，感觉大多数系统都是以一种或另一种方式分布的系统。 对于所有软件开发人员来说，设计数据密集型应用程序几乎都是必读的。 因此，了解其中的许多概念确实很有用。
 
-A lot of the problems described and solved in the book come down to concurrency issues. Often, there are good pictures and diagrams illustrating the points. At the beginning of each chapter there is a fantasy-style map which lists the key concepts in the coming chapter. I quite liked those.
+ 本书中描述和解决的许多问题都归结为并发问题。 通常，有很好的图片和图表说明了这些要点。 在每一章的开头，都有一张幻想样式的地图，其中列出了下一章的关键概念。 我很喜欢那些。
 
-Designing Data-Intensive Applications is thick – a bit over 550 pages. This made me hesitate to start it – it almost felt too imposing. Luckily, we picked it for the book club at work this spring. That gave me enough of a nudge to get started and to keep going. I am really happy I started, because there is so much good information in it. I particularly like how it is both theoretical and practical at the same time.
+ 设计数据密集型应用程序很厚-超过550页。 这让我开始犹豫，几乎觉得太过气了。 幸运的是，我们今年春天在工作中为读书俱乐部选择了它。 这给了我足够的微动，可以开始并继续前进。 我真的很高兴开始，因为其中包含了很多很好的信息。 我特别喜欢它同时具有理论和实践意义。
 
-If you liked this summary, you should definitely read the whole book. There are so many more details and examples, and they are all very interesting. Highly recommended!
+ 如果您喜欢此摘要，则一定要阅读整本书。 还有更多的细节和示例，它们都很有趣。 强烈推荐！
 
 # 链接
 
