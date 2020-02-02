@@ -94,67 +94,70 @@ Dynamo，Cassandra，Riak和Voldemort都使用无领导者复制。 为了确保
  
 # 6. Partitioning
 
-The reason for breaking the data up into partitions (also known as sharding) is scalability. Note that you can have partitioning and replication at the same time – each partition can be replicated to several nodes. Each piece of data belongs to exactly one partition. The partitioning can be done on key range or by hashing of the key. The advantage of partitioning may be lost if some partitions are hit more than others (skewed workloads). Secondary indexes can get tricky with partitioned databases. One approach to handling this is scatter/gather.
+将数据分为多个分区（也称为分片）的原因是可伸缩性。 请注意，您可以同时进行分区和复制，每个分区可以复制到多个节点。 每条数据恰好属于一个分区。 分区可以在键范围内进行，也可以通过键的散列来完成。 如果某些分区的命中率高于其他分区（工作负载偏斜），则分区的优势可能会丢失。 二级索引对于分区数据库可能会比较棘手。 解决此问题的一种方法是分散/聚集。
 
-As the data grows and changes, there may be a need to rebalance – moving load from one node to another. You should not move more data than is necessary. For example, simply using hash mod N will cause too many changes. A better approach is to use many more partitions than there are nodes, and only move entire partitions between nodes. If rebalancing happens automatically, there is a risk of cascading failures. Therefore it may be good to only do it manually. The routing of requests to the correct partition is often handled by a separate coordination service, such as Zookeeper.
+ 随着数据的增长和更改，可能需要重新平衡，将负载从一个节点转移到另一个节点。 您不应移动过多的数据。 例如，仅使用hash mod N将导致太多更改。 更好的方法是使用比节点更多的分区，并且仅在节点之间移动整个分区。 如果自动进行重新平衡，则存在级联故障的风险。 因此，最好仅手动执行此操作。 请求到正确分区的路由通常由单独的协调服务（例如Zookeeper）处理。
 
 # 7. Transactions
 
-This chapter covers transactions on a single machine. A transaction groups writes and reads into one logical unit. The transaction as a whole either succeeds (commit) or fails (abort, rollback). This frees the application developer from having to handle a lot of different potential problems: that the connectivity to the database is lost, that the database or application crashes before all data is written, that several clients may be overwriting each other’s data etc.
+本章介绍在一台计算机上的事务。 一个事务组将一个读写单元写入一个逻辑单元。 整个事务要么成功（提交），要么失败（中止，回滚）。 这样一来，应用程序开发人员就不必处理许多潜在的问题：与数据库的连接断开，在写入所有数据之前数据库或应用程序崩溃，多个客户端可能会覆盖彼此的数据等。
 
-ACID stands for Atomicity, Consistency, Isolation and Durability. Atomicity is not about concurrency (isolation is). Instead it means that either all writes succeeded, or none. There is no partially written data. Consistency means that invariants must always be true before and after a transaction. For example, that credits and debits across all accounts are always balanced. Some invariants, such as foreign key constraints and uniqueness constraints, can be checked by the database. But in general, only the application can define what is valid or invalid data – the database only stores the data.
+ACID代表原子性，一致性，隔离性和耐久性。 原子性与并发无关（隔离）。 相反，这意味着所有写入都成功，或者没有成功。 没有部分写入的数据。 一致性意味着在事务之前和之后，不变性必须始终为真。 例如，所有帐户的贷方和借方始终保持平衡。 数据库可以检查某些不变量，例如外键约束和唯一性约束。 但是通常，只有应用程序才能定义有效或无效的数据-数据库仅存储数据。
 
-Isolation means that concurrently executing transactions don’t interfere with each other. Much of the rest of the chapters deals with this. Finally, durability means that data that has been written successfully will not be lost. However, even if data is written to disk, there are many ways it can be lost: disks can get corrupted, firmware bugs can stop your reads, the machine can die and prevent getting to the data even if the data is fine on the disk.
+ 隔离意味着并发执行的事务不会相互干扰。 其余各章中的大多数都涉及到这一点。 最后，持久性意味着成功写入的数据不会丢失。 但是，即使将数据写入磁盘，也有许多方式可能会丢失数据：磁盘可能会损坏，固件错误可能会阻止您的读取，计算机可能死机并且即使磁盘上的数据很好也无法获取数据 。
 
-Isolation Levels
-When multiple clients concurrently read and update data, there are an amazing number of pitfalls. To avoid these, there are several isolation levels to prevent problems.
+## Isolation Levels
 
-The most basic level is read committed. It means that when reading, you will only see committed data, not data in the process of being written but not yet committed. When writing to the database, you will only overwrite data that has been committed. This is also known as no dirty reads and no dirty writes.
+当多个客户端同时读取和更新数据时，会有很多陷阱。 为避免这些情况，有几种隔离级别可以防止出现问题。最基本的级别是已提交读。 这意味着在读取时，您只会看到已提交的数据，而不是正在写入但尚未提交的数据。 写入数据库时​​，您只会覆盖已提交的数据。 这也称为无脏读和无脏写。
 
-Snapshot isolation deals with consistency between different parts. If you have two accounts with $500 in each, and you read the balance from the first, then the balance from the second (both reads in the same transaction), they should sum to $1000. However, between the first and second read, there could be a concurrent transaction moving $100 from the second account to the first. So the first read could give $500, while the second read returns $400 (since $100 has already been subtracted here). If we repeat the same account reads again, we would get $600 for the first, and $400 for the second, so now they sum to \$1000 as expected. If the problem of the sum changing is avoided, it is called snapshot isolation, also known as repeatable read.
+快照隔离（Snapshot Isolation）处理不同部分之间的一致性。 如果您有两个帐户，每个帐户中有$ 500，并且您从第一个帐户中读取了余额，然后从第二个帐户中读取了余额（两个都在同一笔交易中读取），那么它们的总和应为$ 1000。 但是，在第一次读取和第二次读取之间，可能会有一笔并发交易将$ 100从第二个帐户转移到第一个帐户。 因此，第一次读取可能会得到$ 500，而第二次读取会返回$ 400（因为此处已减去$ 100）。 如果我们再次重复读取同一帐户，则第一个帐户将获得$ 600，第二个帐户将获得$ 400，因此现在它们的总和达到了预期的 $1000。 如果避免了总和更改的问题，则称为快照隔离，也称为可重复读取。
 
-The problem is that we want what we see in the database at a given point in time to be consistent. We don’t want to see the case where the total is only \$900 in the example above. This is important for example when taking a backup. It may take hours to make the backup, and the data keeps changing, but we want what we store in the backup to be consistent. The same goes for long-running queries – we want them to be executed on a consistent snapshot. A common solution for this is to use multi-version concurrency control (MVCC). The database can keep several different committed versions of an object, because various in-progess transactions may need to see the state of the database at different points in time.
+问题是我们希望在给定的时间点在数据库中看到的内容保持一致。 在上面的示例中，我们不希望看到总额仅为$900美元的情况。 例如，这在进行备份时很重要。 进行备份可能需要几个小时，并且数据会不断变化，但是我们希望存储在备份中的内容保持一致。 长时间运行的查询也是如此–我们希望它们在一致的快照上执行。 常见的解决方案是使用多版本并发控制（MVCC）。 数据库可以保留一个对象的多个不同的提交版本，因为各种进行中的事务可能需要在不同的时间点查看数据库的状态。
 
-When two transactions both write data, there is a risk of lost updates. For example if two users concurrently read a counter, increment it, and write back the result, the final counter value may only have been updated by one, not by two. If a transactions read some information, bases a decision on the information, and writes the result, there can be write skew. This means that by the time the result is written, the premise it was based on is no longer true. For example, a meeting room booking systems that tries to avoid double-bookings.
+ 当两个事务都写入数据时，就有丢失更新的风险。 例如，如果两个用户同时读取，递增和写入结果，则最终的计数器值可能仅被更新了一个，而不是两个。 如果事务读取某些信息，基于该信息做出决定并写入结果，则可能存在写入偏斜。 这意味着在写入结果时，其所基于的前提不再成立。 例如，一个会议室预订系统试图避免重复预订。
 
-Serializable transactions
-A sure way of avoiding problems is if all transactions are done serially instead. However, often the performance suffers too much then. In some circumstances, you can actually execute all transactions serially. You need to have the whole dataset in memory, and use stored procedures to avoid network roundtrips during the transaction, and the throughput must be low enough to be handled by a single CPU.
+## Serializable transactions
 
-For about 30 years, the only widely used algorithm for serializability was two-phase locking (2PL). Extensive locking means that the throughput suffers. You can also easily get deadlocks. A new algorithm called serializable snapshot isolation (SSI) can also provide serializablity, but with better performance due to optimistic concurrency control, as opposed to pessimistic concurrency control used by 2PL.
+避免出现问题的一种可靠方法是，如果所有事务都依次执行。 但是，性能常常遭受太多损失。 在某些情况下，您实际上可以串行执行所有事务。 您需要将整个数据集存储在内存中，并使用存储过程来避免事务期间的网络往返，并且吞吐量必须足够低才能由单个CPU处理。
+
+ 大约30年以来，唯一可广泛使用的可序列化算法是两阶段锁定（2PL）。 广泛的锁定意味着吞吐量下降。 您也很容易陷入僵局。 一种称为可序列化快照隔离（SSI）的新算法也可以提供可序列化性，但是由于乐观并发控制，与2PL使用的悲观并发控制相反，它具有更好的性能。
 
 # 8. The Trouble with Distributed Systems
 
-This is my other favorite chapter in the book (together with chapter 3, Storage and Retrieval). Even though I worked with distributed systems and concurrency issues for a long time, this chapter was a real eye-opener for me with respect to all the ways things can go wrong.
+这是本书中我最喜欢的另一章（以及第3章“存储和检索”）。 即使我在分布式系统和并发问题上工作了很长时间，但本章对于我可能会出错的所有方式还是让我大开眼界。
 
-Unreliable networks. The connections between nodes can fail in various ways. In addition to the normal failure modes, some unusual ones are listed: a software upgrade of a switch causes all network packets to be delayed for more than a minute, sharks bite and damage undersea cables, all inbound packets are dropped, but outbound packets are sent successfully. Even in a controlled environment, such as one datacenter, network problems are common. One study showed 12 network faults per month. The only solution for detecting network problems is timeouts.
+- 网络不可靠。 节点之间的连接可能会以各种方式失败。 除正常故障模式外，还列出了一些异常模式：交换机的软件升级导致所有网络数据包延迟一分钟以上，鲨鱼咬伤并损坏海底电缆，所有入站数据包均被丢弃，而出站数据包则被丢弃。 发送成功。 即使在一个数据中心等受控环境中，网络问题也很常见。 一项研究表明每月有12个网络故障。 检测网络问题的唯一解决方案是超时。
 
-Unreliable clocks. Time-of-day clocks return the current date and time according to some calendar. They are usually synchronized with NTP. Because the local clock on the machine can drift, it may get ahead of the NTP time, and a reset can make it appear to jump back in time. Monotonic clocks are more suitable to measuring elapsed time – they are guaranteed to always move forward.
+- 不可靠的时钟。 时钟根据某些日历返回当前日期和时间。 它们通常与NTP同步。 由于计算机上的本地时钟可能会漂移，因此它可能早于NTP时间，并且重置会使它看起来像是在时间上回跳。 单调时钟更适合于测量经过的时间–保证它们始终向前移动。
 
-Even if NTP is used to synchronize different machines, there are many possible problems. Since there are network delays from the NTP server, there is a limit to how accurate the clocks can be. Leap seconds have also caused many large outages. These and other problems mean that a day may not have exactly 86,400 seconds, clocks can move backwards, and time on one node may be quite different from time on another node. Furthermore, incorrect clocks easily go unnoticed.
+ 即使使用NTP同步不同的计算机，也存在许多可能的问题。 由于NTP服务器存在网络延迟，因此时钟的精确度受到限制。  seconds秒也造成了许多大故障。 这些和其他问题意味着一天可能没有精确的86,400秒，时钟可能向后移动，并且一个节点上的时间可能与另一节点上的时间完全不同。 此外，不正确的时钟很容易被忽视。
 
-Relying on timestamps for ordering events, such as Last Write Wins in for example Cassandra, can lead to unexpected results. One solution, used by Google’s Spanner, is to have confidence intervals for time stamps, and make sure there is no overlap when ordering events.
+ 依靠时间戳来订购事件（例如Cassandra中的Last Write Wins）可能会导致意外结果。  Google Spanner使用的一种解决方案是确定时间戳的置信区间，并确保在订购事件时不存在重叠。
 
-Process Pauses. Another problem related to time is process pauses. Code that checks the current time, and then take some action may have been paused for many seconds before the action is taken. There are many ways this can happen: garbage collection, synchronous disk access that is not obvious from the code (Java classloader lazily loading a class file), operating system swapping to disk (paging) etc.
+- 处理暂停。 与时间有关的另一个问题是过程暂停。 在执行操作之前，检查当前时间然后执行某些操作的代码可能已暂停了几秒钟。 发生这种情况的方式有很多：垃圾回收，从代码中看不出来的同步磁盘访问（Java类加载器延迟加载类文件），操作系统交换到磁盘（分页）等。
 
-To handle these various problems in distributed systems, the truth is defined by the majority (more on this in the next chapter). The possible problems described here can lead to some very tricky situations. Even worse would be if participating nodes would deliberately try to cause problems. That is called Byzantine faults, but this is not covered in this book. By having control over all the servers involved, such problems can be avoided.
+ 为了处理分布式系统中的这些各种问题，多数人定义了事实（在下一章中对此进行了更多讨论）。 这里描述的可能的问题可能会导致一些非常棘手的情况。 更糟糕的是，如果参与的节点故意尝试引起问题。 那就是所谓的拜占庭式断层，但这在本书中没有涉及。 通过控制所有涉及的服务器，可以避免此类问题。
 
-The chapter ends by defining safety and liveness. Safety means that nothing bad happens (for example, wrong data is not written to the database), and liveness means that something good eventually happens (for example, after a leader node fails, eventually a new leader is elected).
-
+ 本章以定义安全性（Safety）和活力（Liveness）为结尾。 安全意味着没有不好的事情发生（例如，错误的数据未写入数据库），活跃意味着最终发生了好事（例如，在 Leader 节点发生故障之后，最终选举了新的领导者）。
+ 
 # 9. Consistency and Consensus
 
-Distributed consistency is mostly about coordinating the state of replicas in the face of delays and faults.
+分布式一致性主要是在面对延迟和故障时协调副本的状态。
 
-Linearizability
-Linearizability means that replicated data can appear as though there is only one single copy of the data, and all operations look like they act atomically on the data (you don’t see a value flipping between the new and old value). It makes the database behave like a variable in a single-threaded program. The problem is that it is slow, especially when there are large network delays.
+## Linearizability
 
-The CAP theorem is sometimes presented as Consistency, Availability, Partition tolerance: pick 2 out of 3. But network partitioning is a fault, so you don’t have a choice about it, it will happen. Kleppmann thinks the theorem is better put as: either Consistent or Available when Partitioned. He also notes that the CAP theorem only talks about partitioning and doesn’t say anything about other faults, like network delays or dead nodes. So the CAP theorem is not so useful.
+线性化意味着复制的数据看起来好像只有一个数据副本，并且所有操作看起来都像是对数据进行原子操作（您不会看到值在新值和旧值之间转换）。 它使数据库的行为类似于单线程程序中的变量。 问题是它运行缓慢，尤其是在网络延迟较大的情况下。
 
-Ordering Guarantees
-A total order allows any two elements to be compared, and you can always say which one is greater. A linearizable system has a total order. If two events happen concurrently, you can’t say which happened first. This leads to the weaker consistency model of causality. It defines a partial order: some operations are ordered with respect to each other, but some are incomparable (concurrent).
+ CAP定理有时表示为一致性，可用性，分区容限：从3中选择2。但是网络分区是一个错误，因此您别无选择，它会发生。 克莱普曼（Kleppmann）认为该定理最好表示为：划分时一致或可用。 他还指出，CAP定理仅涉及分区，没有提及其他故障，例如网络延迟或死节点。 因此，CAP定理不是那么有用。
 
-Lamport timestamps provide a total ordering consistent with causality. However, that is not enough for problems like ensuring that selected usernames are unique (if two user concurrently try to pick the same username, we will only know afterwards who of the two got it). This leads to Total Order Broadcast. It requires that no messages are lost; if a message is delivered to one node, it is delivered to all nodes. It also requires that messages are delivered to every node in the same order. Having a total order broadcast enables correct database replication.
+## Ordering Guarantees
 
-Distributed Transactions and Consensus
+总顺序允许比较任何两个元素，并且您始终可以说哪个更大。 线性化系统的总阶数。 如果同时发生两个事件，则无法确定哪个事件先发生。 这导致因果关系的一致性模型较弱。 它定义了部分顺序：某些操作是相对于彼此进行排序的，但是有些操作是不可比较的（并发）。
+
+ Lamport时间戳提供与因果关系一致的总排序。 但是，这还不足以解决诸如确保所选用户名唯一的问题（如果两个用户同时尝试选择相同的用户名，那么我们将在此之后才知道两个人中有谁）。 这导致总订单广播。 它要求没有消息丢失； 如果消息传递到一个节点，则将消息传递到所有节点。 它还要求消息以相同顺序传递到每个节点。 具有全部订单广播可以实现正确的数据库复制。
+
+## Distributed Transactions and Consensus
+
 For distributed transactions, two-phase commit (2PC) can be used. It requires a coordinator. First it sends each node a prepare message. The nodes check that they will be able to perform the write, and if so, they answer yes. If all nodes answered yes, the next message is the commit. Each node must then perform the write.
 
 With a single leader database, all the decisions are taken by the leader, and you therefore can have linearizable operations, uniqueness constraints, a totally ordered replication log and more (these properties are all reducible to consensus). If the leader fails, or network problems prevent you from reaching it, there are three options: Wait for it to recover, manually failover by letting a human pick a new leader, or use an algorithm to automatically choose a new leader. Tools like ZooKeeper and etcd help with this.
