@@ -101,9 +101,9 @@ const crawler = new Crawler(browser, {
 });
 
 let pageUrl =
-  evtStr.length !== 0 && evtStr.indexOf('{') !== 0
+  evtStr.length !== 0 && evtStr.indexOf("{") !== 0
     ? evtStr
-    : 'https://www.aliyun.com';
+    : "https://www.aliyun.com";
 
 crawler.start(pageUrl);
 ```
@@ -163,11 +163,11 @@ function initGermlins() {
   gremlins
     .createHorde()
     .gremlin(gremlins.species.formFiller())
-    .gremlin(gremlins.species.clicker().clickTypes(['click']))
+    .gremlin(gremlins.species.clicker().clickTypes(["click"]))
     .gremlin(gremlins.species.toucher())
     .gremlin(gremlins.species.scroller())
     .gremlin(function() {
-      if ('$' in window) {
+      if ("$" in window) {
         window.$ = function() {};
       }
     })
@@ -204,9 +204,9 @@ const targetCreatedListener = (target: puppeteer.Target) => {
 };
 
 // 监听所有当前打开的页面
-browser.on('targetcreated', targetCreatedListener);
+browser.on("targetcreated", targetCreatedListener);
 
-page.on('request', interceptedRequest => {
+page.on("request", interceptedRequest => {
   // 屏蔽所有的图片
   if (isMedia(interceptedRequest.url())) {
     interceptedRequest.abort();
@@ -235,7 +235,7 @@ export function hashUrl(url: string): string {
   // 将 URL 进行格式化提取
   const _parsedUrl = parse(url, url, true);
 
-  let urlHash = '';
+  let urlHash = "";
 
   if (!_parsedUrl) {
     return urlHash;
@@ -249,24 +249,24 @@ export function hashUrl(url: string): string {
 
   if (queryKeys.length > 0) {
     // 如果存在查询参数，则默认全路径加查询参数进行解析
-    urlHash = `${host}#${pathname}#${queryKeys.join('')}`;
+    urlHash = `${host}#${pathname}#${queryKeys.join("")}`;
   } else {
     // 如果不存在查询参数，则去除 pathname 的最后一位，并且添加进来
-    const pathFragments = pathname.split('/');
+    const pathFragments = pathname.split("/");
 
     // 判断路径是否包含多个项目，如果包含，则将所有疑似 UUID 的替换为 ID
     if (pathFragments.length > 1) {
       urlHash = `${host}#${pathFragments
         .filter(frag => frag.length > 0)
-        .map(frag => (maybeUUID(frag) ? 'id' : frag))
-        .join('')}`;
+        .map(frag => (maybeUUID(frag) ? "id" : frag))
+        .join("")}`;
     } else {
       urlHash = `${host}#${pathname}`;
     }
   }
 
   if (hash) {
-    const hashQueryString = hash.replace('#', '');
+    const hashQueryString = hash.replace("#", "");
     const queryObj = parseQuery(hashQueryString);
     Object.keys(queryObj).forEach(n => {
       if (n) {
@@ -293,7 +293,7 @@ export function hashUrl(url: string): string {
 在 Cendertron 中，其会使用如下方式设置 Cookie：
 
 ```js
-const puppeteer = require('puppeteer');
+const puppeteer = require("puppeteer");
 
 let rockIt = async () => {
   const browser = await puppeteer.launch({ headless: false });
@@ -301,22 +301,22 @@ let rockIt = async () => {
   var cookie = [
     // cookie exported by google chrome plugin editthiscookie
     {
-      domain: 'httpbin.org',
+      domain: "httpbin.org",
       expirationDate: 1597288045,
       hostOnly: false,
       httpOnly: false,
-      name: 'key',
-      path: '/',
-      sameSite: 'no_restriction',
+      name: "key",
+      path: "/",
+      sameSite: "no_restriction",
       secure: false,
       session: false,
-      storeId: '0',
-      value: 'value!',
+      storeId: "0",
+      value: "value!",
       id: 1
     }
   ];
   await page.setCookie(...cookie);
-  await page.goto('https://httpbin.org/headers');
+  await page.goto("https://httpbin.org/headers");
   console.log(await page.content());
   await page.close();
   await browser.close();
@@ -328,6 +328,6 @@ rockIt();
 
 ```js
 await page.evaluate(() => {
-  localStorage.setItem('token', 'example-token');
+  localStorage.setItem("token", "example-token");
 });
 ```

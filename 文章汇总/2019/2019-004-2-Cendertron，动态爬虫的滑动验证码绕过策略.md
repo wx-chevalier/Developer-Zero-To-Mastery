@@ -15,7 +15,7 @@
 在模拟登陆时，我们往往需要绕过这样的滑动验证，而基于 Puppeteer 的动态爬虫也给予了便利；往往我们需要进行以下步骤：移动到滑条中间，按下鼠标，移动鼠标，释放鼠标。
 
 ```js
-const puppeteer = require('puppeteer');
+const puppeteer = require("puppeteer");
 
 async function run() {
   const browser = await puppeteer.launch({
@@ -24,14 +24,14 @@ async function run() {
   });
   const page = await browser.newPage();
 
-  await page.goto('http://kthornbloom.com/slidetosubmit/');
-  await page.type('input[name="name"]', 'Puppeteer Bot');
-  await page.type('input[name="email"]', 'js@automation.com');
+  await page.goto("http://kthornbloom.com/slidetosubmit/");
+  await page.type('input[name="name"]', "Puppeteer Bot");
+  await page.type('input[name="email"]', "js@automation.com");
 
-  let sliderElement = await page.$('.slide-submit');
+  let sliderElement = await page.$(".slide-submit");
   let slider = await sliderElement.boundingBox();
 
-  let sliderHandle = await page.$('.slide-submit-thumb');
+  let sliderHandle = await page.$(".slide-submit-thumb");
   let handle = await sliderHandle.boundingBox();
 
   await page.mouse.move(
@@ -57,7 +57,7 @@ run();
 在实际的案例中，我们可以以淘宝的注册界面为例：
 
 ```js
-const puppeteer = require('puppeteer');
+const puppeteer = require("puppeteer");
 
 async function run() {
   const browser = await puppeteer.launch({
@@ -67,20 +67,20 @@ async function run() {
   const page = await browser.newPage();
 
   await page.evaluateOnNewDocument(() => {
-    Object.defineProperty(navigator, 'webdriver', {
+    Object.defineProperty(navigator, "webdriver", {
       get: () => false
     });
   });
 
-  await page.goto('https://world.taobao.com/markets/all/sea/register');
+  await page.goto("https://world.taobao.com/markets/all/sea/register");
 
   let frame = page.frames()[1];
-  await frame.waitForSelector('.nc_iconfont.btn_slide');
+  await frame.waitForSelector(".nc_iconfont.btn_slide");
 
-  const sliderElement = await frame.$('.slidetounlock');
+  const sliderElement = await frame.$(".slidetounlock");
   const slider = await sliderElement.boundingBox();
 
-  const sliderHandle = await frame.$('.nc_iconfont.btn_slide');
+  const sliderHandle = await frame.$(".nc_iconfont.btn_slide");
   const handle = await sliderHandle.boundingBox();
   await page.mouse.move(
     handle.x + handle.width / 2,
@@ -109,8 +109,8 @@ run();
 ![](https://i.postimg.cc/3NdqgQsR/image.png)
 
 ```js
-const puppeteer = require('puppeteer');
-const Rembrandt = require('rembrandt');
+const puppeteer = require("puppeteer");
+const Rembrandt = require("rembrandt");
 
 async function run() {
   const browser = await puppeteer.launch({
@@ -119,21 +119,21 @@ async function run() {
   });
   const page = await browser.newPage();
 
-  let originalImage = '';
+  let originalImage = "";
 
   await page.setRequestInterception(true);
-  page.on('request', request => request.continue());
-  page.on('response', async response => {
-    if (response.request().resourceType() === 'image')
+  page.on("request", request => request.continue());
+  page.on("response", async response => {
+    if (response.request().resourceType() === "image")
       originalImage = await response.buffer().catch(() => {});
   });
 
-  await page.goto('https://monoplasty.github.io/vue-monoplasty-slide-verify/');
+  await page.goto("https://monoplasty.github.io/vue-monoplasty-slide-verify/");
 
-  const sliderElement = await page.$('.slide-verify-slider');
+  const sliderElement = await page.$(".slide-verify-slider");
   const slider = await sliderElement.boundingBox();
 
-  const sliderHandle = await page.$('.slide-verify-slider-mask-item');
+  const sliderHandle = await page.$(".slide-verify-slider-mask-item");
   const handle = await sliderHandle.boundingBox();
 
   let currentPosition = 0;
@@ -154,7 +154,7 @@ async function run() {
       handle.y + handle.height / 2 + Math.random() * 10 - 5
     );
 
-    let sliderContainer = await page.$('.slide-verify');
+    let sliderContainer = await page.$(".slide-verify");
     let sliderImage = await sliderContainer.screenshot();
 
     const rembrandt = new Rembrandt({
@@ -218,13 +218,13 @@ export interface SpiderOption {
 - 在 Gitbook 中在线浏览，每个系列对应各自的 Gitbook 仓库。
 
 | [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) | [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) | [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) | [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) |
-| ---------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
 
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://github.com/wx-chevalier/JavaScript-Series) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
-| --------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
+| --------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
 
 
 | [软件工程、数据结构与算法、设计模式、软件架构](https://ng-tech.icu/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ng-tech.icu/Backend-Series/#/) | [分布式基础架构](https://ng-tech.icu/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://ng-tech.icu/AI-Series/#/) | [产品设计与用户体验](https://ng-tech.icu/Product-Series/#/) |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
 
