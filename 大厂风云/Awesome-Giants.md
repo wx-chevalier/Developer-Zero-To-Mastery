@@ -34,7 +34,7 @@
 
 # 微信
 
-- [2017- 微信高并发资金交易系统设计方案 —— 百亿红包背后的技术支撑](http://mp.weixin.qq.com/s/suBAJrP6uN2kFgHtGz16mw)：本文将为读者介绍百亿级别红包背后的系统高并发设计方案，包括微信红包的两大业务特点、微信红包系统的技术难点、解决高并发问题通常使用的方案，以及微信红包系统的高并发解决方案。
+- [2017- 微信高并发资金交易系统设计方案：百亿红包背后的技术支撑](http://mp.weixin.qq.com/s/suBAJrP6uN2kFgHtGz16mw)：本文将为读者介绍百亿级别红包背后的系统高并发设计方案，包括微信红包的两大业务特点、微信红包系统的技术难点、解决高并发问题通常使用的方案，以及微信红包系统的高并发解决方案。
 
 # Todos
 
@@ -86,7 +86,7 @@
 
 - [设计高并发下的读服务？一个电商老兵的 10 条经验](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597710&idx=1&sn=e8801d7aba68485489cfcac9ac2fd2ba&scene=0#wechat_redirect)
 
-- [今日头条架构演进之路 —— 高压下的架构演进专题(含 PPT)](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547520&idx=1&sn=f303a6250eb68775e9b6dbbdea6b9f06&scene=23&srcid=0715cLKw7d65sunBdZV8Y405#rd)
+- [今日头条架构演进之路：高压下的架构演进专题(含 PPT)](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547520&idx=1&sn=f303a6250eb68775e9b6dbbdea6b9f06&scene=23&srcid=0715cLKw7d65sunBdZV8Y405#rd)
 
 - [高性能高并发系统的稳定性保障](http://www.yunweipai.com/archives/10501.html)
 
