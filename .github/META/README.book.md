@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/repo">
-    <img src="header.svg" alt="Logo" />
+    <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
