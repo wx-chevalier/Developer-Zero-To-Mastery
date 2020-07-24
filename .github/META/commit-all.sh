@@ -9,7 +9,7 @@ for file in *; do
 
     echo "cd $file"; 
     cd ./$file
-    git lfs track *.xmind
+    git lfs uninstall
     git lfs track *.zip
 
     git add --all
