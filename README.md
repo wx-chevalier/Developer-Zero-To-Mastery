@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/NGX6X6GP/image.png">
-  <h1 align="center">某熊的技术之路指北 ☯</h1>
+  <a href="https://github.com/wx-chevalier/Developer-Zero-To-Mastery">
+    <img src="header.svg" alt="Logo" width="800"">
+  </a>
+
   <p align="center">
     <a href="./README.md">中文版本</a>
     <span style="margin:0 8px;">|</span>
@@ -17,6 +19,8 @@
 - 其二为代码实践系列。对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了 [Dev-Snippets](https://github.com/Dev-Snippets)、[FE-Kits](https://github.com/FE-Kits)、[BE-Kits](https://github.com/BE-Kits)、[AI-Kits](https://github.com/AI-Kits) 等不同的组织中。
 
 # Nav | 导航
+
+<img src="https://i.postimg.cc/NGX6X6GP/image.png" style="width:100vw">
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，让我们一起前行。
 

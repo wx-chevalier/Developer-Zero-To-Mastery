@@ -8,14 +8,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/wx-chevalier/repo">
-    <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
+    <img src="header.svg" alt="Logo" width="800"">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
-
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
     <a href="https://github.com/wx-chevalier/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -24,6 +20,7 @@
     <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
     ·
     <a href="https://github.com/wx-chevalier/repo/issues">Request Feature</a>
+
   </p>
 </p>
 
