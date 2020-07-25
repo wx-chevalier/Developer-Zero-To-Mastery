@@ -8,17 +8,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://s2.ax1x.com/2020/01/06/lr21MT.png" alt="Logo" width="80" height="80">
+    <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
-
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/github_username/repo">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo/issues">Report Bug</a>
