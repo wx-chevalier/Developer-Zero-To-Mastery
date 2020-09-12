@@ -7,16 +7,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/wx-chevalier/repo">
     <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/wx-chevalier/repo">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -28,7 +28,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+`wx-chevalier`, `repo`, `twitter_handle`, `email`
 
 ## Nav | 导航
 
@@ -51,7 +51,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/wx-chevalier/repo.git
 ```
 
 2. Install NPM packages
@@ -74,7 +74,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wx-chevalier/repo/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -111,13 +111,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wx-chevalier/repo.svg?style=flat-square
+[contributors-url]: https://github.com/wx-chevalier/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wx-chevalier/repo.svg?style=flat-square
+[forks-url]: https://github.com/wx-chevalier/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/wx-chevalier/repo.svg?style=flat-square
+[stars-url]: https://github.com/wx-chevalier/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wx-chevalier/repo.svg?style=flat-square
+[issues-url]: https://github.com/wx-chevalier/repo/issues
+[license-shield]: https://img.shields.io/github/license/wx-chevalier/repo.svg?style=flat-square
+[license-url]: https://github.com/wx-chevalier/repo/blob/master/LICENSE.txt
