@@ -3,7 +3,7 @@
 for file in *; do 
     [ -d "$file" ] || continue
     
-    if [ "$file" == "config" ] || [ "$file" == "examples" ] || [ "$file" == "algorithms" ] || [ "$file" == "code" ]; then
+    if [ "$file" == "config" ] || [ "$file" == "examples" ] || [ "$file" == "models" ] || [ "$file" == "algorithms" ] || [ "$file" == "code" ]; then
         continue
     fi
 
