@@ -15,7 +15,7 @@
     <a href="https://github.com/wx-chevalier/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/wx-chevalier/repo">View Demo</a>
+    <a href="https://ng-tech.icu/repo">在线阅读</a>
     ·
     <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
     ·
