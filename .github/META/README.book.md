@@ -12,14 +12,14 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wx-chevalier/repo"><strong>在线阅读</strong></a>
     <br />
     <br />
-    <a href="https://ng-tech.icu/repo">在线阅读</a>
+    <a href="https://github.com/wx-chevalier/Awesome-CheatSheets">速览手册</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier">代码实践</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/Awesome-Lists">参考资料</a>
 
   </p>
 </p>

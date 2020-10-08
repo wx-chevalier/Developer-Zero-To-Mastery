@@ -12,11 +12,11 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/repo">View Demo</a>
+    <a href="https://github.com/wx-chevalier/repo">Demo</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Report Bug</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">Issues</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Request Feature</a>
+    <a href="https://github.com/wx-chevalier/repo/issues">参考资料</a>
   </p>
 </p>
 
