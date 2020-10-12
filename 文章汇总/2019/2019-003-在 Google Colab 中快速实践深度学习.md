@@ -1,7 +1,5 @@
 > 本文很多是对于 [Colab 官方 Welcome](https://colab.research.google.com/notebooks) 系列的总结，更多人工智能与深度学习相关知识参考[人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Series](https://github.com/wx-chevalier/AIDL-Series) 系列文章。
 
-![](https://coding.net/u/hoteam/p/Cache/git/raw/master/2017/8/1/Deep-learningheader.jpg)
-
 # Colaboratory
 
 Colaboratory 是一个免费的 Jupyter 笔记本环境，不需要进行任何设置就可以使用，并且完全在云端运行。借助 Colaboratory，我们可以在浏览器中编写和执行代码、保存和共享分析结果，以及利用强大的计算资源，包含 GPU 与 TPU 来运行我们的实验代码。
