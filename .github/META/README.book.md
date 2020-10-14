@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    <a href="https://github.com/wx-chevalier/repo"><strong>在线阅读</strong></a>
+    <a href="https://ng-tech.icu/repo"><strong>在线阅读 >> </strong></a>
     <br />
     <br />
     <a href="https://github.com/wx-chevalier/Awesome-CheatSheets">速览手册</a>

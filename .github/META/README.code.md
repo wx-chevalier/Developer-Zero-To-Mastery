@@ -14,9 +14,9 @@
   <p align="center">
     <a href="https://github.com/wx-chevalier/repo">Demo</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">Issues</a>
+    <a href="https://github.com/wx-chevalier">更多项目</a>
     ·
-    <a href="https://github.com/wx-chevalier/repo/issues">参考资料</a>
+    <a href="https://ng-tech.icu/books">参考资料</a>
   </p>
 </p>
 
