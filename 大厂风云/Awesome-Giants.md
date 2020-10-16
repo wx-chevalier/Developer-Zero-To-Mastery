@@ -36,7 +36,7 @@
 
 - [2017- 微信高并发资金交易系统设计方案：百亿红包背后的技术支撑](http://mp.weixin.qq.com/s/suBAJrP6uN2kFgHtGz16mw)：本文将为读者介绍百亿级别红包背后的系统高并发设计方案，包括微信红包的两大业务特点、微信红包系统的技术难点、解决高并发问题通常使用的方案，以及微信红包系统的高并发解决方案。
 
-# 链接
+# TBD
 
 - https://mp.weixin.qq.com/s/esYjHTHHcY-UMmvl9JqYXw
 
