@@ -34,8 +34,6 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `wx-chevalier`, `repo`, `twitter_handle`, `email`
 
-> 本书的精排目录导航版请参考 [https://ng-tech.icu/repo](https://ng-tech.icu/repo)。
-
 # Nav | 导读
 
 # About | 关于
