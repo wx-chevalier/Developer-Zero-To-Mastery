@@ -2,7 +2,7 @@
 
 [Unionfab 团队](https://cloud.unionfab.com/landing/)在 3D 打印与工业互联领域深耕多年，希望能面向行业提供，依托 3D 打印通用技术的、综合性数字化生产、及智慧工厂解决方案。我们的愿景包含了：SDM 软件定义制造、数据驱动，工业互联、MaaS，3D 制造即服务。本文是对笔者进来在软件产品设计、开发过程中的一些想法的记述。
 
-> 更多产品与行业的思考参阅 《[Product-Series](https://github.com/wx-chevalier/Product-Series?q=)》；
+> 更多产品与行业的思考参阅 [《Product-Series》](https://github.com/wx-chevalier/Product-Series?q=)；
 
 制造端（M 端）的场景不同于泛 B 端，其也融入了许多 C 端的设计理念与原则。所谓 M 端，其特点在于：
 
