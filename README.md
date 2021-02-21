@@ -32,7 +32,7 @@
 
 ## 知识图谱
 
-[![技术视野](https://s2.ax1x.com/2019/12/03/QQJLvt.png)](https://github.com/wx-chevalier/Awesome-MindMaps)
+[![技术视野](https://s3.ax1x.com/2021/02/21/yTSKdH.png)](https://github.com/wx-chevalier/Awesome-MindMaps)
 
 您可以通过以下导航来在 Gitbook 中阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
