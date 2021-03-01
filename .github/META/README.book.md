@@ -34,6 +34,8 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `wx-chevalier`, `repo`, `twitter_handle`, `email`
 
+更多介绍与导览参阅 [INTRODUCTION](./INTRODUCTION.md)。
+
 # Nav | 导读
 
 # About | 关于
