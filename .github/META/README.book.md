@@ -36,7 +36,7 @@ Here's a blank template to get started:
 
 更多介绍与导览参阅 [INTRODUCTION](./INTRODUCTION.md)。
 
-# Nav | 导读
+## Nav | 关联导航
 
 # About | 关于
 
