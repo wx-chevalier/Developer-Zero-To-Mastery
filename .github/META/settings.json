@@ -1,0 +1,40 @@
+{
+  "git.ignoreLimitWarning": true,
+  "python.formatting.provider": "autopep8",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/*.ts": true,
+    "**/*.go": true,
+    "**/*.java": true
+  },
+  "files.watcherExclude": {
+    "**/algorithms/**": true,
+    "**/examples/**": true,
+    "**/models/**": true,
+    "**/code/**": true,
+    "**/boilerplates/**": true,
+    "**/*.ipynb": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "build/": true,
+    "temp/": true,
+    "library/": true,
+    "**/.git": true,
+    "**/*.o": true,
+    "**/*.cmd": true,
+    "**/*.tmp*": true,
+    "**/*.git*": true,
+    "**/*.symvers": true,
+    "**/*.order": true,
+    "**/algorithms/**": true,
+    "**/examples/**": true,
+    "**/models/**": true,
+    "**/code/**": true,
+    "**/boilerplates/**": true
+  }
+}
