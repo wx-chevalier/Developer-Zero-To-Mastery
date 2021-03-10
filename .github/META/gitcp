@@ -1,0 +1,8 @@
+# !/bin/bash
+
+msg=${1:-update articles or snippets}
+
+git add --all
+git commit -m "feat: ${msg}" --no-verify
+git pull
+git push
