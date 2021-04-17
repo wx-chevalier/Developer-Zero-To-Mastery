@@ -14,7 +14,7 @@
 
 笔者目前的沉淀分为两大系列：
 
-- 其一为编程笔记系列，已有数十仓库千篇文章百万字，涵盖了 [编程语言]()、[软件工程、模式与架构]()、[Web 与大前端]()、[服务端架构]()、[分布式基础架构]()、[数据科学，人工智能与深度学习]()。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
+- 其一为编程笔记系列，已有数十仓库千篇文章百万字，涵盖了编程语言、软件工程、模式与架构、Web 与大前端、服务端架构、分布式基础架构、数据科学，人工智能与深度学习等领域。你可以在[某熊的技术之路指北 ☯](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)查阅详细的导航。可以前往 [Awesome Lists](https://ngte-al.gitbook.io/i/) 或者 [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) 查阅分门别类的资料与书籍，抑或前往 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 查阅完整的知识体系、脉络与要点的脑图，或者 [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) 了解不同技术领域的进阶指南。最后，你还可以前往 [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) 做最后面试前的准备，或者用常见的技术面试题去检验自己学习的结果。
 
 - 其二为代码实践系列。对应于笔者的知识体系，也为了更好地进行管理协作，笔者将数十个仓库划分到了 [Dev-Snippets](https://github.com/Dev-Snippets)、[FE-Kits](https://github.com/FE-Kits)、[BE-Kits](https://github.com/BE-Kits)、[AI-Kits](https://github.com/AI-Kits) 等不同的组织中。
 
@@ -28,7 +28,9 @@
 
 您可以前往 [NGTE Books](https://ng-tech.icu/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
-[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books/)
+[![NGTE Books](https://pic.imgdb.cn/item/607a8fef8322e6675c691315.png)](https://ng-tech.icu/books/)
+
+![书籍清单](https://pic.imgdb.cn/item/607a91f48322e6675c6e5c65.png)
 
 ## 知识图谱
 
