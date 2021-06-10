@@ -86,5 +86,30 @@
     - [6.3 学习方法](/编程之道/学习方法.md)
     - [6.4 开发环境](/编程之道/开发环境.md)
   - [7 职业生涯](/职业生涯/README.md)
-    - [7.1 构建自己的笔记系统](/职业生涯/构建自己的笔记系统.md)
-    - [7.2 软技能](/职业生涯/软技能.md)
+    - [7.1 文档演示](/职业生涯/文档演示/README.md)
+      - 7.1.1 LaTeX
+        - [7.1.1.1 LaTex](/职业生涯/文档演示/LaTeX/LaTex.md)
+      - 7.1.2 Markdown
+        - [7.1.2.1 Gitbook](/职业生涯/文档演示/Markdown/Gitbook.md)
+        - [7.1.2.2 MarkDown](/职业生涯/文档演示/Markdown/MarkDown.md)
+        - [7.1.2.3 StyleGuide](/职业生涯/文档演示/Markdown/StyleGuide.md)
+      - 7.1.3 MicroSoft
+        - [7.1.3.1 DocGenerator](/职业生涯/文档演示/MicroSoft/DocGenerator.md)
+      - 7.1.4 PDF
+        - [7.1.4.1 PDFConverter](/职业生涯/文档演示/PDF/PDFConverter.md)
+        - [7.1.4.2 PDFExtractor](/职业生涯/文档演示/PDF/PDFExtractor.md)
+        - [7.1.4.3 PDFGenerator](/职业生涯/文档演示/PDF/PDFGenerator.md)
+        - [7.1.4.4 PDFView](/职业生涯/文档演示/PDF/PDFView.md)
+      - 7.1.5 PowerPoint
+        - [7.1.5.1 PPT 模板推介](/职业生涯/文档演示/PowerPoint/PPT%20模板推介.md)
+        - [7.1.5.2 配色](/职业生涯/文档演示/PowerPoint/配色/README.md)
+          
+      - [7.1.6 办公套件](/职业生涯/文档演示/办公套件/README.md)
+        
+      - 7.1.7 工作台
+        - [7.1.7.1 Markdown 实战](/职业生涯/文档演示/工作台/Markdown%20实战.md)
+        - [7.1.7.2 工具箱](/职业生涯/文档演示/工作台/工具箱.md)
+        - [7.1.7.3 我的 App 工作台 不仅仅是技术](/职业生涯/文档演示/工作台/我的%20App%20工作台-不仅仅是技术.md)
+        - [7.1.7.4 阅读](/职业生涯/文档演示/工作台/阅读.md)
+    - [7.2 构建自己的笔记系统](/职业生涯/构建自己的笔记系统.md)
+    - [7.3 软技能](/职业生涯/软技能.md)
