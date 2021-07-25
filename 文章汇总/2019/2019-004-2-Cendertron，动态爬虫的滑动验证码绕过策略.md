@@ -2,7 +2,7 @@
 
 # Cendertron，动态爬虫的滑动验证码绕过策略
 
-在 [Cendertron](https://url.wx-coder.cn/HinPM) 安全动态爬虫系列中我们依次介绍了安全爬虫的设计、爬虫的集群搭建，本篇则是讨论有关于滑动验证码的绕过策略。
+在《[InfoSecurity-Series](https://github.com/wx-chevalier/InfoSecurity-Series?q=)》安全动态爬虫系列中我们依次介绍了安全爬虫的设计、爬虫的集群搭建，本篇则是讨论有关于滑动验证码的绕过策略。
 
 本文采用的策略与代码来自 [How to bypass “slider CAPTCHA” with JS and Puppeteer](https://medium.com/@filipvitas/how-to-bypass-slider-captcha-with-js-and-puppeteer-cd5e28105e3c) 一文。
 
@@ -20,7 +20,7 @@ const puppeteer = require("puppeteer");
 async function run() {
   const browser = await puppeteer.launch({
     headless: false,
-    defaultViewport: { width: 1366, height: 768 }
+    defaultViewport: { width: 1366, height: 768 },
   });
   const page = await browser.newPage();
 
@@ -40,7 +40,7 @@ async function run() {
   );
   await page.mouse.down();
   await page.mouse.move(handle.x + slider.width, handle.y + handle.height / 2, {
-    steps: 10
+    steps: 10,
   });
   await page.mouse.up();
 
@@ -62,13 +62,13 @@ const puppeteer = require("puppeteer");
 async function run() {
   const browser = await puppeteer.launch({
     headless: false,
-    defaultViewport: { width: 1366, height: 768 }
+    defaultViewport: { width: 1366, height: 768 },
   });
   const page = await browser.newPage();
 
   await page.evaluateOnNewDocument(() => {
     Object.defineProperty(navigator, "webdriver", {
-      get: () => false
+      get: () => false,
     });
   });
 
@@ -88,7 +88,7 @@ async function run() {
   );
   await page.mouse.down();
   await page.mouse.move(handle.x + slider.width, handle.y + handle.height / 2, {
-    steps: 50
+    steps: 50,
   });
   await page.mouse.up();
 
@@ -115,15 +115,15 @@ const Rembrandt = require("rembrandt");
 async function run() {
   const browser = await puppeteer.launch({
     headless: false,
-    defaultViewport: { width: 1366, height: 768 }
+    defaultViewport: { width: 1366, height: 768 },
   });
   const page = await browser.newPage();
 
   let originalImage = "";
 
   await page.setRequestInterception(true);
-  page.on("request", request => request.continue());
-  page.on("response", async response => {
+  page.on("request", (request) => request.continue());
+  page.on("response", async (response) => {
     if (response.request().resourceType() === "image")
       originalImage = await response.buffer().catch(() => {});
   });
@@ -139,7 +139,7 @@ async function run() {
   let currentPosition = 0;
   let bestSlider = {
     position: 0,
-    difference: 100
+    difference: 100,
   };
 
   await page.mouse.move(
@@ -160,7 +160,7 @@ async function run() {
     const rembrandt = new Rembrandt({
       imageA: originalImage,
       imageB: sliderImage,
-      thresholdType: Rembrandt.THRESHOLD_PERCENT
+      thresholdType: Rembrandt.THRESHOLD_PERCENT,
     });
 
     let result = await rembrandt.compare();
@@ -220,11 +220,8 @@ export interface SpiderOption {
 | [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) | [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) | [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) | [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) |
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://github.com/wx-chevalier/JavaScript-Series) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
 | --------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
 
-
 | [软件工程、数据结构与算法、设计模式、软件架构](https://ng-tech.icu/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ng-tech.icu/Backend-Series/#/) | [分布式基础架构](https://ng-tech.icu/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://ng-tech.icu/AI-Series/#/) | [产品设计与用户体验](https://ng-tech.icu/Product-Series/#/) |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
-

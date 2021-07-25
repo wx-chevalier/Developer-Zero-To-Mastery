@@ -2,7 +2,7 @@
 
 # Cendertron，安全爬虫的分布式与稳定性优化之路
 
-[Cendertron](https://url.wx-coder.cn/HinPM) 是基于 Puppeteer 的 Web 2.0 动态爬虫与敏感信息泄露检测工具，其为 [Chaos-Scanner](https://github.com/wx-chevalier/Chaos-Scanner) 后续的基础扫描与 POC 扫描提供的扫描的 URL 目标。我们[前文](https://github.com/wx-chevalier/Chaos-Scanner/tree/master/cendertron)介绍了 Cendertron 的基础使用，这里我们针对实际扫描场景下的爬虫参数设计与集群架构进行简要描述。不得不说，再优雅的设计也需要经过大量的数据实践与经验沉淀，与前一个版本的 Cendertron 相比，更多的是来自于细节的适配。
+[Cendertron](https://github.com/wx-chevalier/cendertron)是基于 Puppeteer 的 Web 2.0 动态爬虫与敏感信息泄露检测工具，其为 [Chaos-Scanner](https://github.com/wx-chevalier/Chaos-Scanner) 后续的基础扫描与 POC 扫描提供的扫描的 URL 目标。我们[前文](https://github.com/wx-chevalier/Chaos-Scanner/tree/master/cendertron)介绍了 Cendertron 的基础使用，这里我们针对实际扫描场景下的爬虫参数设计与集群架构进行简要描述。不得不说，再优雅的设计也需要经过大量的数据实践与经验沉淀，与前一个版本的 Cendertron 相比，更多的是来自于细节的适配。
 
 # 基于 Docker Swarm 的弹性化集群部署
 
@@ -189,7 +189,7 @@ export interface ScheduleOption {
 }
 
 export const defaultScheduleOption: ScheduleOption = {
-  maxConcurrentCrawler: 1
+  maxConcurrentCrawler: 1,
 };
 
 export const defaultCrawlerOption: CrawlerOption = {
@@ -215,7 +215,7 @@ export const defaultCrawlerOption: CrawlerOption = {
   // 是否进行敏感文件扫描
   useWeakfile: false,
   // 是否使用模拟操作
-  useClickMonkey: false
+  useClickMonkey: false,
 };
 
 export const defaultPuppeteerPoolConfig = {
@@ -229,7 +229,7 @@ export const defaultPuppeteerPoolConfig = {
   // function to validate an instance prior to use; see https://github.com/coopernurse/node-pool#createpool
   validator: () => Promise.resolve(true), // defaults to always resolving true
   // validate resource before borrowing; required for `maxUses and `validator`
-  testOnBorrow: true // default
+  testOnBorrow: true, // default
   // For all opts, see opts at https://github.com/coopernurse/node-pool#createpool
 };
 ```
@@ -243,11 +243,8 @@ export const defaultPuppeteerPoolConfig = {
 | [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) | [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) | [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) | [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) |
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://github.com/wx-chevalier/JavaScript-Series) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
 | --------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
 
-
 | [软件工程、数据结构与算法、设计模式、软件架构](https://ng-tech.icu/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ng-tech.icu/Backend-Series/#/) | [分布式基础架构](https://ng-tech.icu/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://ng-tech.icu/AI-Series/#/) | [产品设计与用户体验](https://ng-tech.icu/Product-Series/#/) |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
-
