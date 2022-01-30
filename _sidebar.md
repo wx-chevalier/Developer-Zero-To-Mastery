@@ -80,31 +80,34 @@
     - [5.5 思维模型](/编程之道/思维模型.md)
     - [5.6 道、法、术、器](/编程之道/道、法、术、器.md)
   - [6 职业生涯](/职业生涯/README.md)
-    - [6.1 文档演示](/职业生涯/文档演示/README.md)
-      - 6.1.1 LaTeX
-        - [6.1.1.1 LaTex](/职业生涯/文档演示/LaTeX/LaTex.md)
-      - 6.1.2 Markdown
-        - [6.1.2.1 Gitbook](/职业生涯/文档演示/Markdown/Gitbook.md)
-        - [6.1.2.2 MarkDown](/职业生涯/文档演示/Markdown/MarkDown.md)
-        - [6.1.2.3 StyleGuide](/职业生涯/文档演示/Markdown/StyleGuide.md)
-      - 6.1.3 MicroSoft
-        - [6.1.3.1 DocGenerator](/职业生涯/文档演示/MicroSoft/DocGenerator.md)
-      - 6.1.4 PDF
-        - [6.1.4.1 PDFConverter](/职业生涯/文档演示/PDF/PDFConverter.md)
-        - [6.1.4.2 PDFExtractor](/职业生涯/文档演示/PDF/PDFExtractor.md)
-        - [6.1.4.3 PDFGenerator](/职业生涯/文档演示/PDF/PDFGenerator.md)
-        - [6.1.4.4 PDFView](/职业生涯/文档演示/PDF/PDFView.md)
-      - 6.1.5 PowerPoint
-        - [6.1.5.1 PPT 模板推介](/职业生涯/文档演示/PowerPoint/PPT%20模板推介.md)
-        - [6.1.5.2 配色](/职业生涯/文档演示/PowerPoint/配色/README.md)
+    - 6.1 产品思维
+      - [6.1.1 技术人员的一点产品思维思考](/职业生涯/产品思维/2022-技术人员的一点产品思维思考.md)
+    - [6.2 团队组织](/职业生涯/团队组织/README.md)
+      
+    - [6.3 文档演示](/职业生涯/文档演示/README.md)
+      - 6.3.1 LaTeX
+        - [6.3.1.1 LaTex](/职业生涯/文档演示/LaTeX/LaTex.md)
+      - 6.3.2 Markdown
+        - [6.3.2.1 Gitbook](/职业生涯/文档演示/Markdown/Gitbook.md)
+        - [6.3.2.2 MarkDown](/职业生涯/文档演示/Markdown/MarkDown.md)
+        - [6.3.2.3 StyleGuide](/职业生涯/文档演示/Markdown/StyleGuide.md)
+      - 6.3.3 MicroSoft
+        - [6.3.3.1 DocGenerator](/职业生涯/文档演示/MicroSoft/DocGenerator.md)
+      - 6.3.4 PDF
+        - [6.3.4.1 PDFConverter](/职业生涯/文档演示/PDF/PDFConverter.md)
+        - [6.3.4.2 PDFExtractor](/职业生涯/文档演示/PDF/PDFExtractor.md)
+        - [6.3.4.3 PDFGenerator](/职业生涯/文档演示/PDF/PDFGenerator.md)
+        - [6.3.4.4 PDFView](/职业生涯/文档演示/PDF/PDFView.md)
+      - 6.3.5 PowerPoint
+        - [6.3.5.1 PPT 模板推介](/职业生涯/文档演示/PowerPoint/PPT%20模板推介.md)
+        - [6.3.5.2 配色](/职业生涯/文档演示/PowerPoint/配色/README.md)
           
-      - [6.1.6 办公套件](/职业生涯/文档演示/办公套件/README.md)
+      - [6.3.6 办公套件](/职业生涯/文档演示/办公套件/README.md)
         
-      - 6.1.7 工作台
-        - [6.1.7.1 Markdown 实战](/职业生涯/文档演示/工作台/Markdown%20实战.md)
-        - [6.1.7.2 工具箱](/职业生涯/文档演示/工作台/工具箱.md)
-        - [6.1.7.3 我的 App 工作台 不仅仅是技术](/职业生涯/文档演示/工作台/我的%20App%20工作台-不仅仅是技术.md)
-        - [6.1.7.4 阅读](/职业生涯/文档演示/工作台/阅读.md)
-    - [6.2 软技能](/职业生涯/软技能.md)
-    - 6.3 阅读写作
-      - [6.3.1 构建自己的笔记系统](/职业生涯/阅读写作/构建自己的笔记系统.md)
+      - 6.3.7 工作台
+        - [6.3.7.1 Markdown 实战](/职业生涯/文档演示/工作台/Markdown%20实战.md)
+        - [6.3.7.2 工具箱](/职业生涯/文档演示/工作台/工具箱.md)
+        - [6.3.7.3 我的 App 工作台 不仅仅是技术](/职业生涯/文档演示/工作台/我的%20App%20工作台-不仅仅是技术.md)
+        - [6.3.7.4 阅读](/职业生涯/文档演示/工作台/阅读.md)
+    - 6.4 阅读写作
+      - [6.4.1 构建自己的笔记系统](/职业生涯/阅读写作/构建自己的笔记系统.md)
