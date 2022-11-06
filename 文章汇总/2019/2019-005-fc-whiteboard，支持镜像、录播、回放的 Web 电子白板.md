@@ -29,7 +29,7 @@ eventHub.on("sync", (changeEv: SyncEvent) => {
 const images = [
   "https://upload-images.jianshu.io/upload_images/1647496-6bede989c09af527.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
   "http://upload-images.jianshu.io/upload_images/1647496-d281090a702045e5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
-  "http://upload-images.jianshu.io/upload_images/1647496-611a416be07d7ca3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+  "http://upload-images.jianshu.io/upload_images/1647496-611a416be07d7ca3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
 ];
 
 // 初始化演讲者端
@@ -39,7 +39,7 @@ const whiteboard = new Whiteboard(
     sources: images,
     eventHub,
     // Enable this option to disable incremental sync, just use full sync
-    onlyEmitSnap: false
+    onlyEmitSnap: false,
   }
 );
 
@@ -50,7 +50,7 @@ const mirrorWhiteboard = new MirrorWhiteboard(
   document.getElementById("root-mirror") as HTMLDivElement,
   {
     sources: images,
-    eventHub
+    eventHub,
   }
 );
 
@@ -65,7 +65,7 @@ WebSocket 天然就是以事件驱动的消息通信，fc-whiteboard 内部对�
 const wsEventHub = new EventEmitter();
 
 if (isPresenter) {
-  wsEventHub.on("sync", data => {
+  wsEventHub.on("sync", (data) => {
     if (data.event === "finish") {
       // 单独处理结束事件
       if (typeof callback === "function") {
@@ -79,15 +79,15 @@ if (isPresenter) {
       msg: {
         type: "cmd",
         action: "whiteboard/sync",
-        message: JSON.stringify(data)
-      }
+        message: JSON.stringify(data),
+      },
     };
     socket.sendMessage(msg);
   });
 } else {
   socket.onMessage(([data]) => {
     const {
-      msg: { type, message }
+      msg: { type, message },
     } = data;
 
     if (type === "whiteboard/sync") {
@@ -107,9 +107,9 @@ import * as events from "./events.json";
 
 let hasSend = false;
 
-const whiteboard = new ReplayWhiteboard(document.getElementById(
-  "root"
-) as HTMLDivElement);
+const whiteboard = new ReplayWhiteboard(
+  document.getElementById("root") as HTMLDivElement
+);
 
 whiteboard.setContext(events[0].timestamp, async (t1, t2) => {
   if (!hasSend) {
@@ -170,7 +170,7 @@ Drawboard 也可以单独使用作为画板，整体可以被导出为图片：
 import { Drawboard } from "fc-whiteboard/src";
 
 const d = new Drawboard({
-  imgEle: document.getElementById("root") as HTMLImageElement
+  imgEle: document.getElementById("root") as HTMLImageElement,
 });
 
 d.open();
@@ -358,7 +358,7 @@ this.onChange({
   target: "marker",
   id: this.id,
   event: "moveMarker",
-  marker: { dx, dy }
+  marker: { dx, dy },
 });
 ```
 
@@ -373,15 +373,12 @@ this.onChange({
 | [Awesome Lists](https://ngte-al.gitbook.io/i/) | [Awesome CheatSheets](https://ngte-ac.gitbook.io/i/) | [Awesome Interviews](https://github.com/wx-chevalier/Awesome-Interviews) | [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-RoadMaps) | [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) | [Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books) |
 | ---------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
-
 ---
 
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://github.com/wx-chevalier/JavaScript-Series) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
 | --------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
 
-
 ---
 
-| [软件工程、数据结构与算法、设计模式、软件架构](https://ng-tech.icu/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ng-tech.icu/Backend-Series/#/) | [分布式基础架构](https://ng-tech.icu/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://ng-tech.icu/AI-Series/#/) | [产品设计与用户体验](https://ng-tech.icu/Product-Series/#/) |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
-
+| [软件工程、数据结构与算法、设计模式、软件架构](https://wx-chevalier.github.io/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://wx-chevalier.github.io/Backend-Series/#/) | [分布式基础架构](https://wx-chevalier.github.io/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://wx-chevalier.github.io/AI-Series/#/) | [产品设计与用户体验](https://wx-chevalier.github.io/Product-Series/#/) |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
