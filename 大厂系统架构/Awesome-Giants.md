@@ -16,7 +16,7 @@
 
 - [2017-老司机独家揭秘 Google 的软件工程实践](https://parg.co/SBP): 老司机 Fergus Henderson 已在 Google 工作了 10 年以上，拥有超过 15 年的商业类软件的行业经验。本文梳理并总结了 Google 软件开发中的关键工程实践，并揭示了其成功之道，值得业界各路人马参考借鉴。
 
-- [xg2xg #Project#](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+- [xg2xg ![code](https://martrix-usa.oss-accelerate.aliyuncs.com/logo/code.svg)](https://github.com/jhuangtw-dev/xg2xg): by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 
 - [2019-Google Engineering Practices Documentation](https://github.com/google/eng-practices): Google has many generalized engineering practices that cover all languages and all projects. These documents represent our collective experience of various best practices that we have developed over time. It is possible that open source projects or other organizations would benefit from this knowledge, so we work to make it available publicly when possible.
 
@@ -102,7 +102,7 @@
 
 - [2018-Stream & Go: News Feeds for Over 300 Million End Users](https://parg.co/Uku): Stream is an API that enables developers to build news feeds and activity streams (try the API). We are used by over 500 companies and power the feeds of more than 300 million end users.
 
-- [2017-Distributed Systems-3rd edition #Book#](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
+- [2017-Distributed Systems-3rd edition 📚](https://parg.co/UeG): 1. Introduction 2. Architectures 3. Processes 4. Communication 5. Naming 6. Coordination 7. Replication 8. Fault tolerance 9. Security
 
 # 创业公司的基础架构
 
