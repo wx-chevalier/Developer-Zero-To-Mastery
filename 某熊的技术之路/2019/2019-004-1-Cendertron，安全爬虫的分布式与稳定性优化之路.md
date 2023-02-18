@@ -6,7 +6,7 @@
 
 # 基于 Docker Swarm 的弹性化集群部署
 
-在 [Docker 实战](https://wx-chevalier.github.io/DistributedSystem-Series/#/xu-ni-hua-yu-bian-pai/docker)系列中，我们详细介绍了 Docker 及 Docker Swarm 的概念与配置、这里我们也是使用 Docker 提供的 Route Mesh 机制，将多个节点以相同端口暴露出去，这也就要求我们将各个爬虫节点的部分状态集中化存储，这里以 Redis 为中心化存储。
+在 [Docker 实战](https://ng-tech.icu/books/DistributedSystem-Series/#/xu-ni-hua-yu-bian-pai/docker)系列中，我们详细介绍了 Docker 及 Docker Swarm 的概念与配置、这里我们也是使用 Docker 提供的 Route Mesh 机制，将多个节点以相同端口暴露出去，这也就要求我们将各个爬虫节点的部分状态集中化存储，这里以 Redis 为中心化存储。
 
 实际上，Chaos Scanner 中的 POC 节点与爬虫节点都遵循该调度方式，不过 POC 扫描节点主要是依赖于 RabbitMQ 进行任务分发：
 
@@ -83,7 +83,7 @@ POST /scrape
 
 # 面向失败的设计与监控优先
 
-在[测试与高可用保障](https://wx-chevalier.github.io/Backend-Series/#/?q=测试与高可用保障)系列文章中，我们特地讨论过在高可用架构设计中的面向失败的设计原则：
+在[测试与高可用保障](https://ng-tech.icu/books/Backend-Series/#/?q=测试与高可用保障)系列文章中，我们特地讨论过在高可用架构设计中的面向失败的设计原则：
 
 ![](https://i.postimg.cc/zDK3YzGQ/image.png)
 
@@ -246,5 +246,5 @@ export const defaultPuppeteerPoolConfig = {
 | [编程语言理论](https://ngte-pl.gitbook.io/i/) | [Java 实战](https://ngte-pl.gitbook.io/i/go/go) | [JavaScript 实战](https://github.com/wx-chevalier/JavaScript-Series) | [Go 实战](https://ngte-pl.gitbook.io/i/go/go) | [Python 实战](https://ngte-pl.gitbook.io/i/python/python) | [Rust 实战](https://ngte-pl.gitbook.io/i/rust/rust) |
 | --------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
 
-| [软件工程、数据结构与算法、设计模式、软件架构](https://wx-chevalier.github.io/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://wx-chevalier.github.io/Backend-Series/#/) | [分布式基础架构](https://wx-chevalier.github.io/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://wx-chevalier.github.io/AI-Series/#/) | [产品设计与用户体验](https://wx-chevalier.github.io/Product-Series/#/) |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [软件工程、数据结构与算法、设计模式、软件架构](https://ng-tech.icu/books/SoftwareEngineering-Series/) | [现代 Web 全栈开发与工程架构](https://ngte-web.gitbook.io/i/) | [大前端混合开发与数据可视化](https://ngte-fe.gitbook.io/i/) | [服务端开发实践与工程架构](https://ng-tech.icu/books/Backend-Series/#/) | [分布式基础架构](https://ng-tech.icu/books/DistributedSystem-Series/#/) | [数据科学，人工智能与深度学习](https://ng-tech.icu/books/AI-Series/#/) | [产品设计与用户体验](https://ng-tech.icu/books/Product-Series/#/) |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
