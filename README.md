@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wx-chevalier/Developer-Zero-To-Mastery">
-    <img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
