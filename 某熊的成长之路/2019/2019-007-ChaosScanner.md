@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/vHMJtwd4/image.png)
+![](https://website/vHMJtwd4/image.png)
 
 # Chaos Scanner，从零构建的多策略（爬虫扫描 & POC 扫描）、模块化、分布式安全扫描器
 
@@ -8,11 +8,11 @@
 
 使用 ctop 查看容器部署状态：
 
-![](https://i.postimg.cc/SK2k9vCV/image.png)
+![](https://website/SK2k9vCV/image.png)
 
 使用 htop 查看当前系统的资源使用情况：
 
-![](https://i.postimg.cc/9QNXMNLX/image.png)
+![](https://website/9QNXMNLX/image.png)
 
 可以发现，Chaos Scanner 是 CPU 密集型程序，后面我们会在并发调度上采取进一步的优化措施。
 
@@ -20,7 +20,7 @@
 
 ## POC 与组件基础框架
 
-![](https://i.postimg.cc/W37592Pn/image.png)
+![](https://website/W37592Pn/image.png)
 
 ## 资产的全生命周期管理
 
@@ -30,6 +30,6 @@
 
 ## 数据沙盘
 
-![](https://i.postimg.cc/y8JrV4F1/image.png)
+![](https://website/y8JrV4F1/image.png)
 
 # 架构设计

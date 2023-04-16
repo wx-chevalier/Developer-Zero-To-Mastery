@@ -1,10 +1,10 @@
-![](https://i.postimg.cc/dV2QcC20/image.png)
+![](https://website/dV2QcC20/image.png)
 
 # fc-whiteboard，支持镜像、录播、回放的 Web 电子白板
 
 在很多培训、协作、在线演讲的场景下，我们需要有电子白板的功能，能够方便地在演讲者与听众之间共享屏幕、绘制等信息。[fc-whiteboard https://parg.co/NiK](https://github.com/wx-chevalier/fractal-components/tree/master/fc-whiteboard) 是 Web 在线白板组件库，支持实时直播（一对多）与回放两种模式，其绘制版也能够独立使用。fc-whiteboard 内置了 EventHub，只需要像 [Mushi-Chat](https://github.com/wx-chevalier/Mushi-Chat) 这样提供简单的 WebSocket 服务端，即可快速构建实时在线共享电子白板。
 
-![](https://i.postimg.cc/pXNpNRwq/image.png)
+![](https://website/pXNpNRwq/image.png)
 
 # Usage | 使用
 
@@ -12,7 +12,7 @@
 
 直播模式的效果如下图所示：
 
-![](https://i.postimg.cc/65t7MNBQ/Kapture-2019-04-17-at-13-47-52.gif)
+![](https://website/65t7MNBQ/Kapture-2019-04-17-at-13-47-52.gif)
 
 示例代码请参考 [Code Sandbox](https://codesandbox.io/s/3q1z35q53p?fontsize=14)，或者直接查看 [Demo](https://codesandbox.io/s/3q1z35q53p?fontsize=14);
 
@@ -180,7 +180,7 @@ d.open();
 
 fc-whiteboard 的内部组件级别，依次是 WhiteBoard, WhitePage, Drawboard 与 Marker，本节即介绍内部设计与实现。
 
-![](https://i.postimg.cc/NjwLZ9Gf/image.png)
+![](https://website/NjwLZ9Gf/image.png)
 
 ## Draw System | 绘制系统
 
