@@ -1,4 +1,4 @@
-> 本文很多是对于 [Colab 官方 Welcome](https://colab.research.google.com/notebooks) 系列的总结，更多人工智能与深度学习相关知识参考[人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Series](https://github.com/wx-chevalier/AIDL-Series) 系列文章。
+> 本文很多是对于 [Colab 官方 Welcome](https://colab.research.google.com/notebooks) 系列的总结，更多人工智能与深度学习相关知识参考[人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Notes](https://github.com/wx-chevalier/AIDL-Notes) 系列文章。
 
 # Colaboratory
 
@@ -352,7 +352,7 @@ print(text_and_dropdown)
 
 # 延伸阅读
 
-- [人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Series](https://github.com/wx-chevalier/AIDL-Series)
+- [人工智能与深度学习实战 https://github.com/wx-chevalier/AIDL-Notes](https://github.com/wx-chevalier/AIDL-Notes)
 
 - [AIDL-Workbench | 代码实践 https://github.com/wx-chevalier/AIDL-Workbench](https://github.com/wx-chevalier/AIDL-Workbench)
 
