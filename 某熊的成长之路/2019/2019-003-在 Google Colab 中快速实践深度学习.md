@@ -295,7 +295,7 @@ for i in range(20):
   time.sleep(0.5)
 ```
 
-![](https://i.postimg.cc/JzFGTQdc/image.png)
+![](https://website/JzFGTQdc/image.png)
 
 TabBar 提供了页签化的布局：
 
@@ -330,7 +330,7 @@ for p, _ in zip(positions, widgets.Grid(1, 4)):
   create_tab(p)
 ```
 
-![](https://i.postimg.cc/xTb7JjVf/image.png)
+![](https://website/xTb7JjVf/image.png)
 
 ## 表单
 
@@ -348,7 +348,7 @@ print(dropdown)
 print(text_and_dropdown)
 ```
 
-![](https://i.postimg.cc/4x6SP83j/image.png)
+![](https://website/4x6SP83j/image.png)
 
 # 延伸阅读
 

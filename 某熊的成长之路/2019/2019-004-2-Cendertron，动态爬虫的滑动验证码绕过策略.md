@@ -10,7 +10,7 @@
 
 验证是常见的反爬虫策略之一，在现在的很多站点中我们会引入滑动验证的方式，来校验访问者的真实性。譬如下面著名的 jQuery 滑动插件：
 
-![](https://i.postimg.cc/wx4830CM/image.png)
+![](https://website/wx4830CM/image.png)
 
 在模拟登陆时，我们往往需要绕过这样的滑动验证，而基于 Puppeteer 的动态爬虫也给予了便利；往往我们需要进行以下步骤：移动到滑条中间，按下鼠标，移动鼠标，释放鼠标。
 
@@ -102,11 +102,11 @@ async function run() {
 run();
 ```
 
-![](https://i.postimg.cc/LX4w81vj/image.png)
+![](https://website/LX4w81vj/image.png)
 
 另一种常见的滑块则是如下这种拼图性质的滑块：
 
-![](https://i.postimg.cc/3NdqgQsR/image.png)
+![](https://website/3NdqgQsR/image.png)
 
 ```js
 const puppeteer = require("puppeteer");

@@ -10,11 +10,11 @@
 
 实际上，Chaos Scanner 中的 POC 节点与爬虫节点都遵循该调度方式，不过 POC 扫描节点主要是依赖于 RabbitMQ 进行任务分发：
 
-![](https://i.postimg.cc/Cxp9YMmS/image.png)
+![](https://website/Cxp9YMmS/image.png)
 
 整体爬虫在扫描调度中的逻辑流如下：
 
-![](https://i.postimg.cc/Z5P2qkM3/image.png)
+![](https://website/Z5P2qkM3/image.png)
 
 这里我们可以基于基础镜像编辑 Compose 文件，即 docker-compose.yml:
 
@@ -75,23 +75,23 @@ POST /scrape
 
 在集群运行之后，通过 `ctop` 命令我们能看到单机上启动的容器状态：
 
-![](https://i.postimg.cc/SK2k9vCV/image.png)
+![](https://website/SK2k9vCV/image.png)
 
 使用 `htop` 命令可以发现整个系统的 CPU 调用非常饱满：
 
-![](https://i.postimg.cc/9QNXMNLX/image.png)
+![](https://website/9QNXMNLX/image.png)
 
 # 面向失败的设计与监控优先
 
 在[测试与高可用保障](https://ng-tech.icu/books/Backend-Series/#/?q=测试与高可用保障)系列文章中，我们特地讨论过在高可用架构设计中的面向失败的设计原则：
 
-![](https://i.postimg.cc/zDK3YzGQ/image.png)
+![](https://website/zDK3YzGQ/image.png)
 
 这些原则中极重要的一条就是监控覆盖原则，我们在设计阶段，就假设线上系统会出问题，从而在管控系统添加相应措施来防止一旦系统出现某种情况，可以及时补救。而在爬虫这样业务场景多样性的情况下，我们更是需要能够及时审视系统的现状，以随时了解当前策略、参数的不恰当的地方。
 
 在集群背景下，爬虫的状态信息是存放在了 Redis 中，每个爬虫会定期上报。上报的爬虫信息会自动 Expire，如果查看系统当前状态时，发现某个节点的状态信息不存在，即表示该爬虫在本事件窗口内已经假死：
 
-![](https://i.postimg.cc/ydSV9b4s/image.png)
+![](https://website/ydSV9b4s/image.png)
 
 我们依然通过 `GET /_ah/health` 端口来查看整个系统的状态，如下所示：
 
