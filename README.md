@@ -38,13 +38,13 @@
 
 您可以通过以下导航来在 Gitbook 中阅读笔者的系列文章，涵盖了技术资料归纳、编程语言与理论、Web 与大前端、服务端开发与基础架构、云计算与大数据、数据科学与人工智能、产品设计等多个领域：
 
-- 知识体系：[《Awesome Lists | CS 资料集锦](https://ng-tech.icu/books/Awesome-Lists)》、[《Awesome CheatSheets | 速学速查手册](https://ng-tech.icu/books/Awesome-CheatSheets)》、[《Awesome Interviews | 求职面试必备](https://ng-tech.icu/books/Awesome-Interviews)》、[《Awesome RoadMaps | 程序员进阶指南](https://ng-tech.icu/books/Awesome-RoadMaps)》、[《Awesome MindMaps | 知识脉络思维脑图](https://ng-tech.icu/books/Awesome-MindMaps)》、[《Awesome-CS-Books | 开源书籍（.pdf）汇总](https://github.com/wx-chevalier/Awesome-CS-Books)》
+- 知识体系：[《Awesome Lists | CS 资料集锦》](https://ng-tech.icu/books/Awesome-Lists)、[《Awesome CheatSheets | 速学速查手册》](https://ng-tech.icu/books/Awesome-CheatSheets)、[《Awesome Interviews | 求职面试必备》](https://ng-tech.icu/books/Awesome-Interviews)、[《Awesome RoadMaps | 程序员进阶指南](https://ng-tech.icu/books/Awesome-RoadMaps)》、[《Awesome MindMaps | 知识脉络思维脑图》](https://ng-tech.icu/books/Awesome-MindMaps)、[《Awesome-CS-Books | 开源书籍（.pdf）汇总》](https://github.com/wx-chevalier/Awesome-CS-Books)
 
-- 编程语言：[《编程语言理论](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)》、[《Java 实战](https://ng-tech.icu/books/Java-Notes)》、[《JavaScript 实战](https://ng-tech.icu/books/JavaScript-Notes)》、[《Go 实战](https://ng-tech.icu/books/Go-Notes)》、[《Python 实战](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)》、[《Rust 实战](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)》
+- 编程语言：[《编程语言理论](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)》、[《Java 实战](https://ng-tech.icu/books/Java-Notes)》、[《JavaScript 实战](https://ng-tech.icu/books/JavaScript-Notes)》、[《Go 实战》](https://ng-tech.icu/books/Go-Notes)、[《Python 实战》](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)、[《Rust 实战》](https://ng-tech.icu/books/ProgrammingLanguage-Notes/#/)
 
 - 软件工程、模式与架构：[《编程范式与设计模式](https://ng-tech.icu/books/DesignPattern-Notes/)》、[《数据结构与算法](https://ng-tech.icu/books/AlgoDS-Notes/)》、[《软件架构设计](https://ng-tech.icu/books/SoftwareArchitecture-Notes/)》、[《整洁与重构](https://ng-tech.icu/books/SoftwareEngineering-Notes/)》、[《协作与项目管理](https://ng-tech.icu/books/SoftwareEngineering-Notes/)》
 
-* Web 与大前端：[《现代 Web 全栈开发与工程架构](https://ng-tech.icu/books/Web-Notes/)》、[《数据可视化](https://ng-tech.icu/books/Frontend-Notes/)》、[《iOS](https://ng-tech.icu/books/Frontend-Notes/)》、[《Android](https://ng-tech.icu/books/Frontend-Notes/)》、[《混合开发与跨端应用](https://ng-tech.icu/books/Web-Notes/)》、[《Node.js 全栈开发](https://ng-tech.icu/books/Node-Notes/)》
+* Web 与大前端：[《现代 Web 全栈开发与工程架构》](https://ng-tech.icu/books/Web-Notes/)、[《数据可视化](https://ng-tech.icu/books/Frontend-Notes/)》、[《iOS](https://ng-tech.icu/books/Frontend-Notes/)》、[《Android](https://ng-tech.icu/books/Frontend-Notes/)》、[《混合开发与跨端应用](https://ng-tech.icu/books/Web-Notes/)》、[《Node.js 全栈开发](https://ng-tech.icu/books/Node-Notes/)》
 
 * 服务端开发实践与工程架构：[《服务端功能域](https://ng-tech.icu/books/Backend-Notes/#/)》、[《微服务与云原生](https://ng-tech.icu/books/MicroService-Notes/#/)》、[《测试与高可用保障](https://ng-tech.icu/books/Backend-Notes/#/)》、[《DevOps](https://ng-tech.icu/books/Backend-Notes/#/)》、[《Spring](https://ng-tech.icu/books/Spring-Notes/#/)》、[《信息安全与渗透测试](https://ng-tech.icu/books/Backend-Notes/#/)》
 
@@ -57,6 +57,31 @@
 * 行业应用：[《行业迷思](https://github.com/wx-chevalier/Business-Notes)》、[《功能域](https://github.com/wx-chevalier/Business-Notes)》、[《电子商务](https://github.com/wx-chevalier/Business-Notes)》、[《智能制造](https://github.com/wx-chevalier/Business-Notes)》
 
 此外，你还可前往 [xCompass](https://ng-tech.icu/books/) 交互式地检索、查找需要的文章/链接/书籍/课程；或者也可以关注微信公众号：**某熊的技术之路**以获取最新资讯。
+
+<table
+  border="2"
+  bordercolor="black"
+  width="300"
+  cellspacing="0"
+  cellpadding="5"
+>
+  <!-- 知识体系 -->
+  <tr>
+    <td rowspan="2">知识体系</td>
+    <td>
+      <a href="https://ng-tech.icu/books/Awesome-Lists" rel="nofollow"
+        >《Awesome Lists | CS 资料集锦</a
+      >
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ng-tech.icu/books/Awesome-Lists" rel="nofollow"
+        >《Awesome Lists | CS 资料集锦</a
+      >
+    </td>
+  </tr>
+</table>
 
 # About
 
