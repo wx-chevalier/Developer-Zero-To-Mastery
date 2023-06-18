@@ -46,7 +46,7 @@
 
 * Web 与大前端：[《现代 Web 全栈开发与工程架构》](https://ng-tech.icu/books/Web-Notes/)、[《数据可视化](https://ng-tech.icu/books/Frontend-Notes/)、[《iOS》](https://ng-tech.icu/books/Frontend-Notes/)、[《Android》](https://ng-tech.icu/books/Frontend-Notes/)、[《混合开发与跨端应用》](https://ng-tech.icu/books/Web-Notes/)、[《Node.js 全栈开发》](https://ng-tech.icu/books/Node-Notes/)
 
-* 服务端开发实践与工程架构：[《服务端功能域》](https://ng-tech.icu/books/Backend-Notes/#/)、[《微服务与云原生](https://ng-tech.icu/books/MicroService-Notes/#/)、[《测试与高可用保障》](https://ng-tech.icu/books/Backend-Notes/#/)、[《DevOps》](https://ng-tech.icu/books/Backend-Notes/#/)、[《Spring》](https://ng-tech.icu/books/Spring-Notes/#/)、[《信息安全与渗透测试》](https://ng-tech.icu/books/Backend-Notes/#/)
+* 服务端开发实践与工程架构：[《服务端功能域》](https://ng-tech.icu/books/Backend-Notes/#/)、[《微服务与云原生》](https://ng-tech.icu/books/MicroService-Notes/#/)、[《测试与高可用保障》](https://ng-tech.icu/books/Backend-Notes/#/)、[《DevOps》](https://ng-tech.icu/books/Backend-Notes/#/)、[《Spring》](https://ng-tech.icu/books/Spring-Notes/#/)、[《信息安全与渗透测试》](https://ng-tech.icu/books/Backend-Notes/#/)
 
 * 分布式基础架构：[《分布式系统》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《分布式计算》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《数据库》](https://github.com/wx-chevalier/Database-Notes)、[《网络》](https://ng-tech.icu/books/DistributedSystem-Notes/#/)、[《虚拟化与云计算》](https://github.com/wx-chevalier/Cloud-Notes)、[《Linux 与操作系统》](https://github.com/wx-chevalier/Linux-Notes)
 
