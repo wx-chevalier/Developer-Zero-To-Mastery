@@ -22,17 +22,17 @@
 
 - 2017
 
-  - [2017-我的技术之路](./2017/2017-我的技术之路.md)
-  - [2017-Web 进阶路线图](https://parg.co/U4T)
-  - [2017-我的知识图谱与技术体系](./2017/2017-我的知识图谱与技术体系.md)
+  - [2017~我的技术之路](./2017/2017-我的技术之路.md)
+  - [2017~Web 进阶路线图](https://parg.co/U4T)
+  - [2017~我的知识图谱与技术体系](./2017/2017-我的知识图谱与技术体系.md)
   - [The-Top-Rising-JavaScript-Trends-To-Watch-In-2017](./2017/The-Top-Rising-JavaScript-Trends-To-Watch-In-2017.md)
   - [Top JavaScript Frameworks & Topics to Learn in 2017](https://parg.co/U42)
   - [程序员的自我修养：我写代码这三年](./2017/程序员的自我修养：我写代码这三年.md)
 
 - 2016
 
-  - [2016-我的技术之路与知识体系](./2016/2016-我的技术之路与知识体系.md)
-  - [2016-我的前端之路](./2016/2016-我的前端之路.md)
+  - [2016~我的技术之路与知识体系](./2016/2016-我的技术之路与知识体系.md)
+  - [2016~我的前端之路](./2016/2016-我的前端之路.md)
   - [How-It-Feels-To-Learn-JavaScript-In-2016](./2016/How-It-Feels-To-Learn-JavaScript-In-2016.md)
   - [The State of Front-End Tooling 2016 - Results](https://parg.co/U4z)
   - [怀着被抛弃的恐惧在奋斗中前行](./2016/怀着被抛弃的恐惧在奋斗中前行.md)
