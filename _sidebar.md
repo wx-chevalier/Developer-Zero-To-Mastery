@@ -109,12 +109,26 @@
           - [7.4.3.1.1 中文文案排版指北](/软技能/文档写作/文档排版/99~参考资料/2018-中文文案排版指北.md)
     - [7.5 科学上网](/软技能/科学上网/README.md)
       
-    - [7.6 英语学习 [6]](/软技能/英语学习/README.md)
-      - [7.6.1 Quotations](/软技能/英语学习/Quotations.md)
-      - [7.6.2 易读错单词](/软技能/英语学习/易读错单词.md)
-      - [7.6.3 约定翻译](/软技能/英语学习/约定翻译.md)
-      - [7.6.4 计算机常用单词](/软技能/英语学习/计算机常用单词.md)
-      - [7.6.5 词组句式](/软技能/英语学习/词组句式.md)
-      - [7.6.6 资料汇总](/软技能/英语学习/资料汇总.md)
+    - [7.6 英语学习 [7]](/软技能/英语学习/README.md)
+      - 7.6.1 99~参考资料 [1]
+        - 7.6.1.1 English Level Up Tips [6]
+          - [7.6.1.1.1 understanding](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/1-understanding.md)
+          - [7.6.1.1.2 vocabulary](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/2-vocabulary.md)
+          - [7.6.1.1.3 listening](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/3-listening.md)
+          - [7.6.1.1.4 reading](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/4-reading.md)
+          - [7.6.1.1.5 speaking](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/5-speaking.md)
+          - 7.6.1.1.6 word list [6]
+            - [7.6.1.1.6.1 Go](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/Go.md)
+            - [7.6.1.1.6.2 Java](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/Java.md)
+            - [7.6.1.1.6.3 JavaScript](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/JavaScript.md)
+            - [7.6.1.1.6.4 PHP](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/PHP.md)
+            - [7.6.1.1.6.5 Python](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/Python.md)
+            - [7.6.1.1.6.6 Swift](/软技能/英语学习/99~参考资料/English%20Level%20Up%20Tips/word-list/Swift.md)
+      - [7.6.2 Quotations](/软技能/英语学习/Quotations.md)
+      - [7.6.3 易读错单词](/软技能/英语学习/易读错单词.md)
+      - [7.6.4 约定翻译](/软技能/英语学习/约定翻译.md)
+      - [7.6.5 计算机常用单词](/软技能/英语学习/计算机常用单词.md)
+      - [7.6.6 词组句式](/软技能/英语学习/词组句式.md)
+      - [7.6.7 资料汇总](/软技能/英语学习/资料汇总.md)
     - 7.7 证书认证 [1]
       - [7.7.1 软考](/软技能/证书认证/软考.md)
