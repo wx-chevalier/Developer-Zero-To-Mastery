@@ -1,1 +1,85 @@
-.DS_Store
+*
+
+# 图片文件
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.svg
+!*.webp
+
+# 保留常见编程语言文件
+!.gitignore
+!.github
+!.gitignore
+!.gitattributes
+!.gitmodules
+!.nojekyll
+
+# 文本文件
+!*.txt
+!*.md
+!*.json
+!*.rst
+
+# 保留常见编程语言的源代码文件
+
+# Python
+!*.py
+
+# JavaScript / TypeScript
+!*.js
+!*.jsx
+!*.ts
+!*.tsx
+
+# HTML / CSS / SCSS
+!*.html
+!*.css
+!*.scss
+!*.sass
+!*.less
+!*.vue
+
+# JSON / YAML
+!*.json
+!*.yml
+!*.yaml
+
+# Markdown / Text
+!*.md
+!*.txt
+
+# Java
+!*.java
+!*.clj
+
+# C / C++
+!*.c
+!*.cpp
+!*.h
+
+# Go
+!*.go
+
+# PHP
+!*.php
+
+# Ruby
+!*.rb
+
+# Rust
+!*.rs
+
+# Swift
+!*.swift
+
+# Kotlin
+!*.kt
+!*.kts
+
+# Shell scripts
+!*.sh
+
+# Db
+!*.sql
