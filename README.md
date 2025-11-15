@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/wx-chevalier/Developer-Zero-To-Mastery">
-    <img src="https://assets.ng-tech.icu/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+    <img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/header.svg" alt="Logo" style="width: 100vw;height: 400px" />
   </a>
 
   <p align="center">
@@ -20,7 +20,7 @@
 
 # Nav | 导航
 
-<img src="https://assets.ng-tech.icu/item/20230304111036.png" style="width:100vw">
+<img src="https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230304111036.png" style="width:100vw">
 
 [某熊的技术之路指北 ☯ ](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)就是对笔者不同领域方面沉淀下的知识仓库的导航与索引，便于读者快速地寻找到自己需要的内容。路漫漫其修远兮，吾正上下而求索，也希望能给所有遇见过笔者痕迹的同学些许帮助，在浩瀚银河间能顺利达到一个又一个彼岸。Just Coder，Travel in Galaxy，让我们一起前行。
 
